@@ -1,0 +1,3182 @@
+/* Dystrybutor: mobile (360) + desktop (1366), 2 bloki – bez mapowania, przełączanie przez media */
+
+@media screen and (max-width: 767px) {
+  .page--dystrybutor { display: none !important; }
+/* screen - pedrollou95dystrybutoru95360px */
+
+.page--dystrybutor-mobile {
+  align-items: flex-start;
+  background-color: var(--cod-gray);
+  display: flex;
+  flex-direction: column;
+  min-width: 100.0vw;
+  position: relative;
+}
+
+.page--dystrybutor-mobile .menu_2 {
+  align-self: stretch;
+  height: 21.67vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--dystrybutor-mobile .frame-367 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 2.78vw;
+  justify-content: center;
+  padding: 5.56vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--dystrybutor-mobile .konsultacja {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 5.56vw;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.page--dystrybutor-mobile .frame-6483 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 27.78vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--dystrybutor-mobile .frame-6482 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 5.56vw;
+  position: relative;
+}
+
+.page--dystrybutor-mobile .frame-65 {
+  align-items: flex-end;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 2.78vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--dystrybutor-mobile .frame-6501 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 1.39vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--dystrybutor-mobile .frame {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 1.39vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--dystrybutor-mobile .program-partnerski {
+  align-self: stretch;
+  letter-spacing: -0.17vw;
+  line-height: 11.11vw;
+  position: relative;
+}
+
+.page--dystrybutor-mobile .frame-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 2.78vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--dystrybutor-mobile .dedykowana-platforma {
+  align-self: stretch;
+  letter-spacing: -0.08vw;
+  line-height: 6.39vw;
+  margin-top: -0.28vw;
+  position: relative;
+}
+
+.page--dystrybutor-mobile .zarejestruj-si {
+  letter-spacing: 0.04vw;
+  line-height: normal;
+  margin-top: -0.83vw;
+  position: relative;
+  width: fit-content;
+}
+
+.page--dystrybutor-mobile .arrow_right {
+  height: 5.28vw;
+  margin-bottom: -0.14vw;
+  margin-right: -0.33vw;
+  margin-top: -0.14vw;
+  position: relative;
+  width: 5.89vw;
+}
+
+.page--dystrybutor-mobile .u7761719182_httpss {
+  align-self: stretch;
+  aspect-ratio: 1.33;
+  position: relative;
+  width: 100%;
+}
+
+.page--dystrybutor-mobile .ellipse-2 {
+  background-color: #4064df26;
+  border-radius: 107.64vw;
+  filter: blur(50.56vw);;
+  height: 215.28vw;
+  left: calc(50.00% - 107.5vw);
+  position: absolute;
+  top: calc(50.00% - 101.11vw);
+  width: 215.28vw;
+}
+
+.page--dystrybutor-mobile .ellipse-3 {
+  background-color: var(--white-3);
+  border-radius: 107.64vw;
+  filter: blur(50.56vw);;
+  height: 215.28vw;
+  left: 158.89vw;
+  position: absolute;
+  top: -18.61vw;
+  width: 215.28vw;
+}
+
+.page--dystrybutor-mobile .frame-84 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 5.56vw;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.page--dystrybutor-mobile .kada-sprzeda-naszy {
+  align-self: stretch;
+  letter-spacing: -0.25vw;
+  line-height: 11.11vw;
+  margin-top: -0.28vw;
+  position: relative;
+  text-align: center;
+}
+
+.page--dystrybutor-mobile .twj-region-to-twj {
+  align-self: stretch;
+  letter-spacing: -0.08vw;
+  line-height: 6.39vw;
+  position: relative;
+  text-align: center;
+}
+
+.page--dystrybutor-mobile .ellipse-2-1 {
+  height: 419.44vw;
+  top: calc(50.00% - 209.44vw);
+  width: 100.0vw;
+}
+
+.page--dystrybutor-mobile .frame-6 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--bon-jour);
+  border: 0.28vw solid;
+  border-color: var(--white-2);
+  border-radius: 8.33vw;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 2.78vw;
+  padding: 5.56vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--dystrybutor-mobile .chat {
+  aspect-ratio: 1.18;
+  height: 13.89vw;
+  position: relative;
+  width: 16.39vw;
+}
+
+.page--dystrybutor-mobile .prowizje-od-sprzeday {
+  align-self: stretch;
+  letter-spacing: -0.12vw;
+  line-height: 8.89vw;
+  margin-top: -0.28vw;
+  position: relative;
+  text-align: center;
+}
+
+.page--dystrybutor-mobile .przejrzysty-system-p {
+  align-self: stretch;
+  letter-spacing: -0.08vw;
+  line-height: 6.39vw;
+  position: relative;
+  text-align: center;
+}
+
+.page--dystrybutor-mobile .checklist_3503604-1 {
+  aspect-ratio: 1;
+  height: 13.89vw;
+  position: relative;
+  width: 13.89vw;
+}
+
+.page--dystrybutor-mobile .priorytetowa-realizacja-zamwie {
+  align-self: stretch;
+  letter-spacing: -0.12vw;
+  line-height: 8.89vw;
+  margin-top: -0.28vw;
+  position: relative;
+  text-align: center;
+}
+
+.page--dystrybutor-mobile .ekspresowa-realizacj {
+  align-self: stretch;
+  letter-spacing: -0.08vw;
+  line-height: 6.39vw;
+  position: relative;
+  text-align: center;
+}
+
+.page--dystrybutor-mobile .truck_691039-1 {
+  aspect-ratio: 1;
+  height: 13.89vw;
+  position: relative;
+  width: 13.89vw;
+}
+
+.page--dystrybutor-mobile .bezpatna-dostawa {
+  align-self: stretch;
+  letter-spacing: -0.12vw;
+  line-height: 8.89vw;
+  margin-top: -0.28vw;
+  position: relative;
+  text-align: center;
+}
+
+.page--dystrybutor-mobile .zero-kosztw-transpo {
+  align-self: stretch;
+  letter-spacing: -0.08vw;
+  line-height: 6.39vw;
+  position: relative;
+  text-align: center;
+}
+
+.page--dystrybutor-mobile .booking-online_10725503-1 {
+  aspect-ratio: 1;
+  height: 13.89vw;
+  position: relative;
+  width: 13.89vw;
+}
+
+.page--dystrybutor-mobile .pomoc-z-doborem-produktw {
+  align-self: stretch;
+  letter-spacing: -0.12vw;
+  line-height: 8.89vw;
+  margin-top: -0.28vw;
+  position: relative;
+  text-align: center;
+}
+
+.page--dystrybutor-mobile .eksperckie-wsparcie {
+  align-self: stretch;
+  letter-spacing: -0.08vw;
+  line-height: 6.39vw;
+  position: relative;
+  text-align: center;
+}
+
+.page--dystrybutor-mobile .supporter_1170551-2 {
+  aspect-ratio: 1;
+  height: 13.89vw;
+  position: relative;
+  width: 13.89vw;
+}
+
+.page--dystrybutor-mobile .vector {
+  height: 98.44%;
+  left: 6.84%;
+  position: absolute;
+  top: 0;
+  width: 86.33%;
+}
+
+.page--dystrybutor-mobile .vector-1 {
+  height: 5.86%;
+  left: 64.65%;
+  position: absolute;
+  top: 82.23%;
+  width: 11.72%;
+}
+
+.page--dystrybutor-mobile .opiekun-handlowy {
+  align-self: stretch;
+  letter-spacing: -0.12vw;
+  line-height: 8.89vw;
+  margin-top: -0.28vw;
+  position: relative;
+  text-align: center;
+}
+
+.page--dystrybutor-mobile .stay-kontakt-z-przypisanym-opiekunem {
+  align-self: stretch;
+  letter-spacing: -0.08vw;
+  line-height: 6.39vw;
+  position: relative;
+  text-align: center;
+}
+
+.page--dystrybutor-mobile .browser_968529-1 {
+  aspect-ratio: 1;
+  height: 13.89vw;
+  position: relative;
+  width: 13.89vw;
+}
+
+.page--dystrybutor-mobile .platforma-z-materiaami {
+  align-self: stretch;
+  letter-spacing: -0.12vw;
+  line-height: 8.89vw;
+  margin-top: -0.28vw;
+  position: relative;
+  text-align: center;
+}
+
+.page--dystrybutor-mobile .pena-dokumentacja-t {
+  align-self: stretch;
+  letter-spacing: -0.08vw;
+  line-height: 6.39vw;
+  position: relative;
+  text-align: center;
+}
+
+.page--dystrybutor-mobile .social-media_17600413-1 {
+  aspect-ratio: 1;
+  height: 13.89vw;
+  position: relative;
+  width: 13.89vw;
+}
+
+.page--dystrybutor-mobile .wsparcie-marketingowe {
+  align-self: stretch;
+  letter-spacing: -0.12vw;
+  line-height: 8.89vw;
+  margin-top: -0.28vw;
+  position: relative;
+  text-align: center;
+}
+
+.page--dystrybutor-mobile .dostp-do-gotowych-m {
+  align-self: stretch;
+  letter-spacing: -0.08vw;
+  line-height: 6.39vw;
+  position: relative;
+  text-align: center;
+}
+
+.page--dystrybutor-mobile .presentation_2901523-1 {
+  aspect-ratio: 1;
+  height: 13.89vw;
+  position: relative;
+  width: 13.89vw;
+}
+
+.page--dystrybutor-mobile .szkolenia {
+  align-self: stretch;
+  letter-spacing: -0.12vw;
+  line-height: 8.89vw;
+  margin-top: -0.28vw;
+  position: relative;
+  text-align: center;
+}
+
+.page--dystrybutor-mobile .regularne-szkolenia {
+  align-self: stretch;
+  letter-spacing: -0.08vw;
+  line-height: 6.39vw;
+  position: relative;
+  text-align: center;
+}
+
+.page--dystrybutor-mobile .frame-64 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 63.89vw;
+  padding: 0.0vw 40.0vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--dystrybutor-mobile .frame-51 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 5.56vw;
+  justify-content: center;
+  padding: 0.0vw 0.0vw 30.0vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--dystrybutor-mobile .frame-65-1 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+}
+
+.page--dystrybutor-mobile .referencje {
+  color: var(--concrete-2);
+  font-family: var(--font-family-manrope);
+  font-size: 3.33vw;
+  font-weight: 600;
+  letter-spacing: -0.1vw;
+  line-height: 5.56vw;
+  margin-top: -0.28vw;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--dystrybutor-mobile .co-mwi-o-nas-klienci {
+  color: var(--concrete);
+  font-family: var(--font-family-manrope);
+  font-size: var(--font-size-l);
+  font-weight: 600;
+  letter-spacing: -0.11vw;
+  line-height: 8.89vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--dystrybutor-mobile .testimonials {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 4.17vw;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.page--dystrybutor-mobile .frame-67 {
+  -webkit-backdrop-filter: blur(5.56vw) brightness(100%);
+  align-items: flex-start;
+  align-self: stretch;
+  backdrop-filter: blur(5.56vw) brightness(100%);
+  border-radius: 8.33vw;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.page--dystrybutor-mobile .frame-71 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--eerie-black);
+  border: 0.28vw solid;
+  border-color: var(--silver-chalice-2);
+  border-radius: 5.56vw 5.56vw 0.0vw 0.0vw;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 2.78vw;
+  padding: 5.56vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--dystrybutor-mobile .frame-70 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 5.56vw;
+  position: relative;
+}
+
+.page--dystrybutor-mobile .image {
+  aspect-ratio: 1;
+  height: 19.03vw;
+  position: relative;
+  width: 19.03vw;
+}
+
+.page--dystrybutor-mobile .frame-57 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 0.83vw;
+  position: relative;
+  width: 40.0vw;
+}
+
+.page--dystrybutor-mobile .name {
+  align-self: stretch;
+  color: var(--concrete);
+  font-family: var(--font-family-geist);
+  font-size: 3.61vw;
+  font-weight: 600;
+  letter-spacing: -0.07vw;
+  line-height: 5.28vw;
+  margin-top: -0.28vw;
+  position: relative;
+}
+
+.page--dystrybutor-mobile .dystrybutor-pomp-ped {
+  align-self: stretch;
+  color: var(--silver-chalice);
+  font-family: var(--font-family-geist);
+  font-size: 3.06vw;
+  font-weight: 500;
+  letter-spacing: -0.06vw;
+  line-height: 4.72vw;
+  position: relative;
+}
+
+.page--dystrybutor-mobile .frame-72 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--shark);
+  border: 0.28vw solid;
+  border-color: var(--silver-chalice-2);
+  border-radius: 0.0vw 0.0vw 20.0vw 20.0vw;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 2.78vw;
+  justify-content: center;
+  margin-top: -0.28vw;
+  overflow: hidden;
+  padding: 5.56vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--dystrybutor-mobile .sprzedaj-sprzt-r {
+  flex: 1;
+  letter-spacing: -0.12vw;
+  line-height: 6.39vw;
+  margin-top: -0.28vw;
+  position: relative;
+}
+
+.page--dystrybutor-mobile .span {
+  letter-spacing: -0.02vw;
+}
+
+.page--dystrybutor-mobile .frame-2 {
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.page--dystrybutor-mobile .frame-20 {
+  height: 155.0vw;
+  left: calc(50.00% - 73.33vw);
+  position: absolute;
+  top: calc(50.00% - 77.5vw);
+  width: 146.67vw;
+}
+
+.page--dystrybutor-mobile .ellipse-1 {
+  background-color: var(--dove-gray);
+  border-radius: 66.81vw;
+  filter: blur(50.56vw);;
+  height: 133.61vw;
+  left: calc(50.00% - 66.67vw);
+  position: relative;
+  top: calc(50.00% - 66.67vw);
+  width: 133.61vw;
+}
+
+.page--dystrybutor-mobile .faq {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--white);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 2.78vw;
+  padding: 8.33vw 5.56vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--dystrybutor-mobile .frame-3 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 2.78vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--dystrybutor-mobile .frame-6506 {
+  align-items: center;
+  align-self: stretch;
+  border-bottom-style: solid;
+  border-bottom-width: 0.28vw;
+  border-color: var(--pumice);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8.33vw;
+  padding: 0.0vw 0.0vw 20.0vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--dystrybutor-mobile .frame-6505 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 2.78vw;
+  position: relative;
+}
+
+.page--dystrybutor-mobile .program-partnerski-1 {
+  color: var(--cod-gray);
+  font-family: var(--font-family-manrope);
+  font-size: 8.33vw;
+  font-weight: 500;
+  letter-spacing: -0.25vw;
+  line-height: 8.61vw;
+  margin-top: -0.28vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--dystrybutor-mobile .group-1 {
+  height: 19.04vw;
+  position: relative;
+  width: 83.06vw;
+}
+
+.page--dystrybutor-mobile .frame-6571 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 2.78vw;
+  justify-content: center;
+  position: relative;
+}
+
+.page--dystrybutor-mobile .najczciej-zadawane-pytania {
+  height: 4.58vw;
+  position: relative;
+  width: 59.28vw;
+}
+
+.page--dystrybutor-mobile .frame-6569 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 5.56vw;
+  justify-content: flex-end;
+  position: relative;
+}
+
+.page--dystrybutor-mobile .masz-inne-pytanie {
+  height: 4.33vw;
+  position: relative;
+  width: 38.06vw;
+}
+
+.page--dystrybutor-mobile .napisz {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.56vw;
+  position: relative;
+  width: fit-content;
+}
+
+.page--dystrybutor-mobile .mail {
+  height: 5.28vw;
+  margin-bottom: -0.14vw;
+  margin-top: -0.14vw;
+  position: relative;
+  width: 5.28vw;
+}
+
+.page--dystrybutor-mobile .frame-6500 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 13.89vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--dystrybutor-mobile .frame-6502 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.56vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--dystrybutor-mobile .faq_pytanie_2 {
+  align-items: flex-start;
+  align-self: stretch;
+  border-bottom-style: solid;
+  border-bottom-width: 0.56vw;
+  border-color: var(--pumice);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 2.78vw;
+  padding: 0.0vw 0.0vw 10.0vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--dystrybutor-mobile .frame-6510 {
+  align-items: flex-start;
+  align-self: stretch;
+  border-bottom-style: solid;
+  border-bottom-width: 0.56vw;
+  border-color: transparent;
+  border-image: linear-gradient(270deg, rgba(201, 201, 201, 1) 0%, rgba(64, 100, 223, 1) 100%) 1;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 2.78vw;
+  padding: 2.78vw 0.0vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--dystrybutor-mobile .frame-6496 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: space-between;
+  position: relative;
+  width: 100%;
+}
+
+.page--dystrybutor-mobile .czy-udzia-w-program {
+  flex: 1;
+  letter-spacing: -0.08vw;
+  line-height: 5.56vw;
+  margin-top: -0.28vw;
+  position: relative;
+}
+
+.page--dystrybutor-mobile .arrow2::before {
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  background: linear-gradient(180deg, rgba(201, 201, 201, 1) 0%, rgba(64, 100, 223, 1) 100%);
+  border-radius: 8.33vw;
+  content: '';
+  inset: 0;
+  mask-composite: exclude;
+  padding: 0.56vw;
+  pointer-events: none;
+  position: absolute;
+  z-index: 1;
+}
+
+.page--dystrybutor-mobile .arrow2 {
+  align-items: center;
+  aspect-ratio: 1;
+  border: none;
+  border-radius: 8.33vw;
+  display: flex;
+  gap: 2.78vw;
+  height: 8.33vw;
+  justify-content: center;
+  margin-left: -6.56e-1.94vw;
+  padding: 2.78vw;
+  position: relative;
+  transform: rotate(-90.00deg);
+  width: 8.33vw;
+}
+
+.page--dystrybutor-mobile .frame-76 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 2.78vw;
+  margin-bottom: -0.62vw;
+  margin-top: -0.62vw;
+  padding: 0.0vw 0.0vw 0.0vw 0.83vw;
+  position: relative;
+}
+
+.page--dystrybutor-mobile .line-8-1 {
+  height: 2.53vw;
+  margin-left: -1.14vw;
+  margin-right: -1.32vw;
+  position: relative;
+  transform: rotate(90.00deg);
+  width: 4.41vw;
+}
+
+.page--dystrybutor-mobile .program-partnerski-j {
+  align-self: stretch;
+  letter-spacing: -0.07vw;
+  line-height: 5.0vw;
+  position: relative;
+}
+
+.page--dystrybutor-mobile .jakie-s-kryteria-pr {
+  flex: 1;
+  letter-spacing: -0.08vw;
+  line-height: 5.56vw;
+  margin-top: -0.28vw;
+  position: relative;
+}
+
+.page--dystrybutor-mobile .arrow::before {
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  background: linear-gradient(180deg, rgba(201, 201, 201, 1) 0%, rgba(64, 100, 223, 1) 100%);
+  border-radius: 8.33vw;
+  content: '';
+  inset: 0;
+  mask-composite: exclude;
+  padding: 0.56vw;
+  pointer-events: none;
+  position: absolute;
+  z-index: 1;
+}
+
+.page--dystrybutor-mobile .arrow {
+  align-items: center;
+  aspect-ratio: 1;
+  background: linear-gradient(180deg, rgba(255, 255, 255, 1) 0%, rgba(64, 100, 223, 1) 100%);
+  border: none;
+  border-radius: 8.33vw;
+  display: flex;
+  gap: 2.78vw;
+  height: 8.33vw;
+  justify-content: center;
+  margin-left: -6.56e-1.94vw;
+  padding: 2.78vw;
+  position: relative;
+  transform: rotate(90.00deg);
+  width: 8.33vw;
+}
+
+.page--dystrybutor-mobile .line-8 {
+  height: 2.53vw;
+  margin-left: -1.14vw;
+  margin-right: -1.32vw;
+  position: relative;
+  transform: rotate(-90.00deg);
+  width: 4.41vw;
+}
+
+.page--dystrybutor-mobile .czy-podpiszemy-umow {
+  flex: 1;
+  letter-spacing: -0.08vw;
+  line-height: 5.56vw;
+  position: relative;
+}
+
+.page--dystrybutor-mobile .czy-przystpujc-do {
+  flex: 1;
+  letter-spacing: -0.08vw;
+  line-height: 5.56vw;
+  margin-top: -0.28vw;
+  position: relative;
+}
+
+.page--dystrybutor-mobile .jak-chroniona-jest-m {
+  flex: 1;
+  letter-spacing: -0.08vw;
+  line-height: 5.56vw;
+  margin-top: -0.28vw;
+  position: relative;
+}
+
+.page--dystrybutor-mobile .jak-mog-doczy-do {
+  flex: 1;
+  letter-spacing: -0.08vw;
+  line-height: 5.56vw;
+  margin-top: -0.28vw;
+  position: relative;
+}
+
+.page--dystrybutor-mobile .czy-bd-mg-zrezyg {
+  flex: 1;
+  letter-spacing: -0.08vw;
+  line-height: 5.56vw;
+  margin-top: -0.28vw;
+  position: relative;
+}
+
+.page--dystrybutor-mobile .frame-82 {
+  align-items: flex-end;
+  align-self: stretch;
+  background-color: var(--cod-gray);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 11.11vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--dystrybutor-mobile .footer_desktop {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.page--dystrybutor-mobile .frame-6613 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--white);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 5.56vw;
+  padding: 5.56vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--dystrybutor-mobile .nie-znalaze-odpowi {
+  align-self: stretch;
+  letter-spacing: -0.25vw;
+  line-height: 8.89vw;
+  margin-top: -0.28vw;
+  position: relative;
+  text-align: center;
+}
+
+.page--dystrybutor-mobile .wypenij-krtki-form {
+  align-self: stretch;
+  letter-spacing: -0.08vw;
+  line-height: 5.56vw;
+  position: relative;
+  text-align: center;
+}
+
+.page--dystrybutor-mobile .input-1 {
+  height: 55.56vw;
+}
+
+.page--dystrybutor-mobile .frame-36727 {
+  align-items: center;
+  background-color: var(--white);
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.56vw;
+  position: relative;
+}
+
+.page--dystrybutor-mobile .label-2 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.28vw;
+}
+
+.page--dystrybutor-mobile .star {
+  letter-spacing: 0;
+  line-height: 5.56vw;
+  margin-top: -0.28vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--dystrybutor-mobile .input {
+  height: 14.72vw;
+}
+
+.page--dystrybutor-mobile .label {
+  letter-spacing: 0;
+  line-height: 5.28vw;
+  margin-top: -0.14vw;
+  white-space: nowrap;
+}
+
+.page--dystrybutor-mobile .label-3 {
+  letter-spacing: 0;
+  line-height: 5.28vw;
+  margin-top: -0.28vw;
+  white-space: nowrap;
+}
+
+.page--dystrybutor-mobile .radio_select_2 {
+  align-items: center;
+  display: inline-flex;
+  gap: 2.78vw;
+  height: 13.89vw;
+  position: relative;
+}
+
+.page--dystrybutor-mobile .group-62 {
+  aspect-ratio: 1;
+  border: 0.56vw solid;
+  border-color: var(--celeste);
+  border-radius: 3.33vw;
+  height: 6.67vw;
+  position: relative;
+  width: 6.67vw;
+}
+
+.page--dystrybutor-mobile .x1-fazowe-230-v-50-hz {
+  letter-spacing: 0;
+  line-height: 5.56vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--dystrybutor-mobile .wylij {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.83vw;
+  position: relative;
+  width: fit-content;
+}
+
+.page--dystrybutor-mobile .frame-78 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 11.11vw;
+  padding: 11.11vw 5.56vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--dystrybutor-mobile .ellipse-2-2 {
+  height: 402.22vw;
+  top: calc(50.00% - 195.83vw);
+  width: 2.78vw;
+}
+
+.page--dystrybutor-mobile .frame-367-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 5.56vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--dystrybutor-mobile .frame-36738 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 2.78vw;
+  position: relative;
+}
+
+.page--dystrybutor-mobile .group-1-1 {
+  height: 10.83vw;
+  position: relative;
+  width: 47.26vw;
+}
+
+.page--dystrybutor-mobile .polska {
+  letter-spacing: -0.11vw;
+  line-height: 13.89vw;
+  margin-top: -0.28vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--dystrybutor-mobile .tworzymy-przyszo {
+  align-self: stretch;
+  color: var(--white);
+  font-family: var(--font-family-manrope);
+  font-size: var(--font-size-xxs);
+  font-weight: 500;
+  letter-spacing: -0.08vw;
+  line-height: 6.39vw;
+  position: relative;
+}
+
+.page--dystrybutor-mobile .strefa-partnera {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.56vw;
+  position: relative;
+  width: fit-content;
+}
+
+.page--dystrybutor-mobile .frame-36742 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8.33vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--dystrybutor-mobile .raz-kupujesz-bez-koca-pompujesz {
+  align-self: stretch;
+  letter-spacing: -0.17vw;
+  line-height: 11.11vw;
+  margin-top: -0.28vw;
+  position: relative;
+}
+
+.page--dystrybutor-mobile .frame-3674 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 1.94vw;
+  justify-content: center;
+  position: relative;
+}
+
+.page--dystrybutor-mobile .elektryczna-pompa-gbinowa {
+  letter-spacing: -0.07vw;
+  line-height: 6.11vw;
+  margin-top: -0.28vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--dystrybutor-mobile .frame-3674-1 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.page--dystrybutor-mobile .label_-menu_footer {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 2.78vw;
+  padding: 0.56vw 0.0vw;
+  position: relative;
+}
+
+.page--dystrybutor-mobile .frame-33 {
+  align-items: center;
+  border-bottom-style: solid;
+  border-bottom-width: 0.28vw;
+  border-color: transparent;
+  border-image: linear-gradient(90deg, rgba(64, 100, 223, 1) 0%, rgba(64, 100, 223, 0) 100%) 1;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 2.78vw;
+  padding: 1.11vw 0.0vw;
+  position: relative;
+}
+
+.page--dystrybutor-mobile .label-1 {
+  letter-spacing: 0.04vw;
+  line-height: normal;
+  margin-top: -0.28vw;
+}
+
+.page--dystrybutor-mobile .na-skrty {
+  letter-spacing: -0.07vw;
+  line-height: 6.11vw;
+  margin-top: -0.28vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--dystrybutor-mobile .frame-36747 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 4.17vw;
+  position: relative;
+}
+
+.page--dystrybutor-mobile .kontakt-z-nami {
+  letter-spacing: -0.07vw;
+  line-height: 6.11vw;
+  margin-top: -0.28vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--dystrybutor-mobile .frame-36748 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 2.78vw;
+  justify-content: center;
+  padding: 1.67vw 0.0vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--dystrybutor-mobile .dachowa-43-a-96-500-sochaczew {
+  flex: 1;
+  letter-spacing: 0.04vw;
+  line-height: normal;
+  margin-top: -0.28vw;
+  position: relative;
+}
+
+.page--dystrybutor-mobile .dobr-pomp {
+  letter-spacing: -0.07vw;
+  line-height: 6.67vw;
+  margin-top: -0.28vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--dystrybutor-mobile .social_media {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 2.78vw;
+  padding: 1.39vw 0.0vw;
+  position: relative;
+}
+
+.page--dystrybutor-mobile .social_media-item {
+  height: 7.78vw;
+  position: relative;
+  width: 7.78vw;
+}
+
+.page--dystrybutor-mobile .linkedin {
+  align-items: center;
+  display: flex;
+  gap: 2.78vw;
+  height: 7.78vw;
+  justify-content: center;
+  padding: 1.11vw;
+  position: relative;
+  width: 7.78vw;
+}
+
+.page--dystrybutor-mobile .subtract {
+  aspect-ratio: 1;
+  height: 5.0vw;
+  position: relative;
+  width: 5.0vw;
+}
+
+.page--dystrybutor-mobile .x2025-pedrollo-polityka-prywatnoci {
+  height: 3.16vw;
+  position: relative;
+  width: 52.24vw;
+}
+
+.page--dystrybutor-mobile .czy-oferujecie {
+  flex: 1;
+  letter-spacing: -0.08vw;
+  line-height: 5.56vw;
+  margin-top: -0.28vw;
+  position: relative;
+}
+
+.page--dystrybutor-mobile .ellipse-2-3 {
+  left: calc(50.00% - 50.0vw);
+  position: absolute;
+}
+
+.page--dystrybutor-mobile .input-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--white);
+  border: 0.28vw solid;
+  border-color: var(--cod-gray-2);
+  border-radius: 2.78vw;
+  display: flex;
+  padding: 4.44vw 5.56vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--dystrybutor-mobile .label-4 {
+  position: relative;
+  width: fit-content;
+}
+}
+
+@media screen and (min-width: 768px) {
+  .page--dystrybutor-mobile { display: none !important; }
+/* screen - pedrollou95dystrybutoru951366px */
+
+.page--dystrybutor {
+  align-items: flex-start;
+  background-color: var(--cod-gray);
+  display: flex;
+  flex-direction: column;
+  min-width: 100.0vw;
+  position: relative;
+}
+
+.page--dystrybutor .frame-3673325 {
+  align-items: center;
+  align-self: stretch;
+  background-image: url(../img/frame-3673324.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  gap: 0.73vw;
+  height: 50.0vw;
+  justify-content: center;
+  padding: 6.59vw 4.39vw 0.0vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--dystrybutor .konsultacja-2 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  gap: 5.86vw;
+  height: 41.36vw;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.page--dystrybutor .frame-6483-2 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 7.32vw;
+  position: relative;
+}
+
+.page--dystrybutor .frame-6482-2 {
+  gap: 2.93vw;
+  width: 28.55vw;
+}
+
+.page--dystrybutor .frame-65-4 {
+  display: flex;
+  gap: 1.46vw;
+  width: 28.55vw;
+}
+
+.page--dystrybutor .frame-6501-2 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.37vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--dystrybutor .frame-3673402 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.37vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--dystrybutor .program-partnerski-d-1 {
+  align-self: stretch;
+  letter-spacing: -0.07vw;
+  line-height: 4.39vw;
+  position: relative;
+}
+
+.page--dystrybutor .frame-9 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.73vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--dystrybutor .dedykowana-platforma-2 {
+  align-self: stretch;
+  color: transparent;
+  font-family: var(--font-family-manrope);
+  font-size: var(--font-size-l);
+  font-weight: 600;
+  letter-spacing: -0.03vw;
+  line-height: 2.2vw;
+  margin-top: -0.07vw;
+  position: relative;
+}
+
+.page--dystrybutor .span1-1 {
+  color: var(--silver-chalice);
+  letter-spacing: -0.01vw;
+}
+
+.page--dystrybutor .zarejestruj-si-2 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -0.15vw;
+  margin-top: -0.44vw;
+  position: relative;
+  width: fit-content;
+}
+
+.page--dystrybutor .arrow_right-3 {
+  height: 1.39vw;
+  margin-bottom: -0.18vw;
+  margin-right: -0.09vw;
+  margin-top: -0.18vw;
+  position: relative;
+  width: 1.55vw;
+}
+
+.page--dystrybutor .u7761719182_httpss-3 {
+  height: 34.54vw;
+  width: 46.05vw;
+}
+
+.page--dystrybutor .menu_2-2 {
+  -webkit-backdrop-filter: blur(0.18vw) brightness(100%);
+  align-items: flex-start;
+  backdrop-filter: blur(0.18vw) brightness(100%);
+  display: flex;
+  flex-direction: column;
+  height: 5.86vw;
+  justify-content: center;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100.0vw;
+}
+
+.page--dystrybutor .frame-27 {
+  align-items: center;
+  align-self: stretch;
+  border-bottom-style: solid;
+  border-bottom-width: 0.07vw;
+  border-color: var(--white-4);
+  display: flex;
+  gap: 3.66vw;
+  height: 7.32vw;
+  margin-bottom: -0.73vw;
+  margin-top: -0.73vw;
+  padding: 0.0vw 40.0vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--dystrybutor .group-1-4 {
+  aspect-ratio: 4.36;
+  height: 2.02vw;
+  position: relative;
+  width: 8.8vw;
+}
+
+.page--dystrybutor .frame-6-7 {
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 1.46vw;
+}
+
+.page--dystrybutor .menu-hover {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.73vw;
+  height: 7.32vw;
+  position: relative;
+}
+
+.page--dystrybutor .arrow_down {
+  aspect-ratio: 2.34;
+  height: 0.37vw;
+  position: relative;
+  width: 0.88vw;
+}
+
+.page--dystrybutor .arrow_down-1 {
+  height: 141.37%;
+  left: -5.34%;
+  position: absolute;
+  top: -15.35%;
+  width: 110.68%;
+}
+
+.page--dystrybutor .frame-25 {
+  height: 7.32vw;
+  position: relative;
+  width: 4.25vw;
+}
+
+.page--dystrybutor .frame-5-1 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.73vw;
+  margin-left: -2.79vw;
+  position: relative;
+}
+
+.page--dystrybutor .frame-1-1 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.73vw;
+  justify-content: center;
+  margin-bottom: -0.29vw;
+  margin-top: -0.29vw;
+  position: relative;
+}
+
+.page--dystrybutor .vector-4 {
+  aspect-ratio: 0.61;
+  height: 1.46vw;
+  position: relative;
+  width: 0.88vw;
+}
+
+.page--dystrybutor .phone {
+  letter-spacing: 0.01vw;
+  line-height: normal;
+  margin-top: -0.07vw;
+  position: relative;
+  width: fit-content;
+}
+
+.page--dystrybutor .dobierz_pompe {
+  align-items: center;
+  background-color: var(--royal-blue-3);
+  border-radius: 2.2vw;
+  display: flex;
+  gap: 1.46vw;
+  height: 3.07vw;
+  padding: 0.73vw 4.17vw 0.73vw 1.32vw;
+  position: relative;
+  width: 13.47vw;
+}
+
+.page--dystrybutor .frame-4-1 {
+  align-items: center;
+  background-color: var(--concrete);
+  border-radius: 2.2vw;
+  display: flex;
+  flex-direction: column;
+  gap: 0.73vw;
+  height: 2.93vw;
+  justify-content: center;
+  left: 10.47vw;
+  padding: 0.73vw 0.95vw;
+  position: absolute;
+  top: 0.07vw;
+  width: 2.93vw;
+}
+
+.page--dystrybutor .group-3 {
+  aspect-ratio: 1.6;
+  height: 0.59vw;
+  position: relative;
+  width: 0.94vw;
+}
+
+.page--dystrybutor .vector-5 {
+  height: 116.26%;
+  left: 66.80%;
+  position: absolute;
+  top: -8.13%;
+  width: 42.80%;
+}
+
+.page--dystrybutor .vector-6 {
+  height: 25.00%;
+  left: -7.79%;
+  position: absolute;
+  top: 37.50%;
+  width: 107.80%;
+}
+
+.page--dystrybutor .dobierz-pomp {
+  letter-spacing: -0.02vw;
+  line-height: normal;
+  margin-right: -0.59vw;
+  margin-top: -0.07vw;
+  position: relative;
+  width: fit-content;
+}
+
+.page--dystrybutor .frame-6482-3 {
+  align-self: stretch;
+  flex: 0 0 auto;
+  gap: 4.39vw;
+  padding: 5.12vw 4.39vw;
+  width: 100%;
+}
+
+.page--dystrybutor .ellipse-2-8 {
+  height: 110.54vw;
+  left: calc(50.00% - 50.0vw);
+  position: absolute;
+  top: calc(50.00% - 52.2vw);
+  width: 100.0vw;
+}
+
+.page--dystrybutor .kada-sprzeda-naszy-2 {
+  align-self: stretch;
+  letter-spacing: -0.07vw;
+  line-height: 4.39vw;
+  margin-top: -0.07vw;
+  position: relative;
+  text-align: center;
+}
+
+.page--dystrybutor .twj-region-to-twj-ry-1 {
+  align-self: stretch;
+  height: 1.37vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--dystrybutor .frame-10 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 1.46vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--dystrybutor .ellipse-2-9 {
+  height: 110.54vw;
+  left: calc(50.00% - 50.0vw);
+  position: absolute;
+  top: calc(50.00% - 55.2vw);
+  width: 100.0vw;
+}
+
+.page--dystrybutor .frame-36 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 1.46vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--dystrybutor .frame-6-4 {
+  align-self: stretch;
+  background-color: var(--bon-jour);
+  border: 0.07vw solid;
+  border-color: var(--white-2);
+  border-radius: 2.2vw;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 0.73vw;
+  padding: 3.66vw 2.93vw;
+}
+
+.page--dystrybutor .chat-2 {
+  aspect-ratio: 1.18;
+  height: 3.66vw;
+  position: relative;
+  width: 4.32vw;
+}
+
+.page--dystrybutor .prowizje-od-sprzeday-2 {
+  align-self: stretch;
+  letter-spacing: -0.04vw;
+  line-height: 2.56vw;
+  margin-top: -0.07vw;
+  position: relative;
+  text-align: center;
+}
+
+.page--dystrybutor .przejrzysty-system-p-2 {
+  align-self: stretch;
+  letter-spacing: -0.03vw;
+  line-height: 1.9vw;
+  position: relative;
+  text-align: center;
+}
+
+.page--dystrybutor .checklist_3503604-1-2 {
+  aspect-ratio: 1;
+  height: 3.66vw;
+  position: relative;
+  width: 3.66vw;
+}
+
+.page--dystrybutor .priorytetowa-realizacja-zamwie-2 {
+  align-self: stretch;
+  letter-spacing: -0.04vw;
+  line-height: 2.56vw;
+  margin-top: -0.07vw;
+  position: relative;
+  text-align: center;
+}
+
+.page--dystrybutor .ekspresowa-realizacj-2 {
+  align-self: stretch;
+  letter-spacing: -0.03vw;
+  line-height: 1.9vw;
+  position: relative;
+  text-align: center;
+}
+
+.page--dystrybutor .truck_691039-1-2 {
+  aspect-ratio: 1;
+  height: 3.66vw;
+  position: relative;
+  width: 3.66vw;
+}
+
+.page--dystrybutor .bezpatna-dostawa-2 {
+  align-self: stretch;
+  letter-spacing: -0.04vw;
+  line-height: 2.56vw;
+  margin-top: -0.07vw;
+  position: relative;
+  text-align: center;
+}
+
+.page--dystrybutor .zero-kosztw-transpo-2 {
+  align-self: stretch;
+  letter-spacing: -0.03vw;
+  line-height: 1.9vw;
+  position: relative;
+  text-align: center;
+}
+
+.page--dystrybutor .frame-6-5 {
+  background-color: var(--bon-jour);
+  border: 0.07vw solid;
+  border-color: var(--white-2);
+  border-radius: 2.2vw;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 0.73vw;
+  padding: 3.66vw 2.93vw;
+}
+
+.page--dystrybutor .booking-online_10725503-1-2 {
+  aspect-ratio: 1;
+  height: 3.66vw;
+  position: relative;
+  width: 3.66vw;
+}
+
+.page--dystrybutor .pomoc-z-doborem-produktw-2 {
+  align-self: stretch;
+  letter-spacing: -0.04vw;
+  line-height: 2.56vw;
+  margin-top: -0.07vw;
+  position: relative;
+  text-align: center;
+}
+
+.page--dystrybutor .eksperckie-wsparcie-2 {
+  align-self: stretch;
+  letter-spacing: -0.03vw;
+  line-height: 1.9vw;
+  position: relative;
+  text-align: center;
+}
+
+.page--dystrybutor .supporter_1170551-2-2 {
+  aspect-ratio: 1;
+  height: 3.66vw;
+  position: relative;
+  width: 3.66vw;
+}
+
+.page--dystrybutor .vector-7 {
+  height: 98.44%;
+  left: 6.84%;
+  position: absolute;
+  top: 0;
+  width: 86.33%;
+}
+
+.page--dystrybutor .vector-8 {
+  height: 5.86%;
+  left: 64.65%;
+  position: absolute;
+  top: 82.23%;
+  width: 11.72%;
+}
+
+.page--dystrybutor .opiekun-handlowy-2 {
+  align-self: stretch;
+  letter-spacing: -0.04vw;
+  line-height: 2.56vw;
+  margin-top: -0.07vw;
+  position: relative;
+  text-align: center;
+}
+
+.page--dystrybutor .stay-kontakt-z-przypisanym-opiekunem-2 {
+  align-self: stretch;
+  letter-spacing: -0.03vw;
+  line-height: 1.9vw;
+  position: relative;
+  text-align: center;
+}
+
+.page--dystrybutor .browser_968529-1-2 {
+  aspect-ratio: 1;
+  height: 3.66vw;
+  position: relative;
+  width: 3.66vw;
+}
+
+.page--dystrybutor .platforma-z-materiaami-2 {
+  align-self: stretch;
+  letter-spacing: -0.04vw;
+  line-height: 2.56vw;
+  margin-top: -0.07vw;
+  position: relative;
+  text-align: center;
+}
+
+.page--dystrybutor .pena-dokumentacja-t-2 {
+  align-self: stretch;
+  letter-spacing: -0.03vw;
+  line-height: 1.9vw;
+  position: relative;
+  text-align: center;
+}
+
+.page--dystrybutor .social-media_17600413-1-2 {
+  aspect-ratio: 1;
+  height: 3.66vw;
+  position: relative;
+  width: 3.66vw;
+}
+
+.page--dystrybutor .wsparcie-marketingowe-2 {
+  align-self: stretch;
+  letter-spacing: -0.04vw;
+  line-height: 2.56vw;
+  margin-top: -0.07vw;
+  position: relative;
+  text-align: center;
+}
+
+.page--dystrybutor .dostp-do-gotowych-m-2 {
+  align-self: stretch;
+  letter-spacing: -0.03vw;
+  line-height: 1.9vw;
+  position: relative;
+  text-align: center;
+}
+
+.page--dystrybutor .presentation_2901523-1-2 {
+  aspect-ratio: 1;
+  height: 3.66vw;
+  position: relative;
+  width: 3.66vw;
+}
+
+.page--dystrybutor .szkolenia-2 {
+  align-self: stretch;
+  letter-spacing: -0.04vw;
+  line-height: 2.56vw;
+  margin-top: -0.07vw;
+  position: relative;
+  text-align: center;
+}
+
+.page--dystrybutor .regularne-szkolenia-2 {
+  align-self: stretch;
+  letter-spacing: -0.03vw;
+  line-height: 1.9vw;
+  position: relative;
+  text-align: center;
+}
+
+.page--dystrybutor .frame-64-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 16.84vw;
+  height: 41.58vw;
+  padding: 0.0vw 12.08vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--dystrybutor .frame-20-2 {
+  height: 53.51vw;
+  left: calc(50.00% - 70.28vw);
+  position: absolute;
+  top: calc(50.00% - 26.72vw);
+  width: 140.56vw;
+}
+
+.page--dystrybutor .ellipse-1-2 {
+  background-color: var(--dove-gray);
+  border-radius: 29.8vw;
+  filter: blur(13.32vw);;
+  height: 59.59vw;
+  left: calc(50.00% - 29.8vw);
+  position: relative;
+  top: calc(50.00% - 29.72vw);
+  width: 59.59vw;
+}
+
+.page--dystrybutor .frame-51-2 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 2.93vw;
+  justify-content: center;
+  position: relative;
+}
+
+.page--dystrybutor .frame-65-5 {
+  display: inline-flex;
+  justify-content: center;
+}
+
+.page--dystrybutor .referencje-2 {
+  color: var(--concrete-2);
+  font-family: var(--font-family-manrope);
+  font-size: var(--font-size-m);
+  font-weight: 600;
+  letter-spacing: -0.04vw;
+  line-height: 2.2vw;
+  margin-top: -0.07vw;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--dystrybutor .co-mwi-o-nas-klienci-2 {
+  letter-spacing: -0.06vw;
+  line-height: 3.81vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--dystrybutor .testimonials-2 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 2.2vw;
+  justify-content: center;
+  margin-left: -115.63vw;
+  margin-right: -115.63vw;
+  position: relative;
+}
+
+.page--dystrybutor .frame-79 {
+  height: 17.06vw;
+  position: relative;
+  width: 307.1vw;
+}
+
+.page--dystrybutor .frame-69 {
+  -webkit-backdrop-filter: blur(1.46vw) brightness(100%);
+  align-items: center;
+  backdrop-filter: blur(1.46vw) brightness(100%);
+  display: inline-flex;
+  left: 0;
+  opacity: 0.4;
+  position: absolute;
+  top: 1.46vw;
+}
+
+.page--dystrybutor .frame-71-2 {
+  background-color: var(--eerie-black);
+  border: 0.07vw solid;
+  border-color: var(--lynch);
+  border-radius: 2.2vw 0.0vw 0.0vw 2.2vw;
+  flex: 0 0 auto;
+  gap: 0.73vw;
+  padding: 2.93vw;
+  position: relative;
+}
+
+.page--dystrybutor .frame-70-1 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.73vw;
+  justify-content: center;
+  position: relative;
+}
+
+.page--dystrybutor .image-3 {
+  margin-left: -1808.53vw;
+  margin-top: -1381.0vw;
+}
+
+.page--dystrybutor .arek-nawrocki {
+  align-self: stretch;
+  letter-spacing: -0.02vw;
+  line-height: 1.46vw;
+  margin-top: -0.07vw;
+  position: relative;
+}
+
+.page--dystrybutor .dystrybutor-pomp-ped-2 {
+  line-height: 1.46vw;
+}
+
+.page--dystrybutor .frame-72-2 {
+  border-color: var(--lynch);
+  padding: 2.93vw 3.66vw;
+}
+
+.page--dystrybutor .zawsze-polecam-te-p {
+  letter-spacing: -0.06vw;
+  line-height: 2.71vw;
+  position: relative;
+  width: 33.67vw;
+}
+
+.page--dystrybutor .span-4 {
+  letter-spacing: -0.02vw;
+}
+
+.page--dystrybutor .frame-67-2 {
+  -webkit-backdrop-filter: blur(1.46vw) brightness(100%);
+  align-items: center;
+  backdrop-filter: blur(1.46vw) brightness(100%);
+  border-radius: 2.2vw;
+  display: inline-flex;
+  left: 121.96vw;
+  position: absolute;
+  top: 0;
+}
+
+.page--dystrybutor .frame-71-4 {
+  background-color: var(--eerie-black);
+  border: 0.07vw solid;
+  border-color: var(--silver-chalice-2);
+  border-radius: 2.2vw 0.0vw 0.0vw 2.2vw;
+  flex: 0 0 auto;
+  gap: 0.73vw;
+  padding: 2.93vw;
+  position: relative;
+}
+
+.page--dystrybutor .frame-11 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.51vw;
+  justify-content: center;
+  position: relative;
+}
+
+.page--dystrybutor .frame-57-4 {
+  gap: 0.22vw;
+}
+
+.page--dystrybutor .name-2 {
+  color: var(--concrete);
+  font-family: var(--font-family-geist);
+  font-size: var(--font-size-xxs);
+  font-weight: 600;
+}
+
+.page--dystrybutor .dystrybutor-pomp-ped-4 {
+  color: var(--silver-chalice);
+  font-family: var(--font-family-geist);
+  font-size: 0.88vw;
+  font-weight: 500;
+  line-height: 1.32vw;
+}
+
+.page--dystrybutor .frame-72-4 {
+  border-color: var(--silver-chalice-2);
+  padding: 2.93vw 3.66vw;
+}
+
+.page--dystrybutor .sprzedaj-sprzt-r-2 {
+  letter-spacing: -0.05vw;
+  line-height: 2.27vw;
+  position: relative;
+  width: 33.67vw;
+}
+
+.page--dystrybutor .span-5 {
+  letter-spacing: -0.01vw;
+}
+
+.page--dystrybutor .frame-68 {
+  -webkit-backdrop-filter: blur(1.46vw) brightness(100%);
+  align-items: center;
+  backdrop-filter: blur(1.46vw) brightness(100%);
+  display: inline-flex;
+  left: 183.02vw;
+  opacity: 0.4;
+  position: absolute;
+  top: 1.1vw;
+}
+
+.page--dystrybutor .frame-71-3 {
+  background-color: var(--eerie-black);
+  border: 0.07vw solid;
+  border-color: var(--lynch);
+  border-radius: 2.2vw 0.0vw 0.0vw 2.2vw;
+  flex: 0 0 auto;
+  gap: 0.73vw;
+  padding: 1.46vw 2.93vw;
+  position: relative;
+}
+
+.page--dystrybutor .frame-57-3 {
+  gap: 0.44vw;
+}
+
+.page--dystrybutor .dystrybutor-pomp-ped-3 {
+  line-height: 1.32vw;
+}
+
+.page--dystrybutor .frame-72-3 {
+  border-color: var(--lynch);
+  padding: 2.2vw 2.93vw;
+}
+
+.page--dystrybutor .frame-70-2 {
+  -webkit-backdrop-filter: blur(1.46vw) brightness(100%);
+  align-items: center;
+  backdrop-filter: blur(1.46vw) brightness(100%);
+  display: inline-flex;
+  left: 249.78vw;
+  opacity: 0.4;
+  position: absolute;
+  top: 1.46vw;
+}
+
+.page--dystrybutor .image-4 {
+  margin-left: -2058.31vw;
+  margin-top: -1381.0vw;
+}
+
+.page--dystrybutor .sprzt-najwyszej-k {
+  letter-spacing: -0.06vw;
+  line-height: 2.71vw;
+  position: relative;
+  width: 33.67vw;
+}
+
+.page--dystrybutor .frame-71-5 {
+  -webkit-backdrop-filter: blur(1.46vw) brightness(100%);
+  backdrop-filter: blur(1.46vw) brightness(100%);
+  left: 62.37vw;
+  opacity: 0.4;
+  position: absolute;
+  top: 1.1vw;
+}
+
+.page--dystrybutor .image-5 {
+  margin-left: -1870.94vw;
+  margin-top: -1379.15vw;
+}
+
+.page--dystrybutor .frame-77 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 1.46vw;
+  position: relative;
+}
+
+.page--dystrybutor .arrow-2 {
+  height: 4.39vw;
+  position: relative;
+  width: 4.39vw;
+}
+
+.page--dystrybutor .faq-2 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--white);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 2.2vw;
+  padding: 5.12vw 4.39vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--dystrybutor .frame-6498-1 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 1.46vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--dystrybutor .frame-6506-2 {
+  align-items: flex-end;
+  align-self: stretch;
+  border-bottom-style: solid;
+  border-bottom-width: 0.07vw;
+  border-color: var(--pumice);
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: space-between;
+  padding: 0.0vw 0.0vw 40.0vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--dystrybutor .frame-6505-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.73vw;
+  position: relative;
+}
+
+.page--dystrybutor .program-partnerski-3 {
+  color: var(--cod-gray);
+  font-family: var(--font-family-manrope);
+  font-size: 2.93vw;
+  font-weight: 500;
+  letter-spacing: -0.09vw;
+  line-height: 3.0vw;
+  margin-top: -0.07vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--dystrybutor .group-1-5 {
+  height: 5.02vw;
+  position: relative;
+  width: 21.89vw;
+}
+
+.page--dystrybutor .frame-6-6 {
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.page--dystrybutor .frame-6571-2 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.73vw;
+  justify-content: center;
+  position: relative;
+}
+
+.page--dystrybutor .najczciej-zadawane-pytania-2 {
+  height: 1.51vw;
+  position: relative;
+  width: 19.53vw;
+}
+
+.page--dystrybutor .frame-6569-2 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 1.46vw;
+  justify-content: flex-end;
+  position: relative;
+}
+
+.page--dystrybutor .masz-inne-pytanie-2 {
+  height: 1.43vw;
+  position: relative;
+  width: 12.54vw;
+}
+
+.page--dystrybutor .kontakt-z-doradc {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -0.33vw;
+  margin-top: -0.48vw;
+  position: relative;
+  width: fit-content;
+}
+
+.page--dystrybutor .mail-2 {
+  height: 1.39vw;
+  margin-bottom: -0.18vw;
+  margin-top: -0.18vw;
+  position: relative;
+  width: 1.39vw;
+}
+
+.page--dystrybutor .frame-6500-2 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 3.66vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--dystrybutor .frame-6502-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.15vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--dystrybutor .faq_pytanie_2-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  border-bottom-style: solid;
+  border-bottom-width: 0.15vw;
+  border-color: var(--pumice);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 2.2vw;
+  padding: 0.0vw 0.0vw 30.0vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--dystrybutor .frame-6510-2 {
+  padding: 0.73vw 0.0vw;
+}
+
+.page--dystrybutor .czy-udzia-w-program-2 {
+  flex: 1;
+  letter-spacing: -0.03vw;
+  line-height: 2.27vw;
+  position: relative;
+}
+
+.page--dystrybutor .arrow2-2::before {
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  background: linear-gradient(180deg, rgba(201, 201, 201, 1) 0%, rgba(64, 100, 223, 1) 100%);
+  border-radius: 2.2vw;
+  content: '';
+  inset: 0;
+  mask-composite: exclude;
+  padding: 0.15vw;
+  pointer-events: none;
+  position: absolute;
+  z-index: 1;
+}
+
+.page--dystrybutor .arrow2-2 {
+  align-items: center;
+  aspect-ratio: 1;
+  border: none;
+  border-radius: 2.2vw;
+  display: flex;
+  gap: 0.73vw;
+  height: 3.66vw;
+  justify-content: center;
+  margin-left: -1.09e-0.44vw;
+  padding: 0.73vw;
+  position: relative;
+  transform: rotate(-90.00deg);
+  width: 3.66vw;
+}
+
+.page--dystrybutor .frame-76-2 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.73vw;
+  padding: 0.0vw 0.0vw 0.0vw 0.22vw;
+  position: relative;
+}
+
+.page--dystrybutor .line-8-5 {
+  transform: rotate(90.00deg);
+}
+
+.page--dystrybutor .program-partnerski-j-2 {
+  align-self: stretch;
+  letter-spacing: -0.02vw;
+  line-height: 1.76vw;
+  position: relative;
+}
+
+.page--dystrybutor .frame-6510-3 {
+  padding: 1.46vw 0.0vw;
+}
+
+.page--dystrybutor .jakie-s-kryteria-pr-2 {
+  flex: 1;
+  letter-spacing: -0.03vw;
+  line-height: 2.27vw;
+  position: relative;
+}
+
+.page--dystrybutor .arrow-3::before {
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  background: linear-gradient(180deg, rgba(201, 201, 201, 1) 0%, rgba(64, 100, 223, 1) 100%);
+  border-radius: 2.2vw;
+  content: '';
+  inset: 0;
+  mask-composite: exclude;
+  padding: 0.15vw;
+  pointer-events: none;
+  position: absolute;
+  z-index: 1;
+}
+
+.page--dystrybutor .arrow-3 {
+  align-items: center;
+  aspect-ratio: 1;
+  background: linear-gradient(180deg, rgba(255, 255, 255, 1) 0%, rgba(64, 100, 223, 1) 100%);
+  border: none;
+  border-radius: 2.2vw;
+  display: flex;
+  gap: 0.73vw;
+  height: 3.66vw;
+  justify-content: center;
+  margin-left: -1.09e-0.44vw;
+  padding: 0.73vw;
+  position: relative;
+  transform: rotate(90.00deg);
+  width: 3.66vw;
+}
+
+.page--dystrybutor .line-8-4 {
+  transform: rotate(-90.00deg);
+}
+
+.page--dystrybutor .czy-podpiszemy-umow-2 {
+  flex: 1;
+  letter-spacing: -0.03vw;
+  line-height: 2.27vw;
+  position: relative;
+}
+
+.page--dystrybutor .czy-przystpujc-do-2 {
+  flex: 1;
+  letter-spacing: -0.03vw;
+  line-height: 2.27vw;
+  position: relative;
+}
+
+.page--dystrybutor .jak-chroniona-jest-m-2 {
+  flex: 1;
+  letter-spacing: -0.03vw;
+  line-height: 2.27vw;
+  position: relative;
+}
+
+.page--dystrybutor .czy-oferujecie-elast-2 {
+  flex: 1;
+  letter-spacing: -0.03vw;
+  line-height: 2.27vw;
+  position: relative;
+}
+
+.page--dystrybutor .czy-oferujecie-czc-2 {
+  flex: 1;
+  letter-spacing: -0.03vw;
+  line-height: 2.27vw;
+  position: relative;
+}
+
+.page--dystrybutor .jak-mog-doczy-do-2 {
+  flex: 1;
+  letter-spacing: -0.03vw;
+  line-height: 2.27vw;
+  position: relative;
+}
+
+.page--dystrybutor .czy-bd-mg-zrezyg-2 {
+  flex: 1;
+  letter-spacing: -0.03vw;
+  line-height: 2.27vw;
+  position: relative;
+}
+
+.page--dystrybutor .doacz_program_partnerski_2-1 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  gap: 2.93vw;
+  height: 45.31vw;
+  justify-content: center;
+  padding: 9.52vw 8.78vw 14.64vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--dystrybutor .frame-36820-1 {
+  align-items: flex-start;
+  border-radius: 0.73vw;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 2.93vw;
+  justify-content: center;
+  margin-bottom: -4.61vw;
+  margin-top: -4.61vw;
+  padding: 3.66vw 0.0vw;
+  position: relative;
+}
+
+.page--dystrybutor .frame-36828-1 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.page--dystrybutor .docz-do-programu-partnerskiego-1 {
+  letter-spacing: -0.07vw;
+  line-height: 4.39vw;
+  margin-top: -0.07vw;
+  position: relative;
+  width: fit-content;
+}
+
+.page--dystrybutor .zosta-naszym-partne-1 {
+  align-self: stretch;
+  color: transparent;
+  font-family: var(--font-family-manrope);
+  font-size: var(--font-size-l);
+  font-weight: 600;
+  letter-spacing: -0.03vw;
+  line-height: 2.27vw;
+  position: relative;
+}
+
+.page--dystrybutor .frame-36824-1 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 2.2vw;
+  position: relative;
+}
+
+.page--dystrybutor .frame-36822-1 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 2.2vw;
+  justify-content: center;
+  position: relative;
+}
+
+.page--dystrybutor .u7761719182_httpss-4 {
+  background-image: url(../img/u7761719182-httpss-24.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 1.46vw;
+  flex: 1;
+  flex-grow: 1;
+  margin-bottom: -4.33vw;
+  margin-top: -4.33vw;
+}
+
+.page--dystrybutor .ellipse-2-10 {
+  height: 98.46vw;
+  left: calc(50.00% - 50.07vw);
+  mix-blend-mode: color;
+  position: absolute;
+  top: calc(50.00% - 49.78vw);
+  width: 78.7vw;
+}
+
+.page--dystrybutor .ellipse-2-11 {
+  height: 75.48vw;
+  left: calc(50.00% - 9.15vw);
+  position: absolute;
+  top: calc(50.00% - 39.97vw);
+  width: 59.15vw;
+}
+
+.page--dystrybutor .footer_desktop-2 {
+  align-self: stretch;
+  height: 102.12vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--dystrybutor .frame-6613-2 {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  gap: 2.93vw;
+  height: 55.70%;
+  left: 0;
+  padding: 4.39vw 16.84vw;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+
+.page--dystrybutor .frame-36731-1 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 1.46vw;
+  margin-left: -13.07vw;
+  margin-right: -13.07vw;
+  position: relative;
+}
+
+.page--dystrybutor .nie-znalaze-odpowi-2 {
+  letter-spacing: -0.11vw;
+  line-height: 3.81vw;
+  margin-top: -0.07vw;
+  position: relative;
+  text-align: center;
+  width: 92.46vw;
+}
+
+.page--dystrybutor .wypenij-krtki-form-2 {
+  letter-spacing: -0.03vw;
+  line-height: 1.98vw;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.page--dystrybutor .input-5 {
+  align-self: stretch;
+  height: 14.64vw;
+  width: 100%;
+}
+
+.page--dystrybutor .frame-36727-2 {
+  align-items: center;
+  background-color: var(--white);
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.15vw;
+  position: relative;
+}
+
+.page--dystrybutor .frame-367-5 {
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 1.46vw;
+}
+
+.page--dystrybutor .input-4 {
+  flex: 1;
+  flex-grow: 1;
+  height: 3.88vw;
+}
+
+.page--dystrybutor .frame-367-6 {
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.page--dystrybutor .radio_select_2-2 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.73vw;
+  height: 3.66vw;
+  position: relative;
+}
+
+.page--dystrybutor .group-62-2 {
+  aspect-ratio: 1;
+  border: 0.15vw solid;
+  border-color: var(--celeste);
+  border-radius: 0.88vw;
+  height: 1.76vw;
+  position: relative;
+  width: 1.76vw;
+}
+
+.page--dystrybutor .x1-fazowe-230-v-50-hz-2 {
+  letter-spacing: 0;
+  line-height: 1.46vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--dystrybutor .wylij-2 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -0.15vw;
+  margin-top: -0.44vw;
+  position: relative;
+  width: fit-content;
+}
+
+.page--dystrybutor .frame-78-2 {
+  align-items: flex-start;
+  display: flex;
+  gap: 7.32vw;
+  height: 44.30%;
+  left: 0;
+  padding: 5.12vw 11.71vw;
+  position: absolute;
+  top: 55.70%;
+  width: 100%;
+}
+
+.page--dystrybutor .ellipse-2-12 {
+  height: 45.24vw;
+  left: calc(50.00% - 50.0vw);
+  position: absolute;
+  top: calc(50.00% - 22.62vw);
+  width: 37.55vw;
+}
+
+.page--dystrybutor .frame-367-7 {
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.page--dystrybutor .frame-36750 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 3.66vw;
+  position: relative;
+}
+
+.page--dystrybutor .frame-36738-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.73vw;
+  position: relative;
+}
+
+.page--dystrybutor .group-1-6 {
+  height: 2.86vw;
+  position: relative;
+  width: 12.46vw;
+}
+
+.page--dystrybutor .polska-2 {
+  letter-spacing: -0.03vw;
+  line-height: 3.66vw;
+  margin-top: -0.07vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--dystrybutor .tworzymy-przyszo-2 {
+  letter-spacing: -0.02vw;
+  line-height: 1.83vw;
+  position: relative;
+  width: fit-content;
+}
+
+.page--dystrybutor .frame-36749 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 2.2vw;
+  position: relative;
+}
+
+.page--dystrybutor .strefa-partnera-2 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -0.22vw;
+  margin-top: -0.37vw;
+  position: relative;
+  width: fit-content;
+}
+
+.page--dystrybutor .frame-36742-2 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 4.39vw;
+  position: relative;
+}
+
+.page--dystrybutor .raz-kupujesz-bez-koca-pompujesz-2 {
+  letter-spacing: -0.04vw;
+  line-height: 2.93vw;
+  margin-top: -0.07vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--dystrybutor .elektryczna-pompa-gbinowa-2 {
+  letter-spacing: -0.02vw;
+  line-height: 1.61vw;
+  margin-top: -0.07vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--dystrybutor .frame-3674-3 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.22vw;
+  position: relative;
+}
+
+.page--dystrybutor .label_-menu_footer-2 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.73vw;
+  padding: 0.15vw 0.0vw;
+  position: relative;
+}
+
+.page--dystrybutor .label-6 {
+  letter-spacing: 0.01vw;
+  line-height: normal;
+}
+
+.page--dystrybutor .na-skrty-2 {
+  letter-spacing: -0.02vw;
+  line-height: 1.61vw;
+  margin-top: -0.07vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--dystrybutor .kontakt-z-nami-2 {
+  letter-spacing: -0.02vw;
+  line-height: 1.61vw;
+  margin-top: -0.07vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--dystrybutor .frame-36748-2 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 0.73vw;
+  justify-content: center;
+  padding: 0.44vw 0.0vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--dystrybutor .dachowa-43-a-96-500-sochaczew-2 {
+  flex: 1;
+  letter-spacing: 0.01vw;
+  line-height: normal;
+  margin-top: -0.07vw;
+  position: relative;
+}
+
+.page--dystrybutor .dobr-pomp-2 {
+  letter-spacing: -0.02vw;
+  line-height: 1.76vw;
+  margin-top: -0.07vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--dystrybutor .social_media-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.73vw;
+  padding: 0.37vw 0.0vw;
+  position: relative;
+}
+
+.page--dystrybutor .social_media-item-2 {
+  height: 2.05vw;
+  position: relative;
+  width: 2.05vw;
+}
+
+.page--dystrybutor .linkedin-2 {
+  align-items: center;
+  display: flex;
+  gap: 0.73vw;
+  height: 2.05vw;
+  justify-content: center;
+  padding: 0.29vw;
+  position: relative;
+  width: 2.05vw;
+}
+
+.page--dystrybutor .subtract-2 {
+  aspect-ratio: 1;
+  height: 1.32vw;
+  position: relative;
+  width: 1.32vw;
+}
+
+.page--dystrybutor .x2025-pedrollo-polityka-prywatnoci-2 {
+  height: 0.91vw;
+  position: relative;
+  width: 15.02vw;
+}
+
+.page--dystrybutor .dla {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -0.15vw;
+  margin-top: -0.44vw;
+  position: relative;
+  width: fit-content;
+}
+
+.page--dystrybutor .dystrybutor-pomp-ped {
+  align-self: stretch;
+  letter-spacing: -0.02vw;
+  position: relative;
+}
+
+.page--dystrybutor .frame-33 {
+  align-items: center;
+  border-bottom-style: solid;
+  border-bottom-width: 0.07vw;
+  border-color: transparent;
+  border-image: linear-gradient(90deg, rgba(64, 100, 223, 1) 0%, rgba(64, 100, 223, 0) 100%) 1;
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.page--dystrybutor .frame-367 {
+  align-items: flex-start;
+  position: relative;
+}
+
+.page--dystrybutor .frame-57 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 10.54vw;
+}
+
+.page--dystrybutor .frame-6 {
+  align-items: center;
+  position: relative;
+}
+
+.page--dystrybutor .frame-6482 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.page--dystrybutor .frame-65 {
+  align-items: center;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.page--dystrybutor .frame-6510 {
+  align-items: flex-start;
+  align-self: stretch;
+  border-bottom-style: solid;
+  border-bottom-width: 0.15vw;
+  border-color: transparent;
+  border-image: linear-gradient(270deg, rgba(201, 201, 201, 1) 0%, rgba(64, 100, 223, 1) 100%) 1;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.73vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--dystrybutor .frame-71 {
+  align-items: center;
+  display: inline-flex;
+}
+
+.page--dystrybutor .frame-72 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--shark);
+  border: 0.07vw solid;
+  border-radius: 0.0vw 30.0vw 30.0vw 0.0vw;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.73vw;
+  justify-content: center;
+  margin-left: -0.07vw;
+  overflow: hidden;
+  position: relative;
+}
+
+.page--dystrybutor .image {
+  aspect-ratio: 1;
+  height: 5.01vw;
+  position: relative;
+  width: 5.01vw;
+}
+
+.page--dystrybutor .input {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 0.07vw solid;
+  border-color: var(--cod-gray-2);
+  border-radius: 0.73vw;
+  display: flex;
+  padding: 1.17vw 1.46vw;
+  position: relative;
+}
+
+.page--dystrybutor .label {
+  margin-top: -0.07vw;
+  position: relative;
+  width: fit-content;
+}
+
+.page--dystrybutor .line-8 {
+  height: 0.67vw;
+  margin-left: -0.3vw;
+  margin-right: -0.35vw;
+  position: relative;
+  width: 1.16vw;
+}
+
+.page--dystrybutor .name {
+  align-self: stretch;
+  letter-spacing: -0.02vw;
+  line-height: 1.46vw;
+  margin-top: -0.07vw;
+  position: relative;
+}
+
+.page--dystrybutor .star {
+  letter-spacing: 0;
+  line-height: 1.46vw;
+  margin-top: -0.07vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--dystrybutor .u7761719182_httpss {
+  aspect-ratio: 1.33;
+  position: relative;
+}
+}

@@ -1,0 +1,494 @@
+/* screen - pop-up-instalator */
+
+.pop-up-instalator {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 2.0vw;
+  overflow-x: hidden;
+  position: relative;
+}
+
+.pop-up-instalator .pop-up-instalator-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 2.0vw;
+  width: 100.0vw;
+}
+
+.pop-up-instalator .frame-36832 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--black-haze);
+  border-radius: 0.67vw;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 5.33vw;
+  padding: 6.67vw 8.67vw;
+  position: relative;
+  width: 100%;
+}
+
+.pop-up-instalator .frame-36731 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 2.0vw;
+  position: relative;
+  width: 33.33vw;
+}
+
+.pop-up-instalator .skontaktujemy-ci-z-tym-instalatorem {
+  align-self: stretch;
+  color: transparent;
+  font-family: var(--font-family-manrope);
+  font-size: 3.33vw;
+  font-weight: 600;
+  letter-spacing: -0.07vw;
+  line-height: 3.47vw;
+  margin-top: -0.07vw;
+  position: relative;
+}
+
+.pop-up-instalator .span0 {
+  color: var(--royal-blue);
+  letter-spacing: -0.03vw;
+}
+
+.pop-up-instalator .span1 {
+  letter-spacing: -0.03vw;
+}
+
+.pop-up-instalator .frame-36879 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 2.0vw;
+  position: relative;
+  width: 100%;
+}
+
+.pop-up-instalator .frame {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 1.33vw;
+  position: relative;
+  width: 100%;
+}
+
+.pop-up-instalator .wsppracujemy-z-naj {
+  align-self: stretch;
+  letter-spacing: -0.03vw;
+  line-height: 1.87vw;
+  margin-top: -0.07vw;
+  position: relative;
+}
+
+.pop-up-instalator .span0-1 {
+  letter-spacing: -0.01vw;
+}
+
+.pop-up-instalator .span1-1 {
+  color: #7f7f7f;
+  font-family: var(--font-family-manrope);
+  font-size: var(--font-size-xxxxl);
+  font-weight: 600;
+  letter-spacing: -0.01vw;
+}
+
+.pop-up-instalator .nasi-eksperci-znaj {
+  align-self: stretch;
+  color: var(--gravel);
+  font-family: var(--font-family-manrope);
+  font-size: var(--font-size-xxxl);
+  font-weight: 600;
+  letter-spacing: -0.02vw;
+  line-height: 1.47vw;
+  position: relative;
+}
+
+.pop-up-instalator .frame-36885 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 2.0vw;
+  position: relative;
+}
+
+.pop-up-instalator .frame-36881 {
+  align-items: center;
+  background-color: var(--white);
+  border: 0.07vw solid;
+  border-color: var(--cod-gray-2);
+  border-radius: 1.33vw;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 1.33vw;
+  justify-content: center;
+  padding: 1.67vw 2.0vw;
+  position: relative;
+}
+
+.pop-up-instalator .zadzwo-lub-wypenij-formularz {
+  align-self: stretch;
+  letter-spacing: -0.02vw;
+  line-height: 1.33vw;
+  margin-top: -0.07vw;
+  position: relative;
+  text-align: center;
+}
+
+.pop-up-instalator .frame-36814 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 1.33vw;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.pop-up-instalator .call_button_dark {
+  align-items: center;
+  background: linear-gradient(270deg, rgba(64, 100, 223, 0) 0%, rgba(64, 100, 223, 1) 100%);
+  border: 0.13vw solid;
+  border-color: var(--pumice);
+  border-radius: 2.0vw;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 0.67vw;
+  height: 3.47vw;
+  justify-content: center;
+  padding: 0.93vw 1.73vw;
+  position: relative;
+}
+
+.pop-up-instalator .frame-1 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.67vw;
+  justify-content: center;
+  margin-bottom: -0.2vw;
+  margin-top: -0.2vw;
+  position: relative;
+}
+
+.pop-up-instalator .vector {
+  aspect-ratio: 0.61;
+  height: 2.0vw;
+  position: relative;
+  width: 1.22vw;
+}
+
+.pop-up-instalator .x48-464-444-112 {
+  letter-spacing: 0.01vw;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+}
+
+.pop-up-instalator .frame-126 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: space-between;
+  padding: 0.0vw 20.0vw;
+  position: relative;
+  width: 100%;
+}
+
+.pop-up-instalator .vector-1 {
+  aspect-ratio: 0.92;
+  height: 5.33vw;
+  position: relative;
+  width: 4.93vw;
+}
+
+.pop-up-instalator .vector-2 {
+  aspect-ratio: 1.08;
+  height: 4.67vw;
+  position: relative;
+  width: 5.0vw;
+}
+
+.pop-up-instalator .vector-3 {
+  aspect-ratio: 1.06;
+  height: 4.0vw;
+  position: relative;
+  width: 4.2vw;
+}
+
+.pop-up-instalator .vector-4 {
+  aspect-ratio: 1.01;
+  height: 67.0vw;
+  left: calc(50.00% + 18.07vw);
+  position: absolute;
+  top: calc(50.00% - 43.27vw);
+  width: 67.67vw;
+}
+
+.pop-up-instalator .frame-36732 {
+  align-items: center;
+  background-color: var(--white);
+  border: 0.07vw solid;
+  border-color: var(--cod-gray-2);
+  border-radius: 1.33vw;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 1.33vw;
+  justify-content: center;
+  padding: 3.67vw 3.33vw;
+  position: relative;
+}
+
+.pop-up-instalator .frame-3683 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 1.33vw;
+  position: relative;
+  width: 100%;
+}
+
+.pop-up-instalator .input {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 0.07vw solid;
+  border-color: var(--cod-gray-2);
+  border-radius: 0.67vw;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  height: 3.53vw;
+  padding: 1.07vw 1.33vw;
+  position: relative;
+}
+
+.pop-up-instalator .frame-36727 {
+  align-items: center;
+  background-color: var(--white);
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.13vw;
+  position: relative;
+}
+
+.pop-up-instalator .label {
+  letter-spacing: 0;
+  line-height: 1.33vw;
+  margin-top: -0.07vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pop-up-instalator .star {
+  letter-spacing: 0;
+  line-height: 1.33vw;
+  margin-top: -0.07vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pop-up-instalator .star-1 {
+  letter-spacing: 0;
+  line-height: 1.33vw;
+  margin-top: -0.07vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pop-up-instalator .input_info {
+  align-items: center;
+  background-color: var(--white);
+  border: 0.07vw solid;
+  border-color: var(--cod-gray-2);
+  border-radius: 0.67vw;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  height: 3.47vw;
+  justify-content: space-between;
+  padding: 1.07vw 1.33vw;
+  position: relative;
+}
+
+.pop-up-instalator .frame-36727-1 {
+  background-color: var(--white);
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.pop-up-instalator .frame-36880 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.67vw;
+  position: relative;
+  width: 100%;
+}
+
+.pop-up-instalator .powtrz-kod-pocztowy-montau {
+  align-self: stretch;
+  color: var(--cod-gray);
+  font-family: var(--font-family-manrope);
+  font-size: var(--font-size-xl);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 1.33vw;
+  margin-top: -0.07vw;
+  position: relative;
+}
+
+.pop-up-instalator .frame-36885-1 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 0.67vw;
+  position: relative;
+  width: 100%;
+}
+
+.pop-up-instalator .frame-3688 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.67vw;
+  position: relative;
+}
+
+.pop-up-instalator .input-1 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 0.07vw solid;
+  border-color: var(--cod-gray-2);
+  border-radius: 0.67vw;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.67vw;
+  padding: 1.07vw 1.33vw;
+  position: relative;
+}
+
+.pop-up-instalator .frame-36735 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  position: relative;
+  width: 100%;
+}
+
+.pop-up-instalator .radio_select_2 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.67vw;
+  height: 3.33vw;
+  position: relative;
+}
+
+.pop-up-instalator .group-62 {
+  aspect-ratio: 1;
+  border: 0.13vw solid;
+  border-color: var(--celeste);
+  border-radius: 0.8vw;
+  height: 1.6vw;
+  position: relative;
+  width: 1.6vw;
+}
+
+.pop-up-instalator .x1-fazowe-230-v-50-hz {
+  letter-spacing: 0;
+  line-height: 1.33vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pop-up-instalator .span1-2 {
+  text-decoration: underline;
+}
+
+.pop-up-instalator .frame-36835 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: flex-end;
+  position: relative;
+  width: 100%;
+}
+
+.pop-up-instalator .krok {
+  align-items: center;
+  background: linear-gradient(90deg, rgba(10, 10, 10, 1) 0%, rgba(64, 100, 223, 1) 100%);
+  border-radius: 2.0vw;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.67vw;
+  padding: 1.0vw 1.73vw;
+  position: relative;
+}
+
+.pop-up-instalator .dalej {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.13vw;
+  position: relative;
+  width: fit-content;
+}
+
+.pop-up-instalator .arrow_right {
+  height: 1.27vw;
+  margin-right: -0.08vw;
+  position: relative;
+  width: 1.41vw;
+}
+
+.pop-up-instalator .close_on_white {
+  aspect-ratio: 1;
+  height: 3.33vw;
+  position: absolute;
+  right: 2.0vw;
+  top: 2.0vw;
+  width: 3.33vw;
+}
+
+.pop-up-instalator .frame-36727-3 {
+  align-items: center;
+  gap: 0.13vw;
+  position: relative;
+}
+
+.pop-up-instalator .label-6 {
+  letter-spacing: 0;
+  line-height: 1.33vw;
+  margin-top: -0.07vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}

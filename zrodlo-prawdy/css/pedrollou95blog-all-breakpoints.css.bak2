@@ -1,0 +1,1917 @@
+/* Blog: mobile (360) + desktop (1366), 2 bloki */
+
+@media screen and (max-width: 767px) {
+  .page--blog { display: none !important; }
+  .screen.pedrollou95blogu951366px { display: none !important; }
+}
+/* screen - pedrollou95blogu95360px (mobile) */
+
+.page--blog-mobile {
+  align-items: flex-start;
+  background-color: var(--cod-gray);
+  display: flex;
+  flex-direction: column;
+  min-width: 100.0vw;
+  position: relative;
+}
+
+.page--blog-mobile .menu_2 {
+  align-self: stretch;
+  height: 21.67vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--blog-mobile .konsultacja {
+  align-items: center;
+  align-self: stretch;
+  background-image: url(../img/frame-3673324-1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  gap: 2.78vw;
+  height: 116.67vw;
+  justify-content: center;
+  padding: 0.0vw 40.0vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--blog-mobile .ellipse-2 {
+  height: 225.83vw;
+  left: 0;
+  position: absolute;
+  top: -21.67vw;
+  width: 100.0vw;
+}
+
+.page--blog-mobile .frame-3673416 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 2.5vw;
+  padding: 0.0vw 0.0vw 20.0vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--blog-mobile .zanurz-si-w-wiecie-pomp {
+  align-self: stretch;
+  color: var(--concrete);
+  font-family: var(--font-family-manrope);
+  font-size: 8.33vw;
+  font-weight: 600;
+  letter-spacing: -0.17vw;
+  line-height: 9.44vw;
+  margin-top: -0.28vw;
+  position: relative;
+  text-align: center;
+}
+
+.page--blog-mobile .profesjonalne-porady {
+  align-self: stretch;
+  color: var(--white);
+  font-family: var(--font-family-manrope);
+  font-size: var(--font-size-m);
+  font-weight: 600;
+  letter-spacing: -0.1vw;
+  line-height: 6.94vw;
+  position: relative;
+  text-align: center;
+}
+
+.page--blog-mobile .arrow::before {
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  background: linear-gradient(180deg, rgba(64, 100, 223, 1) 0%, rgba(201, 201, 201, 1) 100%);
+  border-radius: 8.33vw;
+  content: '';
+  inset: 0;
+  mask-composite: exclude;
+  padding: 0.56vw;
+  pointer-events: none;
+  position: absolute;
+  z-index: 1;
+}
+
+.page--blog-mobile .arrow {
+  align-items: center;
+  aspect-ratio: 1;
+  border: none;
+  border-radius: 8.33vw;
+  display: flex;
+  gap: 2.78vw;
+  height: 11.11vw;
+  justify-content: center;
+  padding: 2.78vw;
+  position: relative;
+  transform: rotate(90.00deg);
+  width: 11.11vw;
+}
+
+.page--blog-mobile .frame-76 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 2.78vw;
+  padding: 0.0vw 0.0vw 0.0vw 0.83vw;
+  position: relative;
+}
+
+.page--blog-mobile .line-8 {
+  height: 2.53vw;
+  margin-left: -1.14vw;
+  margin-right: -1.33vw;
+  position: relative;
+  transform: rotate(-90.00deg);
+  width: 4.41vw;
+}
+
+.page--blog-mobile .frame-6581 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--black-haze);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 11.11vw;
+  padding: 8.33vw 5.56vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--blog-mobile .frame-36866 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 11.11vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--blog-mobile .frame-6602 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 11.11vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--blog-mobile .frame-6598 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 5.56vw;
+  position: relative;
+}
+
+.page--blog-mobile .frame {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 5.56vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--blog-mobile .frame-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 2.78vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--blog-mobile .dobry-tytu-wietnej-treci {
+  align-self: stretch;
+  letter-spacing: -0.14vw;
+  line-height: 9.72vw;
+  margin-top: -0.28vw;
+  position: relative;
+}
+
+.page--blog-mobile .krtka-zajawka-krtk {
+  align-self: stretch;
+  letter-spacing: -0.09vw;
+  line-height: 6.67vw;
+  position: relative;
+}
+
+.page--blog-mobile .button_to_dark_white {
+  align-items: center;
+  background: linear-gradient(270deg, rgba(255, 255, 255, 1) 0%, rgba(64, 100, 223, 1) 100%);
+  border: 0.28vw solid;
+  border-color: var(--pumice);
+  border-radius: 8.33vw;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 2.78vw;
+  justify-content: center;
+  padding: 3.89vw 7.22vw;
+  position: relative;
+}
+
+.page--blog-mobile .kontakt-z-doradc {
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.page--blog-mobile .frame-660 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 8.33vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--blog-mobile .frame-6603 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 16.67vw;
+  justify-content: space-around;
+  position: relative;
+  width: 100%;
+}
+
+.page--blog-mobile .frame-6598-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 5.56vw;
+  position: relative;
+}
+
+.page--blog-mobile .rectangle-1106-1 {
+  align-self: stretch;
+  aspect-ratio: 1.78;
+  object-fit: cover;
+  position: relative;
+  width: 100%;
+}
+
+.page--blog-mobile .frame-36842 {
+  align-items: center;
+  align-self: stretch;
+  border-color: var(--pumice);
+  border-top-style: solid;
+  border-top-width: 0.28vw;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 2.78vw;
+  padding: 5.56vw 0.0vw 0.0vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--blog-mobile .more_2 {
+  align-items: center;
+  background: linear-gradient(270deg, rgba(248, 248, 248, 1) 0%, rgba(64, 100, 223, 1) 100%);
+  border: 0.28vw solid;
+  border-color: var(--pumice);
+  border-radius: 8.33vw;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 2.78vw;
+  justify-content: center;
+  padding: 4.17vw 7.22vw;
+  position: relative;
+}
+
+.page--blog-mobile .wicej {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.28vw;
+  position: relative;
+  width: fit-content;
+}
+
+.page--blog-mobile .arrow_down {
+  height: 5.89vw;
+  position: relative;
+  width: 5.28vw;
+}
+
+.page--blog-mobile .footer_desktop {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.page--blog-mobile .frame-6613 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--white);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 5.56vw;
+  padding: 11.11vw 5.56vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--blog-mobile .frame-36731 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 2.78vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--blog-mobile .zapytaj-o-pomp {
+  align-self: stretch;
+  color: var(--cod-gray);
+  font-family: var(--font-family-manrope);
+  font-size: 8.33vw;
+  font-weight: 600;
+  letter-spacing: -0.25vw;
+  line-height: 8.89vw;
+  margin-top: -0.28vw;
+  position: relative;
+  text-align: center;
+}
+
+.page--blog-mobile .opowiedz-nam-o-swoic {
+  align-self: stretch;
+  color: var(--cod-gray);
+  font-family: var(--font-family-manrope);
+  font-size: var(--font-size-xxs);
+  font-weight: 500;
+  letter-spacing: -0.08vw;
+  line-height: 6.39vw;
+  position: relative;
+  text-align: center;
+}
+
+.page--blog-mobile .input-1 {
+  height: 55.56vw;
+}
+
+.page--blog-mobile .frame-36727 {
+  align-items: center;
+  background-color: var(--white);
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.56vw;
+  position: relative;
+}
+
+.page--blog-mobile .label-2 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.28vw;
+}
+
+.page--blog-mobile .star {
+  letter-spacing: 0;
+  line-height: 5.56vw;
+  margin-top: -0.28vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--blog-mobile .input {
+  height: 14.72vw;
+}
+
+.page--blog-mobile .label {
+  letter-spacing: 0;
+  line-height: 5.28vw;
+  margin-top: -0.14vw;
+  white-space: nowrap;
+}
+
+.page--blog-mobile .frame-6589 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--white);
+  border: 0.28vw solid;
+  border-color: var(--cod-gray-2);
+  border-radius: 2.78vw;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 2.78vw;
+  height: 14.72vw;
+  justify-content: center;
+  padding: 4.72vw 5.56vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--blog-mobile .frame-6397 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: space-between;
+  position: relative;
+  width: 100%;
+}
+
+.page--blog-mobile .jestem {
+  color: var(--cod-gray);
+  font-family: var(--font-family-manrope);
+  font-size: var(--font-size-xs);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 5.28vw;
+  margin-top: -0.28vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--blog-mobile .arrow_down-1 {
+  height: 1.78vw;
+  position: relative;
+  width: 4.17vw;
+}
+
+.page--blog-mobile .arrow_down-2 {
+  height: 132.36%;
+  left: -4.32%;
+  position: absolute;
+  top: -11.85%;
+  width: 108.65%;
+}
+
+.page--blog-mobile .label-3 {
+  letter-spacing: 0;
+  line-height: 5.28vw;
+  margin-top: -0.28vw;
+  white-space: nowrap;
+}
+
+.page--blog-mobile .radio_select_2 {
+  align-items: center;
+  display: inline-flex;
+  gap: 2.78vw;
+  height: 13.89vw;
+  position: relative;
+}
+
+.page--blog-mobile .group-62 {
+  aspect-ratio: 1;
+  border: 0.56vw solid;
+  border-color: var(--celeste);
+  border-radius: 3.33vw;
+  height: 6.67vw;
+  position: relative;
+  width: 6.67vw;
+}
+
+.page--blog-mobile .x1-fazowe-230-v-50-hz {
+  color: var(--cod-gray);
+  font-family: var(--font-family-manrope);
+  font-size: 3.33vw;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 5.56vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--blog-mobile .button_to_white {
+  background: linear-gradient(270deg, rgba(64, 100, 223, 1) 0%, rgba(255, 255, 255, 1) 100%);
+}
+
+.page--blog-mobile .wylij {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.83vw;
+  position: relative;
+  width: fit-content;
+}
+
+.page--blog-mobile .arrow_right-1 {
+  margin-bottom: -0.14vw;
+  margin-top: -0.14vw;
+}
+
+.page--blog-mobile .frame-78 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 11.11vw;
+  padding: 11.11vw 5.56vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--blog-mobile .ellipse-2-1 {
+  height: 402.22vw;
+  left: calc(50.00% - 50.0vw);
+  position: absolute;
+  top: calc(50.00% - 195.83vw);
+  width: 2.78vw;
+}
+
+.page--blog-mobile .frame-36738 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 2.78vw;
+  position: relative;
+}
+
+.page--blog-mobile .group-1 {
+  height: 10.83vw;
+  position: relative;
+  width: 47.27vw;
+}
+
+.page--blog-mobile .polska {
+  letter-spacing: -0.11vw;
+  line-height: 13.89vw;
+  margin-top: -0.28vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--blog-mobile .tworzymy-przyszo {
+  align-self: stretch;
+  color: var(--white);
+  font-family: var(--font-family-manrope);
+  font-size: var(--font-size-xxs);
+  font-weight: 500;
+  letter-spacing: -0.08vw;
+  line-height: 6.39vw;
+  position: relative;
+}
+
+.page--blog-mobile .button_to_white-1 {
+  background: linear-gradient(90deg, rgba(64, 100, 223, 1) 0%, rgba(64, 100, 223, 0.15) 100%);
+  border: 0.28vw solid;
+  border-color: var(--royal-blue);
+}
+
+.page--blog-mobile .strefa-partnera {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.56vw;
+  position: relative;
+  width: fit-content;
+}
+
+.page--blog-mobile .frame-36742 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8.33vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--blog-mobile .raz-kupujesz-bez-koca-pompujesz {
+  align-self: stretch;
+  letter-spacing: -0.17vw;
+  line-height: 11.11vw;
+  margin-top: -0.28vw;
+  position: relative;
+}
+
+.page--blog-mobile .frame-3674 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 1.94vw;
+  justify-content: center;
+  position: relative;
+}
+
+.page--blog-mobile .elektryczna-pompa-gbinowa {
+  letter-spacing: -0.07vw;
+  line-height: 6.11vw;
+  margin-top: -0.28vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--blog-mobile .frame-3674-1 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.page--blog-mobile .label_-menu_footer {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 2.78vw;
+  padding: 0.56vw 0.0vw;
+  position: relative;
+}
+
+.page--blog-mobile .frame-33 {
+  align-items: center;
+  border-bottom-style: solid;
+  border-bottom-width: 0.28vw;
+  border-color: transparent;
+  border-image: linear-gradient(90deg, rgba(64, 100, 223, 1) 0%, rgba(64, 100, 223, 0) 100%) 1;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 2.78vw;
+  padding: 1.11vw 0.0vw;
+  position: relative;
+}
+
+.page--blog-mobile .label-1 {
+  letter-spacing: 0.04vw;
+  line-height: normal;
+  margin-top: -0.28vw;
+}
+
+.page--blog-mobile .na-skrty {
+  letter-spacing: -0.07vw;
+  line-height: 6.11vw;
+  margin-top: -0.28vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--blog-mobile .frame-36747 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 4.17vw;
+  position: relative;
+}
+
+.page--blog-mobile .kontakt-z-nami {
+  letter-spacing: -0.07vw;
+  line-height: 6.11vw;
+  white-space: nowrap;
+}
+
+.page--blog-mobile .frame-36748 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 2.78vw;
+  justify-content: center;
+  padding: 1.67vw 0.0vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--blog-mobile .dachowa-43-a-96-500-sochaczew {
+  flex: 1;
+  letter-spacing: 0.04vw;
+  line-height: normal;
+  margin-top: -0.28vw;
+  position: relative;
+}
+
+.page--blog-mobile .dobr-pomp {
+  letter-spacing: -0.07vw;
+  line-height: 6.67vw;
+  margin-top: -0.28vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--blog-mobile .social_media {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 2.78vw;
+  padding: 1.39vw 0.0vw;
+  position: relative;
+}
+
+.page--blog-mobile .social_media-item {
+  height: 7.78vw;
+  position: relative;
+  width: 7.78vw;
+}
+
+.page--blog-mobile .linkedin {
+  align-items: center;
+  display: flex;
+  gap: 2.78vw;
+  height: 7.78vw;
+  justify-content: center;
+  padding: 1.11vw;
+  position: relative;
+  width: 7.78vw;
+}
+
+.page--blog-mobile .subtract {
+  aspect-ratio: 1;
+  height: 5.0vw;
+  position: relative;
+  width: 5.0vw;
+}
+
+.page--blog-mobile .x2025-pedrollo-polityka-prywatnoci {
+  height: 3.16vw;
+  position: relative;
+  width: 52.25vw;
+}
+
+.page--blog-mobile .arrow_right-2 {
+  height: 5.28vw;
+  margin-right: -0.33vw;
+  position: relative;
+  width: 5.88vw;
+}
+
+.page--blog-mobile .button_to_white-2 {
+  align-items: center;
+  border-radius: 8.33vw;
+  display: inline-flex;
+  gap: 2.78vw;
+  height: 12.78vw;
+  justify-content: center;
+  padding: 3.89vw 7.22vw;
+  position: relative;
+}
+
+.page--blog-mobile .input-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--white);
+  border: 0.28vw solid;
+  border-color: var(--cod-gray-2);
+  border-radius: 2.78vw;
+  display: flex;
+  padding: 4.44vw 5.56vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--blog-mobile .kontakt-z {
+  margin-top: -0.28vw;
+  position: relative;
+  width: fit-content;
+}
+
+.page--blog-mobile .kontakt-z-doradc-4 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.28vw;
+  position: relative;
+  width: fit-content;
+}
+
+.page--blog-mobile .label-4 {
+  position: relative;
+  width: fit-content;
+}
+}
+
+@media screen and (min-width: 768px) {
+  .page--blog-mobile { display: none !important; }
+
+/* screen - pedrollou95blogu951366px */
+
+.page--blog {
+  align-items: flex-start;
+  background-color: var(--cod-gray);
+  display: flex;
+  flex-direction: column;
+  min-width: 100.0vw;
+  position: relative;
+}
+
+/* Header desktop – 1:1 jak oryginał TVr8o .pedrollou95blogu951366px .frame-3673324 + width/position */
+.page--blog .frame-3673324 {
+  align-items: center;
+  align-self: stretch;
+  background-image: url(../img/frame-3673324-1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  gap: 0.73vw;
+  height: 33.09vw;
+  justify-content: center;
+  padding: 6.59vw 4.39vw 0.0vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--blog .menu_2-3 {
+  -webkit-backdrop-filter: blur(0.18vw) brightness(100%);
+  align-items: flex-start;
+  backdrop-filter: blur(0.18vw) brightness(100%);
+  display: flex;
+  flex-direction: column;
+  height: 5.86vw;
+  justify-content: center;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100.0vw;
+}
+
+.page--blog .frame-27-1 {
+  align-items: center;
+  align-self: stretch;
+  border-bottom-style: solid;
+  border-bottom-width: 0.07vw;
+  border-color: var(--white-2);
+  display: flex;
+  gap: 3.66vw;
+  height: 7.32vw;
+  margin-bottom: -0.73vw;
+  margin-top: -0.73vw;
+  padding: 0.0vw 40.0vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--blog .group-1-3 {
+  aspect-ratio: 4.36;
+  height: 2.02vw;
+  position: relative;
+  width: 8.8vw;
+}
+
+.page--blog .frame-2-2 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  justify-content: space-between;
+  position: relative;
+}
+
+.page--blog .frame-6-1 {
+  align-items: center;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 1.46vw;
+  position: relative;
+}
+
+.page--blog .menu-hover-1 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.73vw;
+  height: 7.32vw;
+  position: relative;
+}
+
+.page--blog .frame-33-4 {
+  gap: 0.37vw;
+  height: 7.17vw;
+}
+
+.page--blog .elektryczna-pompa-gbinowa-4-sr-s {
+  letter-spacing: 0.01vw;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+}
+
+.page--blog .arrow_down-9 {
+  aspect-ratio: 2.34;
+  height: 0.37vw;
+  position: relative;
+  width: 0.88vw;
+}
+
+.page--blog .arrow_down-10 {
+  height: 141.37%;
+  left: -5.34%;
+  position: absolute;
+  top: -15.35%;
+  width: 110.68%;
+}
+
+.page--blog .oferta-dla-partnerw {
+  letter-spacing: 0.01vw;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+}
+
+.page--blog .o-nas {
+  letter-spacing: 0.01vw;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+}
+
+.page--blog .frame-33-6 {
+  gap: 0.73vw;
+  height: 7.17vw;
+}
+
+.page--blog .kontakt {
+  letter-spacing: 0.01vw;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+}
+
+.page--blog .frame-25-1 {
+  height: 7.32vw;
+  position: relative;
+  width: 4.25vw;
+}
+
+.page--blog .frame-5-1 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.73vw;
+  margin-left: -2.79vw;
+  position: relative;
+}
+
+.page--blog .call_button-1::before {
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  background: linear-gradient(90deg, rgba(64, 100, 223, 1) 0%, rgba(55, 55, 55, 1) 100%);
+  border-radius: 2.2vw;
+  content: '';
+  inset: 0;
+  mask-composite: exclude;
+  padding: 0.15vw;
+  pointer-events: none;
+  position: absolute;
+  z-index: 1;
+}
+
+.page--blog .call_button-1 {
+  align-items: center;
+  background: linear-gradient(90deg, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 255, 0) 100%);
+  border: none;
+  border-radius: 2.2vw;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.73vw;
+  height: 3.07vw;
+  justify-content: center;
+  padding: 1.02vw 1.9vw;
+  position: relative;
+}
+
+.page--blog .frame-1-2 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.73vw;
+  justify-content: center;
+  margin-bottom: -0.29vw;
+  margin-top: -0.29vw;
+  position: relative;
+}
+
+.page--blog .vector-3 {
+  aspect-ratio: 0.61;
+  height: 1.46vw;
+  position: relative;
+  width: 0.88vw;
+}
+
+.page--blog .phone-1 {
+  letter-spacing: 0.01vw;
+  line-height: normal;
+  margin-top: -0.07vw;
+  position: relative;
+  width: fit-content;
+}
+
+.page--blog .dobierz_pompe-1 {
+  align-items: center;
+  background-color: var(--royal-blue);
+  border-radius: 2.2vw;
+  display: flex;
+  gap: 1.46vw;
+  height: 3.07vw;
+  padding: 0.73vw 4.17vw 0.73vw 1.32vw;
+  position: relative;
+  width: 13.47vw;
+}
+
+.page--blog .frame-4-1 {
+  align-items: center;
+  background-color: var(--concrete);
+  border-radius: 2.2vw;
+  display: flex;
+  flex-direction: column;
+  gap: 0.73vw;
+  height: 2.93vw;
+  justify-content: center;
+  left: 10.47vw;
+  padding: 0.73vw 0.95vw;
+  position: absolute;
+  top: 0.07vw;
+  width: 2.93vw;
+}
+
+.page--blog .group-3-1 {
+  aspect-ratio: 1.6;
+  height: 0.59vw;
+  position: relative;
+  width: 0.94vw;
+}
+
+.page--blog .vector-4 {
+  height: 116.26%;
+  left: 66.78%;
+  position: absolute;
+  top: -8.13%;
+  width: 42.80%;
+}
+
+.page--blog .vector-5 {
+  height: 25.00%;
+  left: -7.79%;
+  position: absolute;
+  top: 37.50%;
+  width: 107.78%;
+}
+
+.page--blog .dobierz-pomp-1 {
+  letter-spacing: -0.02vw;
+  line-height: normal;
+  margin-right: -0.59vw;
+  margin-top: -0.07vw;
+  position: relative;
+  width: fit-content;
+}
+
+.page--blog .ellipse-2-6 {
+  height: 63.76vw;
+  left: calc(50.00% - 46.05vw);
+  position: absolute;
+  top: calc(50.00% - 16.54vw);
+  width: 92.17vw;
+}
+
+.page--blog .konsultacja-3 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.73vw;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.page--blog .frame-3673416-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0.0vw 0.0vw 40.0vw;
+  position: relative;
+}
+
+.page--blog .zanurz-si-w-wiecie-pomp-3 {
+  color: var(--concrete);
+  font-family: var(--font-family-manrope);
+  font-size: 4.39vw;
+  font-weight: 600;
+  height: 7.32vw;
+  letter-spacing: -0.09vw;
+  line-height: 5.86vw;
+  margin-top: -0.07vw;
+  position: relative;
+  text-align: center;
+  width: 80.53vw;
+}
+
+.page--blog .profesjonalne-porady-3 {
+  letter-spacing: -0.03vw;
+  line-height: 1.9vw;
+  position: relative;
+  text-align: center;
+  width: 80.53vw;
+}
+
+.page--blog .arrow-3::before {
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  background: linear-gradient(180deg, rgba(64, 100, 223, 1) 0%, rgba(201, 201, 201, 1) 100%);
+  border-radius: 2.2vw;
+  content: '';
+  inset: 0;
+  mask-composite: exclude;
+  padding: 0.15vw;
+  pointer-events: none;
+  position: absolute;
+  z-index: 1;
+}
+
+.page--blog .arrow-3 {
+  align-items: center;
+  border: none;
+  border-radius: 2.2vw;
+  display: flex;
+  gap: 0.73vw;
+  height: 4.39vw;
+  justify-content: center;
+  padding: 0.73vw;
+  position: relative;
+  transform: rotate(90.00deg);
+  width: 4.39vw;
+}
+
+.page--blog .frame-76-3 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.73vw;
+  padding: 0.0vw 0.0vw 0.0vw 0.22vw;
+  position: relative;
+}
+
+.page--blog .line-8-3 {
+  height: 0.67vw;
+  margin-left: -0.3vw;
+  margin-right: -0.35vw;
+  position: relative;
+  transform: rotate(-90.00deg);
+  width: 1.16vw;
+}
+
+.page--blog .frame-6581-3 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--black-haze);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 5.86vw;
+  padding: 5.12vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--blog .frame-36866-2 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 4.39vw;
+  position: relative;
+  width: 70.77vw;
+}
+
+.page--blog .frame-6606-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 4.39vw;
+  height: 40.26vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--blog .frame-6602-3 {
+  align-items: flex-start;
+  gap: 2.93vw;
+}
+
+.page--blog .frame-6598-5 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 2.2vw;
+  position: relative;
+}
+
+.page--blog .frame-660-4 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 2.2vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--blog .frame-7 {
+  align-items: flex-start;
+  flex: 0 0 auto;
+  gap: 1.46vw;
+}
+
+.page--blog .dobry-tytu-wietnej-treci-3 {
+  align-self: stretch;
+  letter-spacing: -0.05vw;
+  line-height: 3.29vw;
+  margin-top: -0.07vw;
+  position: relative;
+}
+
+.page--blog .krtka-zajawka-krtk-3 {
+  align-self: stretch;
+  letter-spacing: -0.03vw;
+  line-height: 2.49vw;
+  position: relative;
+}
+
+.page--blog .button_to_dark_white-3 {
+  align-items: center;
+  background: linear-gradient(270deg, rgba(255, 255, 255, 1) 0%, rgba(64, 100, 223, 1) 100%);
+  border: 0.07vw solid;
+  border-color: var(--pumice);
+  border-radius: 2.2vw;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.73vw;
+  justify-content: center;
+  padding: 1.02vw 1.9vw;
+  position: relative;
+}
+
+.page--blog .frame-6603-3 {
+  gap: 4.39vw;
+  height: 40.26vw;
+  justify-content: space-around;
+}
+
+.page--blog .frame-6607-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 4.39vw;
+  height: 40.26vw;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.page--blog .frame-6603-4 {
+  gap: 2.2vw;
+}
+
+.page--blog .frame-6602-4 {
+  align-items: center;
+  gap: 4.39vw;
+}
+
+.page--blog .rectangle-1106-7 {
+  object-fit: cover;
+}
+
+.page--blog .frame-36842-3 {
+  align-items: center;
+  align-self: stretch;
+  border-color: var(--pumice);
+  border-top-style: solid;
+  border-top-width: 0.07vw;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.73vw;
+  padding: 3.66vw 0.0vw 0.0vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--blog .more_2-3 {
+  align-items: center;
+  background: linear-gradient(270deg, rgba(248, 248, 248, 1) 0%, rgba(64, 100, 223, 1) 100%);
+  border: 0.07vw solid;
+  border-color: var(--pumice);
+  border-radius: 2.2vw;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.73vw;
+  justify-content: center;
+  padding: 1.1vw 1.9vw;
+  position: relative;
+}
+
+.page--blog .wicej-3 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.07vw;
+  position: relative;
+  width: fit-content;
+}
+
+.page--blog .arrow_down-11 {
+  height: 1.55vw;
+  position: relative;
+  width: 1.39vw;
+}
+
+.page--blog .footer_desktop-3 {
+  align-self: stretch;
+  height: 102.12vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--blog .frame-6613-3 {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  gap: 2.93vw;
+  height: 55.70%;
+  left: 0;
+  padding: 4.39vw 16.84vw;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+
+.page--blog .frame-36731-3 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 1.46vw;
+  margin-left: -13.07vw;
+  margin-right: -13.07vw;
+  position: relative;
+}
+
+.page--blog .zapytaj-o-pomp-3 {
+  color: var(--cod-gray);
+  font-family: var(--font-family-manrope);
+  font-size: 3.66vw;
+  font-weight: 600;
+  letter-spacing: -0.11vw;
+  line-height: 3.81vw;
+  margin-top: -0.07vw;
+  position: relative;
+  text-align: center;
+  width: 92.46vw;
+}
+
+.page--blog .opowiedz-nam-o-swoic-3 {
+  letter-spacing: -0.03vw;
+  line-height: 1.98vw;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.page--blog .input-7 {
+  align-self: stretch;
+  height: 14.64vw;
+  width: 100%;
+}
+
+.page--blog .frame-36727-3 {
+  align-items: center;
+  background-color: var(--white);
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.15vw;
+  position: relative;
+}
+
+.page--blog .label-14 {
+  letter-spacing: 0;
+  line-height: 1.46vw;
+  white-space: nowrap;
+}
+
+.page--blog .frame-367-6 {
+  display: flex;
+  gap: 1.46vw;
+  width: 100%;
+}
+
+.page--blog .input-6 {
+  flex: 1;
+  flex-grow: 1;
+  height: 3.88vw;
+}
+
+.page--blog .label-15 {
+  letter-spacing: 0;
+  line-height: 1.46vw;
+  white-space: nowrap;
+}
+
+.page--blog .frame-6589-3 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 0.07vw solid;
+  border-color: var(--cod-gray-2);
+  border-radius: 0.73vw;
+  cursor: pointer;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 0.73vw;
+  height: 3.88vw;
+  justify-content: center;
+  padding: 1.24vw 1.46vw;
+  position: relative;
+}
+
+.page--blog .frame-6397-3 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: space-between;
+  margin-bottom: -0.04vw;
+  margin-top: -0.04vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--blog .jestem-3 {
+  color: var(--cod-gray);
+  font-family: var(--font-family-manrope);
+  font-size: 1.24vw;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 1.46vw;
+  margin-top: -0.07vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--blog .arrow_down-12 {
+  height: 0.47vw;
+  position: relative;
+  width: 1.1vw;
+}
+
+.page--blog .arrow_down-13 {
+  height: 132.36%;
+  left: -4.32%;
+  position: absolute;
+  top: -11.85%;
+  width: 108.65%;
+}
+
+.page--blog .label-16 {
+  letter-spacing: 0;
+  line-height: 1.46vw;
+  white-space: nowrap;
+}
+
+.page--blog .label-17 {
+  letter-spacing: 0;
+  line-height: 1.46vw;
+  white-space: nowrap;
+}
+
+.page--blog .frame-367-7 {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.page--blog .radio_select_2-3 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.73vw;
+  height: 3.66vw;
+  position: relative;
+}
+
+.page--blog .group-62-3 {
+  aspect-ratio: 1;
+  border: 0.15vw solid;
+  border-color: var(--celeste);
+  border-radius: 0.88vw;
+  height: 1.76vw;
+  position: relative;
+  width: 1.76vw;
+}
+
+.page--blog .x1-fazowe-230-v-50-hz-3 {
+  color: var(--cod-gray);
+  font-family: var(--font-family-manrope);
+  font-size: var(--font-size-xs);
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 1.46vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--blog .button_to_white-4 {
+  background: linear-gradient(270deg, rgba(64, 100, 223, 1) 0%, rgba(255, 255, 255, 1) 100%);
+  flex: 0 0 auto;
+}
+
+.page--blog .wylij-2 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -0.15vw;
+  margin-top: -0.44vw;
+  position: relative;
+  width: fit-content;
+}
+
+.page--blog .arrow_right-7 {
+  margin-bottom: -0.18vw;
+  margin-top: -0.18vw;
+}
+
+.page--blog .frame-78-3 {
+  align-items: flex-start;
+  display: flex;
+  gap: 7.32vw;
+  height: 44.30%;
+  left: 0;
+  padding: 5.12vw 11.71vw;
+  position: absolute;
+  top: 55.70%;
+  width: 100%;
+}
+
+.page--blog .ellipse-2-7 {
+  height: 45.24vw;
+  left: calc(50.00% - 50.0vw);
+  position: absolute;
+  top: calc(50.00% - 22.62vw);
+  width: 37.55vw;
+}
+
+.page--blog .frame-367-8 {
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.page--blog .frame-36750-1 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 3.66vw;
+  position: relative;
+}
+
+.page--blog .frame-36738-3 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.73vw;
+  position: relative;
+}
+
+.page--blog .group-1-4 {
+  height: 2.86vw;
+  position: relative;
+  width: 12.46vw;
+}
+
+.page--blog .polska-3 {
+  letter-spacing: -0.03vw;
+  line-height: 3.66vw;
+  margin-top: -0.07vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--blog .tworzymy-przyszo-3 {
+  color: var(--white);
+  font-family: var(--font-family-manrope);
+  font-size: var(--font-size-s);
+  font-weight: 500;
+  letter-spacing: -0.02vw;
+  line-height: 1.83vw;
+  position: relative;
+  width: fit-content;
+}
+
+.page--blog .frame-36749-1 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 2.2vw;
+  position: relative;
+}
+
+.page--blog .frame-36737-3 {
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.page--blog .button_to_white-5 {
+  background: linear-gradient(90deg, rgba(64, 100, 223, 1) 0%, rgba(64, 100, 223, 0.15) 100%);
+  border: 0.07vw solid;
+  border-color: var(--royal-blue);
+}
+
+.page--blog .strefa-partnera-2 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -0.22vw;
+  margin-top: -0.37vw;
+  position: relative;
+  width: fit-content;
+}
+
+.page--blog .frame-36742-2 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 4.39vw;
+  position: relative;
+}
+
+.page--blog .raz-kupujesz-bez-koca-pompujesz-3 {
+  letter-spacing: -0.04vw;
+  line-height: 2.93vw;
+  margin-top: -0.07vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--blog .frame-3674-6 {
+  gap: 0.51vw;
+  justify-content: center;
+}
+
+.page--blog .elektryczna-pompa-gbinowa-3 {
+  letter-spacing: -0.02vw;
+  line-height: 1.61vw;
+  margin-top: -0.07vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--blog .frame-3674-7 {
+  gap: 0.22vw;
+}
+
+.page--blog .label_-menu_footer-3 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.73vw;
+  padding: 0.15vw 0.0vw;
+  position: relative;
+}
+
+.page--blog .frame-33-5 {
+  gap: 0.73vw;
+  padding: 0.29vw 0.0vw;
+}
+
+.page--blog .label-13 {
+  letter-spacing: 0.01vw;
+  line-height: normal;
+}
+
+.page--blog .na-skrty-3 {
+  letter-spacing: -0.02vw;
+  line-height: 1.61vw;
+  margin-top: -0.07vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--blog .kontakt-z-nami-3 {
+  letter-spacing: -0.02vw;
+  line-height: 1.61vw;
+  margin-top: -0.07vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--blog .frame-36746-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.page--blog .frame-36748-3 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 0.73vw;
+  justify-content: center;
+  padding: 0.44vw 0.0vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--blog .dachowa-43-a-96-500-sochaczew-3 {
+  flex: 1;
+  letter-spacing: 0.01vw;
+  line-height: normal;
+  margin-top: -0.07vw;
+  position: relative;
+}
+
+.page--blog .dobr-pomp-3 {
+  letter-spacing: -0.02vw;
+  line-height: 1.76vw;
+  margin-top: -0.07vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--blog .social_media-3 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.73vw;
+  padding: 0.37vw 0.0vw;
+  position: relative;
+}
+
+.page--blog .social_media-item-3 {
+  height: 2.05vw;
+  position: relative;
+  width: 2.05vw;
+}
+
+.page--blog .linkedin-3 {
+  align-items: center;
+  display: flex;
+  gap: 0.73vw;
+  height: 2.05vw;
+  justify-content: center;
+  padding: 0.29vw;
+  position: relative;
+  width: 2.05vw;
+}
+
+.page--blog .subtract-3 {
+  aspect-ratio: 1;
+  height: 1.32vw;
+  position: relative;
+  width: 1.32vw;
+}
+
+.page--blog .x2025-pedrollo-polityka-prywatnoci-2 {
+  height: 0.91vw;
+  position: relative;
+  width: 15.02vw;
+}
+
+.page--blog .arrow_right {
+  height: 1.39vw;
+  margin-right: -0.09vw;
+  position: relative;
+  width: 1.55vw;
+}
+
+.page--blog .button_to_white {
+  align-items: center;
+  border-radius: 2.2vw;
+  display: inline-flex;
+  gap: 0.73vw;
+  height: 3.07vw;
+  justify-content: center;
+  padding: 1.02vw 1.9vw;
+  position: relative;
+}
+
+/* Ogólna reguła .frame – nie stosować do headera .frame-3673324 (ma własny układ) */
+.page--blog .frame:not(.frame-3673324) {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.page--blog .frame-33 {
+  align-items: center;
+  border-bottom-style: solid;
+  border-bottom-width: 0.07vw;
+  border-color: transparent;
+  border-image: linear-gradient(90deg, rgba(64, 100, 223, 1) 0%, rgba(64, 100, 223, 0) 100%) 1;
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.page--blog .frame-367 {
+  align-items: flex-start;
+  align-self: stretch;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.page--blog .frame-3674 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.page--blog .frame-6602 {
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  position: relative;
+}
+
+.page--blog .frame-6603 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  position: relative;
+}
+
+.page--blog .input {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 0.07vw solid;
+  border-color: var(--cod-gray-2);
+  border-radius: 0.73vw;
+  display: flex;
+  padding: 1.17vw 1.46vw;
+  position: relative;
+}
+
+.page--blog .kontakt-z-doradc {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.07vw;
+  position: relative;
+  width: fit-content;
+}
+
+.page--blog .label {
+  margin-top: -0.07vw;
+  position: relative;
+  width: fit-content;
+}
+
+.page--blog .star {
+  letter-spacing: 0;
+  line-height: 1.46vw;
+  margin-top: -0.07vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+}

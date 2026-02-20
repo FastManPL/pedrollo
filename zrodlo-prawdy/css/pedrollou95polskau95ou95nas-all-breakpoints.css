@@ -1,0 +1,5262 @@
+/* O nas: mobile (360) + desktop (1366), 2 bloki */
+
+@media screen and (max-width: 767px) {
+  .page--onas { display: none !important; }
+/* screen - pedrollou95useu95caseu95mobileu95360px */
+
+.page--onas-mobile {
+  align-items: flex-start;
+  background-color: var(--cod-gray);
+  display: flex;
+  flex-direction: column;
+  min-width: 100.0vw;
+  position: relative;
+}
+
+.page--onas-mobile .menu_2 {
+  align-self: stretch;
+  height: 21.67vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--onas-mobile .frame-3673324 {
+  height: 101.94vw;
+  position: relative;
+}
+
+.page--onas-mobile .vector-1 {
+  height: 70.83vw;
+  left: calc(50.00% - 35.83vw);
+  position: absolute;
+  top: calc(50.00% - 35.56vw);
+  width: 71.67vw;
+}
+
+.page--onas-mobile .ellipse-3 {
+  background-color: var(--royal-blue-4);
+  border-radius: 34.86vw/35.14vw;
+  filter: blur(50.56vw);;
+  height: 70.28vw;
+  left: calc(50.00% - 34.72vw);
+  position: absolute;
+  top: calc(50.00% - 35.0vw);
+  width: 69.72vw;
+}
+
+.page--onas-mobile .pompa_5_po_upcale-1 {
+  aspect-ratio: 0.37;
+  height: 98.33vw;
+  left: calc(50.00% - 18.06vw);
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 47.22vw);
+  width: 36.39vw;
+}
+
+.page--onas-mobile .frame-36782 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-image: url(../img/frame-36782-1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 2.78vw;
+  padding: 8.33vw 5.56vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--onas-mobile .ellipse-2-1 {
+  background-color: var(--royal-blue-3);
+  border-radius: 72.36vw;
+  filter: blur(50.56vw);;
+  height: 144.72vw;
+  left: calc(50.00% - 72.22vw);
+  position: absolute;
+  top: calc(50.00% - 72.22vw);
+  width: 144.72vw;
+}
+
+.page--onas-mobile .frame-65 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8.33vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--onas-mobile .mamy-prost-misj {
+  align-self: stretch;
+  letter-spacing: -0.17vw;
+  line-height: 11.11vw;
+  margin-top: -0.28vw;
+  position: relative;
+  text-align: center;
+}
+
+.page--onas-mobile .frame {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 2.78vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--onas-mobile .misja {
+  align-items: center;
+  align-self: stretch;
+  border: 0.28vw solid;
+  border-color: transparent;
+  border-image: conic-gradient(from 90deg at 48% 50%, rgba(42, 44, 55, 1) 0%, rgba(42, 44, 55, 1) 15%, rgba(42, 44, 55, 1) 31%) 1;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 2.78vw;
+  padding: 5.56vw 8.33vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--onas-mobile .water-cycle-1 {
+  aspect-ratio: 1;
+  background-image: url(../img/water-cycle--1--1.gif);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 13.89vw;
+  position: relative;
+  width: 13.89vw;
+}
+
+.page--onas-mobile .frame-1 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 4.17vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--onas-mobile .w-wiecie-gdzie-lic {
+  align-self: stretch;
+  letter-spacing: -0.11vw;
+  line-height: 6.67vw;
+  margin-top: -0.28vw;
+  position: relative;
+  text-align: center;
+}
+
+.page--onas-mobile .pedrollo-od-dekad-wy {
+  align-self: stretch;
+  letter-spacing: -0.08vw;
+  line-height: 5.06vw;
+  position: relative;
+  text-align: center;
+}
+
+.page--onas-mobile .care-1 {
+  aspect-ratio: 1;
+  background-image: url(../img/care-1.gif);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 13.89vw;
+  position: relative;
+  width: 13.89vw;
+}
+
+.page--onas-mobile .jestemy-napdzani-i {
+  align-self: stretch;
+  letter-spacing: -0.11vw;
+  line-height: 6.67vw;
+  margin-top: -0.28vw;
+  position: relative;
+  text-align: center;
+}
+
+.page--onas-mobile .chcemy-by-woda-doci {
+  align-self: stretch;
+  letter-spacing: -0.08vw;
+  line-height: 5.06vw;
+  position: relative;
+  text-align: center;
+}
+
+.page--onas-mobile .hourse_pomp {
+  aspect-ratio: 1;
+  background-image: url(../img/hourse--2--1.gif);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 13.89vw;
+  position: relative;
+  width: 13.89vw;
+}
+
+.page--onas-mobile .nasze-pompy-pracuj {
+  align-self: stretch;
+  letter-spacing: -0.11vw;
+  line-height: 6.67vw;
+  margin-top: -0.28vw;
+  position: relative;
+  text-align: center;
+}
+
+.page--onas-mobile .na-piciu-kontynenta {
+  align-self: stretch;
+  letter-spacing: -0.08vw;
+  line-height: 5.06vw;
+  position: relative;
+  text-align: center;
+}
+
+.page--onas-mobile .konsultacja {
+  align-items: flex-start;
+  padding: 11.11vw 5.56vw;
+}
+
+.page--onas-mobile .ellipse-2-2 {
+  height: 308.06vw;
+  left: calc(50.00% - 50.0vw);
+  position: absolute;
+  top: calc(50.00% - 195.56vw);
+  width: 100.0vw;
+}
+
+.page--onas-mobile .ellipse-3-1 {
+  height: 74.17vw;
+  left: calc(50.00% + 0.56vw);
+  position: absolute;
+  top: calc(50.00% - 35.83vw);
+  width: 49.44vw;
+}
+
+.page--onas-mobile .frame-6483 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 5.56vw;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.page--onas-mobile .u7761719182_httpss-1 {
+  align-self: stretch;
+  aspect-ratio: 1.78;
+  object-fit: cover;
+  position: relative;
+  width: 100%;
+}
+
+.page--onas-mobile .frame-6482 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8.33vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--onas-mobile .frame-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 2.78vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--onas-mobile .frame-6501 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 1.39vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--onas-mobile .produkcja {
+  align-self: stretch;
+  height: 3.76vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--onas-mobile .woska-produkcja {
+  align-self: stretch;
+  letter-spacing: -0.17vw;
+  line-height: 11.11vw;
+  position: relative;
+}
+
+.page--onas-mobile .a-pow {
+  align-self: stretch;
+  letter-spacing: -0.08vw;
+  line-height: 6.39vw;
+  position: relative;
+}
+
+.page--onas-mobile .group-6291 {
+  height: 23.61vw;
+  left: calc(50.00% + 26.11vw);
+  position: absolute;
+  top: calc(50.00% - 9.17vw);
+  width: 23.61vw;
+}
+
+.page--onas-mobile .konsultacja-1 {
+  align-items: center;
+  padding: 11.11vw;
+}
+
+.page--onas-mobile .ellipse-2-3 {
+  height: 130.0vw;
+  left: calc(50.00% - 50.0vw);
+  position: absolute;
+  top: calc(50.00% - 73.33vw);
+  width: 100.0vw;
+}
+
+.page--onas-mobile .frame-6483-1 {
+  align-items: center;
+  gap: 27.78vw;
+}
+
+.page--onas-mobile .frame-6482-1 {
+  align-items: center;
+  flex: 1;
+  flex-grow: 1;
+  gap: 2.78vw;
+}
+
+.page--onas-mobile .uznanie-ekspertw {
+  align-self: stretch;
+  height: 4.0vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--onas-mobile .zaangaowanie-w-inn {
+  align-self: stretch;
+  color: transparent;
+  font-family: var(--font-family-manrope);
+  font-size: var(--font-size-l);
+  font-weight: 600;
+  letter-spacing: -0.11vw;
+  line-height: 7.22vw;
+  margin-top: -0.28vw;
+  position: relative;
+  text-align: center;
+}
+
+.page--onas-mobile .span0-1 {
+  letter-spacing: -0.02vw;
+}
+
+.page--onas-mobile .span1-1 {
+  color: var(--silver-chalice);
+  letter-spacing: -0.02vw;
+}
+
+.page--onas-mobile .prestiowe-nagrody-p {
+  align-self: stretch;
+  letter-spacing: -0.08vw;
+  line-height: 5.83vw;
+  position: relative;
+  text-align: center;
+}
+
+.page--onas-mobile .group-6295 {
+  height: 45.0vw;
+  left: 0.83vw;
+  position: absolute;
+  top: 18.33vw;
+  width: 99.17vw;
+}
+
+.page--onas-mobile .vector-2 {
+  aspect-ratio: 0.34;
+  height: 44.72vw;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 15.0vw;
+}
+
+.page--onas-mobile .vector-3 {
+  aspect-ratio: 0.34;
+  height: 45.0vw;
+  left: 84.17vw;
+  position: absolute;
+  top: 0;
+  width: 15.0vw;
+}
+
+.page--onas-mobile .frame-35 {
+  align-items: flex-start;
+  align-self: stretch;
+  border-bottom-style: solid;
+  border-bottom-width: 0.28vw;
+  border-color: var(--white-2);
+  display: flex;
+  flex: 0 0 auto;
+  gap: 13.89vw;
+  justify-content: center;
+  padding: 5.56vw 0.0vw 0.28vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--onas-mobile .frame-62 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 2.78vw;
+  position: relative;
+}
+
+.page--onas-mobile .nagradzani-zajako-iinnowacje {
+  align-self: stretch;
+  color: var(--concrete);
+  font-family: var(--font-family-geist);
+  font-size: var(--font-size-xxs);
+  font-weight: 400;
+  letter-spacing: -0.08vw;
+  line-height: 6.11vw;
+  margin-top: -0.28vw;
+  position: relative;
+  text-align: center;
+}
+
+.page--onas-mobile .span0-2 {
+  font-weight: 700;
+  letter-spacing: -0.01vw;
+}
+
+.page--onas-mobile .logos_2 {
+  height: 18.89vw;
+  margin-right: -113.33vw;
+  overflow: hidden;
+  position: relative;
+  width: 213.33vw;
+}
+
+.page--onas-mobile .frame-50 {
+  align-items: center;
+  display: inline-flex;
+  gap: 5.56vw;
+  left: 3.61vw;
+  position: absolute;
+  top: -1.94vw;
+}
+
+.page--onas-mobile .frame-47 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.page--onas-mobile .logo_01 {
+  align-items: center;
+  border-radius: 5.56vw;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 2.78vw;
+  justify-content: center;
+  padding: 2.78vw;
+  position: relative;
+}
+
+.page--onas-mobile .frame-23-1 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 2.22vw;
+  height: 11.67vw;
+  position: relative;
+}
+
+.page--onas-mobile .vector {
+  aspect-ratio: 0.34;
+  height: 9.72vw;
+  position: relative;
+  width: 3.33vw;
+}
+
+.page--onas-mobile .entrepreneur-of-the-year-award-2001 {
+  line-height: 3.33vw;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.page--onas-mobile .span0 {
+  letter-spacing: -0.01vw;
+}
+
+.page--onas-mobile .span1 {
+  letter-spacing: -0.03vw;
+}
+
+.page--onas-mobile .span2 {
+  letter-spacing: 0;
+}
+
+.page--onas-mobile .span3 {
+  letter-spacing: -0.01vw;
+}
+
+.page--onas-mobile .frame-23 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 2.22vw;
+  height: 12.5vw;
+  position: relative;
+}
+
+.page--onas-mobile .vector-4 {
+  aspect-ratio: 0.34;
+  height: 9.72vw;
+  margin-left: -6203.61vw;
+  margin-top: -465.79vw;
+  position: relative;
+  width: 3.33vw;
+}
+
+.page--onas-mobile .frame-51 {
+  height: 18.06vw;
+  position: relative;
+  width: 41.67vw;
+}
+
+.page--onas-mobile .rectangle-15 {
+  background: linear-gradient(270deg, rgba(10, 10, 10, 0) 0%, rgba(10, 10, 10, 1) 100%);
+  height: 27.22vw;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 43.06vw;
+}
+
+.page--onas-mobile .ellipse-2-4 {
+  height: 235.56vw;
+  left: calc(50.00% - 50.0vw);
+  position: absolute;
+  top: calc(50.00% - 179.72vw);
+  width: 100.0vw;
+}
+
+.page--onas-mobile .frame-6483-2 {
+  align-items: flex-start;
+  flex-direction: column;
+  gap: 11.11vw;
+  justify-content: center;
+}
+
+.page--onas-mobile .video_fabryka {
+  align-self: stretch;
+  aspect-ratio: 1.78;
+  object-fit: cover;
+  position: relative;
+  width: 100%;
+}
+
+.page--onas-mobile .frame-6482-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  flex: 0 0 auto;
+  gap: 11.11vw;
+  width: 100%;
+}
+
+.page--onas-mobile .park-maszynowy {
+  align-self: stretch;
+  height: 3.73vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--onas-mobile .nowoczesny-park-maszynowy {
+  align-self: stretch;
+  letter-spacing: -0.17vw;
+  line-height: 11.11vw;
+  position: relative;
+}
+
+.page--onas-mobile .konsultacja-2 {
+  align-items: flex-start;
+  padding: 11.11vw;
+}
+
+.page--onas-mobile .ellipse-2-5 {
+  height: 343.06vw;
+  left: calc(50.00% - 50.0vw);
+  position: absolute;
+  top: calc(50.00% - 171.67vw);
+  width: 100.0vw;
+}
+
+.page--onas-mobile .frame-6483-3 {
+  align-items: center;
+  flex-direction: column;
+  gap: 8.33vw;
+  justify-content: center;
+}
+
+.page--onas-mobile .frame-36790 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 1.39vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--onas-mobile .virtual-lab-1 {
+  aspect-ratio: 1;
+  height: 13.89vw;
+  object-fit: cover;
+  position: relative;
+  width: 13.89vw;
+}
+
+.page--onas-mobile .frame-6482-3 {
+  align-items: center;
+  align-self: stretch;
+  flex: 0 0 auto;
+  gap: 11.11vw;
+  width: 100%;
+}
+
+.page--onas-mobile .jako-potwierdzona-w-laboratorium {
+  align-self: stretch;
+  letter-spacing: -0.17vw;
+  line-height: 11.11vw;
+  margin-top: -0.28vw;
+  position: relative;
+  text-align: center;
+}
+
+.page--onas-mobile .weryfikujemy-kady-e {
+  align-self: stretch;
+  letter-spacing: -0.08vw;
+  line-height: 6.39vw;
+  position: relative;
+  text-align: center;
+}
+
+.page--onas-mobile .wicej-o-laboratorium {
+  letter-spacing: 0.04vw;
+  line-height: normal;
+  margin-top: -0.83vw;
+  position: relative;
+  width: fit-content;
+}
+
+.page--onas-mobile .arrow_right {
+  height: 5.28vw;
+  margin-bottom: -0.14vw;
+  margin-right: -0.33vw;
+  margin-top: -0.14vw;
+  position: relative;
+  width: 5.89vw;
+}
+
+.page--onas-mobile .frame-36784 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 2.78vw;
+  justify-content: center;
+  padding: 5.56vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--onas-mobile .ellipse-2-6 {
+  background-color: var(--royal-blue-3);
+  border-radius: 107.64vw;
+  filter: blur(50.56vw);;
+  height: 215.28vw;
+  left: calc(50.00% - 107.5vw);
+  position: absolute;
+  top: calc(50.00% - 101.39vw);
+  width: 215.28vw;
+}
+
+.page--onas-mobile .ellipse-3-2 {
+  background-color: var(--white-3);
+  border-radius: 107.64vw;
+  filter: blur(50.56vw);;
+  height: 215.28vw;
+  left: 158.89vw;
+  position: absolute;
+  top: -18.61vw;
+  width: 215.28vw;
+}
+
+.page--onas-mobile .frame-84 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 5.56vw;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.page--onas-mobile .niezawodno-pynie-z-jakoci {
+  align-self: stretch;
+  letter-spacing: -0.25vw;
+  line-height: 11.11vw;
+  margin-top: -0.28vw;
+  position: relative;
+  text-align: center;
+}
+
+.page--onas-mobile .niezawodnosc::before {
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  background: conic-gradient(from 90deg at 48% 50%, rgba(53, 71, 131, 0.6) 0%, rgba(53, 71, 131, 0.6) 15%, rgba(53, 71, 131, 0.6) 31%);
+  border-radius: 5.56vw;
+  content: '';
+  inset: 0;
+  mask-composite: exclude;
+  padding: 0.56vw;
+  pointer-events: none;
+  position: absolute;
+  z-index: 1;
+}
+
+.page--onas-mobile .niezawodnosc {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--royal-blue-2);
+  border: none;
+  border-radius: 5.56vw;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 2.78vw;
+  justify-content: center;
+  overflow: hidden;
+  padding: 5.56vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--onas-mobile .nizp-atest-scwa-1 {
+  aspect-ratio: 1;
+  height: 33.89vw;
+  position: relative;
+  width: 33.89vw;
+}
+
+.page--onas-mobile .frame-36792 {
+  align-items: center;
+  aspect-ratio: 1;
+  display: flex;
+  justify-content: center;
+  width: 33.89vw;
+}
+
+.page--onas-mobile .vector-5 {
+  aspect-ratio: 0.92;
+  height: 33.89vw;
+  margin-left: 0.28vw;
+  width: 31.39vw;
+}
+
+.page--onas-mobile .atest-higieniczny-pzh {
+  letter-spacing: -0.17vw;
+  line-height: 8.33vw;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--onas-mobile .iso {
+  aspect-ratio: 1;
+  height: 33.89vw;
+  position: relative;
+  width: 33.89vw;
+}
+
+.page--onas-mobile .frame-36791 {
+  align-items: center;
+  aspect-ratio: 1;
+  display: flex;
+  height: 33.89vw;
+  justify-content: center;
+  width: 33.89vw;
+}
+
+.page--onas-mobile .vector-6 {
+  height: 34.17vw;
+  margin-top: 0.28vw;
+  width: 36.67vw;
+}
+
+.page--onas-mobile .iso-90012015 {
+  letter-spacing: -0.17vw;
+  line-height: 8.33vw;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--onas-mobile .reach {
+  aspect-ratio: 1;
+  height: 33.89vw;
+  position: relative;
+  width: 33.89vw;
+}
+
+.page--onas-mobile .vector-7 {
+  aspect-ratio: 1.06;
+  height: 23.33vw;
+  margin-left: 0.28vw;
+  width: 24.72vw;
+}
+
+.page--onas-mobile .reach-compliant {
+  letter-spacing: -0.17vw;
+  line-height: 8.33vw;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--onas-mobile .konsultacja-3 {
+  align-items: flex-start;
+  padding: 5.56vw;
+}
+
+.page--onas-mobile .ellipse-2-7 {
+  height: 419.44vw;
+  left: calc(50.00% - 50.0vw);
+  position: absolute;
+  top: calc(50.00% - 197.22vw);
+  width: 100.0vw;
+}
+
+.page--onas-mobile .frame-3 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 5.56vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--onas-mobile .frame-6501-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: flex-end;
+  position: relative;
+  width: 100%;
+}
+
+.page--onas-mobile .poznaj-ma-cz-zaogi-pedrollo-polska {
+  height: 4.05vw;
+  position: relative;
+  width: 72.13vw;
+}
+
+.page--onas-mobile .pomocni-fachowcy {
+  align-self: stretch;
+  letter-spacing: -0.17vw;
+  line-height: 11.11vw;
+  position: relative;
+}
+
+.page--onas-mobile .zespol {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8.33vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--onas-mobile .jestemy-znani-z-pro {
+  align-items: flex-end;
+  align-self: stretch;
+  color: var(--white);
+  display: flex;
+  font-family: var(--font-family-manrope);
+  font-size: 5.28vw;
+  font-weight: 600;
+  justify-content: center;
+  letter-spacing: -0.11vw;
+  line-height: 8.06vw;
+  margin-top: -0.28vw;
+  position: relative;
+}
+
+.page--onas-mobile .kompetentni-i-pomocn {
+  align-self: stretch;
+  color: var(--silver-chalice);
+  font-family: var(--font-family-manrope);
+  font-size: var(--font-size-xxs);
+  font-weight: 500;
+  letter-spacing: -0.08vw;
+  line-height: 6.11vw;
+  position: relative;
+}
+
+.page--onas-mobile .line-16 {
+  height: 0.56vw;
+  left: 65.0vw;
+  position: absolute;
+  top: 23.61vw;
+  width: 15.0vw;
+}
+
+.page--onas-mobile .frame-77 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 5.56vw;
+  height: 16.67vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--onas-mobile .arrow {
+  height: 16.67vw;
+  position: relative;
+  width: 16.67vw;
+}
+
+.page--onas-mobile .slider_zespol {
+  height: 118.06vw;
+  margin-right: -248.61vw;
+  position: relative;
+  width: 337.5vw;
+}
+
+.page--onas-mobile .frame-3673394 {
+  align-items: center;
+  display: inline-flex;
+  gap: 5.56vw;
+  position: relative;
+}
+
+.page--onas-mobile .frame-3678 {
+  align-items: flex-start;
+  aspect-ratio: 0.78;
+  display: flex;
+  flex-direction: column;
+  gap: 8.33vw;
+  height: 108.33vw;
+  position: relative;
+  width: 84.44vw;
+}
+
+.page--onas-mobile .u7761719182_httpss-2 {
+  aspect-ratio: 0.93;
+  background-image: url(../img/u7761719182-httpss-1@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 5.56vw;
+  height: 89.44vw;
+  overflow: hidden;
+  position: relative;
+  width: 83.33vw;
+}
+
+.page--onas-mobile .ellipse-3-3 {
+  height: 89.44vw;
+  left: calc(50.00% - 41.67vw);
+  position: absolute;
+  top: calc(50.00% - 44.72vw);
+  width: 83.33vw;
+}
+
+.page--onas-mobile .frame-36786-1 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 1.39vw;
+  margin-bottom: -4.17vw;
+  position: relative;
+}
+
+.page--onas-mobile .marcin-laskowski {
+  letter-spacing: -0.15vw;
+  line-height: normal;
+  margin-top: -0.28vw;
+  position: relative;
+  width: fit-content;
+}
+
+.page--onas-mobile .stacjonarny-opiekun-regionu {
+  letter-spacing: -0.14vw;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+}
+
+.page--onas-mobile .u7761719182_httpss {
+  aspect-ratio: 0.93;
+  background-image: url(../img/u7761719182-httpss-3@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 5.56vw;
+  height: 90.56vw;
+  overflow: hidden;
+  position: relative;
+  width: 84.17vw;
+}
+
+.page--onas-mobile .ellipse-3-4 {
+  height: 90.56vw;
+  left: calc(50.00% - 42.22vw);
+  position: absolute;
+  top: calc(50.00% - 45.28vw);
+  width: 4.44vw;
+}
+
+.page--onas-mobile .frame-36786 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 1.39vw;
+  margin-bottom: -5.28vw;
+  position: relative;
+}
+
+.page--onas-mobile .pawe-fergiski {
+  letter-spacing: -0.15vw;
+  line-height: normal;
+  margin-top: -0.28vw;
+  position: relative;
+  width: fit-content;
+}
+
+.page--onas-mobile .ellipse-3-5 {
+  height: 154.44vw;
+  left: calc(50.00% - 6521.67vw);
+  position: absolute;
+  top: calc(50.00% - 1062.5vw);
+  width: 154.44vw;
+}
+
+.page--onas-mobile .pawe-fergiski-1 {
+  letter-spacing: -0.15vw;
+  line-height: normal;
+  margin-top: -0.28vw;
+  position: relative;
+  width: fit-content;
+}
+
+.page--onas-mobile .frame-6566 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--white);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 19.44vw;
+  padding: 8.33vw 5.56vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--onas-mobile .ellipse-2-8 {
+  height: 353.33vw;
+  left: calc(50.00% - 50.0vw);
+  position: absolute;
+  top: calc(50.00% - 211.11vw);
+  width: 100.0vw;
+}
+
+.page--onas-mobile .frame-6587 {
+  align-items: center;
+  align-self: stretch;
+  border-radius: 8.33vw;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 2.78vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--onas-mobile .frame-6576 {
+  align-items: center;
+  align-self: stretch;
+  border-radius: 8.33vw;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 5.56vw;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.page--onas-mobile .frame-6596 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 2.78vw;
+  justify-content: flex-end;
+  position: relative;
+  width: 100%;
+}
+
+.page--onas-mobile .frame-6597 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.page--onas-mobile .instalator {
+  aspect-ratio: 1;
+  height: 16.67vw;
+  object-fit: cover;
+  position: relative;
+  width: 16.67vw;
+}
+
+.page--onas-mobile .znajd-instalatora-z-twojej-okolicy {
+  align-self: stretch;
+  letter-spacing: -0.25vw;
+  line-height: 11.11vw;
+  margin-top: -0.28vw;
+  position: relative;
+  text-align: center;
+}
+
+.page--onas-mobile .wolisz-powierzy-mont {
+  align-self: stretch;
+  height: 9.56vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--onas-mobile .frame-6586 {
+  align-items: center;
+  align-self: stretch;
+  border-radius: 8.33vw;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 4.17vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--onas-mobile .wpisz-kod-pocztowy-montau {
+  align-self: stretch;
+  height: 4.95vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--onas-mobile .frame-6574 {
+  align-items: center;
+  align-self: stretch;
+  border: 0.28vw solid;
+  border-color: var(--royal-blue);
+  border-radius: 8.33vw;
+  display: flex;
+  height: 11.67vw;
+  justify-content: space-between;
+  padding: 2.22vw 0.0vw 2.22vw 30.0vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--onas-mobile .text-1 {
+  color: var(--cod-gray);
+  font-family: var(--font-family-manrope);
+  font-size: 4.17vw;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+}
+
+.page--onas-mobile .szukaj {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -0.28vw;
+  margin-top: -1.39vw;
+  position: relative;
+  width: fit-content;
+}
+
+.page--onas-mobile .search {
+  height: 5.28vw;
+  margin-bottom: -0.69vw;
+  margin-top: -0.69vw;
+  position: relative;
+  width: 5.28vw;
+}
+
+.page--onas-mobile .u7761719182_httpss-3 {
+  aspect-ratio: 0.94;
+  background-image: url(../img/u7761719182-httpss-2.gif);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 5.56vw;
+  height: 72.45vw;
+  position: relative;
+  width: 68.02vw;
+}
+
+.page--onas-mobile .wyniki-wyszukiwania-po-kodzie-pocztowym {
+  align-self: stretch;
+  height: 4.3vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--onas-mobile .frame-6480 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--black-haze);
+  border: 0.28vw solid;
+  border-color: var(--pumice);
+  border-radius: 8.33vw;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 25.0vw;
+  padding: 5.56vw 13.89vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--onas-mobile .pan-darek {
+  color: var(--cod-gray);
+  font-family: var(--font-family-manrope);
+  font-size: 6.67vw;
+  font-weight: 600;
+  letter-spacing: -0.13vw;
+  line-height: 9.44vw;
+  margin-top: -0.28vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--onas-mobile .frame-6580 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 2.78vw;
+  justify-content: center;
+  margin-left: -4.17vw;
+  margin-right: -4.17vw;
+  position: relative;
+}
+
+.page--onas-mobile .arrow-1 {
+  align-items: center;
+  aspect-ratio: 1;
+  border: 0.56vw solid;
+  border-color: var(--emerald);
+  border-radius: 8.33vw;
+  display: flex;
+  gap: 2.78vw;
+  height: 5.56vw;
+  justify-content: center;
+  padding: 2.78vw 0.0vw;
+  position: relative;
+  width: 5.56vw;
+}
+
+.page--onas-mobile .frame-76 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 2.78vw;
+  margin-bottom: -0.83vw;
+  margin-top: -0.83vw;
+  position: relative;
+}
+
+.page--onas-mobile .line-8 {
+  height: 2.27vw;
+  margin-bottom: -0.4vw;
+  margin-left: -0.21vw;
+  margin-right: -0.19vw;
+  margin-top: -0.2vw;
+  position: relative;
+  width: 2.9vw;
+}
+
+.page--onas-mobile .instalator-pomp-w-twojej-okolicy {
+  height: 4.06vw;
+  position: relative;
+  width: 60.23vw;
+}
+
+.page--onas-mobile .frame-6494 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  margin-left: -9.58vw;
+  margin-right: -9.58vw;
+  position: relative;
+}
+
+.page--onas-mobile .zapytaj {
+  align-items: center;
+  background-color: var(--royal-blue);
+  border-radius: 8.33vw;
+  display: flex;
+  gap: 5.56vw;
+  height: 12.78vw;
+  padding: 3.89vw 19.44vw 3.89vw 7.22vw;
+  position: relative;
+  width: 80.28vw;
+}
+
+.page--onas-mobile .frame-4-1 {
+  align-items: center;
+  aspect-ratio: 1;
+  background-color: var(--concrete);
+  border-radius: 8.33vw;
+  display: flex;
+  flex-direction: column;
+  gap: 2.78vw;
+  height: 11.94vw;
+  justify-content: center;
+  left: 67.78vw;
+  padding: 2.78vw 3.61vw 2.5vw;
+  position: absolute;
+  top: 0.56vw;
+  width: 11.94vw;
+}
+
+.page--onas-mobile .group-3 {
+  aspect-ratio: 1.6;
+  height: 2.78vw;
+  position: relative;
+  width: 4.46vw;
+}
+
+.page--onas-mobile .vector-8 {
+  height: 112.99%;
+  left: 67.99%;
+  position: absolute;
+  top: -6.49%;
+  width: 39.56%;
+}
+
+.page--onas-mobile .vector-9 {
+  height: 20.00%;
+  left: -6.23%;
+  position: absolute;
+  top: 40.00%;
+  width: 106.23%;
+}
+
+.page--onas-mobile .kontakt-do-instalatora {
+  letter-spacing: -0.08vw;
+  line-height: normal;
+  margin-top: -0.56vw;
+  position: relative;
+  width: fit-content;
+}
+
+.page--onas-mobile .kontent {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 11.11vw;
+  padding: 11.11vw 5.56vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--onas-mobile .line-24 {
+  height: 442.78vw;
+  left: 42.78vw;
+  position: absolute;
+  top: 121.94vw;
+  width: 0.56vw;
+}
+
+.page--onas-mobile .group-6294 {
+  background-color: var(--royal-blue);
+  border-radius: 2.5vw;
+  filter: blur(3.33vw);;
+  height: 5.0vw;
+  left: 40.56vw;
+  position: absolute;
+  top: 139.72vw;
+  width: 5.0vw;
+}
+
+.page--onas-mobile .ellipse-23 {
+  aspect-ratio: 1;
+  background-color: var(--royal-blue);
+  border-radius: 1.11vw;
+  filter: blur(0.56vw);;
+  height: 2.22vw;
+  left: 1.39vw;
+  position: absolute;
+  top: 1.39vw;
+  width: 2.22vw;
+}
+
+.page--onas-mobile .ellipse-25 {
+  aspect-ratio: 1;
+  background-color: var(--white);
+  border-radius: 0.28vw;
+  filter: blur(0.28vw);;
+  height: 0.56vw;
+  left: 2.22vw;
+  position: absolute;
+  top: 2.22vw;
+  width: 0.56vw;
+}
+
+.page--onas-mobile .wartoci-ktre-definiuj-pedrollo {
+  align-self: stretch;
+  letter-spacing: -0.25vw;
+  line-height: 11.11vw;
+  margin-top: -0.28vw;
+  position: relative;
+  text-align: center;
+}
+
+.page--onas-mobile .line-16-1 {
+  height: 0.28vw;
+  left: -5826.39vw;
+  position: absolute;
+  top: -1384.44vw;
+  width: 61.39vw;
+}
+
+.page--onas-mobile .row {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 2.78vw;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.page--onas-mobile .frame-303 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.page--onas-mobile .frame-36799 {
+  aspect-ratio: 1;
+  height: 63.89vw;
+  position: relative;
+  width: 63.61vw;
+}
+
+.page--onas-mobile .p_1-1 {
+  aspect-ratio: 1.02;
+  height: 46.94vw;
+  left: calc(50.00% - 23.89vw);
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 23.61vw);
+  width: 47.78vw;
+}
+
+.page--onas-mobile .ellipse-2-9 {
+  aspect-ratio: 1;
+  height: 130.56vw;
+  left: calc(50.00% - 50.0vw);
+  position: absolute;
+  top: calc(50.00% - 64.17vw);
+  width: 100.0vw;
+}
+
+.page--onas-mobile .precyzja {
+  align-self: stretch;
+  letter-spacing: -0.14vw;
+  line-height: 7.64vw;
+  margin-top: -0.28vw;
+  position: relative;
+  text-align: center;
+}
+
+.page--onas-mobile .may-tekst {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  justify-content: center;
+  letter-spacing: 0;
+  line-height: 6.22vw;
+  position: relative;
+  text-align: center;
+}
+
+.page--onas-mobile .frame-305 {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 88.89vw;
+}
+
+.page--onas-mobile .frame-36 {
+  height: 63.89vw;
+  position: relative;
+  width: 63.61vw;
+}
+
+.page--onas-mobile .e_2-1 {
+  aspect-ratio: 0.87;
+  height: 41.67vw;
+  left: calc(50.00% - 18.33vw);
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 20.83vw);
+  width: 36.39vw;
+}
+
+.page--onas-mobile .ellipse-2 {
+  aspect-ratio: 1;
+  height: 130.56vw;
+  left: calc(50.00% - 50.0vw);
+  position: absolute;
+  top: calc(50.00% - 65.0vw);
+  width: 100.0vw;
+}
+
+.page--onas-mobile .frame-36793 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 2.78vw;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.page--onas-mobile .energooszczdno {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 7.64vw;
+  margin-top: -0.28vw;
+  position: relative;
+  text-align: center;
+}
+
+.page--onas-mobile .d_1-1 {
+  aspect-ratio: 1.02;
+  height: 41.94vw;
+  left: calc(50.00% - 21.11vw);
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 21.11vw);
+  width: 42.78vw;
+}
+
+.page--onas-mobile .doskonao {
+  align-self: stretch;
+  letter-spacing: -0.14vw;
+  line-height: 7.64vw;
+  margin-top: -0.28vw;
+  position: relative;
+  text-align: center;
+}
+
+.page--onas-mobile .r_1-1 {
+  aspect-ratio: 0.81;
+  height: 38.61vw;
+  left: calc(50.00% - 15.56vw);
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 19.44vw);
+  width: 31.11vw;
+}
+
+.page--onas-mobile .rzetelno {
+  align-self: stretch;
+  letter-spacing: -0.14vw;
+  line-height: 7.64vw;
+  margin-top: -0.28vw;
+  position: relative;
+  text-align: center;
+}
+
+.page--onas-mobile .o_1-1 {
+  aspect-ratio: 1.04;
+  height: 42.22vw;
+  left: calc(50.00% - 21.67vw);
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 21.11vw);
+  width: 43.61vw;
+}
+
+.page--onas-mobile .odpowiedzialno {
+  align-self: stretch;
+  letter-spacing: -0.14vw;
+  line-height: 7.64vw;
+  margin-top: -0.28vw;
+  position: relative;
+  text-align: center;
+}
+
+.page--onas-mobile .l-1-1 {
+  aspect-ratio: 0.62;
+  height: 33.33vw;
+  left: calc(50.00% - 10.0vw);
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 16.67vw);
+  width: 20.56vw;
+}
+
+.page--onas-mobile .lojalno {
+  align-self: stretch;
+  letter-spacing: -0.14vw;
+  line-height: 7.64vw;
+  margin-top: -0.28vw;
+  position: relative;
+  text-align: center;
+}
+
+.page--onas-mobile .l-1-1-1 {
+  aspect-ratio: 0.62;
+  height: 38.89vw;
+  left: calc(50.00% - 12.78vw);
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 20.83vw);
+  width: 23.89vw;
+}
+
+.page--onas-mobile .laboratorium-innowacji {
+  align-self: stretch;
+  letter-spacing: -0.14vw;
+  line-height: 7.64vw;
+  margin-top: -0.28vw;
+  position: relative;
+  text-align: center;
+}
+
+.page--onas-mobile .o_1-1-1 {
+  aspect-ratio: 1.04;
+  height: 41.67vw;
+  left: calc(50.00% - 21.67vw);
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 20.83vw);
+  width: 43.06vw;
+}
+
+.page--onas-mobile .odporno {
+  align-self: stretch;
+  letter-spacing: -0.14vw;
+  line-height: 7.64vw;
+  margin-top: -0.28vw;
+  position: relative;
+  text-align: center;
+}
+
+.page--onas-mobile .frame-64 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 63.89vw;
+  padding: 0.0vw 40.0vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--onas-mobile .frame-51-1 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 5.56vw;
+  justify-content: center;
+  padding: 0.0vw 0.0vw 30.0vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--onas-mobile .frame-65-1 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+}
+
+.page--onas-mobile .referencje {
+  color: var(--concrete-2);
+  font-family: var(--font-family-manrope);
+  font-size: 3.33vw;
+  font-weight: 600;
+  letter-spacing: -0.1vw;
+  line-height: 5.56vw;
+  margin-top: -0.28vw;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--onas-mobile .co-mwi-o-nas-klienci {
+  letter-spacing: -0.11vw;
+  line-height: 8.89vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--onas-mobile .testimonials {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 4.17vw;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.page--onas-mobile .frame-67 {
+  -webkit-backdrop-filter: blur(5.56vw) brightness(100%);
+  align-items: flex-start;
+  align-self: stretch;
+  backdrop-filter: blur(5.56vw) brightness(100%);
+  border-radius: 8.33vw;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.page--onas-mobile .frame-71 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--eerie-black);
+  border: 0.28vw solid;
+  border-color: var(--silver-chalice-2);
+  border-radius: 5.56vw 5.56vw 0.0vw 0.0vw;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 2.78vw;
+  padding: 5.56vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--onas-mobile .frame-70 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 5.56vw;
+  position: relative;
+}
+
+.page--onas-mobile .image {
+  aspect-ratio: 1;
+  height: 19.03vw;
+  position: relative;
+  width: 19.03vw;
+}
+
+.page--onas-mobile .frame-57 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 0.83vw;
+  position: relative;
+  width: 40.0vw;
+}
+
+.page--onas-mobile .name {
+  align-self: stretch;
+  color: var(--concrete);
+  font-family: var(--font-family-geist);
+  font-size: 3.61vw;
+  font-weight: 600;
+  letter-spacing: -0.07vw;
+  line-height: 5.28vw;
+  margin-top: -0.28vw;
+  position: relative;
+}
+
+.page--onas-mobile .dystrybutor-pomp-ped {
+  align-self: stretch;
+  color: var(--silver-chalice);
+  font-family: var(--font-family-geist);
+  font-size: 3.06vw;
+  font-weight: 500;
+  letter-spacing: -0.06vw;
+  line-height: 4.72vw;
+  position: relative;
+}
+
+.page--onas-mobile .frame-72 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--shark);
+  border: 0.28vw solid;
+  border-color: var(--silver-chalice-2);
+  border-radius: 0.0vw 0.0vw 20.0vw 20.0vw;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 2.78vw;
+  justify-content: center;
+  margin-top: -0.28vw;
+  overflow: hidden;
+  padding: 5.56vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--onas-mobile .sprzedaj-sprzt-r {
+  flex: 1;
+  letter-spacing: -0.12vw;
+  line-height: 6.39vw;
+  margin-top: -0.28vw;
+  position: relative;
+}
+
+.page--onas-mobile .span-1 {
+  letter-spacing: -0.02vw;
+}
+
+.page--onas-mobile .frame-4 {
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.page--onas-mobile .frame-20 {
+  height: 155.0vw;
+  left: calc(50.00% - 73.33vw);
+  position: absolute;
+  top: calc(50.00% - 77.5vw);
+  width: 146.67vw;
+}
+
+.page--onas-mobile .ellipse-1 {
+  background-color: var(--dove-gray);
+  border-radius: 66.81vw;
+  filter: blur(50.56vw);;
+  height: 133.61vw;
+  left: calc(50.00% - 66.67vw);
+  position: relative;
+  top: calc(50.00% - 66.67vw);
+  width: 133.61vw;
+}
+
+.page--onas-mobile .frame-82 {
+  align-items: flex-end;
+  align-self: stretch;
+  background-color: var(--cod-gray);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 11.11vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--onas-mobile .frame-36734 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.page--onas-mobile .footer_desktop {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.page--onas-mobile .frame-6613 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--white);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 5.56vw;
+  padding: 11.11vw 5.56vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--onas-mobile .zapytaj-o-pomp {
+  align-self: stretch;
+  letter-spacing: -0.25vw;
+  line-height: 8.89vw;
+  margin-top: -0.28vw;
+  position: relative;
+  text-align: center;
+}
+
+.page--onas-mobile .opowiedz-nam-o-swoic {
+  align-self: stretch;
+  color: var(--cod-gray);
+  font-family: var(--font-family-manrope);
+  font-size: var(--font-size-xxs);
+  font-weight: 500;
+  letter-spacing: -0.08vw;
+  line-height: 6.39vw;
+  position: relative;
+  text-align: center;
+}
+
+.page--onas-mobile .input-1 {
+  height: 55.56vw;
+}
+
+.page--onas-mobile .frame-36727 {
+  align-items: center;
+  background-color: var(--white);
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.56vw;
+  position: relative;
+}
+
+.page--onas-mobile .label-2 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.28vw;
+}
+
+.page--onas-mobile .star {
+  letter-spacing: 0;
+  line-height: 5.56vw;
+  margin-top: -0.28vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--onas-mobile .input {
+  height: 14.72vw;
+}
+
+.page--onas-mobile .label {
+  letter-spacing: 0;
+  line-height: 5.28vw;
+  margin-top: -0.14vw;
+  white-space: nowrap;
+}
+
+.page--onas-mobile .frame-6589 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--white);
+  border: 0.28vw solid;
+  border-color: var(--cod-gray-2);
+  border-radius: 2.78vw;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 2.78vw;
+  height: 14.72vw;
+  justify-content: center;
+  padding: 4.72vw 5.56vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--onas-mobile .frame-6397 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: space-between;
+  position: relative;
+  width: 100%;
+}
+
+.page--onas-mobile .jestem {
+  color: var(--cod-gray);
+  font-family: var(--font-family-manrope);
+  font-size: 4.17vw;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 5.28vw;
+  margin-top: -0.28vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--onas-mobile .arrow_down {
+  height: 1.78vw;
+  position: relative;
+  width: 4.17vw;
+}
+
+.page--onas-mobile .arrow_down-1 {
+  height: 132.38%;
+  left: -4.34%;
+  position: absolute;
+  top: -11.85%;
+  width: 108.67%;
+}
+
+.page--onas-mobile .label-3 {
+  letter-spacing: 0;
+  line-height: 5.28vw;
+  margin-top: -0.28vw;
+  white-space: nowrap;
+}
+
+.page--onas-mobile .radio_select_2 {
+  align-items: center;
+  display: inline-flex;
+  gap: 2.78vw;
+  height: 13.89vw;
+  position: relative;
+}
+
+.page--onas-mobile .group-62 {
+  aspect-ratio: 1;
+  border: 0.56vw solid;
+  border-color: var(--celeste);
+  border-radius: 3.33vw;
+  height: 6.67vw;
+  position: relative;
+  width: 6.67vw;
+}
+
+.page--onas-mobile .x1-fazowe-230-v-50-hz {
+  color: var(--cod-gray);
+  font-family: var(--font-family-manrope);
+  font-size: 3.33vw;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 5.56vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--onas-mobile .wylij {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.83vw;
+  position: relative;
+  width: fit-content;
+}
+
+.page--onas-mobile .frame-78 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 11.11vw;
+  padding: 11.11vw 5.56vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--onas-mobile .ellipse-2-10 {
+  height: 402.22vw;
+  left: calc(50.00% - 50.0vw);
+  position: absolute;
+  top: calc(50.00% - 195.83vw);
+  width: 2.78vw;
+}
+
+.page--onas-mobile .frame-36738 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 2.78vw;
+  position: relative;
+}
+
+.page--onas-mobile .group-1 {
+  height: 10.83vw;
+  position: relative;
+  width: 47.26vw;
+}
+
+.page--onas-mobile .polska {
+  letter-spacing: -0.11vw;
+  line-height: 13.89vw;
+  margin-top: -0.28vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--onas-mobile .tworzymy-przyszo {
+  align-self: stretch;
+  color: var(--white);
+  font-family: var(--font-family-manrope);
+  font-size: var(--font-size-xxs);
+  font-weight: 500;
+  letter-spacing: -0.08vw;
+  line-height: 6.39vw;
+  position: relative;
+}
+
+.page--onas-mobile .strefa-partnera {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.56vw;
+  position: relative;
+  width: fit-content;
+}
+
+.page--onas-mobile .frame-36742 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8.33vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--onas-mobile .raz-kupujesz-bez-koca-pompujesz {
+  align-self: stretch;
+  letter-spacing: -0.17vw;
+  line-height: 11.11vw;
+  margin-top: -0.28vw;
+  position: relative;
+}
+
+.page--onas-mobile .frame-3674 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 1.94vw;
+  justify-content: center;
+  position: relative;
+}
+
+.page--onas-mobile .elektryczna-pompa-gbinowa {
+  letter-spacing: -0.07vw;
+  line-height: 6.11vw;
+  margin-top: -0.28vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--onas-mobile .frame-3674-1 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.page--onas-mobile .label_-menu_footer {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 2.78vw;
+  padding: 0.56vw 0.0vw;
+  position: relative;
+}
+
+.page--onas-mobile .frame-33 {
+  align-items: center;
+  border-bottom-style: solid;
+  border-bottom-width: 0.28vw;
+  border-color: transparent;
+  border-image: linear-gradient(90deg, rgba(64, 100, 223, 1) 0%, rgba(64, 100, 223, 0) 100%) 1;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 2.78vw;
+  padding: 1.11vw 0.0vw;
+  position: relative;
+}
+
+.page--onas-mobile .label-1 {
+  letter-spacing: 0.04vw;
+  line-height: normal;
+  margin-top: -0.28vw;
+}
+
+.page--onas-mobile .na-skrty {
+  letter-spacing: -0.07vw;
+  line-height: 6.11vw;
+  margin-top: -0.28vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--onas-mobile .frame-36747 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 4.17vw;
+  position: relative;
+}
+
+.page--onas-mobile .kontakt-z-nami {
+  letter-spacing: -0.07vw;
+  line-height: 6.11vw;
+  margin-top: -0.28vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--onas-mobile .frame-36748 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 2.78vw;
+  justify-content: center;
+  padding: 1.67vw 0.0vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--onas-mobile .dachowa-43-a-96-500-sochaczew {
+  flex: 1;
+  letter-spacing: 0.04vw;
+  line-height: normal;
+  margin-top: -0.28vw;
+  position: relative;
+}
+
+.page--onas-mobile .dobr-pomp {
+  letter-spacing: -0.07vw;
+  line-height: 6.67vw;
+  margin-top: -0.28vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--onas-mobile .social_media {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 2.78vw;
+  padding: 1.39vw 0.0vw;
+  position: relative;
+}
+
+.page--onas-mobile .social_media-item {
+  height: 7.78vw;
+  position: relative;
+  width: 7.78vw;
+}
+
+.page--onas-mobile .linkedin {
+  align-items: center;
+  display: flex;
+  gap: 2.78vw;
+  height: 7.78vw;
+  justify-content: center;
+  padding: 1.11vw;
+  position: relative;
+  width: 7.78vw;
+}
+
+.page--onas-mobile .subtract {
+  aspect-ratio: 1;
+  height: 5.0vw;
+  position: relative;
+  width: 5.0vw;
+}
+
+.page--onas-mobile .x2025-pedrollo-polityka-prywatnoci {
+  height: 3.16vw;
+  position: relative;
+  width: 52.24vw;
+}
+
+.page--onas-mobile .frame-6482-4 {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.page--onas-mobile .frame-6483-4 {
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  position: relative;
+  width: 100%;
+}
+
+.page--onas-mobile .input-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--white);
+  border: 0.28vw solid;
+  border-color: var(--cod-gray-2);
+  border-radius: 2.78vw;
+  display: flex;
+  padding: 4.44vw 5.56vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--onas-mobile .konsultacja-4 {
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 2.78vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--onas-mobile .label-4 {
+  position: relative;
+  width: fit-content;
+}
+}
+
+@media screen and (min-width: 768px) {
+  .page--onas-mobile { display: none !important; }
+
+/* screen - pedrollou95polskau95ou95nasu951366px */
+
+.page--onas {
+  align-items: flex-start;
+  background-color: var(--cod-gray);
+  display: flex;
+  flex-direction: column;
+  min-width: 100.0vw;
+  position: relative;
+}
+
+.page--onas .frame-3673324-2 {
+  align-self: stretch;
+  background-image: url(../img/frame-3673324.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 50.0vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--onas .rectangle-6-1 {
+  background: linear-gradient(180deg, rgba(27, 27, 27, 0.5) 0%, rgba(27, 27, 27, 0) 100%);
+  height: 24.01vw;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100.0vw;
+}
+
+.page--onas .vector-21 {
+  height: 35.65vw;
+  left: calc(50.00% - 17.94vw);
+  position: absolute;
+  top: calc(50.00% - 17.13vw);
+  width: 35.94vw;
+}
+
+.page--onas .ellipse-3-12 {
+  background-color: var(--royal-blue-4);
+  border-radius: 17.68vw/17.72vw;
+  filter: blur(13.32vw);;
+  height: 35.43vw;
+  left: calc(50.00% - 17.64vw);
+  position: absolute;
+  top: calc(50.00% - 16.98vw);
+  width: 35.36vw;
+}
+
+.page--onas .x3d_logo-1-1 {
+  aspect-ratio: 4.87;
+  height: 15.15vw;
+  left: calc(50.00% - 36.9vw);
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 5.42vw);
+  width: 73.87vw;
+}
+
+.page--onas .pompa_5_po_upcale-1-2 {
+  aspect-ratio: 0.37;
+  height: 47.95vw;
+  left: 41.14vw;
+  object-fit: cover;
+  position: absolute;
+  top: 1.98vw;
+  width: 17.72vw;
+}
+
+.page--onas .menu_2-2 {
+  -webkit-backdrop-filter: blur(0.18vw) brightness(100%);
+  align-items: flex-start;
+  backdrop-filter: blur(0.18vw) brightness(100%);
+  display: flex;
+  flex-direction: column;
+  height: 5.86vw;
+  justify-content: center;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100.0vw;
+}
+
+.page--onas .frame-27 {
+  align-items: center;
+  align-self: stretch;
+  border-bottom-style: solid;
+  border-bottom-width: 0.07vw;
+  border-color: #ffffff1a;
+  display: flex;
+  gap: 3.66vw;
+  height: 7.32vw;
+  margin-bottom: -0.73vw;
+  margin-top: -0.73vw;
+  padding: 0.0vw 40.0vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--onas .group-1-2 {
+  aspect-ratio: 4.36;
+  height: 2.02vw;
+  position: relative;
+  width: 8.8vw;
+}
+
+.page--onas .frame-2-1 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  justify-content: space-between;
+  position: relative;
+}
+
+.page--onas .frame-6-1 {
+  align-items: center;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 1.46vw;
+  position: relative;
+}
+
+.page--onas .menu-hover {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.73vw;
+  height: 7.32vw;
+  position: relative;
+}
+
+.page--onas .frame-33-2 {
+  gap: 0.37vw;
+  height: 7.17vw;
+}
+
+.page--onas .elektryczna-pompa-gbinowa-4-sr-s {
+  letter-spacing: 0.01vw;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+}
+
+.page--onas .arrow_down-4 {
+  aspect-ratio: 2.34;
+  height: 0.37vw;
+  position: relative;
+  width: 0.88vw;
+}
+
+.page--onas .arrow_down-5 {
+  height: 141.40%;
+  left: -5.34%;
+  position: absolute;
+  top: -15.36%;
+  width: 110.68%;
+}
+
+.page--onas .oferta-dla-partnerw {
+  letter-spacing: 0.01vw;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+}
+
+.page--onas .o-nas {
+  letter-spacing: 0.01vw;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+}
+
+.page--onas .frame-33-4 {
+  gap: 0.73vw;
+  height: 7.17vw;
+}
+
+.page--onas .kontakt {
+  letter-spacing: 0.01vw;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+}
+
+.page--onas .frame-25 {
+  height: 7.32vw;
+  position: relative;
+  width: 4.25vw;
+}
+
+.page--onas .frame-5-1 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.73vw;
+  margin-left: -2.79vw;
+  position: relative;
+}
+
+.page--onas .frame-1-1 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.73vw;
+  justify-content: center;
+  margin-bottom: -0.29vw;
+  margin-top: -0.29vw;
+  position: relative;
+}
+
+.page--onas .vector-22 {
+  aspect-ratio: 0.61;
+  height: 1.46vw;
+  position: relative;
+  width: 0.88vw;
+}
+
+.page--onas .phone {
+  letter-spacing: 0.01vw;
+  line-height: normal;
+  margin-top: -0.07vw;
+  position: relative;
+  width: fit-content;
+}
+
+.page--onas .dobierz_pompe {
+  align-items: center;
+  background-color: var(--royal-blue);
+  border-radius: 2.2vw;
+  display: flex;
+  gap: 1.46vw;
+  height: 3.07vw;
+  padding: 0.73vw 4.17vw 0.73vw 1.32vw;
+  position: relative;
+  width: 13.47vw;
+}
+
+.page--onas .frame-4-3 {
+  height: 2.93vw;
+  left: 10.47vw;
+  top: 0.07vw;
+  width: 2.93vw;
+}
+
+.page--onas .group-3-2 {
+  height: 0.59vw;
+  width: 0.94vw;
+}
+
+.page--onas .vector-23 {
+  height: 116.24%;
+  left: 66.80%;
+  position: absolute;
+  top: -8.12%;
+  width: 42.80%;
+}
+
+.page--onas .vector-24 {
+  height: 25.00%;
+  left: -7.79%;
+  position: absolute;
+  top: 37.50%;
+  width: 107.80%;
+}
+
+.page--onas .dobierz-pomp {
+  letter-spacing: -0.02vw;
+  line-height: normal;
+  margin-right: -0.59vw;
+  margin-top: -0.07vw;
+  position: relative;
+  width: fit-content;
+}
+
+.page--onas .group-6293-1 {
+  height: 10.18vw;
+  left: calc(50.00% + 10.98vw);
+  position: absolute;
+  top: calc(50.00% + 9.15vw);
+  width: 29.06vw;
+}
+
+.page--onas .logo_test-1-1 {
+  aspect-ratio: 1;
+  height: 10.18vw;
+  left: calc(50.00% - 14.57vw);
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 5.12vw);
+  width: 10.18vw;
+}
+
+.page--onas .twoje-pewne-rdo-j-1 {
+  left: calc(50.00% - 4.61vw);
+  letter-spacing: -0.03vw;
+  line-height: 1.76vw;
+  position: absolute;
+  top: calc(50.00% - 2.12vw);
+  width: 19.03vw;
+}
+
+.page--onas .frame-82-2 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--cod-gray);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.page--onas .technologia_3-1 {
+  height: 47.36vw;
+  left: calc(50.00% - 50.0vw);
+  mix-blend-mode: lighten;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 100.0vw;
+}
+
+.page--onas .frame-36782-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-image: url(../img/frame-36782-1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.73vw;
+  padding: 8.78vw 4.39vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--onas .ellipse-2-23 {
+  background-color: var(--royal-blue-3);
+  border-radius: 28.37vw;
+  filter: blur(13.32vw);;
+  height: 56.73vw;
+  left: calc(50.00% - 28.33vw);
+  position: absolute;
+  top: calc(50.00% - 28.4vw);
+  width: 56.73vw;
+}
+
+.page--onas .frame-65-5 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 3.66vw;
+  width: 100%;
+}
+
+.page--onas .mamy-prost-misj-2 {
+  align-self: stretch;
+  letter-spacing: -0.07vw;
+  line-height: 4.39vw;
+  margin-top: -0.07vw;
+  position: relative;
+  text-align: center;
+}
+
+.page--onas .frame-13 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 2.93vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--onas .misja-2 {
+  align-items: center;
+  border: 0.07vw solid;
+  border-color: transparent;
+  border-image: conic-gradient(from 90deg at 48% 50%, rgba(42, 44, 55, 1) 0%, rgba(42, 44, 55, 1) 15%, rgba(42, 44, 55, 1) 31%) 1;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 1.46vw;
+  height: 27.89vw;
+  padding: 4.39vw 3.66vw;
+  position: relative;
+}
+
+.page--onas .water-cycle-1-2 {
+  aspect-ratio: 1;
+  background-image: url(../img/water-cycle--1--1.gif);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 5.12vw;
+  position: relative;
+  width: 5.12vw;
+}
+
+.page--onas .frame-153 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 1.1vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--onas .w-wiecie-gdzie-lic-2 {
+  align-self: stretch;
+  letter-spacing: -0.03vw;
+  line-height: 2.19vw;
+  margin-top: -0.07vw;
+  position: relative;
+  text-align: center;
+}
+
+.page--onas .pedrollo-od-dekad-wy-2 {
+  align-self: stretch;
+  letter-spacing: -0.02vw;
+  line-height: 1.64vw;
+  position: relative;
+  text-align: center;
+}
+
+.page--onas .care-1-2 {
+  aspect-ratio: 1;
+  background-image: url(../img/care-1.gif);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 5.12vw;
+  position: relative;
+  width: 5.12vw;
+}
+
+.page--onas .jestemy-napdzani-i-2 {
+  align-self: stretch;
+  letter-spacing: -0.03vw;
+  line-height: 2.19vw;
+  margin-top: -0.07vw;
+  position: relative;
+  text-align: center;
+}
+
+.page--onas .chcemy-by-woda-doci-2 {
+  align-self: stretch;
+  letter-spacing: -0.02vw;
+  line-height: 1.64vw;
+  position: relative;
+  text-align: center;
+}
+
+.page--onas .hourse_pomp-2 {
+  aspect-ratio: 1;
+  background-image: url(../img/hourse--2--1.gif);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 5.12vw;
+  position: relative;
+  width: 5.12vw;
+}
+
+.page--onas .nasze-pompy-pracuj-2 {
+  align-self: stretch;
+  letter-spacing: -0.03vw;
+  line-height: 2.19vw;
+  margin-top: -0.07vw;
+  position: relative;
+  text-align: center;
+}
+
+.page--onas .na-piciu-kontynenta-2 {
+  align-self: stretch;
+  letter-spacing: -0.02vw;
+  line-height: 1.64vw;
+  position: relative;
+  text-align: center;
+}
+
+.page--onas .konsultacja-7 {
+  align-items: flex-start;
+  align-self: stretch;
+  padding: 8.78vw 4.39vw;
+  width: 100%;
+}
+
+.page--onas .ellipse-2-24 {
+  height: 97.22vw;
+  left: calc(50.00% - 50.0vw);
+  position: absolute;
+  top: calc(50.00% - 48.17vw);
+  width: 88.65vw;
+}
+
+.page--onas .ellipse-3-13 {
+  height: 25.7vw;
+  left: calc(50.00% - 10.4vw);
+  position: absolute;
+  top: calc(50.00% - 0.07vw);
+  width: 25.7vw;
+}
+
+.page--onas .frame-6483-8 {
+  align-items: center;
+  align-self: stretch;
+  gap: 4.39vw;
+  width: 100%;
+}
+
+.page--onas .u7761719182_httpss-9 {
+  aspect-ratio: 1.78;
+  height: 28.7vw;
+  object-fit: cover;
+  position: relative;
+  width: 51.02vw;
+}
+
+.page--onas .group-6291-2 {
+  height: 10.25vw;
+  left: calc(50.00% - 2.78vw);
+  position: absolute;
+  top: calc(50.00% + 7.91vw);
+  width: 10.25vw;
+}
+
+.page--onas .frame-6482-7 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 2.93vw;
+  position: relative;
+}
+
+.page--onas .frame-65-4 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 2.2vw;
+  width: 100%;
+}
+
+.page--onas .frame-6501-4 {
+  align-items: flex-start;
+  flex-direction: column;
+  gap: 0.73vw;
+}
+
+.page--onas .produkcja-2 {
+  align-self: stretch;
+  height: 1.27vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--onas .woska-produkcja-2 {
+  letter-spacing: -0.07vw;
+  line-height: 4.39vw;
+  margin-right: -18.52vw;
+  position: relative;
+  width: 54.32vw;
+}
+
+.page--onas .kada-pompa-powstaje {
+  align-self: stretch;
+  letter-spacing: -0.03vw;
+  line-height: 2.2vw;
+  position: relative;
+}
+
+.page--onas .span-5 {
+  letter-spacing: -0.0vw;
+}
+
+.page--onas .konsultacja-8 {
+  align-items: center;
+  align-self: stretch;
+  padding: 7.32vw 11.71vw;
+  width: 100%;
+}
+
+.page--onas .ellipse-2-25 {
+  height: 100.44vw;
+  left: calc(50.00% - 47.58vw);
+  position: absolute;
+  top: calc(50.00% - 51.39vw);
+  width: 97.58vw;
+}
+
+.page--onas .frame-6483-9 {
+  align-items: center;
+  gap: 7.32vw;
+  width: 73.21vw;
+}
+
+.page--onas .frame-6482-8 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 1.1vw;
+  position: relative;
+}
+
+.page--onas .uznanie-ekspertw-2 {
+  align-self: stretch;
+  height: 1.35vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--onas .frame-65-6 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  gap: 1.46vw;
+  width: 100%;
+}
+
+.page--onas .zaangaowanie-w-inno-1 {
+  align-self: stretch;
+  color: transparent;
+  font-family: var(--font-family-manrope);
+  font-size: 2.2vw;
+  font-weight: 600;
+  letter-spacing: -0.04vw;
+  line-height: 2.93vw;
+  margin-top: -0.07vw;
+  position: relative;
+  text-align: center;
+}
+
+.page--onas .span0-6 {
+  letter-spacing: -0.01vw;
+}
+
+.page--onas .span1-8 {
+  color: var(--silver-chalice);
+  letter-spacing: -0.01vw;
+}
+
+.page--onas .prestiowe-nagrody-p-2 {
+  align-self: stretch;
+  letter-spacing: -0.03vw;
+  line-height: 2.2vw;
+  position: relative;
+  text-align: center;
+}
+
+.page--onas .group-6295-2 {
+  height: 27.16vw;
+  left: 4.47vw;
+  position: absolute;
+  top: 2.71vw;
+  width: 91.07vw;
+}
+
+.page--onas .vector-25 {
+  aspect-ratio: 0.34;
+  height: 27.09vw;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 9.08vw;
+}
+
+.page--onas .vector-26 {
+  aspect-ratio: 0.34;
+  height: 27.09vw;
+  left: 81.99vw;
+  position: absolute;
+  top: 0.07vw;
+  width: 9.08vw;
+}
+
+.page--onas .frame-36783 {
+  align-items: flex-start;
+  align-self: stretch;
+  border-bottom-style: solid;
+  border-bottom-width: 0.07vw;
+  border-color: var(--white-2);
+  display: flex;
+  flex: 0 0 auto;
+  gap: 3.66vw;
+  padding: 0.73vw 5.86vw 0.07vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--onas .frame-62-2 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 3.66vw;
+  margin-right: -113.54vw;
+  position: relative;
+}
+
+.page--onas .nagradzani-zajako-iinnowacje-2 {
+  letter-spacing: -0.03vw;
+  line-height: 1.61vw;
+  position: relative;
+  width: fit-content;
+}
+
+.page--onas .span1-9 {
+  color: var(--concrete);
+  font-family: var(--font-family-geist);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  letter-spacing: -0.0vw;
+}
+
+.page--onas .logos_2-2 {
+  height: 12.59vw;
+  position: relative;
+  width: 185.94vw;
+}
+
+.page--onas .frame-50-2 {
+  align-items: center;
+  display: inline-flex;
+  gap: 3.66vw;
+  height: 12.59vw;
+  left: 0.95vw;
+  position: absolute;
+  top: 0;
+}
+
+.page--onas .frame-14 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 2.93vw;
+  position: relative;
+}
+
+.page--onas .logo_01-2 {
+  align-items: center;
+  border-radius: 1.46vw;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.73vw;
+  justify-content: center;
+  padding: 0.73vw;
+  position: relative;
+}
+
+.page--onas .frame-23-3 {
+  align-items: center;
+  aspect-ratio: 3.16;
+  display: flex;
+  gap: 1.24vw;
+  height: 4.1vw;
+  position: relative;
+  width: 12.81vw;
+}
+
+.page--onas .vector-20 {
+  aspect-ratio: 0.34;
+  height: 4.8vw;
+  margin-bottom: -0.35vw;
+  margin-top: -0.35vw;
+  position: relative;
+  width: 1.61vw;
+}
+
+.page--onas .entrepreneur-of-the-year-award-2001-2 {
+  letter-spacing: -0.02vw;
+  line-height: 1.1vw;
+  margin-top: -0.15vw;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.page--onas .span0-5 {
+  letter-spacing: -0.0vw;
+  line-height: 1.46vw;
+}
+
+.page--onas .span1-7 {
+  letter-spacing: -0.01vw;
+  line-height: 1.46vw;
+}
+
+.page--onas .span2-2 {
+  letter-spacing: -0.0vw;
+  line-height: 1.32vw;
+}
+
+.page--onas .vector-27 {
+  aspect-ratio: 0.34;
+  height: 4.8vw;
+  margin-left: -1528.88vw;
+  margin-top: -158.92vw;
+  position: relative;
+  width: 1.61vw;
+}
+
+.page--onas .rectangle-15-2 {
+  background: linear-gradient(270deg, rgba(10, 10, 10, 0) 0%, rgba(10, 10, 10, 1) 100%);
+  height: 12.59vw;
+  left: 0.07vw;
+  position: absolute;
+  top: 0;
+  width: 21.6vw;
+}
+
+.page--onas .ellipse-2-26 {
+  height: 102.05vw;
+  left: calc(50.00% - 50.0vw);
+  position: absolute;
+  top: calc(50.00% - 51.54vw);
+  width: 95.1vw;
+}
+
+.page--onas .video_fabryka-2 {
+  aspect-ratio: 1.78;
+  height: 28.7vw;
+  object-fit: cover;
+  position: relative;
+  width: 51.02vw;
+}
+
+.page--onas .park-maszynowy-2 {
+  align-self: stretch;
+  height: 1.27vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--onas .nowoczesny-park-maszynowy-2 {
+  align-self: stretch;
+  letter-spacing: -0.07vw;
+  line-height: 4.39vw;
+  position: relative;
+}
+
+.page--onas .na-powierzchni-120-0-1 {
+  align-self: stretch;
+  letter-spacing: -0.03vw;
+  line-height: 2.2vw;
+  position: relative;
+}
+
+.page--onas .konsultacja-9 {
+  align-items: flex-start;
+  align-self: stretch;
+  padding: 7.32vw 11.71vw;
+  width: 100%;
+}
+
+.page--onas .ellipse-2-27 {
+  height: 90.41vw;
+  left: calc(50.00% - 45.17vw);
+  position: absolute;
+  top: calc(50.00% - 45.24vw);
+  width: 90.41vw;
+}
+
+.page--onas .frame-6483-10 {
+  align-items: center;
+  align-self: stretch;
+  flex-direction: column;
+  gap: 2.2vw;
+  justify-content: center;
+  width: 100%;
+}
+
+.page--onas .frame-36790-2 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.73vw;
+  position: relative;
+}
+
+.page--onas .virtual-lab-1-2 {
+  aspect-ratio: 1;
+  height: 5.86vw;
+  object-fit: cover;
+  position: relative;
+  width: 5.86vw;
+}
+
+.page--onas .frame-6482-9 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 2.93vw;
+  position: relative;
+}
+
+.page--onas .frame-65-7 {
+  align-items: center;
+  display: inline-flex;
+  gap: 1.46vw;
+}
+
+.page--onas .frame-6501-5 {
+  align-items: center;
+  flex-direction: column;
+  gap: 0.73vw;
+}
+
+.page--onas .jako-potwierdzona-w-laboratorium-2 {
+  letter-spacing: -0.07vw;
+  line-height: 4.39vw;
+  margin-top: -0.07vw;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--onas .weryfikujemy-kady-e-2 {
+  letter-spacing: -0.03vw;
+  line-height: 2.2vw;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.page--onas .wicej-o-laboratorium-2 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -0.15vw;
+  margin-top: -0.44vw;
+  position: relative;
+  width: fit-content;
+}
+
+.page--onas .arrow_right-3 {
+  height: 1.39vw;
+  margin-bottom: -0.18vw;
+  margin-right: -0.09vw;
+  margin-top: -0.18vw;
+  position: relative;
+  width: 1.55vw;
+}
+
+.page--onas .frame-36784-2 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.73vw;
+  justify-content: center;
+  padding: 7.32vw 9.52vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--onas .ellipse-2-28 {
+  background-color: var(--royal-blue-3);
+  border-radius: 28.37vw;
+  filter: blur(13.32vw);;
+  height: 56.73vw;
+  left: calc(50.00% - 28.33vw);
+  position: absolute;
+  top: calc(50.00% - 26.65vw);
+  width: 56.73vw;
+}
+
+.page--onas .ellipse-3-14 {
+  background-color: var(--white-3);
+  border-radius: 28.37vw;
+  filter: blur(13.32vw);;
+  height: 56.73vw;
+  left: 41.87vw;
+  position: absolute;
+  top: -4.9vw;
+  width: 56.73vw;
+}
+
+.page--onas .frame-84-2 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 5.12vw;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.page--onas .niezawodno-pynie-z-jakoci-2 {
+  letter-spacing: -0.11vw;
+  line-height: 3.66vw;
+  margin-top: -0.07vw;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--onas .niezawodnosc-2::before {
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  background: conic-gradient(from 90deg at 48% 50%, rgba(53, 71, 131, 0.6) 0%, rgba(53, 71, 131, 0.6) 15%, rgba(53, 71, 131, 0.6) 31%);
+  border-radius: 1.46vw;
+  content: '';
+  inset: 0;
+  mask-composite: exclude;
+  padding: 0.15vw;
+  pointer-events: none;
+  position: absolute;
+  z-index: 1;
+}
+
+.page--onas .niezawodnosc-2 {
+  align-items: center;
+  background-color: var(--royal-blue-2);
+  border: none;
+  border-radius: 1.46vw;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 1.46vw;
+  height: 24.23vw;
+  justify-content: center;
+  overflow: hidden;
+  padding: 4.39vw;
+  position: relative;
+}
+
+.page--onas .nizp-atest-scwa-1-2 {
+  aspect-ratio: 1;
+  height: 8.93vw;
+  position: relative;
+  width: 8.93vw;
+}
+
+.page--onas .frame-36792-2 {
+  align-items: center;
+  aspect-ratio: 1;
+  display: flex;
+  justify-content: center;
+  width: 8.93vw;
+}
+
+.page--onas .vector-28 {
+  aspect-ratio: 0.92;
+  height: 8.93vw;
+  margin-left: 0.07vw;
+  width: 8.27vw;
+}
+
+.page--onas .atest-higieniczny-pzh-2 {
+  letter-spacing: -0.04vw;
+  line-height: 2.2vw;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--onas .iso-2 {
+  aspect-ratio: 1;
+  height: 8.93vw;
+  position: relative;
+  width: 8.93vw;
+}
+
+.page--onas .frame-36791-2 {
+  align-items: center;
+  aspect-ratio: 1;
+  display: flex;
+  height: 8.93vw;
+  justify-content: center;
+  width: 8.93vw;
+}
+
+.page--onas .vector-29 {
+  height: 9.0vw;
+  margin-top: 0.07vw;
+  width: 9.66vw;
+}
+
+.page--onas .iso-90012015-2 {
+  letter-spacing: -0.04vw;
+  line-height: 2.2vw;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--onas .reach-2 {
+  aspect-ratio: 1;
+  height: 8.93vw;
+  position: relative;
+  width: 8.93vw;
+}
+
+.page--onas .vector-30 {
+  aspect-ratio: 1.06;
+  height: 6.15vw;
+  margin-left: 0.07vw;
+  width: 6.52vw;
+}
+
+.page--onas .reach-compliant-2 {
+  letter-spacing: -0.04vw;
+  line-height: 2.2vw;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--onas .konsultacja-10 {
+  align-items: flex-start;
+  padding: 7.32vw 0.0vw 120.0vw 60.0vw;
+  width: 100.0vw;
+}
+
+.page--onas .ellipse-2-29 {
+  height: 110.54vw;
+  left: calc(50.00% - 36.6vw);
+  position: absolute;
+  top: calc(50.00% - 51.9vw);
+  width: 86.6vw;
+}
+
+.page--onas .frame-6483-11 {
+  align-items: flex-start;
+  align-self: stretch;
+  flex-direction: column;
+  gap: 5.12vw;
+  width: 100%;
+}
+
+.page--onas .frame-6501-6 {
+  align-items: flex-end;
+  justify-content: space-between;
+  padding: 0.0vw 160.0vw 0.0vw 0.0vw;
+}
+
+.page--onas .frame-36803 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 0.73vw;
+  position: relative;
+}
+
+.page--onas .pomocni-fachowcy-2 {
+  align-self: stretch;
+  letter-spacing: -0.07vw;
+  line-height: 4.39vw;
+  margin-top: -0.07vw;
+  position: relative;
+}
+
+.page--onas .zespol-2 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 6.59vw;
+  margin-right: -33.24vw;
+  position: relative;
+  width: 128.84vw;
+}
+
+.page--onas .frame-36804 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 34.41vw;
+  justify-content: space-between;
+  position: relative;
+  width: 25.26vw;
+}
+
+.page--onas .frame-15 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 1.46vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--onas .jestemy-znani-z-pr {
+  align-items: flex-end;
+  align-self: stretch;
+  display: flex;
+  justify-content: center;
+  letter-spacing: -0.04vw;
+  line-height: 2.93vw;
+  margin-top: -0.07vw;
+  position: relative;
+}
+
+.page--onas .kompetentni-i-pomocn-1 {
+  align-self: stretch;
+  letter-spacing: -0.03vw;
+  line-height: 2.2vw;
+  position: relative;
+}
+
+.page--onas .line-16-4 {
+  height: 0.15vw;
+  left: 12.3vw;
+  position: absolute;
+  top: 11.64vw;
+  width: 6.3vw;
+}
+
+.page--onas .frame-77-2 {
+  align-self: stretch;
+  display: flex;
+  height: 4.39vw;
+  width: 100%;
+}
+
+.page--onas .arrow-4 {
+  height: 4.39vw;
+  position: relative;
+  width: 4.39vw;
+}
+
+.page--onas .slider_zespol-2 {
+  height: 37.99vw;
+  position: relative;
+  width: 88.95vw;
+}
+
+.page--onas .frame-3673394-2 {
+  align-items: center;
+  display: inline-flex;
+  gap: 2.93vw;
+  position: relative;
+}
+
+.page--onas .frame-3678-2 {
+  align-items: flex-start;
+  aspect-ratio: 0.78;
+  display: flex;
+  flex-direction: column;
+  gap: 2.2vw;
+  height: 34.19vw;
+  position: relative;
+  width: 26.65vw;
+}
+
+.page--onas .u7761719182_httpss-10 {
+  aspect-ratio: 0.93;
+  background-image: url(../img/u7761719182-httpss-6@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 1.46vw;
+  height: 28.33vw;
+  overflow: hidden;
+  position: relative;
+  width: 26.35vw;
+}
+
+.page--onas .ellipse-3-15 {
+  height: 28.33vw;
+  left: calc(50.00% - 13.18vw);
+  position: absolute;
+  top: calc(50.00% - 14.2vw);
+  width: 26.35vw;
+}
+
+.page--onas .frame-36786-5 {
+  margin-bottom: -0.22vw;
+}
+
+.page--onas .marcin-laskowski-2 {
+  letter-spacing: -0.04vw;
+  line-height: normal;
+  margin-top: -0.07vw;
+  position: relative;
+  width: fit-content;
+}
+
+.page--onas .stacjonarny-opiekun-regionu-2 {
+  letter-spacing: -0.04vw;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+}
+
+.page--onas .u7761719182_httpss-8 {
+  aspect-ratio: 0.93;
+  background-image: url(../img/u7761719182-httpss-8@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 1.46vw;
+  height: 28.55vw;
+  overflow: hidden;
+  position: relative;
+  width: 26.57vw;
+}
+
+.page--onas .ellipse-3-16 {
+  height: 28.55vw;
+  left: calc(50.00% - 13.32vw);
+  position: absolute;
+  top: calc(50.00% - 14.28vw);
+  width: 26.57vw;
+}
+
+.page--onas .frame-36786-4 {
+  margin-bottom: -0.44vw;
+}
+
+.page--onas .ellipse-3-17 {
+  height: 28.55vw;
+  left: calc(50.00% - 13.32vw);
+  position: absolute;
+  top: calc(50.00% - 14.28vw);
+  width: 4.61vw;
+}
+
+.page--onas .frame-6566-2 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--white);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 5.12vw;
+  padding: 5.12vw 8.78vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--onas .ellipse-2-30 {
+  height: 93.12vw;
+  left: calc(50.00% - 50.0vw);
+  position: absolute;
+  top: calc(50.00% - 55.56vw);
+  width: 73.72vw;
+}
+
+.page--onas .frame-6587-2 {
+  align-items: center;
+  border-radius: 2.2vw;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 1.46vw;
+  position: relative;
+}
+
+.page--onas .frame-6576-2 {
+  align-items: center;
+  border-radius: 2.2vw;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 5.86vw;
+  justify-content: center;
+  position: relative;
+}
+
+.page--onas .frame-6596-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 2.93vw;
+  justify-content: center;
+  position: relative;
+}
+
+.page--onas .frame-16 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.page--onas .instalator-2 {
+  aspect-ratio: 1;
+  height: 4.39vw;
+  object-fit: cover;
+  position: relative;
+  width: 4.39vw;
+}
+
+.page--onas .znajd-instalatora-z-twojej-okolicy-2 {
+  align-self: stretch;
+  letter-spacing: -0.11vw;
+  line-height: 4.54vw;
+  margin-top: -0.07vw;
+  position: relative;
+}
+
+.page--onas .wolisz-powierzy-mont-2 {
+  align-self: stretch;
+  height: 3.33vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--onas .frame-6586-2 {
+  align-items: flex-start;
+  border-radius: 2.2vw;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 1.46vw;
+  position: relative;
+}
+
+.page--onas .wpisz-kod-pocztowy-montau-2 {
+  align-self: stretch;
+  height: 1.45vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--onas .frame-6574-2 {
+  align-items: center;
+  border: 0.07vw solid;
+  border-color: var(--royal-blue);
+  border-radius: 2.2vw;
+  display: flex;
+  height: 3.07vw;
+  justify-content: space-between;
+  padding: 0.59vw 0.0vw 0.59vw 30.0vw;
+  position: relative;
+  width: 30.53vw;
+}
+
+.page--onas .text-3 {
+  color: var(--cod-gray);
+  font-family: var(--font-family-manrope);
+  font-size: 1.39vw;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.07vw;
+  position: relative;
+  width: fit-content;
+}
+
+.page--onas .poznaj-nasz-zestaw {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -0.26vw;
+  margin-top: -0.55vw;
+  position: relative;
+  width: fit-content;
+}
+
+.page--onas .search-2 {
+  height: 1.39vw;
+  margin-bottom: -0.18vw;
+  margin-top: -0.18vw;
+  position: relative;
+  width: 1.39vw;
+}
+
+.page--onas .u7761719182_httpss-11 {
+  aspect-ratio: 0.94;
+  background-image: url(../img/u7761719182-httpss-2.gif);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 1.46vw;
+  height: 39.02vw;
+  position: relative;
+  width: 36.6vw;
+}
+
+.page--onas .frame-6480-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--black-haze);
+  border: 0.07vw solid;
+  border-color: var(--pumice);
+  border-radius: 2.2vw;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 6.59vw;
+  padding: 2.2vw 3.66vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--onas .frame-6482-10 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: space-between;
+  position: relative;
+  width: 100%;
+}
+
+.page--onas .pan-darek-2 {
+  color: var(--cod-gray);
+  font-family: var(--font-family-manrope);
+  font-size: var(--font-size-xxl);
+  font-weight: 600;
+  letter-spacing: -0.04vw;
+  line-height: 2.78vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--onas .frame-6580-2 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.73vw;
+  justify-content: center;
+  position: relative;
+}
+
+.page--onas .arrow-5 {
+  align-items: center;
+  aspect-ratio: 1;
+  border: 0.15vw solid;
+  border-color: var(--emerald);
+  border-radius: 2.2vw;
+  display: flex;
+  gap: 0.73vw;
+  height: 1.46vw;
+  justify-content: center;
+  padding: 0.73vw 0.0vw;
+  position: relative;
+  width: 1.46vw;
+}
+
+.page--onas .frame-76-2 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.73vw;
+  margin-bottom: -0.22vw;
+  margin-top: -0.22vw;
+  position: relative;
+}
+
+.page--onas .line-8-2 {
+  height: 0.6vw;
+  margin-bottom: -0.11vw;
+  margin-left: -0.05vw;
+  margin-right: -0.05vw;
+  margin-top: -0.05vw;
+  position: relative;
+  width: 0.76vw;
+}
+
+.page--onas .instalator-pomp-w-twojej-okolicy-2 {
+  height: 1.28vw;
+  margin-bottom: -0.1vw;
+  position: relative;
+  width: 19.05vw;
+}
+
+.page--onas .frame-6494-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.page--onas .zapytaj-2 {
+  align-items: center;
+  background-color: var(--royal-blue);
+  border-radius: 2.2vw;
+  display: flex;
+  gap: 1.46vw;
+  height: 3.07vw;
+  padding: 1.02vw 5.12vw 1.02vw 1.9vw;
+  position: relative;
+  width: 21.16vw;
+}
+
+.page--onas .frame-4-4 {
+  aspect-ratio: 1;
+  height: 2.78vw;
+  left: 18.23vw;
+  top: 0.15vw;
+  width: 2.78vw;
+}
+
+.page--onas .group-3-3 {
+  height: 0.73vw;
+  margin-left: -0.15vw;
+  margin-right: -0.15vw;
+  width: 1.17vw;
+}
+
+.page--onas .vector-31 {
+  height: 112.99%;
+  left: 67.99%;
+  position: absolute;
+  top: -6.49%;
+  width: 39.56%;
+}
+
+.page--onas .vector-32 {
+  height: 20.00%;
+  left: -6.23%;
+  position: absolute;
+  top: 40.00%;
+  width: 106.23%;
+}
+
+.page--onas .zapytaj-o-produkt {
+  letter-spacing: -0.03vw;
+  line-height: normal;
+  margin-bottom: -0.33vw;
+  margin-top: -0.48vw;
+  position: relative;
+  width: fit-content;
+}
+
+.page--onas .kontent-2 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 2.93vw;
+  padding: 8.78vw 6.59vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--onas .vector-1-1 {
+  height: 132.58vw;
+  left: 12.74vw;
+  position: absolute;
+  top: 31.33vw;
+  width: 42.83vw;
+}
+
+.page--onas .group-6294-2 {
+  background-color: var(--royal-blue);
+  border-radius: 0.66vw;
+  filter: blur(0.88vw);;
+  height: 1.32vw;
+  left: 34.99vw;
+  position: absolute;
+  top: 38.36vw;
+  width: 1.32vw;
+}
+
+.page--onas .ellipse-23-2 {
+  aspect-ratio: 1;
+  background-color: var(--royal-blue);
+  border-radius: 0.29vw;
+  filter: blur(0.15vw);;
+  height: 0.59vw;
+  left: 0.37vw;
+  position: absolute;
+  top: 0.37vw;
+  width: 0.59vw;
+}
+
+.page--onas .ellipse-25-2 {
+  aspect-ratio: 1;
+  background-color: var(--white);
+  border-radius: 0.07vw;
+  filter: blur(0.07vw);;
+  height: 0.15vw;
+  left: 0.59vw;
+  position: absolute;
+  top: 0.59vw;
+  width: 0.15vw;
+}
+
+.page--onas .wartoci-ktre-definiuj-pedrollo-2 {
+  letter-spacing: -0.11vw;
+  line-height: 4.54vw;
+  margin-top: -0.07vw;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--onas .line-16-5 {
+  height: 0.22vw;
+  left: 86.68vw;
+  position: absolute;
+  top: 17.13vw;
+  width: 13.32vw;
+}
+
+.page--onas .row-2 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.73vw;
+  justify-content: center;
+  padding: 5.12vw 0.0vw 0.0vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--onas .frame-298-1 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  position: relative;
+  width: 100%;
+}
+
+.page--onas .frame-30-1 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 2.2vw;
+  position: relative;
+}
+
+.page--onas .frame-36799-2 {
+  aspect-ratio: 1;
+  height: 16.84vw;
+  position: relative;
+  width: 16.76vw;
+}
+
+.page--onas .p_1-1-2 {
+  aspect-ratio: 1.02;
+  height: 17.5vw;
+  left: calc(50.00% - 8.93vw);
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 8.78vw);
+  width: 17.79vw;
+}
+
+.page--onas .ellipse-2-21 {
+  aspect-ratio: 1;
+  height: 43.92vw;
+  left: calc(50.00% - 14.93vw);
+  position: absolute;
+  top: calc(50.00% - 21.96vw);
+  width: 36.97vw;
+}
+
+.page--onas .precyzja-2 {
+  align-self: stretch;
+  letter-spacing: -0.06vw;
+  line-height: 3.22vw;
+  margin-top: -0.07vw;
+  position: relative;
+}
+
+.page--onas .may-tekst-2 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  justify-content: center;
+  letter-spacing: 0;
+  line-height: 2.12vw;
+  position: relative;
+}
+
+.page--onas .frame-304 {
+  flex: 1;
+  flex-grow: 1;
+  height: 17.94vw;
+  margin-left: -5.86vw;
+  position: relative;
+}
+
+.page--onas .frame-304-1 {
+  flex: 1;
+  flex-grow: 1;
+  height: 17.94vw;
+  position: relative;
+}
+
+.page--onas .frame-305-3 {
+  align-items: flex-start;
+}
+
+.page--onas .frame-36-2 {
+  height: 16.84vw;
+  position: relative;
+  width: 16.76vw;
+}
+
+.page--onas .e_2-1-2 {
+  aspect-ratio: 0.87;
+  height: 14.64vw;
+  left: calc(50.00% - 6.3vw);
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 7.32vw);
+  width: 12.74vw;
+}
+
+.page--onas .ellipse-2-22 {
+  aspect-ratio: 1;
+  height: 43.92vw;
+  left: calc(50.00% - 21.96vw);
+  position: absolute;
+  top: calc(50.00% - 21.96vw);
+  width: 43.92vw;
+}
+
+.page--onas .frame-36793-4 {
+  align-self: stretch;
+  justify-content: center;
+}
+
+.page--onas .energooszczdno-2 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 3.22vw;
+  position: relative;
+}
+
+.page--onas .d_1-1-2 {
+  aspect-ratio: 1.02;
+  height: 14.64vw;
+  left: calc(50.00% - 7.47vw);
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 7.32vw);
+  width: 14.93vw;
+}
+
+.page--onas .doskonao-2 {
+  align-self: stretch;
+  letter-spacing: -0.06vw;
+  line-height: 3.22vw;
+  margin-top: -0.07vw;
+  position: relative;
+}
+
+.page--onas .frame-305-2 {
+  align-items: center;
+}
+
+.page--onas .r_1-1-2 {
+  aspect-ratio: 0.81;
+  height: 14.64vw;
+  left: calc(50.00% - 5.86vw);
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 7.32vw);
+  width: 11.86vw;
+}
+
+.page--onas .rzetelno-2 {
+  align-self: stretch;
+  letter-spacing: -0.06vw;
+  line-height: 3.22vw;
+  margin-top: -0.07vw;
+  position: relative;
+}
+
+.page--onas .o_1-1-4 {
+  aspect-ratio: 1.04;
+  height: 14.64vw;
+  left: calc(50.00% - 7.61vw);
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 7.32vw);
+  width: 15.15vw;
+}
+
+.page--onas .odpowiedzialno-2 {
+  align-self: stretch;
+  letter-spacing: -0.06vw;
+  line-height: 3.22vw;
+  margin-top: -0.07vw;
+  position: relative;
+}
+
+.page--onas .l-1-1-4 {
+  aspect-ratio: 0.62;
+  height: 14.64vw;
+  left: calc(50.00% - 4.54vw);
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 7.32vw);
+  width: 9.08vw;
+}
+
+.page--onas .lojalno-2 {
+  align-self: stretch;
+  letter-spacing: -0.06vw;
+  line-height: 3.22vw;
+  margin-top: -0.07vw;
+  position: relative;
+}
+
+.page--onas .laboratorium-innowacji-2 {
+  align-self: stretch;
+  letter-spacing: -0.06vw;
+  line-height: 3.22vw;
+  margin-top: -0.07vw;
+  position: relative;
+}
+
+.page--onas .odporno-2 {
+  align-self: stretch;
+  letter-spacing: -0.06vw;
+  line-height: 3.22vw;
+  margin-top: -0.07vw;
+  position: relative;
+}
+
+.page--onas .frame-64-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 16.84vw;
+  height: 41.58vw;
+  padding: 0.0vw 12.08vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--onas .frame-20-2 {
+  height: 53.51vw;
+  left: calc(50.00% - 70.28vw);
+  position: absolute;
+  top: calc(50.00% - 26.72vw);
+  width: 140.56vw;
+}
+
+.page--onas .ellipse-1-2 {
+  background-color: var(--dove-gray);
+  border-radius: 29.8vw;
+  filter: blur(13.32vw);;
+  height: 59.59vw;
+  left: calc(50.00% - 29.8vw);
+  position: relative;
+  top: calc(50.00% - 29.72vw);
+  width: 59.59vw;
+}
+
+.page--onas .frame-51-3 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 2.93vw;
+  justify-content: center;
+  position: relative;
+}
+
+.page--onas .frame-65-8 {
+  align-items: center;
+  display: inline-flex;
+  justify-content: center;
+}
+
+.page--onas .referencje-2 {
+  color: var(--concrete-2);
+  font-family: var(--font-family-manrope);
+  font-size: var(--font-size-m);
+  font-weight: 600;
+  letter-spacing: -0.04vw;
+  line-height: 2.2vw;
+  margin-top: -0.07vw;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--onas .co-mwi-o-nas-klienci-2 {
+  letter-spacing: -0.06vw;
+  line-height: 3.81vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--onas .testimonials-2 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 2.2vw;
+  justify-content: center;
+  margin-left: -115.63vw;
+  margin-right: -115.63vw;
+  position: relative;
+}
+
+.page--onas .frame-79 {
+  height: 17.06vw;
+  position: relative;
+  width: 307.1vw;
+}
+
+.page--onas .frame-69 {
+  -webkit-backdrop-filter: blur(1.46vw) brightness(100%);
+  align-items: center;
+  backdrop-filter: blur(1.46vw) brightness(100%);
+  display: inline-flex;
+  left: 0;
+  opacity: 0.4;
+  position: absolute;
+  top: 1.46vw;
+}
+
+.page--onas .frame-71-2 {
+  background-color: var(--eerie-black);
+  border: 0.07vw solid;
+  border-color: var(--lynch);
+  border-radius: 2.2vw 0.0vw 0.0vw 2.2vw;
+  flex: 0 0 auto;
+  gap: 0.73vw;
+  padding: 2.93vw;
+  position: relative;
+}
+
+.page--onas .frame-70-1 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.73vw;
+  justify-content: center;
+  position: relative;
+}
+
+.page--onas .image-3 {
+  margin-left: -1345.86vw;
+  margin-top: -619.29vw;
+}
+
+.page--onas .arek-nawrocki {
+  align-self: stretch;
+  letter-spacing: -0.02vw;
+  line-height: 1.46vw;
+  margin-top: -0.07vw;
+  position: relative;
+}
+
+.page--onas .dystrybutor-pomp-ped-2 {
+  line-height: 1.46vw;
+}
+
+.page--onas .frame-72-2 {
+  border-color: var(--lynch);
+  padding: 2.93vw 3.66vw;
+}
+
+.page--onas .zawsze-polecam-te-p {
+  letter-spacing: -0.06vw;
+  line-height: 2.71vw;
+  position: relative;
+  width: 33.67vw;
+}
+
+.page--onas .span-6 {
+  letter-spacing: -0.02vw;
+}
+
+.page--onas .frame-67-2 {
+  -webkit-backdrop-filter: blur(1.46vw) brightness(100%);
+  align-items: center;
+  backdrop-filter: blur(1.46vw) brightness(100%);
+  border-radius: 2.2vw;
+  display: inline-flex;
+  left: 121.96vw;
+  position: absolute;
+  top: 0;
+}
+
+.page--onas .frame-71-4 {
+  background-color: var(--eerie-black);
+  border: 0.07vw solid;
+  border-color: var(--silver-chalice-2);
+  border-radius: 2.2vw 0.0vw 0.0vw 2.2vw;
+  flex: 0 0 auto;
+  gap: 0.73vw;
+  padding: 2.93vw;
+  position: relative;
+}
+
+.page--onas .frame-17 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.51vw;
+  justify-content: center;
+  position: relative;
+}
+
+.page--onas .frame-57-4 {
+  gap: 0.22vw;
+}
+
+.page--onas .name-2 {
+  color: var(--concrete);
+  font-family: var(--font-family-geist);
+  font-size: var(--font-size-xxs);
+  font-weight: 600;
+}
+
+.page--onas .dystrybutor-pomp-ped-4 {
+  color: var(--silver-chalice);
+  font-family: var(--font-family-geist);
+  font-size: 0.88vw;
+  font-weight: 500;
+  line-height: 1.32vw;
+}
+
+.page--onas .frame-72-4 {
+  border-color: var(--silver-chalice-2);
+  padding: 2.93vw 3.66vw;
+}
+
+.page--onas .sprzedaj-sprzt-r-2 {
+  letter-spacing: -0.05vw;
+  line-height: 2.27vw;
+  position: relative;
+  width: 33.67vw;
+}
+
+.page--onas .span-7 {
+  letter-spacing: -0.01vw;
+}
+
+.page--onas .frame-68 {
+  -webkit-backdrop-filter: blur(1.46vw) brightness(100%);
+  align-items: center;
+  backdrop-filter: blur(1.46vw) brightness(100%);
+  display: inline-flex;
+  left: 183.02vw;
+  opacity: 0.4;
+  position: absolute;
+  top: 1.1vw;
+}
+
+.page--onas .frame-71-3 {
+  background-color: var(--eerie-black);
+  border: 0.07vw solid;
+  border-color: var(--lynch);
+  border-radius: 2.2vw 0.0vw 0.0vw 2.2vw;
+  flex: 0 0 auto;
+  gap: 0.73vw;
+  padding: 1.46vw 2.93vw;
+  position: relative;
+}
+
+.page--onas .frame-57-3 {
+  gap: 0.44vw;
+}
+
+.page--onas .dystrybutor-pomp-ped-3 {
+  line-height: 1.32vw;
+}
+
+.page--onas .frame-72-3 {
+  border-color: var(--lynch);
+  padding: 2.2vw 2.93vw;
+}
+
+.page--onas .frame-70-2 {
+  -webkit-backdrop-filter: blur(1.46vw) brightness(100%);
+  align-items: center;
+  backdrop-filter: blur(1.46vw) brightness(100%);
+  display: inline-flex;
+  left: 249.78vw;
+  opacity: 0.4;
+  position: absolute;
+  top: 1.46vw;
+}
+
+.page--onas .image-4 {
+  margin-left: -1595.64vw;
+  margin-top: -619.29vw;
+}
+
+.page--onas .sprzt-najwyszej-k {
+  letter-spacing: -0.06vw;
+  line-height: 2.71vw;
+  position: relative;
+  width: 33.67vw;
+}
+
+.page--onas .frame-71-5 {
+  -webkit-backdrop-filter: blur(1.46vw) brightness(100%);
+  backdrop-filter: blur(1.46vw) brightness(100%);
+  left: 62.37vw;
+  opacity: 0.4;
+  position: absolute;
+  top: 1.1vw;
+}
+
+.page--onas .image-5 {
+  margin-left: -1408.27vw;
+  margin-top: -617.44vw;
+}
+
+.page--onas .frame-77-3 {
+  display: inline-flex;
+  flex: 0 0 auto;
+}
+
+.page--onas .footer_desktop-2 {
+  align-self: stretch;
+  height: 102.12vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--onas .frame-6613-2 {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  gap: 2.93vw;
+  height: 55.70%;
+  left: 0;
+  padding: 4.39vw 16.84vw;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+
+.page--onas .frame-36731 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 1.46vw;
+  margin-left: -13.07vw;
+  margin-right: -13.07vw;
+  position: relative;
+}
+
+.page--onas .zapytaj-o-pomp-2 {
+  letter-spacing: -0.11vw;
+  line-height: 3.81vw;
+  margin-top: -0.07vw;
+  position: relative;
+  text-align: center;
+  width: 92.46vw;
+}
+
+.page--onas .opowiedz-nam-o-swoic-2 {
+  letter-spacing: -0.03vw;
+  line-height: 1.98vw;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.page--onas .input-5 {
+  align-self: stretch;
+  height: 14.64vw;
+  width: 100%;
+}
+
+.page--onas .frame-36727-2 {
+  align-items: center;
+  background-color: var(--white);
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.15vw;
+  position: relative;
+}
+
+.page--onas .label-8 {
+  letter-spacing: 0;
+  line-height: 1.46vw;
+  white-space: nowrap;
+}
+
+.page--onas .frame-367-3 {
+  display: flex;
+  gap: 1.46vw;
+  width: 100%;
+}
+
+.page--onas .input-4 {
+  flex: 1;
+  flex-grow: 1;
+  height: 3.88vw;
+}
+
+.page--onas .label-9 {
+  letter-spacing: 0;
+  line-height: 1.46vw;
+  white-space: nowrap;
+}
+
+.page--onas .frame-6589-2 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 0.07vw solid;
+  border-color: var(--cod-gray-2);
+  border-radius: 0.73vw;
+  cursor: pointer;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 0.73vw;
+  height: 3.88vw;
+  justify-content: center;
+  padding: 1.24vw 1.46vw;
+  position: relative;
+}
+
+.page--onas .frame-6397-2 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: space-between;
+  margin-bottom: -0.04vw;
+  margin-top: -0.04vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--onas .jestem-2 {
+  color: var(--cod-gray);
+  font-family: var(--font-family-manrope);
+  font-size: var(--font-size-s);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 1.46vw;
+  margin-top: -0.07vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--onas .arrow_down-6 {
+  height: 0.47vw;
+  position: relative;
+  width: 1.1vw;
+}
+
+.page--onas .arrow_down-7 {
+  height: 132.38%;
+  left: -4.34%;
+  position: absolute;
+  top: -11.85%;
+  width: 108.67%;
+}
+
+.page--onas .label-10 {
+  letter-spacing: 0;
+  line-height: 1.46vw;
+  white-space: nowrap;
+}
+
+.page--onas .label-11 {
+  letter-spacing: 0;
+  line-height: 1.46vw;
+  white-space: nowrap;
+}
+
+.page--onas .frame-367-4 {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.page--onas .radio_select_2-2 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.73vw;
+  height: 3.66vw;
+  position: relative;
+}
+
+.page--onas .group-62-2 {
+  aspect-ratio: 1;
+  border: 0.15vw solid;
+  border-color: var(--celeste);
+  border-radius: 0.88vw;
+  height: 1.76vw;
+  position: relative;
+  width: 1.76vw;
+}
+
+.page--onas .x1-fazowe-230-v-50-hz-2 {
+  color: var(--cod-gray);
+  font-family: var(--font-family-manrope);
+  font-size: 1.1vw;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 1.46vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--onas .wylij-2 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -0.15vw;
+  margin-top: -0.44vw;
+  position: relative;
+  width: fit-content;
+}
+
+.page--onas .frame-78-2 {
+  align-items: flex-start;
+  display: flex;
+  gap: 7.32vw;
+  height: 44.30%;
+  left: 0;
+  padding: 5.12vw 11.71vw;
+  position: absolute;
+  top: 55.70%;
+  width: 100%;
+}
+
+.page--onas .ellipse-2-31 {
+  height: 45.24vw;
+  left: calc(50.00% - 50.0vw);
+  position: absolute;
+  top: calc(50.00% - 22.62vw);
+  width: 37.55vw;
+}
+
+.page--onas .frame-367-5 {
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.page--onas .frame-36750 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 3.66vw;
+  position: relative;
+}
+
+.page--onas .frame-36738-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.73vw;
+  position: relative;
+}
+
+.page--onas .group-1-3 {
+  height: 2.86vw;
+  position: relative;
+  width: 12.46vw;
+}
+
+.page--onas .polska-2 {
+  letter-spacing: -0.03vw;
+  line-height: 3.66vw;
+  margin-top: -0.07vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--onas .tworzymy-przyszo-2 {
+  color: var(--white);
+  font-family: var(--font-family-manrope);
+  font-size: var(--font-size-xs);
+  font-weight: 500;
+  letter-spacing: -0.02vw;
+  line-height: 1.83vw;
+  position: relative;
+  width: fit-content;
+}
+
+.page--onas .frame-36749 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 2.2vw;
+  position: relative;
+}
+
+.page--onas .frame-36737 {
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.page--onas .strefa-partnera-2 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -0.22vw;
+  margin-top: -0.37vw;
+  position: relative;
+  width: fit-content;
+}
+
+.page--onas .frame-36742-2 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 4.39vw;
+  position: relative;
+}
+
+.page--onas .raz-kupujesz-bez-koca-pompujesz-2 {
+  letter-spacing: -0.04vw;
+  line-height: 2.93vw;
+  margin-top: -0.07vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--onas .elektryczna-pompa-gbinowa-2 {
+  letter-spacing: -0.02vw;
+  line-height: 1.61vw;
+  margin-top: -0.07vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--onas .frame-3674-3 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.22vw;
+  position: relative;
+}
+
+.page--onas .label_-menu_footer-2 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.73vw;
+  padding: 0.15vw 0.0vw;
+  position: relative;
+}
+
+.page--onas .frame-33-3 {
+  gap: 0.73vw;
+  padding: 0.29vw 0.0vw;
+}
+
+.page--onas .label-7 {
+  letter-spacing: 0.01vw;
+  line-height: normal;
+}
+
+.page--onas .na-skrty-2 {
+  letter-spacing: -0.02vw;
+  line-height: 1.61vw;
+  margin-top: -0.07vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--onas .kontakt-z-nami-2 {
+  letter-spacing: -0.02vw;
+  line-height: 1.61vw;
+  margin-top: -0.07vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--onas .frame-36746-1 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.page--onas .frame-36748-2 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 0.73vw;
+  justify-content: center;
+  padding: 0.44vw 0.0vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--onas .dachowa-43-a-96-500-sochaczew-2 {
+  flex: 1;
+  letter-spacing: 0.01vw;
+  line-height: normal;
+  margin-top: -0.07vw;
+  position: relative;
+}
+
+.page--onas .dobr-pomp-2 {
+  letter-spacing: -0.02vw;
+  line-height: 1.76vw;
+  margin-top: -0.07vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--onas .social_media-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.73vw;
+  padding: 0.37vw 0.0vw;
+  position: relative;
+}
+
+.page--onas .social_media-item-2 {
+  height: 2.05vw;
+  position: relative;
+  width: 2.05vw;
+}
+
+.page--onas .linkedin-2 {
+  align-items: center;
+  display: flex;
+  gap: 0.73vw;
+  height: 2.05vw;
+  justify-content: center;
+  padding: 0.29vw;
+  position: relative;
+  width: 2.05vw;
+}
+
+.page--onas .subtract-2 {
+  aspect-ratio: 1;
+  height: 1.32vw;
+  position: relative;
+  width: 1.32vw;
+}
+
+.page--onas .x2025-pedrollo-polityka-prywatnoci-2 {
+  height: 0.91vw;
+  position: relative;
+  width: 15.02vw;
+}
+
+.page--onas .dystrybutor-pomp-ped {
+  align-self: stretch;
+  letter-spacing: -0.02vw;
+  position: relative;
+}
+
+.page--onas .frame-305 {
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 2.2vw;
+  margin-left: -5.86vw;
+  position: relative;
+}
+
+.page--onas .frame-33 {
+  align-items: center;
+  border-bottom-style: solid;
+  border-bottom-width: 0.07vw;
+  border-color: transparent;
+  border-image: linear-gradient(90deg, rgba(64, 100, 223, 1) 0%, rgba(64, 100, 223, 0) 100%) 1;
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.page--onas .frame-367 {
+  align-items: flex-start;
+  align-self: stretch;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.page--onas .frame-36786 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.37vw;
+  position: relative;
+}
+
+.page--onas .frame-36793 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 1.46vw;
+  position: relative;
+}
+
+.page--onas .frame-4 {
+  align-items: center;
+  background-color: var(--concrete);
+  border-radius: 2.2vw;
+  display: flex;
+  flex-direction: column;
+  gap: 0.73vw;
+  justify-content: center;
+  padding: 0.73vw 0.95vw;
+  position: absolute;
+}
+
+.page--onas .frame-57 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 10.54vw;
+}
+
+.page--onas .frame-6483 {
+  display: flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.page--onas .frame-65 {
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.page--onas .frame-6501 {
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  position: relative;
+  width: 100%;
+}
+
+.page--onas .frame-71 {
+  align-items: center;
+  display: inline-flex;
+}
+
+.page--onas .frame-72 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--shark);
+  border: 0.07vw solid;
+  border-radius: 0.0vw 30.0vw 30.0vw 0.0vw;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.73vw;
+  justify-content: center;
+  margin-left: -0.07vw;
+  overflow: hidden;
+  position: relative;
+}
+
+.page--onas .frame-77 {
+  align-items: flex-start;
+  gap: 1.46vw;
+  position: relative;
+}
+
+.page--onas .group-3 {
+  aspect-ratio: 1.6;
+  position: relative;
+}
+
+.page--onas .image {
+  aspect-ratio: 1;
+  height: 5.01vw;
+  position: relative;
+  width: 5.01vw;
+}
+
+.page--onas .input {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 0.07vw solid;
+  border-color: var(--cod-gray-2);
+  border-radius: 0.73vw;
+  display: flex;
+  padding: 1.17vw 1.46vw;
+  position: relative;
+}
+
+.page--onas .konsultacja {
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.73vw;
+  position: relative;
+}
+
+.page--onas .label {
+  margin-top: -0.07vw;
+  position: relative;
+  width: fit-content;
+}
+
+.page--onas .name {
+  align-self: stretch;
+  letter-spacing: -0.02vw;
+  line-height: 1.46vw;
+  margin-top: -0.07vw;
+  position: relative;
+}
+
+.page--onas .pawe-fergiski {
+  letter-spacing: -0.04vw;
+  line-height: normal;
+  margin-top: -0.07vw;
+  position: relative;
+  width: fit-content;
+}
+
+.page--onas .star {
+  letter-spacing: 0;
+  line-height: 1.46vw;
+  margin-top: -0.07vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+}

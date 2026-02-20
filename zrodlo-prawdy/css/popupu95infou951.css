@@ -1,0 +1,30 @@
+/* screen - popupu95infou951 */
+
+.popupu95infou951 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 0.31vw solid;
+  border-color: var(--cod-gray-2);
+  display: inline-flex;
+  flex-direction: column;
+  gap: 6.15vw;
+  justify-content: center;
+  padding: 7.69vw 9.23vw;
+  position: relative;
+}
+
+.popupu95infou951 .frame-6477 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 4.62vw;
+  position: relative;
+}
+
+.popupu95infou951 .podczas-rejestracji {
+  letter-spacing: 0;
+  line-height: 6.15vw;
+  margin-top: -0.31vw;
+  position: relative;
+  width: fit-content;
+}

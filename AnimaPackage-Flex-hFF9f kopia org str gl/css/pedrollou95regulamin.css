@@ -1,0 +1,1008 @@
+/* screen - pedrollou95regulamin */
+
+.pedrollou95regulamin {
+  align-items: center;
+  background-color: var(--cod-gray);
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.pedrollou95regulamin .frame-20 {
+  align-items: center;
+  align-self: stretch;
+  background-image: url(../img/frame-20.svg);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  gap: 0.52vw;
+  height: 40.62vw;
+  justify-content: center;
+  padding: 15.62vw 21.35vw 10.42vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95regulamin .ellipse-2 {
+  height: 65.57vw;
+  left: calc(50.00% - 32.76vw);
+  position: absolute;
+  top: calc(50.00% - 30.73vw);
+  width: 65.57vw;
+}
+
+.pedrollou95regulamin .konsultacja {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 2.6vw;
+  justify-content: center;
+  margin-bottom: -3.85vw;
+  margin-top: -3.85vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95regulamin .title {
+  letter-spacing: -0.09vw;
+  line-height: 5.21vw;
+  margin-top: -0.05vw;
+  position: relative;
+  text-align: center;
+  width: 57.29vw;
+}
+
+.pedrollou95regulamin .pedrollo-polska-sp {
+  letter-spacing: -0.02vw;
+  line-height: 1.88vw;
+  position: relative;
+  text-align: center;
+  width: 57.29vw;
+}
+
+.pedrollou95regulamin .arrow {
+  align-items: center;
+  border: 0.1vw solid;
+  border-color: var(--white);
+  border-radius: 1.56vw;
+  display: flex;
+  gap: 0.52vw;
+  height: 3.12vw;
+  justify-content: center;
+  padding: 0.52vw;
+  position: relative;
+  transform: rotate(90.00deg);
+  width: 3.12vw;
+}
+
+.pedrollou95regulamin .frame-76 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.52vw;
+  padding: 0.0vw 0.0vw 0.0vw 0.16vw;
+  position: relative;
+}
+
+.pedrollou95regulamin .line-8 {
+  height: 0.47vw;
+  margin-left: -0.21vw;
+  margin-right: -0.25vw;
+  position: relative;
+  transform: rotate(-90.00deg);
+  width: 0.83vw;
+}
+
+.pedrollou95regulamin .menu_2 {
+  -webkit-backdrop-filter: blur(0.13vw) brightness(100%);
+  align-items: flex-start;
+  backdrop-filter: blur(0.13vw) brightness(100%);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100.0vw;
+}
+
+.pedrollou95regulamin .frame-27 {
+  align-items: center;
+  align-self: stretch;
+  border-bottom-style: solid;
+  border-bottom-width: 0.05vw;
+  border-color: var(--white-3);
+  display: flex;
+  gap: 5.73vw;
+  height: 5.21vw;
+  padding: 0.0vw 40.0vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95regulamin .group-1 {
+  background-image: url(../img/group-1@2x.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  height: 2.03vw;
+  position: relative;
+  width: 8.86vw;
+}
+
+.pedrollou95regulamin .frame-2 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  justify-content: space-between;
+  position: relative;
+}
+
+.pedrollou95regulamin .frame-6 {
+  align-items: center;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 3.12vw;
+  position: relative;
+}
+
+.pedrollou95regulamin .menu-hover {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.52vw;
+  height: 5.21vw;
+  position: relative;
+}
+
+.pedrollou95regulamin .frame-33 {
+  align-items: center;
+  border-bottom-style: solid;
+  border-bottom-width: 0.05vw;
+  border-color: transparent;
+  border-image: linear-gradient(90deg, rgba(64, 100, 223, 1) 0%, rgba(64, 100, 223, 0) 100%) 1;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.52vw;
+  height: 5.1vw;
+  position: relative;
+}
+
+.pedrollou95regulamin .label {
+  letter-spacing: 0.01vw;
+  line-height: normal;
+}
+
+.pedrollou95regulamin .arrow_down {
+  height: 0.33vw;
+  position: relative;
+  width: 0.78vw;
+}
+
+.pedrollou95regulamin .arrow_down-1 {
+  height: 132.36%;
+  left: -4.32%;
+  position: absolute;
+  top: -11.85%;
+  width: 108.65%;
+}
+
+.pedrollou95regulamin .frame-25 {
+  height: 5.21vw;
+  position: relative;
+  width: 3.02vw;
+}
+
+.pedrollou95regulamin .frame-5 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 3.65vw;
+  position: relative;
+}
+
+.pedrollou95regulamin .call_button::before {
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  background: linear-gradient(90deg, rgba(64, 100, 223, 1) 0%, rgba(55, 55, 55, 1) 100%);
+  border-radius: 1.56vw;
+  content: '';
+  inset: 0;
+  mask-composite: exclude;
+  padding: 0.1vw;
+  pointer-events: none;
+  position: absolute;
+  z-index: 1;
+}
+
+.pedrollou95regulamin .call_button {
+  align-items: center;
+  background: linear-gradient(90deg, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 255, 0) 100%);
+  border: none;
+  border-radius: 1.56vw;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.52vw;
+  height: 2.71vw;
+  justify-content: center;
+  padding: 0.73vw 1.35vw;
+  position: relative;
+}
+
+.pedrollou95regulamin .frame-1 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.52vw;
+  justify-content: center;
+  margin-bottom: -0.16vw;
+  margin-top: -0.16vw;
+  position: relative;
+}
+
+.pedrollou95regulamin .vector-2 {
+  aspect-ratio: 0.61;
+  height: 1.56vw;
+  position: relative;
+  width: 0.95vw;
+}
+
+.pedrollou95regulamin .phone {
+  letter-spacing: 0.01vw;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+}
+
+.pedrollou95regulamin .dobierz_pompe {
+  align-items: center;
+  background-color: var(--royal-blue);
+  border-radius: 1.56vw;
+  display: flex;
+  gap: 1.04vw;
+  height: 2.71vw;
+  padding: 0.73vw 3.65vw 0.73vw 1.35vw;
+  position: relative;
+  width: 12.19vw;
+}
+
+.pedrollou95regulamin .frame-4 {
+  align-items: center;
+  background-color: var(--concrete);
+  border-radius: 1.56vw;
+  display: flex;
+  flex-direction: column;
+  gap: 0.52vw;
+  height: 2.5vw;
+  justify-content: center;
+  left: 9.58vw;
+  padding: 0.52vw 0.68vw;
+  position: absolute;
+  top: 0.1vw;
+  width: 2.5vw;
+}
+
+.pedrollou95regulamin .group-3 {
+  height: 0.62vw;
+  position: relative;
+  width: 1.0vw;
+}
+
+.pedrollou95regulamin .vector {
+  height: 110.84%;
+  left: 68.77%;
+  position: absolute;
+  top: -5.42%;
+  width: 37.42%;
+}
+
+.pedrollou95regulamin .vector-1 {
+  height: 16.67%;
+  left: -5.19%;
+  position: absolute;
+  top: 41.67%;
+  width: 105.19%;
+}
+
+.pedrollou95regulamin .dobierz-pomp {
+  letter-spacing: -0.02vw;
+  line-height: normal;
+  margin-top: -0.08vw;
+  position: relative;
+  width: fit-content;
+}
+
+.pedrollou95regulamin .frame-6581 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--black-haze);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 4.17vw;
+  padding: 3.65vw 17.71vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95regulamin .frame-36732 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 1.56vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95regulamin .x1-postanowienia-oglne {
+  align-self: stretch;
+  letter-spacing: -0.03vw;
+  line-height: 2.08vw;
+  margin-top: -0.05vw;
+  position: relative;
+}
+
+.pedrollou95regulamin .address {
+  align-self: stretch;
+  letter-spacing: -0.0vw;
+  line-height: 1.04vw;
+  position: relative;
+}
+
+.pedrollou95regulamin .x2-skadanie-i-realizacja-zamwie {
+  align-self: stretch;
+  letter-spacing: -0.03vw;
+  line-height: 2.08vw;
+  margin-top: -0.05vw;
+  position: relative;
+}
+
+.pedrollou95regulamin .informacje-zawarte-n {
+  align-self: stretch;
+  letter-spacing: -0.0vw;
+  line-height: 1.04vw;
+  position: relative;
+}
+
+.pedrollou95regulamin .x3-ceny-produktw {
+  align-self: stretch;
+  letter-spacing: -0.03vw;
+  line-height: 2.08vw;
+  margin-top: -0.05vw;
+  position: relative;
+}
+
+.pedrollou95regulamin .flex-container-200512747 {
+  height: 16.15vw;
+}
+
+.pedrollou95regulamin .text {
+  align-self: stretch;
+  letter-spacing: -0.02vw;
+  line-height: 1.56vw;
+  position: relative;
+}
+
+.pedrollou95regulamin .span {
+  letter-spacing: -0.0vw;
+}
+
+.pedrollou95regulamin .x4-sposoby-i-termi {
+  align-self: stretch;
+  letter-spacing: -0.03vw;
+  line-height: 2.08vw;
+  margin-top: -0.05vw;
+  position: relative;
+}
+
+.pedrollou95regulamin .flex-container-200512750 {
+  height: 23.96vw;
+}
+
+.pedrollou95regulamin .x5-sposoby-i-termin-dostawy-produktu {
+  align-self: stretch;
+  letter-spacing: -0.03vw;
+  line-height: 2.08vw;
+  margin-top: -0.05vw;
+  position: relative;
+}
+
+.pedrollou95regulamin .flex-container-200512753 {
+  height: 31.25vw;
+}
+
+.pedrollou95regulamin .x6-odpowiedzialno {
+  align-self: stretch;
+  letter-spacing: -0.03vw;
+  line-height: 2.08vw;
+  margin-top: -0.05vw;
+  position: relative;
+}
+
+.pedrollou95regulamin .rkojmia-za-wady-o {
+  align-self: stretch;
+  letter-spacing: -0.0vw;
+  line-height: 1.04vw;
+  position: relative;
+}
+
+.pedrollou95regulamin .x7-gwarancja {
+  align-self: stretch;
+  letter-spacing: -0.03vw;
+  line-height: 2.08vw;
+  margin-top: -0.05vw;
+  position: relative;
+}
+
+.pedrollou95regulamin .flex-container-200512759 {
+  height: 3.65vw;
+}
+
+.pedrollou95regulamin .x8-prawo-odstpienia-od-umowy {
+  align-self: stretch;
+  letter-spacing: -0.03vw;
+  line-height: 2.08vw;
+  margin-top: -0.05vw;
+  position: relative;
+}
+
+.pedrollou95regulamin .konsument-ktry-zaw {
+  align-self: stretch;
+  letter-spacing: -0.0vw;
+  line-height: 1.04vw;
+  position: relative;
+}
+
+.pedrollou95regulamin .x9-ochrona-danych-osobowych {
+  align-self: stretch;
+  letter-spacing: -0.03vw;
+  line-height: 2.08vw;
+  margin-top: -0.05vw;
+  position: relative;
+}
+
+.pedrollou95regulamin .flex-container-200512765 {
+  height: 7.29vw;
+}
+
+.pedrollou95regulamin .x10-postanowienia {
+  align-self: stretch;
+  letter-spacing: -0.03vw;
+  line-height: 2.08vw;
+  margin-top: -0.05vw;
+  position: relative;
+}
+
+.pedrollou95regulamin .sprzedawcy-przysugu {
+  align-self: stretch;
+  letter-spacing: -0.0vw;
+  line-height: 1.04vw;
+  position: relative;
+}
+
+.pedrollou95regulamin .x12-postanowienia-kocowe {
+  align-self: stretch;
+  letter-spacing: -0.03vw;
+  line-height: 2.08vw;
+  margin-top: -0.05vw;
+  position: relative;
+}
+
+.pedrollou95regulamin .klient-bdcy-konsum {
+  align-self: stretch;
+  letter-spacing: -0.0vw;
+  line-height: 1.04vw;
+  position: relative;
+}
+
+.pedrollou95regulamin .zaczniki {
+  align-self: stretch;
+  letter-spacing: -0.03vw;
+  line-height: 2.08vw;
+  margin-top: -0.05vw;
+  position: relative;
+}
+
+.pedrollou95regulamin .flex-container-200512774 {
+  height: 4.17vw;
+}
+
+.pedrollou95regulamin .footer_desktop {
+  height: 72.66vw;
+  position: relative;
+  width: 100.0vw;
+}
+
+.pedrollou95regulamin .frame-6613 {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  gap: 2.6vw;
+  height: 55.70%;
+  left: 0;
+  padding: 4.17vw 23.96vw;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+
+.pedrollou95regulamin .frame-36731 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 1.04vw;
+  margin-left: -6.85vw;
+  margin-right: -6.85vw;
+  position: relative;
+}
+
+.pedrollou95regulamin .zapytaj-o-pomp {
+  letter-spacing: -0.09vw;
+  line-height: 3.23vw;
+  margin-top: -0.05vw;
+  position: relative;
+  text-align: center;
+  width: 65.78vw;
+}
+
+.pedrollou95regulamin .opowiedz-nam-o-swoic {
+  letter-spacing: -0.02vw;
+  line-height: 1.67vw;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.pedrollou95regulamin .frame {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 1.04vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95regulamin .input-1 {
+  align-self: stretch;
+  height: 10.42vw;
+  width: 100%;
+}
+
+.pedrollou95regulamin .frame-36727 {
+  align-items: center;
+  background-color: var(--white);
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.1vw;
+  position: relative;
+}
+
+.pedrollou95regulamin .label-2 {
+  letter-spacing: 0;
+  line-height: 1.04vw;
+  margin-top: -0.05vw;
+  white-space: nowrap;
+}
+
+.pedrollou95regulamin .frame-367 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 1.04vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95regulamin .input {
+  flex: 1;
+  flex-grow: 1;
+  height: 2.76vw;
+}
+
+.pedrollou95regulamin .label-3 {
+  letter-spacing: 0;
+  line-height: 1.04vw;
+  margin-top: -0.05vw;
+  white-space: nowrap;
+}
+
+.pedrollou95regulamin .frame-6589 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 0.05vw solid;
+  border-color: var(--cod-gray-3);
+  border-radius: 0.52vw;
+  cursor: pointer;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 0.52vw;
+  height: 2.76vw;
+  justify-content: center;
+  padding: 0.89vw 1.04vw;
+  position: relative;
+}
+
+.pedrollou95regulamin .frame-6397 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: space-between;
+  margin-bottom: -0.03vw;
+  margin-top: -0.03vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95regulamin .jestem {
+  letter-spacing: 0;
+  line-height: 1.04vw;
+  margin-top: -0.05vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95regulamin .label-4 {
+  letter-spacing: 0;
+  line-height: 1.04vw;
+  margin-top: -0.05vw;
+  white-space: nowrap;
+}
+
+.pedrollou95regulamin .label-5 {
+  letter-spacing: 0;
+  line-height: 1.04vw;
+  margin-top: -0.05vw;
+  white-space: nowrap;
+}
+
+.pedrollou95regulamin .frame-367-1 {
+  display: flex;
+  width: 100%;
+}
+
+.pedrollou95regulamin .radio_select_2 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.52vw;
+  height: 2.6vw;
+  position: relative;
+}
+
+.pedrollou95regulamin .group-62 {
+  aspect-ratio: 1;
+  border: 0.1vw solid;
+  border-color: var(--celeste);
+  border-radius: 0.62vw;
+  height: 1.25vw;
+  position: relative;
+  width: 1.25vw;
+}
+
+.pedrollou95regulamin .x1-fazowe-230-v-50-hz {
+  letter-spacing: 0;
+  line-height: 1.04vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95regulamin .krok {
+  align-items: center;
+  background: linear-gradient(90deg, rgba(10, 10, 10, 1) 0%, rgba(64, 100, 223, 1) 100%);
+  border-radius: 1.56vw;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.52vw;
+  padding: 0.78vw 1.35vw;
+  position: relative;
+}
+
+.pedrollou95regulamin .dalej {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.1vw;
+  position: relative;
+  width: fit-content;
+}
+
+.pedrollou95regulamin .arrow_right {
+  height: 0.99vw;
+  margin-right: -0.06vw;
+  position: relative;
+  width: 1.1vw;
+}
+
+.pedrollou95regulamin .frame-78 {
+  align-items: flex-start;
+  display: flex;
+  gap: 5.21vw;
+  height: 44.30%;
+  left: 0;
+  padding: 3.65vw 8.33vw;
+  position: absolute;
+  top: 55.70%;
+  width: 100%;
+}
+
+.pedrollou95regulamin .ellipse-2-1 {
+  height: 32.19vw;
+  left: calc(50.00% - 50.0vw);
+  position: absolute;
+  top: calc(50.00% - 16.09vw);
+  width: 41.15vw;
+}
+
+.pedrollou95regulamin .frame-367-2 {
+  display: inline-flex;
+  flex-direction: column;
+}
+
+.pedrollou95regulamin .frame-36750 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 2.6vw;
+  position: relative;
+}
+
+.pedrollou95regulamin .frame-36738 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.52vw;
+  position: relative;
+}
+
+.pedrollou95regulamin .group-1-1 {
+  height: 2.03vw;
+  position: relative;
+  width: 8.86vw;
+}
+
+.pedrollou95regulamin .polska {
+  letter-spacing: -0.02vw;
+  line-height: 2.6vw;
+  margin-top: -0.05vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95regulamin .tworzymy-przyszo {
+  letter-spacing: -0.02vw;
+  line-height: 1.41vw;
+  position: relative;
+  width: fit-content;
+}
+
+.pedrollou95regulamin .frame-36749 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 1.56vw;
+  position: relative;
+}
+
+.pedrollou95regulamin .frame-36742 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 3.12vw;
+  position: relative;
+}
+
+.pedrollou95regulamin .raz-kupujesz-bez-koca-pompujesz {
+  letter-spacing: -0.04vw;
+  line-height: 2.6vw;
+  margin-top: -0.05vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95regulamin .frame-36777 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 1.04vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95regulamin .frame-3674 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.52vw;
+  justify-content: center;
+  position: relative;
+}
+
+.pedrollou95regulamin .elektryczna-pompa-gbinowa {
+  letter-spacing: -0.02vw;
+  line-height: 1.25vw;
+  margin-top: -0.05vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95regulamin .frame-3674-1 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.26vw;
+  position: relative;
+}
+
+.pedrollou95regulamin .label_-menu_footer {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.52vw;
+  padding: 0.1vw 0.0vw;
+  position: relative;
+}
+
+.pedrollou95regulamin .frame-33-1 {
+  align-items: center;
+  border-bottom-style: solid;
+  border-bottom-width: 0.05vw;
+  border-color: transparent;
+  border-image: linear-gradient(90deg, rgba(64, 100, 223, 1) 0%, rgba(64, 100, 223, 0) 100%) 1;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.52vw;
+  padding: 0.21vw 0.0vw;
+  position: relative;
+}
+
+.pedrollou95regulamin .label-1 {
+  letter-spacing: 0.01vw;
+  line-height: normal;
+  margin-top: -0.05vw;
+}
+
+.pedrollou95regulamin .na-skrty {
+  letter-spacing: -0.02vw;
+  line-height: 1.25vw;
+  margin-top: -0.05vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95regulamin .label_-menu_footer-1 {
+  align-items: center;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.52vw;
+  padding: 0.1vw 0.0vw;
+  position: relative;
+}
+
+.pedrollou95regulamin .kontakt-z-nami {
+  letter-spacing: -0.02vw;
+  line-height: 1.25vw;
+  margin-top: -0.05vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95regulamin .frame-36748 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 0.52vw;
+  justify-content: center;
+  padding: 0.31vw 0.0vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95regulamin .dachowa-43-a-96-500-sochaczew {
+  flex: 1;
+  letter-spacing: 0.01vw;
+  line-height: normal;
+  margin-top: -0.05vw;
+  position: relative;
+}
+
+.pedrollou95regulamin .dobr-pomp {
+  letter-spacing: -0.02vw;
+  line-height: 1.25vw;
+  margin-top: -0.05vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95regulamin .social_media {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.52vw;
+  padding: 0.26vw 0.0vw;
+  position: relative;
+}
+
+.pedrollou95regulamin .social_media-item {
+  height: 1.46vw;
+  position: relative;
+  width: 1.46vw;
+}
+
+.pedrollou95regulamin .linkedin {
+  align-items: center;
+  display: flex;
+  gap: 0.52vw;
+  height: 1.46vw;
+  justify-content: center;
+  padding: 0.21vw;
+  position: relative;
+  width: 1.46vw;
+}
+
+.pedrollou95regulamin .subtract {
+  aspect-ratio: 1;
+  height: 0.94vw;
+  position: relative;
+  width: 0.94vw;
+}
+
+.pedrollou95regulamin .span0 {
+  letter-spacing: -0.0vw;
+}
+
+.pedrollou95regulamin .frame-367-3 {
+  align-items: flex-start;
+  align-self: stretch;
+  flex: 0 0 auto;
+  justify-content: space-between;
+  position: relative;
+}
+
+.pedrollou95regulamin .input-2 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 0.05vw solid;
+  border-color: var(--cod-gray-3);
+  border-radius: 0.52vw;
+  display: flex;
+  padding: 0.83vw 1.04vw;
+  position: relative;
+}
+
+.pedrollou95regulamin .label-6 {
+  position: relative;
+  width: fit-content;
+}

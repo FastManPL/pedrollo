@@ -1,0 +1,7959 @@
+/* screen - pedrollou95polskau951366px */
+
+.pedrollou95polskau951366px {
+  background-color: var(--cod-gray);
+  height: 1780.38vw;
+  position: relative;
+  width: 100.0vw;
+}
+
+.pedrollou95polskau951366px .frame-20 {
+  display: flex;
+  gap: 0.33vw;
+  height: 56.22vw;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 100.0vw;
+}
+
+.pedrollou95polskau951366px .ellipse-2-1 {
+  background-color: var(--royal-blue-7);
+  border-radius: 28.37vw;
+  filter: blur(13.32vw);;
+  height: 56.73vw;
+  margin-left: -20.13vw;
+  margin-top: 48.83vw;
+  width: 56.73vw;
+}
+
+.pedrollou95polskau951366px .ellipse-1-1 {
+  background-color: var(--royal-blue-5);
+  border-radius: 41.14vw;
+  filter: blur(13.32vw);;
+  height: 82.28vw;
+  margin-top: 14.49vw;
+  width: 82.28vw;
+}
+
+.pedrollou95polskau951366px .frame-34 {
+  height: 56.59vw;
+  left: calc(50.00% - 47.8vw);
+  position: absolute;
+  top: 0;
+  width: 97.8vw;
+}
+
+.pedrollou95polskau951366px .anim_4 {
+  height: 56.37vw;
+  left: 26.43vw;
+  position: absolute;
+  top: 0;
+  width: 73.57vw;
+}
+
+.pedrollou95polskau951366px .menu_2 {
+  -webkit-backdrop-filter: blur(0.18vw) brightness(100%);
+  align-items: flex-start;
+  backdrop-filter: blur(0.18vw) brightness(100%);
+  display: flex;
+  flex-direction: column;
+  height: 5.86vw;
+  justify-content: center;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100.0vw;
+}
+
+.pedrollou95polskau951366px .frame-27 {
+  align-items: center;
+  align-self: stretch;
+  border-bottom-style: solid;
+  border-bottom-width: 0.07vw;
+  border-color: var(--white-3);
+  display: flex;
+  gap: 3.66vw;
+  height: 7.32vw;
+  margin-bottom: -0.73vw;
+  margin-top: -0.73vw;
+  padding: 0.0vw 40.0vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .group-1 {
+  aspect-ratio: 4.36;
+  height: 2.02vw;
+  position: relative;
+  width: 8.8vw;
+}
+
+.pedrollou95polskau951366px .frame-6-6 {
+  align-items: center;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 1.46vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .menu-hover {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.73vw;
+  height: 7.32vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .frame-33 {
+  align-items: center;
+  border-bottom-style: solid;
+  border-bottom-width: 0.07vw;
+  border-color: transparent;
+  border-image: linear-gradient(90deg, rgba(64, 100, 223, 1) 0%, rgba(64, 100, 223, 0) 100%) 1;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.37vw;
+  height: 7.17vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .arrow_down {
+  aspect-ratio: 2.34;
+  height: 0.37vw;
+  position: relative;
+  width: 0.88vw;
+}
+
+.pedrollou95polskau951366px .arrow_down-1 {
+  height: 141.40%;
+  left: -5.34%;
+  position: absolute;
+  top: -15.36%;
+  width: 110.68%;
+}
+
+.pedrollou95polskau951366px .frame-33-2 {
+  height: 7.17vw;
+}
+
+.pedrollou95polskau951366px .frame-25 {
+  height: 7.32vw;
+  position: relative;
+  width: 4.25vw;
+}
+
+.pedrollou95polskau951366px .frame-5-1 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.73vw;
+  margin-left: -2.79vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .call_button::before {
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  background: linear-gradient(90deg, rgba(64, 100, 223, 1) 0%, rgba(55, 55, 55, 1) 100%);
+  border-radius: 2.2vw;
+  content: '';
+  inset: 0;
+  mask-composite: exclude;
+  padding: 0.15vw;
+  pointer-events: none;
+  position: absolute;
+  z-index: 1;
+}
+
+.pedrollou95polskau951366px .call_button {
+  align-items: center;
+  background: linear-gradient(90deg, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 255, 0) 100%);
+  border: none;
+  border-radius: 2.2vw;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.73vw;
+  height: 3.07vw;
+  justify-content: center;
+  padding: 1.02vw 1.9vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .frame-1-1 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.73vw;
+  justify-content: center;
+  margin-bottom: -0.29vw;
+  margin-top: -0.29vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .vector-5 {
+  aspect-ratio: 0.61;
+  height: 1.46vw;
+  position: relative;
+  width: 0.88vw;
+}
+
+.pedrollou95polskau951366px .phone {
+  letter-spacing: 0.01vw;
+  line-height: normal;
+  margin-top: -0.07vw;
+  position: relative;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .dobierz_pompe {
+  padding: 0.73vw 4.17vw 0.73vw 1.32vw;
+  width: 13.47vw;
+}
+
+.pedrollou95polskau951366px .frame-4-2 {
+  align-items: center;
+  background-color: var(--concrete);
+  border-radius: 2.2vw;
+  display: flex;
+  flex-direction: column;
+  gap: 0.73vw;
+  height: 2.93vw;
+  justify-content: center;
+  left: 10.47vw;
+  padding: 0.73vw 0.95vw;
+  position: absolute;
+  top: 0.07vw;
+  width: 2.93vw;
+}
+
+.pedrollou95polskau951366px .group-3-1 {
+  aspect-ratio: 1.6;
+  height: 0.59vw;
+  position: relative;
+  width: 0.94vw;
+}
+
+.pedrollou95polskau951366px .vector-6 {
+  height: 116.24%;
+  left: 66.79%;
+  position: absolute;
+  top: -8.12%;
+  width: 42.80%;
+}
+
+.pedrollou95polskau951366px .vector-7 {
+  height: 25.00%;
+  left: -7.79%;
+  position: absolute;
+  top: 37.50%;
+  width: 107.79%;
+}
+
+.pedrollou95polskau951366px .dobierz-pomp {
+  letter-spacing: -0.02vw;
+  line-height: normal;
+  margin-right: -0.59vw;
+  margin-top: -0.07vw;
+  position: relative;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .frame-83 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 99.78vw;
+  left: 0;
+  position: absolute;
+  top: 56.22vw;
+  width: 100.0vw;
+}
+
+.pedrollou95polskau951366px .pedrollo_house_3 {
+  align-self: stretch;
+  aspect-ratio: 1;
+  margin-bottom: -0.01vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .frame-51 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 3.66vw;
+  height: 70.28vw;
+  justify-content: center;
+  left: calc(50.00% - 56.0vw);
+  padding: 7.32vw 0.0vw;
+  position: absolute;
+  top: calc(50.00% - 39.53vw);
+  width: 111.71vw;
+}
+
+.pedrollou95polskau951366px .frame-56 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.37vw;
+  justify-content: center;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .co-wyrniapompygbinowe-pedrollo {
+  letter-spacing: -0.03vw;
+  line-height: 2.93vw;
+  margin-top: -0.07vw;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .codzienna-niezawodno {
+  color: var(--concrete);
+  font-family: var(--font-family-manrope);
+  font-size: 4.39vw;
+  font-weight: 700;
+  letter-spacing: -0.09vw;
+  line-height: 4.76vw;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .frame-55 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 2.93vw;
+  position: relative;
+  width: 79.36vw;
+}
+
+.pedrollou95polskau951366px .frame-5 {
+  -webkit-backdrop-filter: blur(1.46vw) brightness(100%);
+  align-items: flex-start;
+  align-self: stretch;
+  backdrop-filter: blur(1.46vw) brightness(100%);
+  background-color: var(--white-3);
+  border: 0.07vw solid;
+  border-color: var(--white-4);
+  border-radius: 0.73vw;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 1.46vw;
+  padding: 2.93vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .vector-8 {
+  aspect-ratio: 1;
+  height: 4.39vw;
+  position: relative;
+  width: 4.39vw;
+}
+
+.pedrollou95polskau951366px .frame-57-2 {
+  align-self: stretch;
+  gap: 0.73vw;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .bezkompromisowa-trwao {
+  align-self: stretch;
+  letter-spacing: -0.05vw;
+  line-height: 2.42vw;
+  margin-top: -0.07vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .komponenty-najwysze {
+  align-self: stretch;
+  letter-spacing: -0.02vw;
+  line-height: 1.9vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .group-22 {
+  aspect-ratio: 1.1;
+  height: 4.39vw;
+  position: relative;
+  width: 4.81vw;
+}
+
+.pedrollou95polskau951366px .vector-9 {
+  height: 53.46%;
+  left: 59.08%;
+  position: absolute;
+  top: 45.81%;
+  width: 42.82%;
+}
+
+.pedrollou95polskau951366px .vector-10 {
+  height: 16.04%;
+  left: 71.16%;
+  position: absolute;
+  top: 64.11%;
+  width: 18.55%;
+}
+
+.pedrollou95polskau951366px .vector-12 {
+  height: 30.58%;
+  left: 19.68%;
+  position: absolute;
+  top: 21.50%;
+  width: 27.97%;
+}
+
+.pedrollou95polskau951366px .frame-59 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.73vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .gwarancja-parametrw {
+  align-self: stretch;
+  letter-spacing: -0.05vw;
+  line-height: 2.42vw;
+  margin-top: -0.07vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .pompy-posiadaj-cert {
+  align-self: stretch;
+  letter-spacing: -0.02vw;
+  line-height: 1.9vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .group-21 {
+  aspect-ratio: 1.09;
+  background-image: url(../img/vector-135.svg);
+  background-size: 100% 100%;
+  height: 4.39vw;
+  position: relative;
+  width: 4.78vw;
+}
+
+.pedrollou95polskau951366px .frame-60 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.73vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .technologia-plug-play {
+  align-self: stretch;
+  letter-spacing: -0.05vw;
+  line-height: 2.42vw;
+  margin-top: -0.07vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .zintegrowany-system {
+  align-self: stretch;
+  letter-spacing: -0.02vw;
+  line-height: 1.9vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .frame-83-1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 213.69vw;
+  left: 0;
+  position: absolute;
+  top: 156.0vw;
+  width: 100.0vw;
+}
+
+.pedrollou95polskau951366px .frame-35 {
+  align-items: flex-start;
+  align-self: stretch;
+  border-bottom-style: solid;
+  border-bottom-width: 0.07vw;
+  border-color: var(--white-4);
+  display: flex;
+  flex: 0 0 auto;
+  gap: 3.66vw;
+  padding: 0.73vw 5.86vw 0.07vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .frame-62 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 3.66vw;
+  margin-right: -113.54vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .nagradzani-zajako-iinnowacje {
+  letter-spacing: -0.03vw;
+  line-height: 1.61vw;
+  position: relative;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .span {
+  letter-spacing: -0.0vw;
+}
+
+.pedrollou95polskau951366px .span1-1 {
+  color: var(--concrete);
+  font-family: var(--font-family-geist);
+  font-size: var(--font-size-xxxl);
+  font-weight: 400;
+  letter-spacing: -0.0vw;
+}
+
+.pedrollou95polskau951366px .logos_2 {
+  height: 12.59vw;
+  position: relative;
+  width: 185.94vw;
+}
+
+.pedrollou95polskau951366px .frame-50 {
+  align-items: center;
+  display: inline-flex;
+  gap: 3.66vw;
+  height: 12.59vw;
+  left: 0.95vw;
+  position: absolute;
+  top: 0;
+}
+
+.pedrollou95polskau951366px .frame {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 2.93vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .logo_01 {
+  align-items: center;
+  border-radius: 1.46vw;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.73vw;
+  justify-content: center;
+  padding: 0.73vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .frame-23 {
+  align-items: center;
+  aspect-ratio: 3.16;
+  display: flex;
+  gap: 1.24vw;
+  height: 4.1vw;
+  position: relative;
+  width: 12.81vw;
+}
+
+.pedrollou95polskau951366px .vector {
+  aspect-ratio: 0.34;
+  height: 4.8vw;
+  margin-bottom: -0.35vw;
+  margin-top: -0.35vw;
+  position: relative;
+  width: 1.61vw;
+}
+
+.pedrollou95polskau951366px .entrepreneur-of-the-year-award-2001 {
+  letter-spacing: -0.02vw;
+  line-height: 1.1vw;
+  margin-top: -0.15vw;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .span0 {
+  letter-spacing: -0.0vw;
+  line-height: 1.46vw;
+}
+
+.pedrollou95polskau951366px .span1 {
+  letter-spacing: -0.01vw;
+  line-height: 1.46vw;
+}
+
+.pedrollou95polskau951366px .span2 {
+  letter-spacing: -0.0vw;
+  line-height: 1.32vw;
+}
+
+.pedrollou95polskau951366px .vector-15 {
+  aspect-ratio: 0.34;
+  height: 4.8vw;
+  margin-left: -815.04vw;
+  margin-top: -113.16vw;
+  position: relative;
+  width: 1.61vw;
+}
+
+.pedrollou95polskau951366px .rectangle-15 {
+  background: linear-gradient(270deg, rgba(10, 10, 10, 0) 0%, rgba(10, 10, 10, 1) 100%);
+  height: 12.59vw;
+  left: 0.07vw;
+  position: absolute;
+  top: 0;
+  width: 21.6vw;
+}
+
+.pedrollou95polskau951366px .frame-80 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 0.73vw;
+  height: 95.75vw;
+  padding: 6.59vw 0.0vw 0.0vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .frame-63 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  gap: 16.84vw;
+  height: 98.98vw;
+  margin-bottom: -9.81vw;
+  padding: 0.0vw 6.22vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .frame-51-1 {
+  height: 97.66vw;
+}
+
+.pedrollou95polskau951366px .group-23 {
+  background-image: url(../img/pompa-1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 118.59vw;
+  left: 13.54vw;
+  position: absolute;
+  top: -20.72vw;
+  width: 80.23vw;
+}
+
+.pedrollou95polskau951366px .frame-67 {
+  -webkit-backdrop-filter: blur(1.46vw) brightness(100%);
+  align-items: flex-start;
+  backdrop-filter: blur(1.46vw) brightness(100%);
+  background-color: var(--cornflower-blue-2);
+  border: 0.07vw solid;
+  border-color: var(--lynch-2);
+  border-radius: 2.2vw;
+  display: flex;
+  flex-direction: column;
+  gap: 1.1vw;
+  height: 13.84vw;
+  justify-content: center;
+  left: 72.04vw;
+  padding: 2.2vw;
+  position: absolute;
+  top: 50.07vw;
+  width: 13.76vw;
+}
+
+.pedrollou95polskau951366px .frame-69 {
+  height: 3.66vw;
+  margin-top: -0.07vw;
+  position: relative;
+  width: 3.66vw;
+}
+
+.pedrollou95polskau951366px .vector-16 {
+  aspect-ratio: 1;
+  height: 3.29vw;
+  left: calc(50.00% - 1.61vw);
+  position: absolute;
+  top: calc(50.00% - 1.68vw);
+  width: 3.29vw;
+}
+
+.pedrollou95polskau951366px .address {
+  letter-spacing: -0.04vw;
+  line-height: 1.61vw;
+}
+
+.pedrollou95polskau951366px .frame-68 {
+  -webkit-backdrop-filter: blur(1.46vw) brightness(100%);
+  align-items: flex-start;
+  backdrop-filter: blur(1.46vw) brightness(100%);
+  background-color: var(--cornflower-blue-2);
+  border: 0.07vw solid;
+  border-color: var(--lynch-2);
+  border-radius: 2.2vw;
+  display: flex;
+  flex-direction: column;
+  gap: 1.1vw;
+  justify-content: center;
+  left: 74.89vw;
+  padding: 2.2vw;
+  position: absolute;
+  top: 14.13vw;
+  width: 13.84vw;
+}
+
+.pedrollou95polskau951366px .layer_1 {
+  background-image: url(../img/vector-45.svg);
+  height: 3.29vw;
+  width: 3.29vw;
+}
+
+.pedrollou95polskau951366px .x30-mniejsza-zuycie-prdu {
+  letter-spacing: -0.04vw;
+  line-height: 1.61vw;
+  position: relative;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .frame-56-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 1.1vw;
+  left: 0;
+  padding: 16.84vw 0.0vw;
+  position: absolute;
+  top: 7.83vw;
+  width: 39.53vw;
+}
+
+.pedrollou95polskau951366px .frame-13 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.37vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .pedrollo {
+  letter-spacing: -0.09vw;
+  line-height: normal;
+  margin-top: -0.07vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .group-24 {
+  height: 1.1vw;
+  margin-right: -0.29vw;
+  position: relative;
+  width: 5.34vw;
+}
+
+.pedrollou95polskau951366px .x4-sr-s {
+  left: 0;
+  letter-spacing: -0.06vw;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.pedrollou95polskau951366px .text-14 {
+  left: 4.1vw;
+  letter-spacing: -0.05vw;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.pedrollou95polskau951366px .frame-65-3 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 1.76vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .raz-kupujesz-bez-koca-pompujesz {
+  letter-spacing: -0.07vw;
+  line-height: 4.39vw;
+  margin-right: -14.79vw;
+  margin-top: -0.07vw;
+  position: relative;
+  width: 54.32vw;
+}
+
+.pedrollou95polskau951366px .szukasz-niezawodnej {
+  align-self: stretch;
+  letter-spacing: -0.03vw;
+  line-height: 2.2vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .span1-2 {
+  color: var(--silver);
+  font-family: var(--font-family-manrope);
+  font-size: var(--font-size-xxxl);
+  font-weight: 600;
+  letter-spacing: -0.0vw;
+}
+
+.pedrollou95polskau951366px .frame-66 {
+  -webkit-backdrop-filter: blur(1.46vw) brightness(100%);
+  align-items: flex-start;
+  backdrop-filter: blur(1.46vw) brightness(100%);
+  background-color: var(--cornflower-blue-2);
+  border: 0.07vw solid;
+  border-color: var(--lynch-2);
+  border-radius: 2.2vw;
+  display: flex;
+  flex-direction: column;
+  gap: 0.73vw;
+  justify-content: center;
+  left: 46.63vw;
+  padding: 2.2vw;
+  position: absolute;
+  top: 34.26vw;
+  width: 13.84vw;
+}
+
+.pedrollou95polskau951366px .guarantee {
+  height: 3.66vw;
+  position: relative;
+  width: 3.66vw;
+}
+
+.pedrollou95polskau951366px .group-25 {
+  display: flex;
+  height: 3.29vw;
+  left: 0.44vw;
+  position: relative;
+  top: 0.15vw;
+  width: 2.78vw;
+}
+
+.pedrollou95polskau951366px .group-26 {
+  flex: 1;
+  position: relative;
+  width: 2.78vw;
+}
+
+.pedrollou95polskau951366px .vector-1 {
+  height: 24.21%;
+  left: 29.97%;
+  position: absolute;
+  top: 38.83%;
+  width: 44.28%;
+}
+
+.pedrollou95polskau951366px .vector-17 {
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .najdusza-gwarancj {
+  letter-spacing: -0.04vw;
+  line-height: 1.61vw;
+  position: relative;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .frame-64-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 16.84vw;
+  height: 41.58vw;
+  padding: 0.0vw 12.08vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .frame-20-1 {
+  height: 53.51vw;
+  left: calc(50.00% - 70.28vw);
+  position: absolute;
+  top: calc(50.00% - 26.72vw);
+  width: 140.56vw;
+}
+
+.pedrollou95polskau951366px .ellipse-1-2 {
+  background-color: var(--dove-gray);
+  border-radius: 29.8vw;
+  filter: blur(13.32vw);;
+  height: 59.59vw;
+  left: calc(50.00% - 29.8vw);
+  position: relative;
+  top: calc(50.00% - 29.72vw);
+  width: 59.59vw;
+}
+
+.pedrollou95polskau951366px .frame-51-2 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 2.93vw;
+  justify-content: center;
+}
+
+.pedrollou95polskau951366px .frame-65-4 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .referencje {
+  color: var(--concrete-2);
+  font-family: var(--font-family-manrope);
+  font-size: var(--font-size-xxxl);
+  font-weight: 600;
+  letter-spacing: -0.04vw;
+  line-height: 2.2vw;
+  margin-top: -0.07vw;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .co-mwi-o-nas-klienci {
+  letter-spacing: -0.06vw;
+  line-height: 3.81vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .testimonials {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 2.2vw;
+  justify-content: center;
+  margin-left: -115.63vw;
+  margin-right: -115.63vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .frame-79 {
+  height: 17.06vw;
+  position: relative;
+  width: 307.1vw;
+}
+
+.pedrollou95polskau951366px .frame-69-1 {
+  -webkit-backdrop-filter: blur(1.46vw) brightness(100%);
+  align-items: center;
+  backdrop-filter: blur(1.46vw) brightness(100%);
+  display: inline-flex;
+  left: 0;
+  opacity: 0.4;
+  position: absolute;
+  top: 1.46vw;
+}
+
+.pedrollou95polskau951366px .frame-71 {
+  align-items: center;
+  background-color: var(--eerie-black);
+  border: 0.07vw solid;
+  border-color: var(--lynch-3);
+  border-radius: 2.2vw 0.0vw 0.0vw 2.2vw;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.73vw;
+  padding: 2.93vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .frame-70 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.73vw;
+  justify-content: center;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .image-2 {
+  aspect-ratio: 1;
+  height: 5.01vw;
+  margin-left: -632.03vw;
+  margin-top: -234.81vw;
+  position: relative;
+  width: 5.01vw;
+}
+
+.pedrollou95polskau951366px .frame-57 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 10.54vw;
+}
+
+.pedrollou95polskau951366px .arek-nawrocki {
+  align-self: stretch;
+  letter-spacing: -0.02vw;
+  line-height: 1.46vw;
+  margin-top: -0.07vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .dystrybutor-pomp-ped {
+  align-self: stretch;
+  color: var(--silver-chalice);
+  font-family: var(--font-family-geist);
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  letter-spacing: -0.02vw;
+  line-height: 1.46vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .frame-72 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--shark);
+  border: 0.07vw solid;
+  border-color: var(--lynch-3);
+  border-radius: 0.0vw 30.0vw 30.0vw 0.0vw;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.73vw;
+  justify-content: center;
+  margin-left: -0.07vw;
+  overflow: hidden;
+  padding: 2.93vw 3.66vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .zawsze-polecam-te-p {
+  color: transparent;
+  font-family: var(--font-family-manrope);
+  font-size: 2.05vw;
+  font-weight: 600;
+  letter-spacing: -0.06vw;
+  line-height: 2.71vw;
+  position: relative;
+  width: 33.67vw;
+}
+
+.pedrollou95polskau951366px .span-1 {
+  letter-spacing: -0.02vw;
+}
+
+.pedrollou95polskau951366px .frame-67-1 {
+  -webkit-backdrop-filter: blur(1.46vw) brightness(100%);
+  align-items: center;
+  backdrop-filter: blur(1.46vw) brightness(100%);
+  border-radius: 2.2vw;
+  display: inline-flex;
+  left: 121.96vw;
+  position: absolute;
+  top: 0;
+}
+
+.pedrollou95polskau951366px .frame-71-2 {
+  background-color: var(--eerie-black);
+  border: 0.07vw solid;
+  border-color: var(--silver-chalice-2);
+  border-radius: 2.2vw 0.0vw 0.0vw 2.2vw;
+  flex: 0 0 auto;
+  gap: 0.73vw;
+  padding: 2.93vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .frame-1 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.51vw;
+  justify-content: center;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .image {
+  aspect-ratio: 1;
+  height: 5.01vw;
+  position: relative;
+  width: 5.01vw;
+}
+
+.pedrollou95polskau951366px .frame-57-3 {
+  gap: 0.22vw;
+  width: 10.54vw;
+}
+
+.pedrollou95polskau951366px .name {
+  align-self: stretch;
+  color: var(--concrete);
+  font-family: var(--font-family-geist);
+  font-size: var(--font-size-m);
+  font-weight: 600;
+  letter-spacing: -0.02vw;
+  line-height: 1.46vw;
+}
+
+.pedrollou95polskau951366px .dystrybutor-pomp-ped-2 {
+  font-size: 0.88vw;
+}
+
+.pedrollou95polskau951366px .frame-72-2 {
+  border-color: var(--silver-chalice-2);
+  padding: 2.93vw 3.66vw;
+}
+
+.pedrollou95polskau951366px .sprzedaj-sprzt-r {
+  letter-spacing: -0.05vw;
+  line-height: 2.27vw;
+  position: relative;
+  width: 33.67vw;
+}
+
+.pedrollou95polskau951366px .span-2 {
+  letter-spacing: -0.01vw;
+}
+
+.pedrollou95polskau951366px .frame-68-1 {
+  -webkit-backdrop-filter: blur(1.46vw) brightness(100%);
+  align-items: center;
+  backdrop-filter: blur(1.46vw) brightness(100%);
+  left: 183.02vw;
+  opacity: 0.4;
+  top: 1.1vw;
+}
+
+.pedrollou95polskau951366px .frame-71-1 {
+  background-color: var(--eerie-black);
+  border: 0.07vw solid;
+  border-color: var(--lynch-3);
+  border-radius: 2.2vw 0.0vw 0.0vw 2.2vw;
+  flex: 0 0 auto;
+  gap: 0.73vw;
+  padding: 1.46vw 2.93vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .frame-57-1 {
+  gap: 0.44vw;
+  width: 10.54vw;
+}
+
+.pedrollou95polskau951366px .name-1 {
+  align-self: stretch;
+  letter-spacing: -0.02vw;
+  line-height: 1.46vw;
+}
+
+.pedrollou95polskau951366px .dystrybutor-pomp-ped-1 {
+  font-size: var(--font-size-m);
+}
+
+.pedrollou95polskau951366px .frame-72-1 {
+  border-color: var(--lynch-3);
+  padding: 2.2vw 2.93vw;
+}
+
+.pedrollou95polskau951366px .frame-70-1 {
+  -webkit-backdrop-filter: blur(1.46vw) brightness(100%);
+  align-items: center;
+  backdrop-filter: blur(1.46vw) brightness(100%);
+  display: inline-flex;
+  left: 249.78vw;
+  opacity: 0.4;
+  position: absolute;
+  top: 1.46vw;
+}
+
+.pedrollou95polskau951366px .image-3 {
+  aspect-ratio: 1;
+  height: 5.01vw;
+  margin-left: -881.81vw;
+  margin-top: -234.81vw;
+  position: relative;
+  width: 5.01vw;
+}
+
+.pedrollou95polskau951366px .name-2 {
+  align-self: stretch;
+  letter-spacing: -0.02vw;
+  line-height: 1.46vw;
+}
+
+.pedrollou95polskau951366px .sprzt-najwyszej-k {
+  color: transparent;
+  font-family: var(--font-family-manrope);
+  font-size: 2.05vw;
+  font-weight: 600;
+  letter-spacing: -0.06vw;
+  line-height: 2.71vw;
+  position: relative;
+  width: 33.67vw;
+}
+
+.pedrollou95polskau951366px .frame-71-3 {
+  -webkit-backdrop-filter: blur(1.46vw) brightness(100%);
+  backdrop-filter: blur(1.46vw) brightness(100%);
+  left: 62.37vw;
+  opacity: 0.4;
+  position: absolute;
+  top: 1.1vw;
+}
+
+.pedrollou95polskau951366px .image-4 {
+  aspect-ratio: 1;
+  height: 5.01vw;
+  margin-left: -694.44vw;
+  margin-top: -232.96vw;
+  position: relative;
+  width: 5.01vw;
+}
+
+.pedrollou95polskau951366px .name-3 {
+  align-self: stretch;
+  letter-spacing: -0.02vw;
+  line-height: 1.46vw;
+}
+
+.pedrollou95polskau951366px .frame-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 1.46vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .arrow {
+  height: 4.39vw;
+  position: relative;
+  width: 4.39vw;
+}
+
+.pedrollou95polskau951366px .frame-162 {
+  align-items: center;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 4.39vw;
+  height: 52.2vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .video_slider {
+  height: 49.78vw;
+  position: relative;
+  width: 99.56vw;
+}
+
+.pedrollou95polskau951366px .frame-160 {
+  align-items: center;
+  display: inline-flex;
+  gap: 4.39vw;
+  left: 3.51vw;
+  position: absolute;
+  top: calc(50.00% - 21.23vw);
+}
+
+.pedrollou95polskau951366px .video {
+  align-items: center;
+  aspect-ratio: 2.1;
+  border-radius: 2.93vw;
+  display: flex;
+  flex-direction: column;
+  gap: 0.73vw;
+  height: 43.92vw;
+  justify-content: center;
+  overflow: hidden;
+  position: relative;
+  width: 92.09vw;
+}
+
+.pedrollou95polskau951366px .rectangle-23 {
+  height: 53.44vw;
+  left: calc(50.00% - 56.0vw);
+  position: absolute;
+  top: calc(50.00% - 26.72vw);
+  width: 112.01vw;
+}
+
+.pedrollou95polskau951366px .group-39 {
+  aspect-ratio: 1;
+  height: 6.59vw;
+  left: 42.75vw;
+  position: absolute;
+  top: 18.67vw;
+  width: 6.59vw;
+}
+
+.pedrollou95polskau951366px .film-prezentuje-aute {
+  color: var(--celeste-2);
+  font-family: var(--font-family-manrope);
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  left: 4.83vw;
+  letter-spacing: -0.04vw;
+  line-height: 1.61vw;
+  position: absolute;
+  top: 3.51vw;
+  width: 34.19vw;
+}
+
+.pedrollou95polskau951366px .animacja_slider {
+  align-items: center;
+  aspect-ratio: 2.1;
+  background-color: var(--midnight-moss);
+  border-radius: 2.93vw;
+  display: flex;
+  flex-direction: column;
+  gap: 0.73vw;
+  height: 51.24vw;
+  justify-content: center;
+  overflow: hidden;
+  position: relative;
+  width: 107.39vw;
+}
+
+.pedrollou95polskau951366px .ellipse-2-2 {
+  background-color: var(--white-6);
+  border-radius: 27.89vw;
+  filter: blur(13.32vw);;
+  height: 55.78vw;
+  left: -18.67vw;
+  position: absolute;
+  top: calc(50.00% - 27.89vw);
+  width: 55.78vw;
+}
+
+.pedrollou95polskau951366px .ellipse-4 {
+  background-color: #ffffff14;
+  border-radius: 27.89vw;
+  filter: blur(13.32vw);;
+  height: 55.78vw;
+  left: 56.0vw;
+  position: absolute;
+  top: calc(50.00% - 11.79vw);
+  width: 55.78vw;
+}
+
+.pedrollou95polskau951366px .frame-195 {
+  align-self: stretch;
+  border-radius: 0.73vw;
+  flex: 1;
+  flex-grow: 1;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .pompa-1 {
+  height: 269.69vw;
+  left: 14.13vw;
+  position: absolute;
+  top: 0.73vw;
+  width: 30.6vw;
+}
+
+.pedrollou95polskau951366px .group-61 {
+  height: 263.4vw;
+  position: relative;
+  top: 5.71vw;
+  width: 30.97vw;
+}
+
+.pedrollou95polskau951366px .pompa-2 {
+  height: 263.4vw;
+  left: -847.0vw;
+  position: absolute;
+  top: -262.96vw;
+  width: 30.6vw;
+}
+
+.pedrollou95polskau951366px .plus {
+  background-color: var(--royal-blue);
+  left: 6.59vw;
+  top: 7.03vw;
+}
+
+.pedrollou95polskau951366px .group-60 {
+  aspect-ratio: 1;
+  height: 0.88vw;
+  position: relative;
+  width: 0.88vw;
+}
+
+.pedrollou95polskau951366px .rectangle-26-1 {
+  background-color: var(--white);
+  height: 0.88vw;
+  left: 0.37vw;
+  position: absolute;
+  top: 0;
+  width: 0.15vw;
+}
+
+.pedrollou95polskau951366px .rectangle-27-1 {
+  background-color: var(--white);
+  height: 0.88vw;
+  left: 0.37vw;
+  position: absolute;
+  top: 0.07vw;
+  transform: rotate(90.00deg);
+  width: 0.15vw;
+}
+
+.pedrollou95polskau951366px .plus-1 {
+  background-color: var(--white);
+  left: 21.6vw;
+  top: 30.31vw;
+}
+
+.pedrollou95polskau951366px .rectangle-26 {
+  background-color: var(--cod-gray);
+  height: 0.88vw;
+  left: 0.37vw;
+  position: absolute;
+  top: 0;
+  width: 0.15vw;
+}
+
+.pedrollou95polskau951366px .rectangle-27 {
+  background-color: var(--cod-gray);
+  height: 0.88vw;
+  left: 0.37vw;
+  position: absolute;
+  top: 0.07vw;
+  transform: rotate(90.00deg);
+  width: 0.15vw;
+}
+
+.pedrollou95polskau951366px .plus-2 {
+  background-color: var(--white);
+  left: 18.01vw;
+  top: 41.8vw;
+}
+
+.pedrollou95polskau951366px .plus-3 {
+  background-color: var(--white);
+  left: 25.55vw;
+  top: 43.41vw;
+}
+
+.pedrollou95polskau951366px .plus-4 {
+  background-color: var(--white);
+  left: 24.3vw;
+  top: 56.66vw;
+}
+
+.pedrollou95polskau951366px .plus-5 {
+  background-color: var(--white);
+  left: 21.38vw;
+  top: 69.62vw;
+}
+
+.pedrollou95polskau951366px .plus-6 {
+  background-color: var(--white);
+  left: 22.62vw;
+  top: 77.45vw;
+}
+
+.pedrollou95polskau951366px .plus-7 {
+  background-color: var(--white);
+  left: 13.1vw;
+  top: 80.53vw;
+}
+
+.pedrollou95polskau951366px .plus-8 {
+  background-color: var(--white);
+  left: 20.2vw;
+  top: 89.46vw;
+}
+
+.pedrollou95polskau951366px .plus-9 {
+  background-color: var(--white);
+  left: 16.03vw;
+  top: 106.59vw;
+}
+
+.pedrollou95polskau951366px .plus-10 {
+  background-color: var(--white);
+  left: 16.03vw;
+  top: 116.84vw;
+}
+
+.pedrollou95polskau951366px .plus-11 {
+  background-color: var(--white);
+  left: 16.98vw;
+  top: 127.82vw;
+}
+
+.pedrollou95polskau951366px .plus-12 {
+  background-color: var(--white);
+  left: 15.96vw;
+  top: 141.07vw;
+}
+
+.pedrollou95polskau951366px .plus-13 {
+  background-color: var(--white);
+  left: 15.96vw;
+  top: 149.12vw;
+}
+
+.pedrollou95polskau951366px .plus-14 {
+  background-color: var(--white);
+  left: 5.27vw;
+  top: 143.92vw;
+}
+
+.pedrollou95polskau951366px .plus-15 {
+  background-color: var(--white);
+  left: 5.56vw;
+  top: 157.98vw;
+}
+
+.pedrollou95polskau951366px .plus-16 {
+  background-color: var(--white);
+  left: 14.86vw;
+  top: 164.57vw;
+}
+
+.pedrollou95polskau951366px .plus-17 {
+  background-color: var(--white);
+  left: 23.28vw;
+  top: 171.16vw;
+}
+
+.pedrollou95polskau951366px .plus-18 {
+  background-color: var(--white);
+  left: 25.18vw;
+  top: 220.42vw;
+}
+
+.pedrollou95polskau951366px .plus-19 {
+  background-color: var(--white);
+  left: 7.91vw;
+  top: 226.28vw;
+}
+
+.pedrollou95polskau951366px .plus-20 {
+  background-color: var(--white);
+  left: 13.03vw;
+  top: 225.62vw;
+}
+
+.pedrollou95polskau951366px .plus-21 {
+  background-color: var(--white);
+  left: 27.89vw;
+  top: 232.28vw;
+}
+
+.pedrollou95polskau951366px .info {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 2.64vw;
+  left: 56.22vw;
+  position: absolute;
+  top: calc(50.00% - 19.25vw);
+}
+
+.pedrollou95polskau951366px .frame_txt_all::before {
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  background: conic-gradient(from 90deg at 48% 50%, rgba(172, 172, 172, 0.2) 0%, rgba(172, 172, 172, 0.2) 15%, rgba(172, 172, 172, 0.2) 31%);
+  border-radius: 0.73vw;
+  content: '';
+  inset: 0;
+  mask-composite: exclude;
+  padding: 0.07vw;
+  pointer-events: none;
+  position: absolute;
+  z-index: 1;
+}
+
+.pedrollou95polskau951366px .frame_txt_all {
+  -webkit-backdrop-filter: blur(1.46vw) brightness(100%);
+  align-items: flex-start;
+  backdrop-filter: blur(1.46vw) brightness(100%);
+  background-color: var(--seashell);
+  border: none;
+  border-radius: 0.73vw;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 1.46vw;
+  padding: 3.66vw 4.39vw;
+  position: relative;
+  width: 53.44vw;
+}
+
+.pedrollou95polskau951366px .frame-3 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 1.46vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .trwaa-konstrukcja {
+  color: var(--concrete);
+  font-family: var(--font-family-manrope);
+  font-size: 1.98vw;
+  font-weight: 500;
+  letter-spacing: -0.04vw;
+  line-height: 3.81vw;
+  margin-top: -0.07vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .x2 {
+  align-self: stretch;
+  color: var(--concrete);
+  font-family: var(--font-family-manrope);
+  font-size: 4.39vw;
+  font-weight: 700;
+  letter-spacing: -0.09vw;
+  line-height: 4.76vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .x3 {
+  letter-spacing: -0.03vw;
+  line-height: 2.64vw;
+  margin-right: -0.07vw;
+  position: relative;
+  width: 44.73vw;
+}
+
+.pedrollou95polskau951366px .span-3 {
+  letter-spacing: -0.01vw;
+}
+
+.pedrollou95polskau951366px .nav {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.73vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .arrow-4 {
+  height: 4.39vw;
+  margin-left: -884.7vw;
+  margin-top: -302.71vw;
+  position: relative;
+  width: 4.39vw;
+}
+
+.pedrollou95polskau951366px .frame-200 {
+  align-items: flex-start;
+  border: 0.07vw solid;
+  border-color: var(--silver-chalice-2);
+  border-radius: 2.2vw;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.37vw;
+  padding: 0.73vw 1.46vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .number {
+  letter-spacing: -0.03vw;
+  line-height: 2.64vw;
+  margin-top: -0.07vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .frame-200-item {
+  color: var(--silver-chalice);
+  font-family: var(--font-family-manrope);
+  font-size: 1.39vw;
+  font-weight: 400;
+  letter-spacing: -0.03vw;
+  line-height: 2.64vw;
+  margin-top: -0.07vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .arrow_blue {
+  height: 4.39vw;
+  margin-left: -876.79vw;
+  margin-top: -302.71vw;
+  position: relative;
+  width: 4.39vw;
+}
+
+.pedrollou95polskau951366px .dot {
+  background-image: url(../img/ellipse-16-2@2x.png);
+  background-size: 100% 100%;
+  height: 12.45vw;
+  left: 16.03vw;
+  position: absolute;
+  top: 8.78vw;
+  width: 12.45vw;
+}
+
+.pedrollou95polskau951366px .frame-77 {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 1.46vw;
+  height: 4.39vw;
+  justify-content: center;
+  left: calc(50.00% - 5.12vw);
+  position: absolute;
+  top: 54.9vw;
+}
+
+.pedrollou95polskau951366px .frame-65-5 {
+  align-items: center;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 0.73vw;
+  justify-content: center;
+  left: calc(50.00% - 15.23vw);
+  position: absolute;
+  top: -0.37vw;
+}
+
+.pedrollou95polskau951366px .niezawodno-pynie-z-jakoci {
+  letter-spacing: -0.04vw;
+  line-height: 3.07vw;
+  margin-top: -0.07vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .frame-82 {
+  align-items: center;
+  aspect-ratio: 0.08;
+  background-color: var(--cod-gray);
+  display: flex;
+  flex-direction: column;
+  gap: 7.32vw;
+  height: 1206.88vw;
+  left: 0;
+  padding: 7.32vw 0.0vw 0.0vw;
+  position: absolute;
+  top: 371.16vw;
+  width: 100.0vw;
+}
+
+.pedrollou95polskau951366px .technologia_3 {
+  height: 47.36vw;
+  left: calc(50.00% - 50.0vw);
+  mix-blend-mode: lighten;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 100.0vw;
+}
+
+.pedrollou95polskau951366px .ellipse-3-1 {
+  background-color: var(--white-7);
+  border-radius: 28.37vw;
+  filter: blur(13.32vw);;
+  height: 56.73vw;
+  left: calc(50.00% - 28.33vw);
+  position: absolute;
+  top: -4.9vw;
+  width: 56.73vw;
+}
+
+.pedrollou95polskau951366px .frame-84 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 5.12vw;
+  justify-content: center;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .opatentowana-technologia {
+  letter-spacing: -0.11vw;
+  line-height: 4.39vw;
+  margin-top: -0.07vw;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .frame-4 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 1.46vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .patent::before {
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  background: conic-gradient(from 90deg at 48% 50%, rgba(172, 172, 172, 0.2) 0%, rgba(172, 172, 172, 0.2) 15%, rgba(172, 172, 172, 0.2) 31%);
+  border-radius: 1.46vw;
+  content: '';
+  inset: 0;
+  mask-composite: exclude;
+  padding: 0.15vw;
+  pointer-events: none;
+  position: absolute;
+  z-index: 1;
+}
+
+.pedrollou95polskau951366px .patent {
+  align-items: center;
+  background-color: var(--gallery);
+  border: none;
+  border-radius: 1.46vw;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 1.46vw;
+  justify-content: center;
+  overflow: hidden;
+  padding: 4.39vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .european-patent-no-ep3123031 {
+  aspect-ratio: 0.79;
+  background-image: url(../img/vector-151.svg);
+  background-size: 100% 100%;
+  height: 3.78vw;
+  position: relative;
+  width: 2.97vw;
+}
+
+.pedrollou95polskau951366px .vector-2 {
+  height: 38.58%;
+  left: 20.28%;
+  position: absolute;
+  top: 35.02%;
+  width: 34.39%;
+}
+
+.pedrollou95polskau951366px .patent-no {
+  letter-spacing: -0.05vw;
+  line-height: 2.34vw;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .patent-1::before {
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  background: conic-gradient(from 90deg at 48% 50%, rgba(172, 172, 172, 0.2) 0%, rgba(172, 172, 172, 0.2) 15%, rgba(172, 172, 172, 0.2) 31%);
+  border-radius: 1.46vw;
+  content: '';
+  inset: 0;
+  mask-composite: exclude;
+  padding: 0.15vw;
+  pointer-events: none;
+  position: absolute;
+  z-index: 1;
+}
+
+.pedrollou95polskau951366px .patent-1 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--gallery);
+  border: none;
+  border-radius: 1.46vw;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 1.46vw;
+  justify-content: center;
+  overflow: hidden;
+  padding: 4.39vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .pedrollo-1 {
+  aspect-ratio: 1.01;
+  background-image: url(../img/vector-50.svg);
+  background-size: 100% 100%;
+  height: 2.94vw;
+  position: relative;
+  width: 2.97vw;
+}
+
+.pedrollou95polskau951366px .frame-139 {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10.25vw;
+  position: relative;
+  width: 100.0vw;
+}
+
+.pedrollou95polskau951366px .frame-89 {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 3.66vw;
+  justify-content: center;
+  padding: 0.0vw 60.0vw;
+  position: relative;
+  width: 100.0vw;
+}
+
+.pedrollou95polskau951366px .ellipse-2-3 {
+  background-color: #89898940;
+  border-radius: 30.09vw/21.58vw;
+  filter: blur(13.32vw);;
+  height: 43.12vw;
+  left: 25.84vw;
+  position: absolute;
+  top: 5.86vw;
+  width: 60.18vw;
+}
+
+.pedrollou95polskau951366px .rectangle-19 {
+  background-color: var(--flesh);
+  border-radius: 31.48vw;
+  filter: blur(4.9vw);;
+  height: 25.99vw;
+  left: calc(50.00% - 33.16vw);
+  position: absolute;
+  top: 20.72vw;
+  width: 25.99vw;
+}
+
+.pedrollou95polskau951366px .logo_anim {
+  aspect-ratio: 1;
+  background-image: url(../img/vector-156.svg);
+  height: 21.96vw;
+  left: 8.83%;
+  top: calc(50.00% - 22.84vw);
+  width: 21.99%;
+}
+
+.pedrollou95polskau951366px .man-10 {
+  aspect-ratio: 0.71;
+  height: 49.41vw;
+  object-fit: cover;
+  position: relative;
+  width: 34.99vw;
+}
+
+.pedrollou95polskau951366px .frame-151 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 3.15vw;
+  padding: 0.0vw 0.0vw 60.0vw;
+  position: relative;
+  width: 44.8vw;
+}
+
+.pedrollou95polskau951366px .group-27 {
+  height: 5.56vw;
+  position: relative;
+  width: 40.23vw;
+}
+
+.pedrollou95polskau951366px .frame-150 {
+  align-items: center;
+  display: inline-flex;
+  gap: 1.46vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .frame-6 {
+  -webkit-backdrop-filter: blur(1.46vw) brightness(100%);
+  align-items: center;
+  backdrop-filter: blur(1.46vw) brightness(100%);
+  background-color: var(--seashell);
+  border: 0.07vw solid;
+  border-color: var(--silver-chalice-2);
+  border-radius: 1.46vw;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.73vw;
+  padding: 1.46vw 1.83vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .guarantee-1 {
+  height: 2.56vw;
+  position: relative;
+  width: 2.56vw;
+}
+
+.pedrollou95polskau951366px .group-25-1 {
+  aspect-ratio: 0.84;
+  display: flex;
+  height: 2.56vw;
+  left: 0.22vw;
+  position: relative;
+  width: 2.12vw;
+}
+
+.pedrollou95polskau951366px .group-26-1 {
+  flex: 1;
+  position: relative;
+  width: 2.15vw;
+}
+
+.pedrollou95polskau951366px .address-1 {
+  letter-spacing: -0.03vw;
+  line-height: 1.32vw;
+  margin-top: -0.07vw;
+}
+
+.pedrollou95polskau951366px .vector-19 {
+  height: 1.5vw;
+  position: relative;
+  width: 2.38vw;
+}
+
+.pedrollou95polskau951366px .ywotno-ponad-15-lat {
+  letter-spacing: -0.03vw;
+  line-height: 1.32vw;
+  margin-top: -0.07vw;
+  position: relative;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .layer_1-1 {
+  background-image: url(../img/vector-54.svg);
+  height: 2.56vw;
+  width: 2.56vw;
+}
+
+.pedrollou95polskau951366px .x30-mniejsza-zuycie-prdu-1 {
+  letter-spacing: -0.03vw;
+  line-height: 1.32vw;
+  margin-top: -0.07vw;
+  position: relative;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .frame-7 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 2.93vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .frame-8 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 2.2vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .mdre-decyzj-buduj-oszczdne-systemy {
+  align-self: stretch;
+  letter-spacing: -0.09vw;
+  line-height: 5.12vw;
+  margin-top: -0.07vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .nie-kada-oszczdno-si {
+  align-self: stretch;
+  height: 5.76vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .madre_decyzje {
+  align-items: center;
+  border: 0.15vw solid;
+  border-color: var(--royal-blue);
+  border-radius: 3.66vw;
+  display: flex;
+  gap: 1.46vw;
+  height: 3.81vw;
+  padding: 1.02vw 5.12vw 1.02vw 2.64vw;
+  position: relative;
+  width: 30.09vw;
+}
+
+.pedrollou95polskau951366px .frame-4-3 {
+  align-items: center;
+  background-color: var(--royal-blue);
+  border-radius: 3.66vw;
+  display: flex;
+  flex-direction: column;
+  gap: 0.73vw;
+  height: 3.66vw;
+  justify-content: center;
+  left: 26.43vw;
+  padding: 0.73vw 0.95vw;
+  position: absolute;
+  top: calc(50.00% - 1.83vw);
+  width: 3.66vw;
+}
+
+.pedrollou95polskau951366px .group-3-2 {
+  height: 0.88vw;
+  position: relative;
+  transform: rotate(90.00deg);
+  width: 1.41vw;
+}
+
+.pedrollou95polskau951366px .porwnanie-ktre-mwi-samo-za-siebie {
+  color: var(--concrete);
+  font-family: var(--font-family-manrope);
+  font-size: var(--font-size-xxl);
+  font-weight: 600;
+  letter-spacing: -0.04vw;
+  line-height: normal;
+  margin-top: -0.11vw;
+  position: relative;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .frame-143 {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 2.93vw;
+  justify-content: center;
+  position: relative;
+  width: 100.0vw;
+}
+
+.pedrollou95polskau951366px .frame-91 {
+  align-items: center;
+  border-radius: 2.2vw;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 3.66vw;
+  padding: 0.0vw 30.0vw;
+  position: relative;
+  width: 100.0vw;
+}
+
+.pedrollou95polskau951366px .frame-94 {
+  border-bottom-style: solid;
+  border-bottom-width: 0.15vw;
+  border-color: var(--lynch-4);
+  border-radius: 2.2vw 2.2vw 0.0vw 0.0vw;
+  height: 9.15vw;
+  position: relative;
+  width: 23.43vw;
+}
+
+.pedrollou95polskau951366px .frame-95-1 {
+  align-items: center;
+  border-bottom-style: solid;
+  border-bottom-width: 0.15vw;
+  border-color: var(--royal-blue);
+  display: flex;
+  justify-content: center;
+  padding: 2.93vw 1.46vw;
+  position: relative;
+  width: 43.78vw;
+}
+
+.pedrollou95polskau951366px .frame-137 {
+  align-items: flex-end;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.73vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .pompa-3 {
+  color: var(--white-5);
+  font-family: var(--font-family-manrope);
+  font-size: 2.49vw;
+  font-weight: 500;
+  letter-spacing: -0.07vw;
+  line-height: 3.66vw;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .pedrollo-2 {
+  color: var(--white);
+  font-family: var(--font-family-manrope);
+  font-size: 4.54vw;
+  font-weight: 600;
+  letter-spacing: -0.18vw;
+  line-height: normal;
+  margin-top: -0.07vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .x4-sr-s-1 {
+  color: var(--white-5);
+  font-family: var(--font-family-manrope);
+  font-size: 1.39vw;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: -0.06vw;
+  position: absolute;
+  top: 0;
+}
+
+.pedrollou95polskau951366px .text-16 {
+  color: var(--white-5);
+  font-family: var(--font-family-manrope);
+  font-size: 1.54vw;
+  font-weight: 300;
+  left: 4.1vw;
+  letter-spacing: -0.05vw;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.pedrollou95polskau951366px .frame-113 {
+  align-items: center;
+  border-bottom-style: solid;
+  border-bottom-width: 0.15vw;
+  border-color: var(--lynch-4);
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  justify-content: center;
+  padding: 2.93vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .frame-138 {
+  align-items: flex-end;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.29vw;
+  margin-left: -0.48vw;
+  margin-right: -0.48vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .pompa-4 {
+  color: var(--white-5);
+  font-family: var(--font-family-manrope);
+  font-size: 1.76vw;
+  font-weight: 500;
+  letter-spacing: -0.05vw;
+  line-height: 2.2vw;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .standardowa {
+  color: var(--white);
+  font-family: var(--font-family-manrope);
+  font-size: 2.78vw;
+  font-weight: 600;
+  letter-spacing: -0.08vw;
+  line-height: 2.2vw;
+  margin-top: -0.07vw;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .frame-112 {
+  align-items: center;
+  display: flex;
+  padding: 0.44vw 1.46vw;
+  position: relative;
+  width: 23.43vw;
+}
+
+.pedrollou95polskau951366px .pupmp_live {
+  aspect-ratio: 1;
+  height: 4.03vw;
+  position: relative;
+  width: 4.03vw;
+}
+
+.pedrollou95polskau951366px .ywotno {
+  letter-spacing: -0.02vw;
+  line-height: 1.46vw;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .frame-95 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  padding: 1.46vw;
+  position: relative;
+  width: 43.78vw;
+}
+
+.pedrollou95polskau951366px .ponad-15-lat {
+  letter-spacing: -0.02vw;
+  line-height: 1.46vw;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .frame-114 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  padding: 1.46vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .rednio-5-7-lat {
+  letter-spacing: -0.02vw;
+  line-height: 1.46vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .wiersz {
+  margin-top: -0.07vw;
+}
+
+.pedrollou95polskau951366px .guarantee-2 {
+  aspect-ratio: 1;
+  height: 4.03vw;
+  position: relative;
+  width: 4.03vw;
+}
+
+.pedrollou95polskau951366px .gwarancja {
+  letter-spacing: -0.02vw;
+  line-height: 1.46vw;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .address-2 {
+  letter-spacing: -0.02vw;
+  line-height: 1.46vw;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.pedrollou95polskau951366px .address-3 {
+  letter-spacing: -0.02vw;
+  line-height: 1.46vw;
+  white-space: nowrap;
+}
+
+.pedrollou95polskau951366px .materials {
+  aspect-ratio: 1;
+  height: 4.03vw;
+  position: relative;
+  width: 4.03vw;
+}
+
+.pedrollou95polskau951366px .materiay {
+  letter-spacing: -0.02vw;
+  line-height: 1.46vw;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .wysokiej-jakoci-stal-nierdzewna {
+  letter-spacing: -0.02vw;
+  line-height: 1.46vw;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .tasze-materiay-podatne-na-korozje {
+  letter-spacing: -0.02vw;
+  line-height: 1.46vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .energy {
+  aspect-ratio: 1;
+  height: 4.03vw;
+  position: relative;
+  width: 4.03vw;
+}
+
+.pedrollou95polskau951366px .efektywno-energetyczna {
+  letter-spacing: -0.02vw;
+  line-height: 1.46vw;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .wysoka-o-30-nisze-zuycie-energii {
+  letter-spacing: -0.02vw;
+  line-height: 1.46vw;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .niska {
+  letter-spacing: -0.02vw;
+  line-height: 1.46vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .noise {
+  aspect-ratio: 1;
+  height: 4.03vw;
+  position: relative;
+  width: 4.03vw;
+}
+
+.pedrollou95polskau951366px .poziom-haasu {
+  letter-spacing: -0.02vw;
+  line-height: 1.46vw;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .wysoki {
+  letter-spacing: -0.02vw;
+  line-height: 1.46vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .safety {
+  aspect-ratio: 1;
+  height: 4.03vw;
+  position: relative;
+  width: 4.03vw;
+}
+
+.pedrollou95polskau951366px .bezpieczestwo {
+  letter-spacing: -0.02vw;
+  line-height: 1.46vw;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .zaawansowane-zabezpieczenia {
+  letter-spacing: -0.02vw;
+  line-height: 1.46vw;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .brak-lub-ograniczone-zabezpieczenia {
+  letter-spacing: -0.02vw;
+  line-height: 1.46vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .instalation {
+  aspect-ratio: 1;
+  height: 4.03vw;
+  position: relative;
+  width: 4.03vw;
+}
+
+.pedrollou95polskau951366px .monta {
+  letter-spacing: -0.02vw;
+  line-height: 1.46vw;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .prosty-system-plug {
+  letter-spacing: -0.02vw;
+  line-height: 1.46vw;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .skomplikowany-monta {
+  flex: 1;
+  letter-spacing: -0.02vw;
+  line-height: 1.46vw;
+  margin-top: -0.07vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .services {
+  aspect-ratio: 1;
+  height: 4.03vw;
+  position: relative;
+  width: 4.03vw;
+}
+
+.pedrollou95polskau951366px .place {
+  letter-spacing: -0.02vw;
+  line-height: 1.46vw;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .rozbudowana-sie-ser {
+  letter-spacing: -0.02vw;
+  line-height: 1.46vw;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .ograniczony {
+  flex: 1;
+  letter-spacing: -0.02vw;
+  line-height: 1.46vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .cost {
+  aspect-ratio: 1;
+  height: 4.03vw;
+  position: relative;
+  width: 4.03vw;
+}
+
+.pedrollou95polskau951366px .cakowity-koszt-posiadania {
+  letter-spacing: -0.02vw;
+  line-height: 1.46vw;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .wysokie-koszty-napraw-i-wymiany {
+  flex: 1;
+  letter-spacing: -0.02vw;
+  line-height: 1.46vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .button_to_white {
+  background: linear-gradient(270deg, rgba(64, 100, 223, 1) 0%, rgba(255, 255, 255, 1) 100%);
+}
+
+.pedrollou95polskau951366px .skonsultuj-si-z-doradc {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -0.15vw;
+  margin-top: -0.44vw;
+  position: relative;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .arrow_right {
+  height: 1.39vw;
+  margin-bottom: -0.18vw;
+  margin-right: -0.09vw;
+  margin-top: -0.18vw;
+  position: relative;
+  width: 1.55vw;
+}
+
+.pedrollou95polskau951366px .ellipse-2-4 {
+  background-color: var(--royal-blue-6);
+  border-radius: 28.37vw;
+  filter: blur(13.32vw);;
+  height: 56.73vw;
+  left: 24.67vw;
+  position: absolute;
+  top: 2.93vw;
+  width: 56.73vw;
+}
+
+.pedrollou95polskau951366px .frame-140 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 5.12vw;
+  justify-content: center;
+  padding: 0.0vw 60.0vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .ellipse-2 {
+  background-color: var(--royal-blue-4);
+  border-radius: 28.37vw;
+  filter: blur(13.32vw);;
+  height: 56.73vw;
+  left: 21.74vw;
+  position: absolute;
+  top: 2.93vw;
+  width: 56.73vw;
+}
+
+.pedrollou95polskau951366px .name-4 {
+  letter-spacing: -0.11vw;
+  line-height: 4.39vw;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .frame-126 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .dane-2 {
+  align-items: flex-start;
+  border: 0.07vw solid;
+  border-color: transparent;
+  border-image: conic-gradient(from 90deg at 48% 50%, rgba(42, 44, 55, 1) 0%, rgba(42, 44, 55, 1) 15%, rgba(42, 44, 55, 1) 31%) 1;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 1.46vw;
+  height: 21.01vw;
+  padding: 4.39vw;
+}
+
+.pedrollou95polskau951366px .przeplyw {
+  height: 3.23vw;
+  margin-top: -0.7vw;
+  position: relative;
+  width: 4.29vw;
+}
+
+.pedrollou95polskau951366px .frame-153 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.73vw;
+  margin-bottom: -0.7vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .przepywwydajno {
+  letter-spacing: -0.03vw;
+  line-height: 1.76vw;
+  margin-top: -0.07vw;
+  position: relative;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .od-000-lmin-do-200-lmin {
+  letter-spacing: -0.05vw;
+  line-height: 2.34vw;
+  position: relative;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .group-37 {
+  height: 22.4vw;
+  left: -0.73vw;
+  position: absolute;
+  top: -0.66vw;
+  width: 24.23vw;
+}
+
+.pedrollou95polskau951366px .dane {
+  align-items: flex-start;
+  border: 0.07vw solid;
+  border-color: transparent;
+  border-image: conic-gradient(from 90deg at 48% 50%, rgba(42, 44, 55, 1) 0%, rgba(42, 44, 55, 1) 15%, rgba(42, 44, 55, 1) 31%) 1;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 1.46vw;
+  height: 21.01vw;
+  margin-left: -0.07vw;
+  padding: 4.39vw;
+}
+
+.pedrollou95polskau951366px .podnoszenie {
+  height: 3.23vw;
+  margin-top: -0.7vw;
+  position: relative;
+  width: 4.29vw;
+}
+
+.pedrollou95polskau951366px .frame-153-1 {
+  display: inline-flex;
+  margin-bottom: -0.7vw;
+  margin-right: -0.71vw;
+}
+
+.pedrollou95polskau951366px .maksymalna-wysoko-podnoszenia {
+  letter-spacing: -0.03vw;
+  line-height: 1.76vw;
+  margin-top: -0.07vw;
+  position: relative;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .od-000-m-do-576-m {
+  letter-spacing: -0.05vw;
+  line-height: 2.34vw;
+  position: relative;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .piasek-1 {
+  background-image: url(../img/02-2.svg);
+  height: 3.23vw;
+  margin-top: -0.7vw;
+  width: 4.29vw;
+}
+
+.pedrollou95polskau951366px .maksymalna-zawarto-piasku {
+  letter-spacing: -0.03vw;
+  line-height: 1.76vw;
+  margin-top: -0.07vw;
+  position: relative;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .od-000-gm-do-200-gm {
+  letter-spacing: -0.05vw;
+  line-height: 2.34vw;
+  position: relative;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .zasilanie {
+  height: 3.23vw;
+  margin-top: -0.7vw;
+  position: relative;
+  width: 4.29vw;
+}
+
+.pedrollou95polskau951366px .rodzaj-zasilania {
+  letter-spacing: -0.03vw;
+  line-height: 1.76vw;
+  margin-top: -0.07vw;
+  position: relative;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .jednofazowa-trjfazowa {
+  letter-spacing: -0.05vw;
+  line-height: 2.34vw;
+  position: relative;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .frame-141 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 2.93vw;
+  justify-content: center;
+  padding: 0.0vw 60.0vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .ellipse-2-5 {
+  background-color: var(--royal-blue-4);
+  border-radius: 28.37vw;
+  filter: blur(13.32vw);;
+  height: 56.73vw;
+  left: calc(50.00% - 28.4vw);
+  position: absolute;
+  top: 2.93vw;
+  width: 56.73vw;
+}
+
+.pedrollou95polskau951366px .charakterystyka-prac {
+  letter-spacing: -0.11vw;
+  line-height: 4.39vw;
+  margin-top: -0.07vw;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .frame-158 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 2.93vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .button_to_white-1 {
+  background: linear-gradient(270deg, rgba(64, 100, 223, 1) 0%, rgba(255, 255, 255, 1) 100%);
+  flex: 0 0 auto;
+}
+
+.pedrollou95polskau951366px .x4-sr-2-s {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -0.15vw;
+  margin-top: -0.44vw;
+  position: relative;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .arrow_right-1 {
+  height: 1.55vw;
+  margin-bottom: -0.27vw;
+  margin-top: -0.26vw;
+  position: relative;
+  width: 1.39vw;
+}
+
+.pedrollou95polskau951366px .button_to_white-3 {
+  background: linear-gradient(90deg, rgba(64, 100, 223, 1) 0%, rgba(64, 100, 223, 0.15) 100%);
+  border: 0.07vw solid;
+  border-color: var(--royal-blue);
+  flex: 0 0 auto;
+}
+
+.pedrollou95polskau951366px .x4-sr-2-s-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -0.22vw;
+  margin-top: -0.37vw;
+}
+
+.pedrollou95polskau951366px .dane-3::before {
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  background: linear-gradient(270deg, rgba(42, 44, 55, 1) 0%, rgba(64, 100, 223, 1) 50%, rgba(42, 44, 55, 1) 100%);
+  border-radius: 0.73vw;
+  content: '';
+  inset: 0;
+  mask-composite: exclude;
+  padding: 0.07vw;
+  pointer-events: none;
+  position: absolute;
+  z-index: 1;
+}
+
+.pedrollou95polskau951366px .dane-3 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--royal-blue-2);
+  border: none;
+  border-radius: 0.73vw;
+  flex: 0 0 auto;
+  gap: 2.93vw;
+  padding: 2.93vw;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .group-55 {
+  aspect-ratio: 0.66;
+  height: 41.91vw;
+  position: relative;
+  width: 27.61vw;
+}
+
+.pedrollou95polskau951366px .frame-163 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 2.93vw;
+  justify-content: center;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .frame-164 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.73vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .frame-191 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.73vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .x4-sr-2-s-2 {
+  letter-spacing: -0.13vw;
+  line-height: 4.39vw;
+  margin-top: -0.07vw;
+  white-space: nowrap;
+}
+
+.pedrollou95polskau951366px .address-4 {
+  color: var(--concrete);
+  font-family: var(--font-family-manrope);
+  font-size: 1.46vw;
+  font-weight: 400;
+  letter-spacing: -0.04vw;
+  line-height: 4.39vw;
+  margin-top: -0.07vw;
+  white-space: nowrap;
+}
+
+.pedrollou95polskau951366px .krzywe-i-dane-wydajnociowe {
+  align-self: stretch;
+  height: 1.35vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .group-84 {
+  height: 10.4vw;
+  position: relative;
+  width: 54.82vw;
+}
+
+.pedrollou95polskau951366px .frame-192 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.73vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .body0 {
+  letter-spacing: -0.03vw;
+  line-height: 1.83vw;
+  margin-top: -0.07vw;
+}
+
+.pedrollou95polskau951366px .body0-1 {
+  color: var(--white);
+  font-family: var(--font-family-manrope);
+  font-size: var(--font-size-xl);
+  font-weight: 400;
+  letter-spacing: -0.02vw;
+  line-height: 1.98vw;
+}
+
+.pedrollou95polskau951366px .dobierz_pompe-1 {
+  padding: 1.02vw 5.12vw 1.02vw 1.9vw;
+  width: 17.13vw;
+}
+
+.pedrollou95polskau951366px .frame-4-4 {
+  align-items: center;
+  aspect-ratio: 1;
+  background-color: var(--concrete);
+  border-radius: 2.2vw;
+  display: flex;
+  flex-direction: column;
+  gap: 0.73vw;
+  height: 2.78vw;
+  justify-content: center;
+  left: 14.2vw;
+  padding: 0.73vw 0.95vw;
+  position: absolute;
+  top: 0.15vw;
+  width: 2.78vw;
+}
+
+.pedrollou95polskau951366px .group-3 {
+  height: 0.88vw;
+  margin-left: -0.27vw;
+  margin-right: -0.27vw;
+  position: relative;
+  width: 1.41vw;
+}
+
+.pedrollou95polskau951366px .vector-3 {
+  height: 110.82%;
+  left: 68.78%;
+  position: absolute;
+  top: -5.41%;
+  width: 37.41%;
+}
+
+.pedrollou95polskau951366px .vector-4 {
+  height: 16.67%;
+  left: -5.19%;
+  position: absolute;
+  top: 41.67%;
+  width: 105.19%;
+}
+
+.pedrollou95polskau951366px .dobierz-pomp-1 {
+  letter-spacing: -0.02vw;
+  line-height: normal;
+  margin-bottom: -0.22vw;
+  margin-top: -0.37vw;
+  position: relative;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .po_zastosowaniu {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.73vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .frame-6377 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--black-haze);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 2.93vw;
+  justify-content: center;
+  padding: 5.12vw 4.39vw 0.0vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .frame-6369 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 3.66vw;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .frame-6-1 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 1.46vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .frame-6382 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 1.46vw;
+  justify-content: center;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .dopasuj-zestaw-po-zastosowaniu {
+  letter-spacing: -0.11vw;
+  line-height: 3.66vw;
+  margin-top: -0.07vw;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .frame-6389 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 0.73vw;
+  height: 4.39vw;
+  justify-content: center;
+  padding: 0.0vw 30.0vw 0.0vw 0.0vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .niezalenie-od-twoich {
+  flex: 1;
+  flex-grow: 1;
+  height: 3.66vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .slider_zestawy {
+  height: 49.05vw;
+  margin-right: -39.09vw;
+  position: relative;
+  width: 130.31vw;
+}
+
+.pedrollou95polskau951366px .frame-6378 {
+  display: flex;
+  gap: 2.2vw;
+  height: 42.68vw;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 299.85vw;
+}
+
+.pedrollou95polskau951366px .frame-6378-item {
+  aspect-ratio: 1.13;
+  gap: 1.46vw;
+  height: 32.5vw;
+  margin-top: -0.01vw;
+  width: 36.6vw;
+}
+
+.pedrollou95polskau951366px .frame-6367 {
+  align-items: center;
+  aspect-ratio: 1.13;
+  background-color: var(--white);
+  border: 0.07vw solid;
+  border-color: var(--silver-chalice-2);
+  border-radius: 1.46vw;
+  box-shadow: 0.0vw 0.29vw 70.29vw #0000000f;
+  display: flex;
+  flex-direction: column;
+  gap: 2.2vw;
+  height: 32.43vw;
+  justify-content: center;
+  overflow: hidden;
+  position: relative;
+  width: 36.6vw;
+}
+
+.pedrollou95polskau951366px .dom-letniskowy-rod {
+  align-items: center;
+  aspect-ratio: 1.13;
+  background-color: var(--white);
+  border: 0.07vw solid;
+  border-color: var(--silver-chalice-2);
+  border-radius: 1.46vw;
+  box-shadow: 0.0vw 0.29vw 70.29vw #0000000f;
+  display: flex;
+  flex-direction: column;
+  gap: 2.2vw;
+  height: 32.43vw;
+  justify-content: center;
+  overflow: hidden;
+  position: relative;
+  width: 36.6vw;
+}
+
+.pedrollou95polskau951366px .image-1 {
+  align-self: stretch;
+  flex: 1;
+  flex-grow: 1;
+  object-fit: cover;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .dowiedz-si-wicej_2 {
+  align-items: center;
+  background: linear-gradient(270deg, rgba(255, 255, 255, 1) 0%, rgba(64, 100, 223, 1) 100%);
+  border-radius: 2.2vw;
+  display: flex;
+  gap: 0.73vw;
+  height: 4.03vw;
+  left: calc(50.00% - 9.52vw);
+  opacity: 0;
+  padding: 0.0vw 0.0vw 0.0vw 1.9vw;
+  position: absolute;
+  top: 17.94vw;
+  width: 19.03vw;
+}
+
+.pedrollou95polskau951366px .frame-6405 {
+  align-items: center;
+  background-color: var(--royal-blue);
+  border-radius: 2.93vw;
+  display: flex;
+  flex-direction: column;
+  gap: 0.73vw;
+  height: 3.73vw;
+  justify-content: center;
+  left: 15.15vw;
+  padding: 1.76vw 1.39vw;
+  position: absolute;
+  top: 0.15vw;
+  width: 3.73vw;
+}
+
+.pedrollou95polskau951366px .frame-6407 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 0.73vw;
+  height: 1.02vw;
+  justify-content: center;
+  margin-bottom: -0.4vw;
+  margin-left: -0.07vw;
+  margin-right: -0.07vw;
+  margin-top: -0.4vw;
+  position: relative;
+  width: 1.1vw;
+}
+
+.pedrollou95polskau951366px .arrow_down-2 {
+  aspect-ratio: 2.34;
+  height: 0.44vw;
+  position: relative;
+  width: 1.1vw;
+}
+
+.pedrollou95polskau951366px .arrow_down-3 {
+  height: 250.00%;
+  left: -69320.00%;
+  position: absolute;
+  top: -145975.00%;
+  width: 40.00%;
+}
+
+.pedrollou95polskau951366px .kolo {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 2.93vw;
+  display: flex;
+  flex-direction: column;
+  gap: 0.73vw;
+  height: 3.73vw;
+  justify-content: center;
+  left: 15.15vw;
+  opacity: 0;
+  padding: 1.76vw 1.39vw;
+  position: absolute;
+  top: 0.15vw;
+  width: 3.73vw;
+}
+
+.pedrollou95polskau951366px .rectangle-31 {
+  aspect-ratio: 1.13;
+  border-radius: 1.46vw;
+  height: 25.99vw;
+  left: calc(50.00% - 14.71vw);
+  position: absolute;
+  top: calc(50.00% - 13.03vw);
+  width: 29.28vw;
+}
+
+.pedrollou95polskau951366px .frame-6379 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.44vw;
+  margin-bottom: -6.66vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .frame-6381 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 0.44vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .ellipse-22 {
+  aspect-ratio: 1;
+  background-color: var(--gravel);
+  border-radius: 0.29vw;
+  height: 0.59vw;
+  position: relative;
+  width: 0.59vw;
+}
+
+.pedrollou95polskau951366px .zestaw {
+  flex: 1;
+  letter-spacing: -0.03vw;
+  line-height: 2.05vw;
+  margin-top: -0.07vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .dom {
+  letter-spacing: -0.05vw;
+  line-height: 2.78vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .jednorodzinny_z_ogrodem {
+  align-items: center;
+  aspect-ratio: 1.13;
+  background-color: var(--white);
+  border: 0.07vw solid;
+  border-color: var(--silver-chalice-2);
+  border-radius: 1.46vw;
+  box-shadow: 0.0vw 0.29vw 70.29vw #0000000f;
+  display: flex;
+  flex-direction: column;
+  gap: 2.2vw;
+  height: 32.43vw;
+  justify-content: center;
+  overflow: hidden;
+  position: relative;
+  width: 36.6vw;
+}
+
+.pedrollou95polskau951366px .image-5 {
+  align-self: stretch;
+  flex: 1;
+  flex-grow: 1;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .arrow_down-4 {
+  height: 250.00%;
+  left: -72853.33%;
+  position: absolute;
+  top: -145975.00%;
+  width: 40.00%;
+}
+
+.pedrollou95polskau951366px .jednorodzinny {
+  align-items: center;
+  aspect-ratio: 1.13;
+  background-color: var(--white);
+  border: 0.07vw solid;
+  border-color: var(--silver-chalice-2);
+  border-radius: 1.46vw;
+  box-shadow: 0.0vw 0.29vw 70.29vw #0000000f;
+  display: flex;
+  flex-direction: column;
+  gap: 2.2vw;
+  height: 32.43vw;
+  justify-content: center;
+  overflow: hidden;
+  position: relative;
+  width: 36.6vw;
+}
+
+.pedrollou95polskau951366px .arrow_down-5 {
+  height: 250.00%;
+  left: -76386.67%;
+  position: absolute;
+  top: -145975.00%;
+  width: 40.00%;
+}
+
+.pedrollou95polskau951366px .budynek-mieszkalny-wilorodzinny {
+  letter-spacing: -0.05vw;
+  line-height: 2.78vw;
+  margin-right: -1.54vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .frame-6379-1 {
+  gap: 1.46vw;
+  height: 4.39vw;
+  justify-content: center;
+  left: 0;
+  position: absolute;
+  top: 44.14vw;
+  width: 91.22vw;
+}
+
+.pedrollou95polskau951366px .frame-6378-1 {
+  align-self: stretch;
+  background-color: var(--black-haze);
+  flex: 0 0 auto;
+  gap: 6.59vw;
+  justify-content: center;
+  padding: 6.15vw 4.39vw;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .frame-6-2 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 4.39vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .frame-36759 {
+  align-items: flex-start;
+  aspect-ratio: 1;
+  border-radius: 2.2vw;
+  display: flex;
+  height: 29.28vw;
+  overflow: hidden;
+  position: relative;
+  width: 29.28vw;
+}
+
+.pedrollou95polskau951366px .rectangle-1107 {
+  background-color: var(--eerie-black-2);
+  border-radius: 2.2vw;
+  height: 44.0vw;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 44.0vw;
+}
+
+.pedrollou95polskau951366px .ellipse-2-6 {
+  height: 29.28vw;
+  left: calc(50.00% - 14.64vw);
+  position: absolute;
+  top: calc(50.00% - 14.64vw);
+  width: 29.28vw;
+}
+
+.pedrollou95polskau951366px .frame-6391 {
+  aspect-ratio: 1;
+  background-image: url(../img/frame-6391-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 29.28vw;
+  position: relative;
+  width: 29.28vw;
+}
+
+.pedrollou95polskau951366px .frame-6419 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 1.46vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .frame-36757 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.81vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .frame-64 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .frame-6379-2 {
+  flex: 1;
+  flex-grow: 1;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .frame-6395 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 0.44vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .dom-mieszkalny-z-ogrodem {
+  align-self: stretch;
+  letter-spacing: -0.06vw;
+  line-height: 2.93vw;
+  margin-top: -0.07vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .button_to_dark_white {
+  align-items: center;
+  background: linear-gradient(270deg, rgba(255, 255, 255, 1) 0%, rgba(64, 100, 223, 1) 100%);
+  border: 0.07vw solid;
+  border-color: var(--pumice);
+  border-radius: 2.2vw;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.73vw;
+  height: 3.07vw;
+  justify-content: center;
+  padding: 1.02vw 1.9vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .lista-zestaww {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -0.22vw;
+  margin-top: -0.37vw;
+  position: relative;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .arrow_down-6 {
+  height: 134.36%;
+  left: -4.17%;
+  position: absolute;
+  top: -21.34%;
+  width: 108.33%;
+}
+
+.pedrollou95polskau951366px .frame-36754 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 1.1vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .wybierz-zestaw {
+  height: 1.2vw;
+  position: relative;
+  width: 8.81vw;
+}
+
+.pedrollou95polskau951366px .frame-36752 {
+  align-items: center;
+  background-color: var(--royal-blue);
+  border: 0.07vw solid;
+  border-radius: 0.73vw;
+  box-shadow: 0.0vw 0.29vw 40.0vw #0000000a;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 1.17vw 1.46vw;
+  position: relative;
+  width: 12.81vw;
+}
+
+.pedrollou95polskau951366px .dom-100m {
+  height: 0.88vw;
+  position: relative;
+  width: 6.06vw;
+}
+
+.pedrollou95polskau951366px .ogrd-1000m {
+  width: 7.68vw;
+}
+
+.pedrollou95polskau951366px .frame-3675 {
+  align-items: center;
+  border: 0.07vw solid;
+  border-color: var(--cod-gray-2);
+  border-radius: 0.73vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 1.17vw 1.46vw;
+  position: relative;
+  width: 12.81vw;
+}
+
+.pedrollou95polskau951366px .dom-150m {
+  height: 0.88vw;
+  position: relative;
+  width: 5.99vw;
+}
+
+.pedrollou95polskau951366px .ogrd {
+  width: 3.24vw;
+}
+
+.pedrollou95polskau951366px .dom-250m {
+  height: 0.88vw;
+  position: relative;
+  width: 6.19vw;
+}
+
+.pedrollou95polskau951366px .trawnik-2000m {
+  height: 0.88vw;
+  position: relative;
+  width: 8.7vw;
+}
+
+.pedrollou95polskau951366px .dom-300m {
+  height: 0.88vw;
+  position: relative;
+  width: 6.24vw;
+}
+
+.pedrollou95polskau951366px .ogrd-3000m {
+  width: 7.86vw;
+}
+
+.pedrollou95polskau951366px .frame-36761 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.73vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .wszystko-czego-potrz {
+  align-self: stretch;
+  height: 1.44vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .frame-6399 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 1.02vw 0.73vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .frame-638 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 1.02vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .ellipse-22-1 {
+  aspect-ratio: 1;
+  background-color: var(--royal-blue);
+  border-radius: 0.29vw;
+  height: 0.59vw;
+  position: relative;
+  width: 0.59vw;
+}
+
+.pedrollou95polskau951366px .zbiornik-hydroforowy {
+  letter-spacing: -0.02vw;
+  line-height: 1.61vw;
+  margin-top: -0.07vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .pompa-gbinowa-z-falownikiem {
+  letter-spacing: -0.02vw;
+  line-height: 1.61vw;
+  margin-top: -0.07vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .czujnik-cinienia {
+  letter-spacing: -0.02vw;
+  line-height: 1.61vw;
+  margin-top: -0.07vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .zcza-i-przycza {
+  letter-spacing: -0.02vw;
+  line-height: 1.61vw;
+  margin-top: -0.07vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .akcesoria-montaowe {
+  letter-spacing: -0.02vw;
+  line-height: 1.61vw;
+  margin-top: -0.07vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .frame-6403 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.88vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .frame-6400 {
+  align-items: flex-start;
+  border: 0.07vw solid;
+  border-color: var(--mountain-mist);
+  border-radius: 0.73vw;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0.73vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .mei {
+  letter-spacing: -0.07vw;
+  line-height: 2.05vw;
+  margin-top: -0.07vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .minimum-efficiency-index {
+  letter-spacing: -0.01vw;
+  line-height: 0.81vw;
+  position: relative;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .zestaw-spenia-euro {
+  letter-spacing: 0;
+  line-height: 1.24vw;
+  position: relative;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .zapytaj-o-zestaw_2 {
+  align-items: center;
+  background: linear-gradient(270deg, rgba(10, 10, 10, 1) 0%, rgba(64, 100, 223, 1) 100%);
+  border-radius: 2.93vw;
+  display: flex;
+  gap: 0.73vw;
+  height: 3.07vw;
+  padding: 0.0vw 0.0vw 0.0vw 30.0vw;
+  position: relative;
+  width: 29.06vw;
+}
+
+.pedrollou95polskau951366px .frame-6405-1 {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 2.93vw;
+  display: flex;
+  flex-direction: column;
+  gap: 0.73vw;
+  height: 2.78vw;
+  justify-content: center;
+  left: calc(50.00% + 11.57vw);
+  padding: 1.76vw 1.32vw 1.76vw 1.39vw;
+  position: absolute;
+  top: calc(50.00% - 1.39vw);
+  width: 2.78vw;
+}
+
+.pedrollou95polskau951366px .frame-6407-2 {
+  margin-bottom: -0.88vw;
+  margin-left: -0.51vw;
+  margin-right: -0.51vw;
+  margin-top: -0.88vw;
+}
+
+.pedrollou95polskau951366px .arrow_right-2 {
+  height: 1.39vw;
+  margin-bottom: -0.18vw;
+  margin-left: -0.22vw;
+  margin-right: -0.23vw;
+  margin-top: -0.18vw;
+  position: relative;
+  width: 1.55vw;
+}
+
+.pedrollou95polskau951366px .frame-68-2 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 1.46vw;
+  box-shadow: 0.0vw 0.29vw 40.0vw #0000000a;
+  flex-direction: column;
+  gap: 1.46vw;
+  justify-content: center;
+  left: 73.35vw;
+  padding: 1.83vw 2.2vw;
+  top: 98.9vw;
+}
+
+.pedrollou95polskau951366px .frame-6477 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 1.1vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .vector-22 {
+  aspect-ratio: 1;
+  height: 3.29vw;
+  position: relative;
+  width: 3.29vw;
+}
+
+.pedrollou95polskau951366px .nie-znalaze-zestaw {
+  flex: 1;
+  letter-spacing: -0.04vw;
+  line-height: 1.46vw;
+  margin-top: -0.07vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .button_to {
+  align-items: center;
+  background: linear-gradient(270deg, rgba(255, 255, 255, 1) 0%, rgba(64, 100, 223, 1) 100%);
+  border: 0.07vw solid;
+  border-color: var(--pumice);
+  border-radius: 2.2vw;
+  display: inline-flex;
+  gap: 0.73vw;
+  height: 3.07vw;
+  justify-content: center;
+  padding: 1.02vw 1.9vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .kontakt-z-doradc {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -0.22vw;
+  margin-top: -0.37vw;
+}
+
+.pedrollou95polskau951366px .frame-140-1 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 3.66vw;
+  justify-content: center;
+  padding: 9.52vw 8.78vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .frame-9 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: space-between;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .zastosowania {
+  letter-spacing: -0.11vw;
+  line-height: 3.81vw;
+  margin-top: -0.07vw;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .poznaj-konkretne-przykady-zastosowa {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -0.15vw;
+  margin-top: -0.44vw;
+  position: relative;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .dane-4 {
+  align-items: flex-start;
+  border: 0.07vw solid;
+  border-color: transparent;
+  border-image: conic-gradient(from 90deg at 48% 50%, rgba(42, 44, 55, 1) 0%, rgba(42, 44, 55, 1) 15%, rgba(42, 44, 55, 1) 31%) 1;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 1.46vw;
+  height: 21.01vw;
+  padding: 2.93vw;
+}
+
+.pedrollou95polskau951366px .przeplyw-1 {
+  height: 3.23vw;
+  position: relative;
+  width: 4.29vw;
+}
+
+.pedrollou95polskau951366px .zasilanie-wod-domu {
+  align-self: stretch;
+  letter-spacing: -0.05vw;
+  line-height: 1.98vw;
+  margin-top: -0.07vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .group-37-1 {
+  height: 22.4vw;
+  left: -0.73vw;
+  position: absolute;
+  top: -0.66vw;
+  width: 26.5vw;
+}
+
+.pedrollou95polskau951366px .dane-1 {
+  align-items: flex-start;
+  border: 0.07vw solid;
+  border-color: transparent;
+  border-image: conic-gradient(from 90deg at 48% 50%, rgba(42, 44, 55, 1) 0%, rgba(42, 44, 55, 1) 15%, rgba(42, 44, 55, 1) 31%) 1;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 1.46vw;
+  height: 21.01vw;
+  margin-left: -0.07vw;
+  padding: 2.93vw;
+}
+
+.pedrollou95polskau951366px .irrigation_systems {
+  height: 3.23vw;
+  position: relative;
+  width: 4.29vw;
+}
+
+.pedrollou95polskau951366px .vector-23 {
+  height: 52.50%;
+  left: 12.67%;
+  position: absolute;
+  top: 47.50%;
+  width: 75.14%;
+}
+
+.pedrollou95polskau951366px .vector-24 {
+  height: 47.50%;
+  left: 12.67%;
+  position: absolute;
+  top: 0;
+  width: 75.14%;
+}
+
+.pedrollou95polskau951366px .woda-do-systemw-podlewania-ogrodu {
+  align-self: stretch;
+  letter-spacing: -0.05vw;
+  line-height: 1.98vw;
+  margin-top: -0.07vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .crop_irrigation {
+  height: 3.23vw;
+  position: relative;
+  width: 4.29vw;
+}
+
+.pedrollou95polskau951366px .frame-153-4 {
+  align-self: stretch;
+  display: flex;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .nawadnianie-upraw {
+  align-self: stretch;
+  letter-spacing: -0.05vw;
+  line-height: 1.98vw;
+  margin-top: -0.07vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .water_flow {
+  aspect-ratio: 1.52;
+  height: 2.82vw;
+  position: relative;
+  width: 4.29vw;
+}
+
+.pedrollou95polskau951366px .vector-28 {
+  height: 54.29%;
+  left: 7.55%;
+  position: absolute;
+  top: 40.00%;
+  width: 84.91%;
+}
+
+.pedrollou95polskau951366px .przepyw-wody-rwnie-w-rolnictwie {
+  align-self: stretch;
+  letter-spacing: -0.05vw;
+  line-height: 1.98vw;
+  margin-top: -0.07vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .konfigurator {
+  align-self: stretch;
+  height: 83.67vw;
+  object-fit: cover;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .wynik_konfiguracji {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 3.66vw;
+  padding: 4.39vw 14.39vw 0.0vw 120.0vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .ellipse-2-7 {
+  height: 29.72vw;
+  left: calc(50.00% - 50.0vw);
+  position: absolute;
+  top: calc(50.00% - 33.38vw);
+  width: 100.0vw;
+}
+
+.pedrollou95polskau951366px .frame-6498 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 2.2vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .pompy-speniajce-twoje-wymagania {
+  color: var(--white);
+  font-family: var(--font-family-manrope);
+  font-size: 3.66vw;
+  font-weight: 600;
+  letter-spacing: -0.11vw;
+  line-height: 4.39vw;
+  margin-top: -0.07vw;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .frame-6500 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 14.64vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .frame-6502 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .frame-6480::before {
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  background: linear-gradient(270deg, rgba(42, 44, 55, 1) 0%, rgba(64, 100, 223, 1) 50%, rgba(42, 44, 55, 1) 100%);
+  border-radius: 0.73vw 0.73vw 0.0vw 0.0vw;
+  content: '';
+  inset: 0;
+  mask-composite: exclude;
+  padding: 0.07vw;
+  pointer-events: none;
+  position: absolute;
+  z-index: 1;
+}
+
+.pedrollou95polskau951366px .frame-6480 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--royal-blue-2);
+  border: none;
+  border-radius: 0.73vw 0.73vw 0.0vw 0.0vw;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 6.59vw;
+  padding: 2.93vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .frame-6412 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 2.93vw;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .frame-6483 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 2.2vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .ellipse-3-2 {
+  height: 45.97vw;
+  left: calc(50.00% - 48.54vw);
+  position: absolute;
+  top: calc(50.00% - 25.04vw);
+  width: 45.1vw;
+}
+
+.pedrollou95polskau951366px .pompa {
+  align-items: center;
+  aspect-ratio: 0.98;
+  background-image: url(../img/pompa-5@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 0.73vw;
+  display: flex;
+  height: 17.86vw;
+  justify-content: center;
+  overflow: hidden;
+  position: relative;
+  width: 17.57vw;
+}
+
+.pedrollou95polskau951366px .image-6 {
+  height: 80.38vw;
+  margin-left: -781.26vw;
+  margin-top: -890.35vw;
+  position: relative;
+  width: 91.36vw;
+}
+
+.pedrollou95polskau951366px .frame-6482 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 2.2vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .x4-srm-150-s-pd {
+  letter-spacing: -0.04vw;
+  line-height: 3.66vw;
+  margin-top: -0.07vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .button_to_white-2 {
+  background: linear-gradient(270deg, rgba(64, 100, 223, 0) 0%, rgba(64, 100, 223, 1) 100%);
+  border: 0.07vw solid;
+  border-color: var(--royal-blue-3);
+  flex: 0 0 auto;
+}
+
+.pedrollou95polskau951366px .wicej-o-tym-produkcie {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -0.22vw;
+  margin-top: -0.37vw;
+  position: relative;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .frame-10 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 1.46vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .frame-648 {
+  align-items: center;
+  background-color: var(--royal-blue-2);
+  border: 0.07vw solid;
+  border-color: var(--royal-blue-3);
+  border-radius: 0.73vw;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 1.46vw;
+  padding: 1.46vw 2.2vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .frame-6485-1 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 0.73vw;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .przeplyw-2 {
+  aspect-ratio: 1.33;
+  height: 2.2vw;
+  position: relative;
+  width: 2.93vw;
+}
+
+.pedrollou95polskau951366px .przepyw-wydajno {
+  letter-spacing: -0.02vw;
+  line-height: 1.24vw;
+  margin-top: -0.07vw;
+  position: relative;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .od-00 {
+  align-self: stretch;
+  letter-spacing: -0.04vw;
+  line-height: 1.68vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .frame-6485 {
+  align-items: center;
+  background-color: var(--royal-blue-2);
+  border: 0.07vw solid;
+  border-color: var(--royal-blue-3);
+  border-radius: 0.73vw;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 1.46vw;
+  height: 10.25vw;
+  padding: 1.46vw 2.2vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .frame-6-3 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.73vw;
+  justify-content: center;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .podnoszenie-1 {
+  aspect-ratio: 1.33;
+  height: 2.2vw;
+  position: relative;
+  width: 2.93vw;
+}
+
+.pedrollou95polskau951366px .wysoko-podnoszenia {
+  letter-spacing: -0.02vw;
+  line-height: 1.24vw;
+  margin-top: -0.07vw;
+  position: relative;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .piasek {
+  aspect-ratio: 1.33;
+  background-image: url(../img/02-7.svg);
+  height: 2.2vw;
+  width: 2.93vw;
+}
+
+.pedrollou95polskau951366px .zawarto-piasku {
+  letter-spacing: -0.02vw;
+  line-height: 1.24vw;
+  margin-top: -0.07vw;
+  position: relative;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .zapytaj {
+  width: 24.38vw;
+}
+
+.pedrollou95polskau951366px .frame-4-1 {
+  align-items: center;
+  aspect-ratio: 1;
+  background-color: var(--concrete);
+  border-radius: 2.2vw;
+  display: flex;
+  flex-direction: column;
+  gap: 0.73vw;
+  height: 2.78vw;
+  justify-content: center;
+  left: 21.45vw;
+  padding: 0.73vw 0.95vw;
+  position: absolute;
+  top: 0.15vw;
+  width: 2.78vw;
+}
+
+.pedrollou95polskau951366px .zapytaj-o-produkt {
+  letter-spacing: -0.02vw;
+  line-height: normal;
+  margin-bottom: -0.22vw;
+  margin-top: -0.37vw;
+  position: relative;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .frame-6499::before {
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  background: linear-gradient(270deg, rgba(42, 44, 55, 1) 0%, rgba(64, 100, 223, 1) 50%, rgba(42, 44, 55, 1) 100%);
+  border-radius: 0.0vw 0.0vw 10.0vw 10.0vw;
+  content: '';
+  inset: 0;
+  mask-composite: exclude;
+  padding: 0.07vw;
+  pointer-events: none;
+  position: absolute;
+  z-index: 1;
+}
+
+.pedrollou95polskau951366px .frame-6499 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--royal-blue-2);
+  border: none;
+  border-radius: 0.0vw 0.0vw 10.0vw 10.0vw;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 6.59vw;
+  margin-top: -0.07vw;
+  padding: 2.93vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .ellipse-2-8 {
+  height: 37.41vw;
+  left: calc(50.00% - 48.54vw);
+  position: absolute;
+  top: calc(50.00% - 23.79vw);
+  width: 44.95vw;
+}
+
+.pedrollou95polskau951366px .image-7 {
+  height: 80.38vw;
+  margin-left: -781.26vw;
+  margin-top: -917.51vw;
+  position: relative;
+  width: 91.36vw;
+}
+
+.pedrollou95polskau951366px .wicej-o-tym-produkcie-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -0.22vw;
+  margin-top: -0.37vw;
+  position: relative;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .przeplyw-3 {
+  aspect-ratio: 1.33;
+  height: 2.2vw;
+  position: relative;
+  width: 2.93vw;
+}
+
+.pedrollou95polskau951366px .przepyw-wydajno-1 {
+  letter-spacing: -0.02vw;
+  line-height: 1.24vw;
+  margin-top: -0.07vw;
+  position: relative;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .podnoszenie-2 {
+  aspect-ratio: 1.33;
+  height: 2.2vw;
+  position: relative;
+  width: 2.93vw;
+}
+
+.pedrollou95polskau951366px .wysoko-podnoszenia-1 {
+  letter-spacing: -0.02vw;
+  line-height: 1.24vw;
+  margin-top: -0.07vw;
+  position: relative;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .zawarto-piasku-1 {
+  letter-spacing: -0.02vw;
+  line-height: 1.24vw;
+  margin-top: -0.07vw;
+  position: relative;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .zapytaj-o-produkt-1 {
+  letter-spacing: -0.02vw;
+  margin-bottom: -0.22vw;
+  margin-top: -0.37vw;
+}
+
+.pedrollou95polskau951366px .konsultacja-1 {
+  flex: 0 0 auto;
+  padding: 0.0vw 120.0vw;
+}
+
+.pedrollou95polskau951366px .ellipse-2-9 {
+  height: 110.54vw;
+  left: calc(50.00% - 50.0vw);
+  position: absolute;
+  top: calc(50.00% - 55.56vw);
+  width: 100.0vw;
+}
+
+.pedrollou95polskau951366px .frame-6483-1 {
+  align-items: center;
+  gap: 5.86vw;
+}
+
+.pedrollou95polskau951366px .u7761719182_httpss {
+  align-items: center;
+  background-image: url(../img/u7761719182-httpss-7.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  height: 34.63vw;
+  justify-content: center;
+  overflow: hidden;
+}
+
+.pedrollou95polskau951366px .image-8 {
+  height: 80.38vw;
+  margin-left: -767.97vw;
+  margin-top: -938.99vw;
+  position: relative;
+  width: 91.36vw;
+}
+
+.pedrollou95polskau951366px .ellipse {
+  height: 34.63vw;
+  left: calc(50.00% - 19.18vw);
+  position: absolute;
+  top: calc(50.00% - 17.28vw);
+  width: 38.29vw;
+}
+
+.pedrollou95polskau951366px .logo_anim-1 {
+  background-image: url(../img/vector-176.svg);
+  height: 40.49%;
+  left: 31.79%;
+  top: 64.96%;
+  width: 17.76%;
+}
+
+.pedrollou95polskau951366px .frame-65 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.37vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .nie-wiesz-ktr-pomp-wybra {
+  align-self: stretch;
+  height: 1.36vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .bezpatna-konsultacj {
+  align-self: stretch;
+  letter-spacing: -0.07vw;
+  line-height: 4.39vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .nie-musisz-by-ekspe {
+  align-self: stretch;
+  letter-spacing: -0.03vw;
+  line-height: 2.2vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .kontakt-z-doradc-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -0.15vw;
+  margin-top: -0.44vw;
+  position: relative;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .faq {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--white);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 2.2vw;
+  padding: 5.12vw 8.78vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .frame-6506 {
+  align-items: flex-end;
+  align-self: stretch;
+  border-bottom-style: solid;
+  border-bottom-width: 0.07vw;
+  border-color: var(--pumice);
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: space-between;
+  padding: 0.0vw 0.0vw 40.0vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .frame-6-4 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.73vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .jak-dziaa-elektrycz {
+  color: var(--cod-gray);
+  font-family: var(--font-family-manrope);
+  font-size: 2.56vw;
+  font-weight: 500;
+  letter-spacing: -0.08vw;
+  line-height: 3.0vw;
+  margin-top: -0.07vw;
+  position: relative;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .frame-11 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .frame-6508 {
+  height: 4.69vw;
+  position: relative;
+  width: 29.8vw;
+}
+
+.pedrollou95polskau951366px .frame-6507 {
+  align-items: center;
+  display: inline-flex;
+  gap: 0.73vw;
+  justify-content: center;
+  left: 0.15vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .pedr-ollo {
+  color: var(--cod-gray);
+  font-family: var(--font-family-nunito);
+  font-size: 5.86vw;
+  font-weight: 600;
+  letter-spacing: -0.23vw;
+  line-height: normal;
+  margin-top: -0.07vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .frame-4-5 {
+  align-items: flex-start;
+  display: flex;
+  height: 2.12vw;
+  position: relative;
+  width: 9.88vw;
+}
+
+.pedrollou95polskau951366px .x4-sr-s-2 {
+  color: var(--cod-gray);
+  font-family: var(--font-family-nunito);
+  font-size: 2.93vw;
+  font-weight: 400;
+  height: 2.2vw;
+  letter-spacing: -0.12vw;
+  margin-top: -0.07vw;
+  position: relative;
+  width: 8.71vw;
+}
+
+.pedrollou95polskau951366px .text-17 {
+  color: var(--cod-gray);
+  font-family: var(--font-family-manrope);
+  font-size: 2.05vw;
+  font-weight: 300;
+  height: 1.39vw;
+  letter-spacing: -0.06vw;
+  line-height: normal;
+  margin-right: -0.07vw;
+  margin-top: -0.07vw;
+  position: relative;
+  white-space: nowrap;
+  width: 1.24vw;
+}
+
+.pedrollou95polskau951366px .frame-6511 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 2.2vw;
+  justify-content: space-around;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .frame-65-1 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 0.73vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .najczciej-zadawane-pytania {
+  height: 1.36vw;
+  position: relative;
+  width: 17.58vw;
+}
+
+.pedrollou95polskau951366px .frame-6569 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 1.46vw;
+  justify-content: flex-end;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .masz-inne-pytanie {
+  height: 1.28vw;
+  position: relative;
+  width: 11.28vw;
+}
+
+.pedrollou95polskau951366px .button_to_white-4 {
+  border: 0.07vw solid;
+  border-color: var(--pumice);
+  flex: 0 0 auto;
+}
+
+.pedrollou95polskau951366px .napisz {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -0.22vw;
+  margin-top: -0.37vw;
+  position: relative;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .mail {
+  height: 1.39vw;
+  margin-bottom: -0.18vw;
+  margin-top: -0.18vw;
+  position: relative;
+  width: 1.39vw;
+}
+
+.pedrollou95polskau951366px .frame-65-2 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 3.66vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .frame-6502-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.15vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .faq_pytanie-1 {
+  border-bottom-width: 0.15vw;
+  border-color: var(--pumice);
+  gap: 2.2vw;
+  padding: 0.0vw 0.0vw 30.0vw;
+}
+
+.pedrollou95polskau951366px .frame-6510 {
+  align-items: flex-start;
+  align-self: stretch;
+  border-bottom-style: solid;
+  border-bottom-width: 0.15vw;
+  border-color: transparent;
+  border-image: linear-gradient(270deg, rgba(201, 201, 201, 1) 0%, rgba(64, 100, 223, 1) 100%) 1;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.73vw;
+  padding: 1.1vw 0.0vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .co-oznacza-okreleni {
+  flex: 1;
+  letter-spacing: -0.03vw;
+  line-height: 2.49vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .arrow-5::before {
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  background: linear-gradient(180deg, rgba(201, 201, 201, 1) 0%, rgba(64, 100, 223, 1) 100%);
+  border-radius: 2.2vw;
+  content: '';
+  inset: 0;
+  mask-composite: exclude;
+  padding: 0.15vw;
+  pointer-events: none;
+  position: absolute;
+  z-index: 1;
+}
+
+.pedrollou95polskau951366px .arrow-5 {
+  align-items: center;
+  aspect-ratio: 1;
+  border: none;
+  border-radius: 2.2vw;
+  display: flex;
+  gap: 0.73vw;
+  height: 3.66vw;
+  justify-content: center;
+  margin-left: -1.09e-0.44vw;
+  padding: 0.73vw;
+  position: relative;
+  transform: rotate(90.00deg);
+  width: 3.66vw;
+}
+
+.pedrollou95polskau951366px .frame-76 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.73vw;
+  padding: 0.0vw 0.0vw 0.0vw 0.22vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .line-8 {
+  height: 0.67vw;
+  margin-left: -0.3vw;
+  margin-right: -0.35vw;
+  position: relative;
+  transform: rotate(-90.00deg);
+  width: 1.16vw;
+}
+
+.pedrollou95polskau951366px .okrelenie-plug-p {
+  align-self: stretch;
+  letter-spacing: -0.02vw;
+  line-height: 1.98vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .faq_pytanie {
+  background-color: var(--white);
+  border-bottom-width: 0.07vw;
+  border-color: transparent;
+  border-image: linear-gradient(270deg, rgba(201, 201, 201, 1) 0%, rgba(64, 100, 223, 1) 100%) 1;
+  gap: 6.59vw;
+  padding: 1.1vw 0.0vw;
+}
+
+.pedrollou95polskau951366px .jak-dziaa-pompa-g {
+  flex: 1;
+  letter-spacing: -0.03vw;
+  line-height: 2.49vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .arrow-1::before {
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  background: linear-gradient(180deg, rgba(201, 201, 201, 1) 0%, rgba(64, 100, 223, 1) 100%);
+  border-radius: 2.2vw;
+  content: '';
+  inset: 0;
+  mask-composite: exclude;
+  padding: 0.15vw;
+  pointer-events: none;
+  position: absolute;
+  z-index: 1;
+}
+
+.pedrollou95polskau951366px .arrow-1 {
+  align-items: center;
+  aspect-ratio: 1;
+  background: linear-gradient(180deg, rgba(255, 255, 255, 1) 0%, rgba(64, 100, 223, 1) 100%);
+  border: none;
+  border-radius: 2.2vw;
+  display: flex;
+  gap: 0.73vw;
+  height: 3.66vw;
+  justify-content: center;
+  margin-left: -1.09e-0.44vw;
+  padding: 0.73vw;
+  position: relative;
+  transform: rotate(90.00deg);
+  width: 3.66vw;
+}
+
+.pedrollou95polskau951366px .czy-jedna-pompa-do-w {
+  flex: 1;
+  letter-spacing: -0.03vw;
+  line-height: 2.49vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .frame-6496 {
+  align-items: center;
+  align-self: stretch;
+  aspect-ratio: 20.77;
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .ile-punktw-poboru-w {
+  flex: 1;
+  letter-spacing: -0.03vw;
+  line-height: 2.49vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .jak-dobra-odpowiedn {
+  flex: 1;
+  letter-spacing: -0.03vw;
+  line-height: 2.49vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .faq-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -0.15vw;
+  margin-top: -0.44vw;
+  position: relative;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .frame-6563 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 7.32vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .porownanie {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.73vw;
+  padding: 0.0vw 120.0vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .ellipse-2-10 {
+  height: 103.22vw;
+  left: calc(50.00% - 50.0vw);
+  position: absolute;
+  top: calc(50.00% - 52.64vw);
+  width: 100.0vw;
+}
+
+.pedrollou95polskau951366px .u7761719182_httpss-1 {
+  width: 40.26vw;
+}
+
+.pedrollou95polskau951366px .image-11 {
+  aspect-ratio: 1.15;
+  height: 42.17vw;
+  left: calc(50.00% - 28.04vw);
+  position: absolute;
+  top: calc(50.00% - 21.08vw);
+  width: 48.46vw;
+}
+
+.pedrollou95polskau951366px .frame-66-1 {
+  align-items: center;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 1.9vw;
+  left: calc(50.00% - 7.1vw);
+  position: absolute;
+  top: calc(50.00% - 7.17vw);
+}
+
+.pedrollou95polskau951366px .frame-12 {
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .vs {
+  color: var(--silver-chalice);
+  font-family: var(--font-family-manrope);
+  font-size: 4.61vw;
+  font-weight: 500;
+  letter-spacing: 0.14vw;
+  line-height: 5.12vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .frame-6562 {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 1.46vw;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.73vw;
+  justify-content: center;
+  padding: 0.0vw 1.02vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .inni-producenci {
+  height: 1.42vw;
+  position: relative;
+  width: 10.1vw;
+}
+
+.pedrollou95polskau951366px .tabela-porwnawcza {
+  align-self: stretch;
+  height: 1.35vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .gdzie-inni-producenc {
+  align-self: stretch;
+  letter-spacing: -0.07vw;
+  line-height: 4.39vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .dlaczego-inne-pompy {
+  align-self: stretch;
+  letter-spacing: -0.03vw;
+  line-height: 2.2vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .zobacz-porwnanie {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -0.15vw;
+  margin-top: -0.44vw;
+  position: relative;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .arrow_right-3 {
+  height: 1.55vw;
+  margin-bottom: -0.27vw;
+  margin-top: -0.26vw;
+  position: relative;
+  width: 1.39vw;
+}
+
+.pedrollou95polskau951366px .frame-6518 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8.05vw;
+  padding: 0.0vw 120.0vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .frame-6379-3 {
+  align-self: stretch;
+  border-radius: 0.73vw;
+  flex: 0 0 auto;
+  flex-direction: column;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .frame-6506-1 {
+  align-items: center;
+  align-self: stretch;
+  border-bottom-style: solid;
+  border-bottom-width: 0.07vw;
+  border-color: var(--masala);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.37vw;
+  justify-content: flex-end;
+  padding: 0.0vw 0.0vw 30.0vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .pedrollo-vs-inni-producenci {
+  color: transparent;
+  font-family: var(--font-family-manrope);
+  font-size: 3.66vw;
+  font-weight: 500;
+  letter-spacing: -0.11vw;
+  line-height: 4.39vw;
+  margin-top: -0.07vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .span-4 {
+  color: var(--white);
+  letter-spacing: -0.05vw;
+}
+
+.pedrollou95polskau951366px .span1-3 {
+  color: var(--silver-chalice);
+  letter-spacing: -0.05vw;
+}
+
+.pedrollou95polskau951366px .tabela-porwnawcza-1 {
+  height: 1.35vw;
+  position: relative;
+  width: 12.31vw;
+}
+
+.pedrollou95polskau951366px .frame-6554 {
+  align-items: flex-start;
+  align-self: stretch;
+  border-radius: 2.2vw;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 2.93vw;
+  padding: 4.39vw 0.0vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .frame-6538 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 4.39vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .frame-6516 {
+  align-items: center;
+  align-self: stretch;
+  border-radius: 0.73vw;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 1.46vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .frame-6525 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.37vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .pedrollo-pene-bezpie {
+  align-self: stretch;
+  height: 1.2vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .frame-6515 {
+  align-items: center;
+  border-radius: 0.73vw;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 1.46vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .frame-6561 {
+  align-items: center;
+  background-color: var(--alizarin-crimson);
+  border-radius: 1.46vw;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.73vw;
+  justify-content: center;
+  padding: 0.44vw 1.54vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .inni-producenci-1 {
+  height: 1.84vw;
+  position: relative;
+  width: 12.85vw;
+}
+
+.pedrollou95polskau951366px .zaniona-cena-pomp-gb {
+  align-self: stretch;
+  height: 2.7vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .porwnanie {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.73vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .frame-8-item {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 2.2vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .p1 {
+  align-items: center;
+  background-color: var(--royal-blue-2);
+  border: 0.07vw solid;
+  border-color: var(--royal-blue-5);
+  border-radius: 0.73vw;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 2.2vw;
+  overflow: hidden;
+  padding: 2.2vw 2.93vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .frame-6555 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 2.2vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .ellipse-2-11 {
+  height: 21.67vw;
+  left: calc(50.00% - 728.4vw);
+  position: absolute;
+  top: calc(50.00% - 1126.87vw);
+  width: 21.67vw;
+}
+
+.pedrollou95polskau951366px .pena-kontrola-certyfikowana-jako {
+  align-self: stretch;
+  letter-spacing: -0.03vw;
+  line-height: 1.76vw;
+  margin-top: -0.07vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .wirniki-wykonane-z-n {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 1.61vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .rectangle-1105 {
+  aspect-ratio: 1;
+  height: 14.64vw;
+  position: relative;
+  width: 14.64vw;
+}
+
+.pedrollou95polskau951366px .arrow-2 {
+  align-items: center;
+  border: 0.15vw solid;
+  border-color: var(--emerald);
+  border-radius: 2.2vw;
+  display: flex;
+  gap: 0.73vw;
+  height: 2.56vw;
+  justify-content: center;
+  left: 50.29vw;
+  padding: 0.73vw 0.0vw;
+  position: absolute;
+  top: -1.1vw;
+  width: 2.56vw;
+}
+
+.pedrollou95polskau951366px .line-8-1 {
+  height: 0.81vw;
+  margin-left: -794.73vw;
+  margin-top: -1115.93vw;
+  position: relative;
+  width: 0.51vw;
+}
+
+.pedrollou95polskau951366px .i1 {
+  align-items: center;
+  background-color: var(--alizarin-crimson-3);
+  border: 0.07vw solid;
+  border-color: var(--alizarin-crimson-2);
+  border-radius: 0.73vw;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 2.2vw;
+  overflow: hidden;
+  padding: 2.2vw 2.93vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .ellipse-2-12 {
+  height: 21.67vw;
+  left: calc(50.00% - 819.69vw);
+  position: absolute;
+  top: calc(50.00% - 1125.33vw);
+  width: 21.67vw;
+}
+
+.pedrollou95polskau951366px .rectangle-1105-1 {
+  aspect-ratio: 1;
+  height: 14.64vw;
+  object-fit: cover;
+  position: relative;
+  width: 14.64vw;
+}
+
+.pedrollou95polskau951366px .frame-6529 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 0.73vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .brak-rda-brak-gwarancji {
+  flex: 1;
+  letter-spacing: -0.03vw;
+  line-height: 1.76vw;
+  margin-top: -0.07vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .wirniki-czsto-powst {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 1.61vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .arrow-3 {
+  align-items: center;
+  aspect-ratio: 1;
+  border: 0.15vw solid;
+  border-color: var(--alizarin-crimson);
+  border-radius: 2.2vw;
+  display: flex;
+  gap: 0.73vw;
+  height: 2.56vw;
+  justify-content: center;
+  left: 1.61vw;
+  padding: 0.73vw 0.0vw;
+  position: absolute;
+  top: 1.1vw;
+  width: 2.56vw;
+}
+
+.pedrollou95polskau951366px .group-65 {
+  height: 0.88vw;
+  position: relative;
+  transform: rotate(45deg);
+  width: 0.88vw;
+}
+
+.pedrollou95polskau951366px .line-1 {
+  height: 0.73vw;
+  left: 0.07vw;
+  position: absolute;
+  top: 0.07vw;
+  transform: rotate(-45deg);
+  width: 0.73vw;
+}
+
+.pedrollou95polskau951366px .p2 {
+  align-items: center;
+  background-color: var(--royal-blue-2);
+  border: 0.07vw solid;
+  border-color: var(--royal-blue-5);
+  border-radius: 0.73vw;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 2.2vw;
+  overflow: hidden;
+  padding: 2.2vw 2.93vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .ellipse-2-13 {
+  height: 21.67vw;
+  left: calc(50.00% - 728.4vw);
+  position: absolute;
+  top: calc(50.00% - 1150.59vw);
+  width: 21.67vw;
+}
+
+.pedrollou95polskau951366px .precyzja-ktra-si-opaca {
+  letter-spacing: -0.03vw;
+  line-height: 1.76vw;
+  margin-top: -0.07vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .wirniki-wykonane-z-n-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 1.61vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .line-8-2 {
+  height: 0.81vw;
+  margin-left: -794.73vw;
+  margin-top: -1139.65vw;
+  position: relative;
+  width: 0.51vw;
+}
+
+.pedrollou95polskau951366px .i2 {
+  align-items: center;
+  background-color: var(--alizarin-crimson-3);
+  border: 0.07vw solid;
+  border-color: var(--alizarin-crimson-2);
+  border-radius: 0.73vw;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 2.2vw;
+  overflow: hidden;
+  padding: 2.2vw 2.93vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .ellipse-2-14 {
+  height: 21.67vw;
+  left: calc(50.00% - 819.69vw);
+  position: absolute;
+  top: calc(50.00% - 1149.05vw);
+  width: 21.67vw;
+}
+
+.pedrollou95polskau951366px .frame-6529-1 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.73vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .haas-straty-i-dyskomfort {
+  letter-spacing: -0.03vw;
+  line-height: 1.76vw;
+  margin-top: -0.07vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .lune-tolerancje-i-n {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 1.61vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .frame-77-1 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 2.93vw;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .frame-6579 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 8.78vw;
+  height: 169.33vw;
+  position: relative;
+  width: 100.0vw;
+}
+
+.pedrollou95polskau951366px .frame-6564 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 3.66vw;
+  justify-content: center;
+  padding: 0.0vw 120.0vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .ellipse-2-15 {
+  height: 110.54vw;
+  left: calc(50.00% - 50.0vw);
+  position: absolute;
+  top: calc(50.00% - 55.27vw);
+  width: 100.0vw;
+}
+
+.pedrollou95polskau951366px .frame-6565 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.73vw;
+  margin-left: -5.01vw;
+  margin-right: -5.01vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .monta-w-3-krokach {
+  letter-spacing: -0.11vw;
+  line-height: 3.81vw;
+  margin-top: -0.07vw;
+  position: relative;
+  text-align: center;
+  width: 92.46vw;
+}
+
+.pedrollou95polskau951366px .kady-element-zestawu {
+  height: 3.3vw;
+  position: relative;
+  width: 39.67vw;
+}
+
+.pedrollou95polskau951366px .frame-126-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 2.93vw;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .frame-656 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 1.46vw;
+  justify-content: center;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .kroki::before {
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  background: conic-gradient(from 90deg at 48% 50%, rgba(64, 100, 223, 0.2) 0%, rgba(64, 100, 223, 0.2) 15%, rgba(64, 100, 223, 0.2) 31%);
+  border-radius: 1.46vw;
+  content: '';
+  inset: 0;
+  mask-composite: exclude;
+  padding: 0.15vw;
+  pointer-events: none;
+  position: absolute;
+  z-index: 1;
+}
+
+.pedrollou95polskau951366px .kroki {
+  align-items: center;
+  background-color: var(--royal-blue-2);
+  border: none;
+  border-radius: 1.46vw;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 3.66vw;
+  justify-content: center;
+  overflow: hidden;
+  padding: 8.78vw 4.39vw 3.66vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .x1 {
+  height: 14.35vw;
+  left: 7.54vw;
+  position: absolute;
+  top: 4.17vw;
+  width: 5.27vw;
+}
+
+.pedrollou95polskau951366px .unboxing-2 {
+  aspect-ratio: 1;
+  background-image: url(../img/unboxing-2.gif);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 7.17vw;
+  position: relative;
+  width: 7.17vw;
+}
+
+.pedrollou95polskau951366px .rozpakuj-zestaw {
+  letter-spacing: -0.05vw;
+  line-height: 2.34vw;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .frame-6567 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 1.46vw;
+  justify-content: center;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .x1-1 {
+  -webkit-text-stroke: 0.07vw var(--royal-blue-7);
+  color: var(--royal-blue-5);
+  font-family: var(--font-family-manrope);
+  font-size: 19.77vw;
+  font-weight: 700;
+  left: 5.34vw;
+  letter-spacing: -0.59vw;
+  line-height: 16.84vw;
+  position: absolute;
+  text-align: center;
+  top: 2.42vw;
+  white-space: nowrap;
+  width: 10.61vw;
+}
+
+.pedrollou95polskau951366px .unplugged-1 {
+  aspect-ratio: 1;
+  background-image: url(../img/unplugged-1.gif);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 7.17vw;
+  position: relative;
+  width: 7.17vw;
+}
+
+.pedrollou95polskau951366px .podcz-pomp {
+  letter-spacing: -0.05vw;
+  line-height: 2.34vw;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .x1-2 {
+  -webkit-text-stroke: 0.07vw var(--royal-blue-7);
+  color: var(--royal-blue-5);
+  font-family: var(--font-family-manrope);
+  font-size: 19.77vw;
+  font-weight: 700;
+  left: 5.34vw;
+  letter-spacing: -0.59vw;
+  line-height: 16.84vw;
+  position: absolute;
+  text-align: center;
+  top: 2.42vw;
+  white-space: nowrap;
+  width: 10.61vw;
+}
+
+.pedrollou95polskau951366px .power-button-1 {
+  aspect-ratio: 1;
+  background-image: url(../img/power-button-1.gif);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 7.17vw;
+  position: relative;
+  width: 7.17vw;
+}
+
+.pedrollou95polskau951366px .uruchom-pomp {
+  letter-spacing: -0.05vw;
+  line-height: 2.34vw;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .frame-6566 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--white);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 5.12vw;
+  padding: 5.12vw 8.78vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .ellipse-2-16 {
+  height: 93.12vw;
+  left: calc(50.00% - 50.0vw);
+  position: absolute;
+  top: calc(50.00% - 55.56vw);
+  width: 73.72vw;
+}
+
+.pedrollou95polskau951366px .frame-6587 {
+  align-items: center;
+  border-radius: 2.2vw;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 1.46vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .frame-6576 {
+  align-items: center;
+  border-radius: 2.2vw;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 5.86vw;
+  justify-content: center;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .frame-6596 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 2.93vw;
+  justify-content: center;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .frame-6597 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .instalator {
+  aspect-ratio: 1;
+  height: 4.39vw;
+  object-fit: cover;
+  position: relative;
+  width: 4.39vw;
+}
+
+.pedrollou95polskau951366px .znajd-instalatora-z-twojej-okolicy {
+  align-self: stretch;
+  letter-spacing: -0.11vw;
+  line-height: 4.54vw;
+  margin-top: -0.07vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .wolisz-powierzy-mont {
+  align-self: stretch;
+  height: 3.33vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .frame-6586 {
+  align-items: flex-start;
+  border-radius: 2.2vw;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 1.46vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .wpisz-kod-pocztowy-montau {
+  align-self: stretch;
+  height: 1.45vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .frame-6574 {
+  align-items: center;
+  border: 0.07vw solid;
+  border-color: var(--royal-blue);
+  border-radius: 2.2vw;
+  display: flex;
+  height: 3.07vw;
+  justify-content: space-between;
+  padding: 0.59vw 0.0vw 0.59vw 30.0vw;
+  position: relative;
+  width: 30.53vw;
+}
+
+.pedrollou95polskau951366px .text-18 {
+  color: var(--cod-gray);
+  font-family: var(--font-family-manrope);
+  font-size: 1.39vw;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.07vw;
+  position: relative;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .button_to_dark_navi {
+  align-items: center;
+  background: linear-gradient(270deg, rgba(64, 100, 223, 1) 0%, rgba(24, 30, 51, 1) 100%);
+  border: 0.15vw solid;
+  border-color: var(--royal-blue);
+  border-radius: 2.2vw;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.73vw;
+  height: 3.07vw;
+  justify-content: center;
+  margin-bottom: -0.59vw;
+  margin-top: -0.59vw;
+  padding: 1.02vw 1.54vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .poznaj-nasz-zestaw {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -0.26vw;
+  margin-top: -0.55vw;
+  position: relative;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .search {
+  height: 1.39vw;
+  margin-bottom: -0.18vw;
+  margin-top: -0.18vw;
+  position: relative;
+  width: 1.39vw;
+}
+
+.pedrollou95polskau951366px .u7761719182_httpss-2 {
+  aspect-ratio: 0.94;
+  background-image: url(../img/u7761719182-httpss-2.gif);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 39.02vw;
+  width: 36.6vw;
+}
+
+.pedrollou95polskau951366px .frame-6480-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--black-haze);
+  border: 0.07vw solid;
+  border-color: var(--pumice);
+  border-radius: 2.2vw;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 6.59vw;
+  padding: 2.2vw 3.66vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .pan-darek {
+  letter-spacing: -0.04vw;
+  line-height: 2.78vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .arrow-6 {
+  align-items: center;
+  aspect-ratio: 1;
+  border: 0.15vw solid;
+  border-color: var(--emerald);
+  border-radius: 2.2vw;
+  display: flex;
+  gap: 0.73vw;
+  height: 1.46vw;
+  justify-content: center;
+  padding: 0.73vw 0.0vw;
+  position: relative;
+  width: 1.46vw;
+}
+
+.pedrollou95polskau951366px .frame-76-2 {
+  margin-bottom: -0.22vw;
+  margin-top: -0.22vw;
+}
+
+.pedrollou95polskau951366px .line-8-3 {
+  height: 0.6vw;
+  margin-bottom: -0.11vw;
+  margin-left: -0.05vw;
+  margin-right: -0.05vw;
+  margin-top: -0.05vw;
+  position: relative;
+  width: 0.76vw;
+}
+
+.pedrollou95polskau951366px .instalator-pomp-w-twojej-okolicy {
+  height: 1.28vw;
+  margin-bottom: -0.1vw;
+  position: relative;
+  width: 19.05vw;
+}
+
+.pedrollou95polskau951366px .zapytaj-1 {
+  width: 21.16vw;
+}
+
+.pedrollou95polskau951366px .frame-4-6 {
+  align-items: center;
+  aspect-ratio: 1;
+  background-color: var(--concrete);
+  border-radius: 2.2vw;
+  display: flex;
+  flex-direction: column;
+  gap: 0.73vw;
+  height: 2.78vw;
+  justify-content: center;
+  left: 18.23vw;
+  padding: 0.73vw 0.95vw;
+  position: absolute;
+  top: 0.15vw;
+  width: 2.78vw;
+}
+
+.pedrollou95polskau951366px .group-3-3 {
+  aspect-ratio: 1.6;
+  height: 0.73vw;
+  margin-left: -0.15vw;
+  margin-right: -0.15vw;
+  position: relative;
+  width: 1.17vw;
+}
+
+.pedrollou95polskau951366px .zapytaj-o-produkt-2 {
+  letter-spacing: -0.03vw;
+  margin-bottom: -0.33vw;
+  margin-top: -0.48vw;
+}
+
+.pedrollou95polskau951366px .konsultacja-2 {
+  height: 52.42vw;
+  margin-bottom: -9.22vw;
+  padding: 0.0vw 120.0vw;
+}
+
+.pedrollou95polskau951366px .frame-6483-2 {
+  align-items: center;
+  gap: 7.32vw;
+}
+
+.pedrollou95polskau951366px .frame-6482-1 {
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+}
+
+.pedrollou95polskau951366px .zyski-mno-si-w-czasie {
+  align-self: stretch;
+  height: 1.31vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .wybierz-inwestycj-nie-wydatek {
+  letter-spacing: -0.07vw;
+  line-height: 4.39vw;
+  margin-right: -22.25vw;
+  position: relative;
+  width: 54.32vw;
+}
+
+.pedrollou95polskau951366px .rnica-w-jakoci-to {
+  align-self: stretch;
+  letter-spacing: -0.03vw;
+  line-height: 2.2vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .flex-container-137212 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 1.46vw;
+  height: 14.64vw;
+}
+
+.pedrollou95polskau951366px .wykres {
+  align-items: center;
+  background-color: var(--cod-gray);
+  border-radius: 1.46vw;
+  display: flex;
+  height: 34.48vw;
+  justify-content: center;
+  overflow: hidden;
+  position: relative;
+  width: 43.05vw;
+}
+
+.pedrollou95polskau951366px .image-9 {
+  height: 80.38vw;
+  margin-left: -804.98vw;
+  margin-top: -1325.76vw;
+  position: relative;
+  width: 91.36vw;
+}
+
+.pedrollou95polskau951366px .ellipse-1 {
+  height: 34.48vw;
+  left: calc(50.00% - 21.52vw);
+  position: absolute;
+  top: calc(50.00% - 17.28vw);
+  width: 43.05vw;
+}
+
+.pedrollou95polskau951366px .ellipse-3-3 {
+  height: 34.48vw;
+  left: calc(50.00% - 21.52vw);
+  position: absolute;
+  top: calc(50.00% - 17.28vw);
+  width: 37.19vw;
+}
+
+.pedrollou95polskau951366px .group-75 {
+  height: 31.26vw;
+  left: 2.78vw;
+  position: absolute;
+  top: 1.68vw;
+  width: 36.75vw;
+}
+
+.pedrollou95polskau951366px .group-72 {
+  height: 24.82vw;
+  left: 2.2vw;
+  position: absolute;
+  top: 2.78vw;
+  width: 34.41vw;
+}
+
+.pedrollou95polskau951366px .group-67 {
+  height: 24.82vw;
+  left: 2.12vw;
+  position: absolute;
+  top: 2.71vw;
+  width: 34.55vw;
+}
+
+.pedrollou95polskau951366px .line-12 {
+  height: 0.15vw;
+  left: 0;
+  position: absolute;
+  top: 24.67vw;
+  width: 34.41vw;
+}
+
+.pedrollou95polskau951366px .line-13 {
+  height: 24.82vw;
+  left: 0;
+  position: absolute;
+  top: 0.07vw;
+  width: 0.15vw;
+}
+
+.pedrollou95polskau951366px .line-14 {
+  height: 15.52vw;
+  left: 0.07vw;
+  position: absolute;
+  top: 5.2vw;
+  width: 34.55vw;
+}
+
+.pedrollou95polskau951366px .line-15 {
+  height: 5.64vw;
+  left: 0.07vw;
+  position: absolute;
+  top: 14.35vw;
+  width: 34.63vw;
+}
+
+.pedrollou95polskau951366px .group-75-1 {
+  display: flex;
+  flex-direction: column;
+  height: 31.26vw;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 37.04vw;
+}
+
+.pedrollou95polskau951366px .koszty {
+  height: 1.05vw;
+  margin-left: 0.07vw;
+  margin-top: 0.23vw;
+  width: 3.27vw;
+}
+
+.pedrollou95polskau951366px .group-73 {
+  display: flex;
+  margin-left: 0.35vw;
+  margin-top: 1.39vw;
+  width: 1.02vw;
+}
+
+.pedrollou95polskau951366px .frame-6582 {
+  align-items: flex-end;
+  display: inline-flex;
+  flex-direction: column;
+  height: 24.87vw;
+  justify-content: space-between;
+  position: relative;
+  width: 1.02vw;
+}
+
+.pedrollou95polskau951366px .frame-6582-item {
+  align-self: stretch;
+  height: 0.71vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .frame-6582-item-1 {
+  align-self: stretch;
+  height: 0.71vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .frame-6582-item-2 {
+  align-self: stretch;
+  height: 0.69vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .x5 {
+  align-self: stretch;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .x3-1 {
+  align-self: stretch;
+  height: 0.7vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .x2-1 {
+  align-self: stretch;
+  height: 0.7vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .group-74 {
+  display: flex;
+  margin-left: 2.38vw;
+  margin-top: 0.82vw;
+  width: 34.4vw;
+}
+
+.pedrollou95polskau951366px .frame-6582-1 {
+  align-items: center;
+  display: flex;
+  height: 0.95vw;
+  justify-content: space-between;
+  position: relative;
+  width: 34.4vw;
+}
+
+.pedrollou95polskau951366px .x0 {
+  height: 0.71vw;
+  position: relative;
+  width: 0.46vw;
+}
+
+.pedrollou95polskau951366px .x1-3 {
+  height: 0.69vw;
+  position: relative;
+  width: 0.22vw;
+}
+
+.pedrollou95polskau951366px .x2-2 {
+  height: 0.7vw;
+  position: relative;
+  width: 0.46vw;
+}
+
+.pedrollou95polskau951366px .x3-2 {
+  height: 0.7vw;
+  position: relative;
+  width: 0.44vw;
+}
+
+.pedrollou95polskau951366px .x4 {
+  height: 0.69vw;
+  position: relative;
+  width: 0.47vw;
+}
+
+.pedrollou95polskau951366px .x5-1 {
+  width: 0.46vw;
+}
+
+.pedrollou95polskau951366px .frame-6582-item-3 {
+  height: 0.71vw;
+  position: relative;
+  width: 0.47vw;
+}
+
+.pedrollou95polskau951366px .x7 {
+  height: 0.69vw;
+  position: relative;
+  width: 0.4vw;
+}
+
+.pedrollou95polskau951366px .x8 {
+  height: 0.71vw;
+  position: relative;
+  width: 0.45vw;
+}
+
+.pedrollou95polskau951366px .x10 {
+  height: 0.71vw;
+  position: relative;
+  width: 0.84vw;
+}
+
+.pedrollou95polskau951366px .lata-uytkowania {
+  height: 1.09vw;
+  margin-left: 27.93vw;
+  margin-top: 0.72vw;
+  width: 8.49vw;
+}
+
+.pedrollou95polskau951366px .frame-6584 {
+  align-items: center;
+  background-color: #c92525;
+  border-radius: 1.46vw;
+  display: flex;
+  flex-direction: column;
+  gap: 0.73vw;
+  height: 2.64vw;
+  justify-content: center;
+  left: 21.3vw;
+  padding: 0.59vw 1.1vw;
+  position: absolute;
+  top: 6.95vw;
+  width: 12.23vw;
+}
+
+.pedrollou95polskau951366px .inni-producenci-2 {
+  height: 1.28vw;
+  margin-bottom: -0.07vw;
+  position: relative;
+  width: 8.9vw;
+}
+
+.pedrollou95polskau951366px .frame-6585 {
+  align-items: center;
+  background-color: var(--royal-blue);
+  border-radius: 1.46vw;
+  display: flex;
+  flex-direction: column;
+  gap: 0.73vw;
+  height: 2.64vw;
+  justify-content: center;
+  left: 28.84vw;
+  padding: 0.59vw 1.1vw;
+  position: absolute;
+  top: 17.86vw;
+  width: 7.76vw;
+}
+
+.pedrollou95polskau951366px .pedrollo-3 {
+  height: 0.99vw;
+  position: relative;
+  width: 4.76vw;
+}
+
+.pedrollou95polskau951366px .konsultacja {
+  flex: 0 0 auto;
+  padding: 0.0vw 230.0vw;
+}
+
+.pedrollou95polskau951366px .ellipse-2-17 {
+  height: 100.81vw;
+  left: calc(50.00% - 50.0vw);
+  position: absolute;
+  top: calc(50.00% - 50.22vw);
+  width: 91.51vw;
+}
+
+.pedrollou95polskau951366px .ellipse-3-4 {
+  height: 46.12vw;
+  left: calc(50.00% - 43.7vw);
+  position: absolute;
+  top: calc(50.00% - 20.2vw);
+  width: 46.05vw;
+}
+
+.pedrollou95polskau951366px .ellipse-2-18 {
+  height: 40.12vw;
+  left: calc(50.00% - 29.58vw);
+  position: absolute;
+  top: calc(50.00% - 33.75vw);
+  width: 40.85vw;
+}
+
+.pedrollou95polskau951366px .blue-shield-with-white-cross-it-1 {
+  aspect-ratio: 0.86;
+  height: 28.33vw;
+  object-fit: cover;
+  position: relative;
+  width: 24.23vw;
+}
+
+.pedrollou95polskau951366px .gwarancja-1 {
+  align-self: stretch;
+  height: 1.28vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .najdusza-gwarancja-na-rynku {
+  align-self: stretch;
+  letter-spacing: -0.07vw;
+  line-height: 4.39vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .jestemy-tak-pewni-n {
+  align-self: stretch;
+  letter-spacing: -0.03vw;
+  line-height: 2.2vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .ellipse-2-19 {
+  height: 110.54vw;
+  left: calc(50.00% - 50.0vw);
+  position: absolute;
+  top: calc(50.00% - 59.96vw);
+  width: 100.0vw;
+}
+
+.pedrollou95polskau951366px .frame-6483-3 {
+  align-items: flex-start;
+  gap: 7.32vw;
+}
+
+.pedrollou95polskau951366px .frame-6501 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.44vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .patno {
+  align-self: stretch;
+  height: 1.06vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .zapa-od-razu-lub-w-wygodnych-ratach {
+  align-self: stretch;
+  letter-spacing: -0.07vw;
+  line-height: 4.39vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .wyce-swoj-pomp {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -0.15vw;
+  margin-top: -0.44vw;
+  position: relative;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .group-76 {
+  height: 32.85vw;
+  position: relative;
+  width: 28.55vw;
+}
+
+.pedrollou95polskau951366px .ellipse-3-5 {
+  height: 44.88vw;
+  left: calc(50.00% - 28.48vw);
+  position: absolute;
+  top: calc(50.00% - 16.33vw);
+  width: 44.88vw;
+}
+
+.pedrollou95polskau951366px .ellipse-2-20 {
+  height: 39.24vw;
+  left: calc(50.00% - 12.45vw);
+  position: absolute;
+  top: calc(50.00% - 29.58vw);
+  width: 39.9vw;
+}
+
+.pedrollou95polskau951366px .blue-shield-with-white-cross-it-1-1 {
+  aspect-ratio: 0.86;
+  height: 29.43vw;
+  left: 0.51vw;
+  position: absolute;
+  top: 3.37vw;
+  width: 25.26vw;
+}
+
+.pedrollou95polskau951366px .frame-6482-2 {
+  align-self: stretch;
+  flex: 0 0 auto;
+  padding: 5.12vw 8.78vw;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .ellipse-2-21 {
+  height: 110.54vw;
+  left: calc(50.00% - 50.0vw);
+  position: absolute;
+  top: calc(50.00% - 52.12vw);
+  width: 100.0vw;
+}
+
+.pedrollou95polskau951366px .frame-6600::before {
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  background: linear-gradient(310deg, rgba(139, 165, 255, 0.4) 0%, rgba(64, 100, 223, 0.4) 100%);
+  border-radius: 2.2vw;
+  content: '';
+  inset: 0;
+  mask-composite: exclude;
+  padding: 0.07vw;
+  pointer-events: none;
+  position: absolute;
+  z-index: 1;
+}
+
+.pedrollou95polskau951366px .frame-6600 {
+  align-items: flex-start;
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.2) 0%, rgba(0, 0, 0, 0.2) 100%), linear-gradient(0deg, rgba(64, 100, 223, 0.05) 0%, rgba(64, 100, 223, 0.05) 100%);
+  border: none;
+  border-radius: 2.2vw;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  height: 32.58vw;
+  padding: 3.66vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .frame-6-5 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  justify-content: space-between;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .oferta-dla {
+  align-self: stretch;
+  letter-spacing: -0.05vw;
+  line-height: 3.44vw;
+  margin-top: -0.07vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .rozwijaj-swj-biznes {
+  align-self: stretch;
+  letter-spacing: -0.03vw;
+  line-height: 2.2vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .sprawd-korzyci {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -0.15vw;
+  margin-top: -0.44vw;
+  position: relative;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .image-13 {
+  aspect-ratio: 1.42;
+  height: 16.25vw;
+  left: 16.76vw;
+  position: absolute;
+  top: 16.33vw;
+  width: 22.99vw;
+}
+
+.pedrollou95polskau951366px .frame-6599::before {
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  background: linear-gradient(310deg, rgba(139, 165, 255, 0.4) 0%, rgba(64, 100, 223, 0.4) 100%);
+  border-radius: 2.2vw;
+  content: '';
+  inset: 0;
+  mask-composite: exclude;
+  padding: 0.07vw;
+  pointer-events: none;
+  position: absolute;
+  z-index: 1;
+}
+
+.pedrollou95polskau951366px .frame-6599 {
+  align-items: flex-start;
+  background-color: var(--royal-blue-2);
+  border: none;
+  border-radius: 2.2vw;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  height: 32.58vw;
+  padding: 3.66vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .pewne-zlecenia-w-two {
+  align-self: stretch;
+  letter-spacing: -0.03vw;
+  line-height: 2.2vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .sprawd-korzyci-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -0.15vw;
+  margin-top: -0.44vw;
+  position: relative;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .image-14 {
+  aspect-ratio: 1.86;
+  height: 16.11vw;
+  left: 9.88vw;
+  mix-blend-mode: screen;
+  position: absolute;
+  top: 16.54vw;
+  width: 29.87vw;
+}
+
+.pedrollou95polskau951366px .konsultacja-3 {
+  flex: 0 0 auto;
+  padding: 0.0vw 120.0vw;
+}
+
+.pedrollou95polskau951366px .ellipse-2-22 {
+  height: 110.54vw;
+  left: calc(50.00% - 50.0vw);
+  position: absolute;
+  top: calc(50.00% - 54.83vw);
+  width: 100.0vw;
+}
+
+.pedrollou95polskau951366px .pedrollo-4 {
+  align-self: stretch;
+  height: 0.99vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .lider-niezawodnoci {
+  align-self: stretch;
+  letter-spacing: -0.07vw;
+  line-height: 4.39vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .wyznaczamy-wiatowe-s {
+  align-self: stretch;
+  height: 3.87vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .woskie-zakady-pedr {
+  align-self: stretch;
+  letter-spacing: -0.03vw;
+  line-height: 2.2vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .poznaj-nas-lepiej {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -0.15vw;
+  margin-top: -0.44vw;
+  position: relative;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .u7761719182_httpss-3 {
+  align-items: center;
+  aspect-ratio: 1.11;
+  background-image: url(../img/u7761719182-httpss-5.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 33.75vw;
+  justify-content: center;
+  overflow: hidden;
+  width: 37.55vw;
+}
+
+.pedrollou95polskau951366px .image-10 {
+  height: 80.38vw;
+  margin-left: -813.21vw;
+  margin-top: -1509.21vw;
+  position: relative;
+  width: 91.36vw;
+}
+
+.pedrollou95polskau951366px .ellipse-3 {
+  height: 33.75vw;
+  left: calc(50.00% - 18.74vw);
+  position: absolute;
+  top: calc(50.00% - 16.84vw);
+  width: 37.55vw;
+}
+
+.pedrollou95polskau951366px .frame-6612 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  margin-bottom: -27.99vw;
+  padding: 0.0vw 120.0vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .frame-6609 {
+  align-items: flex-start;
+  align-self: stretch;
+  border: 0.07vw solid;
+  border-color: var(--east-bay);
+  border-radius: 2.2vw 0.0vw 0.0vw 2.2vw;
+  display: flex;
+  flex-direction: column;
+  gap: 0.73vw;
+  justify-content: space-around;
+  overflow: hidden;
+  padding: 2.2vw 5.12vw;
+  position: relative;
+  width: 34.92vw;
+}
+
+.pedrollou95polskau951366px .ellipse-2-23 {
+  height: 28.04vw;
+  left: calc(50.00% - 17.42vw);
+  position: absolute;
+  top: calc(50.00% - 14.06vw);
+  width: 34.92vw;
+}
+
+.pedrollou95polskau951366px .frame-6616 {
+  align-items: flex-end;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 4.69vw -3.07vw;
+  margin-right: -2.93vw;
+  position: relative;
+  width: 27.6vw;
+}
+
+.pedrollou95polskau951366px .dowiadczenie {
+  letter-spacing: -0.07vw;
+  line-height: 2.34vw;
+  margin-top: -0.07vw;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .ponad-5-dekad-doskonalenia-technologii {
+  letter-spacing: -0.03vw;
+  line-height: 1.98vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .x50 {
+  height: 12.77vw;
+  margin-bottom: -0.33vw;
+  margin-top: -0.3vw;
+  position: relative;
+  width: 18.08vw;
+}
+
+.pedrollou95polskau951366px .lat {
+  color: var(--white);
+  font-family: var(--font-family-manrope);
+  font-size: 5.86vw;
+  font-weight: 200;
+  letter-spacing: -0.18vw;
+  line-height: 8.05vw;
+  margin-left: -3.07vw;
+  margin-top: -0.07vw;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .frame-6612-1 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  margin-left: -0.07vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .frame-6610 {
+  align-items: center;
+  align-self: stretch;
+  border: 0.07vw solid;
+  border-color: var(--east-bay);
+  border-radius: 0.0vw 30.0vw 0.0vw 0.0vw;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 2.93vw;
+  justify-content: center;
+  overflow: hidden;
+  padding: 2.93vw 1.46vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .ellipse-2-24 {
+  height: 14.86vw;
+  left: calc(50.00% - 23.79vw);
+  position: absolute;
+  top: calc(50.00% - 7.47vw);
+  width: 47.58vw;
+}
+
+.pedrollou95polskau951366px .frame-6618 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .x48 {
+  height: 7.83vw;
+  margin-bottom: -0.23vw;
+  margin-top: -0.21vw;
+  position: relative;
+  width: 10.92vw;
+}
+
+.pedrollou95polskau951366px .h {
+  letter-spacing: -0.11vw;
+  line-height: 8.05vw;
+  margin-left: -1.46vw;
+  margin-top: -0.07vw;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .szybka-realizacja-zamwie {
+  letter-spacing: -0.07vw;
+  line-height: 2.34vw;
+  margin-top: -0.07vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .pompy-dostpne-zawsz {
+  align-self: stretch;
+  letter-spacing: -0.03vw;
+  line-height: 1.98vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .frame-6611 {
+  align-items: center;
+  align-self: stretch;
+  border: 0.07vw solid;
+  border-color: var(--east-bay);
+  border-radius: 0.0vw 0.0vw 30.0vw 0.0vw;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 1.46vw;
+  justify-content: center;
+  margin-top: -0.07vw;
+  overflow: hidden;
+  padding: 2.93vw 1.46vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .ellipse-2-25 {
+  height: 13.25vw;
+  left: calc(50.00% - 23.79vw);
+  position: absolute;
+  top: calc(50.00% - 6.59vw);
+  width: 47.58vw;
+}
+
+.pedrollou95polskau951366px .frame-6614 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 0.73vw;
+  position: relative;
+  width: 24.96vw;
+}
+
+.pedrollou95polskau951366px .powierzchnia-produkcyjna {
+  letter-spacing: -0.07vw;
+  line-height: 2.34vw;
+  margin-right: -0.95vw;
+  margin-top: -0.07vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .nowoczesny-park-masz {
+  align-self: stretch;
+  letter-spacing: -0.03vw;
+  line-height: 1.98vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .x12 {
+  height: 7.68vw;
+  margin-bottom: -0.07vw;
+  margin-top: -0.21vw;
+  position: relative;
+  width: 9.0vw;
+}
+
+.pedrollou95polskau951366px .ha {
+  letter-spacing: -0.11vw;
+  line-height: 8.05vw;
+  margin-left: -1.61vw;
+  margin-top: -0.07vw;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .frame-36734 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  margin-bottom: -197.23vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .frame-6581 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--black-haze);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 4.39vw;
+  padding: 5.12vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .frame-6382-1 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 1.46vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .frame-6605 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 1.46vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .eksperci-od-pomp-i-oszczdzania-wody {
+  letter-spacing: -0.11vw;
+  line-height: 4.39vw;
+  margin-top: -0.07vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .dzielimy-si-wiedz {
+  height: 1.29vw;
+  position: relative;
+  width: 11.42vw;
+}
+
+.pedrollou95polskau951366px .blog {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -0.15vw;
+  margin-top: -0.44vw;
+  position: relative;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .frame-6604 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 2.93vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .frame-6602 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 4.39vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .frame-6598 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 2.2vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .frame-65-6 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.73vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .jak-dobra-pomp-g {
+  align-self: stretch;
+  letter-spacing: -0.04vw;
+  line-height: 2.93vw;
+  margin-top: -0.07vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .dowiedz-si-jakie-p {
+  align-self: stretch;
+  letter-spacing: -0.03vw;
+  line-height: 2.2vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .frame-6603 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 4.39vw;
+  height: 40.22vw;
+  justify-content: space-around;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .frame-6598-1 {
+  gap: 2.2vw;
+  margin-bottom: -0.55vw;
+}
+
+.pedrollou95polskau951366px .frame-65-7 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.73vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .prostych-sposobw-n {
+  align-self: stretch;
+  letter-spacing: -0.04vw;
+  line-height: 2.93vw;
+  margin-top: -0.07vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .praktyczne-porady-d {
+  align-self: stretch;
+  letter-spacing: -0.03vw;
+  line-height: 2.2vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .frame-6604-1 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 4.39vw;
+  height: 40.22vw;
+  justify-content: space-around;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .frame-6598-2 {
+  align-self: stretch;
+  justify-content: space-between;
+}
+
+.pedrollou95polskau951366px .frame-65-8 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.73vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .czy-tania-pompa-naprawd-si-opaca {
+  align-self: stretch;
+  letter-spacing: -0.04vw;
+  line-height: 2.93vw;
+  margin-top: -0.07vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .porwnujemy-cakowit {
+  align-self: stretch;
+  letter-spacing: -0.03vw;
+  line-height: 2.2vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .footer_desktop {
+  align-self: stretch;
+  height: 102.12vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .frame-6613 {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  gap: 2.93vw;
+  height: 55.70%;
+  left: 0;
+  padding: 4.39vw 16.84vw;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .frame-36731 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 1.46vw;
+  margin-left: -13.07vw;
+  margin-right: -13.07vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .zapytaj-o-pomp {
+  letter-spacing: -0.11vw;
+  line-height: 3.81vw;
+  margin-top: -0.07vw;
+  position: relative;
+  text-align: center;
+  width: 92.46vw;
+}
+
+.pedrollou95polskau951366px .opowiedz-nam-o-swoic {
+  letter-spacing: -0.03vw;
+  line-height: 1.98vw;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .input-1 {
+  align-self: stretch;
+  height: 14.64vw;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .frame-36727 {
+  align-items: center;
+  background-color: var(--white);
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.15vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .label-1 {
+  letter-spacing: 0;
+  line-height: 1.46vw;
+  white-space: nowrap;
+}
+
+.pedrollou95polskau951366px .input {
+  flex: 1;
+  flex-grow: 1;
+  height: 3.88vw;
+}
+
+.pedrollou95polskau951366px .label-2 {
+  letter-spacing: 0;
+  line-height: 1.46vw;
+  white-space: nowrap;
+}
+
+.pedrollou95polskau951366px .frame-6589 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 0.07vw solid;
+  border-color: var(--cod-gray-2);
+  border-radius: 0.73vw;
+  cursor: pointer;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 0.73vw;
+  height: 3.88vw;
+  justify-content: center;
+  padding: 1.24vw 1.46vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .frame-6397 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: space-between;
+  margin-bottom: -0.04vw;
+  margin-top: -0.04vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .jestem {
+  color: var(--cod-gray);
+  font-family: var(--font-family-manrope);
+  font-size: var(--font-size-xxl);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 1.46vw;
+  margin-top: -0.07vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .arrow_down-7 {
+  height: 0.47vw;
+  position: relative;
+  width: 1.1vw;
+}
+
+.pedrollou95polskau951366px .arrow_down-8 {
+  height: 132.36%;
+  left: -4.33%;
+  position: absolute;
+  top: -11.85%;
+  width: 108.66%;
+}
+
+.pedrollou95polskau951366px .label-3 {
+  letter-spacing: 0;
+  line-height: 1.46vw;
+  white-space: nowrap;
+}
+
+.pedrollou95polskau951366px .label-4 {
+  letter-spacing: 0;
+  line-height: 1.46vw;
+  white-space: nowrap;
+}
+
+.pedrollou95polskau951366px .frame-367 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: space-between;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .radio_select_2 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.73vw;
+  height: 3.66vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .group-62 {
+  aspect-ratio: 1;
+  border: 0.15vw solid;
+  border-color: var(--celeste);
+  border-radius: 0.88vw;
+  height: 1.76vw;
+  position: relative;
+  width: 1.76vw;
+}
+
+.pedrollou95polskau951366px .x1-fazowe-230-v-50-hz {
+  letter-spacing: 0;
+  line-height: 1.46vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .wylij {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -0.15vw;
+  margin-top: -0.44vw;
+  position: relative;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .frame-78 {
+  align-items: flex-start;
+  display: flex;
+  gap: 7.32vw;
+  height: 44.30%;
+  left: 0;
+  padding: 5.12vw 11.71vw;
+  position: absolute;
+  top: 55.70%;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .ellipse-2-26 {
+  height: 45.24vw;
+  left: calc(50.00% - 50.0vw);
+  position: absolute;
+  top: calc(50.00% - 22.62vw);
+  width: 37.55vw;
+}
+
+.pedrollou95polskau951366px .frame-367-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: space-between;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .frame-36750 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 3.66vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .frame-36738 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.73vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .group-1-1 {
+  height: 2.86vw;
+  position: relative;
+  width: 12.46vw;
+}
+
+.pedrollou95polskau951366px .polska {
+  letter-spacing: -0.03vw;
+  line-height: 3.66vw;
+  margin-top: -0.07vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .tworzymy-przyszo {
+  letter-spacing: -0.02vw;
+  line-height: 1.83vw;
+  position: relative;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .frame-36749 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 2.2vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .button_to_white-5 {
+  background: linear-gradient(90deg, rgba(64, 100, 223, 1) 0%, rgba(64, 100, 223, 0.15) 100%);
+  border: 0.07vw solid;
+  border-color: var(--royal-blue);
+}
+
+.pedrollou95polskau951366px .strefa-partnera {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -0.22vw;
+  margin-top: -0.37vw;
+  position: relative;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .frame-36742 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 4.39vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .raz-kupujesz-bez-koca-pompujesz-1 {
+  letter-spacing: -0.04vw;
+  line-height: 2.93vw;
+  margin-top: -0.07vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .elektryczna-pompa-gbinowa {
+  letter-spacing: -0.02vw;
+  line-height: 1.61vw;
+  margin-top: -0.07vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .frame-3674 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.22vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .label_-menu_footer {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.73vw;
+  padding: 0.15vw 0.0vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .frame-33-1 {
+  padding: 0.29vw 0.0vw;
+}
+
+.pedrollou95polskau951366px .label {
+  letter-spacing: 0.01vw;
+  line-height: normal;
+}
+
+.pedrollou95polskau951366px .na-skrty {
+  letter-spacing: -0.02vw;
+  line-height: 1.61vw;
+  margin-top: -0.07vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .kontakt-z-nami {
+  letter-spacing: -0.02vw;
+  line-height: 1.61vw;
+  margin-top: -0.07vw;
+  white-space: nowrap;
+}
+
+.pedrollou95polskau951366px .frame-36748 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 0.73vw;
+  justify-content: center;
+  padding: 0.44vw 0.0vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .dachowa-43-a-96-500-sochaczew {
+  flex: 1;
+  letter-spacing: 0.01vw;
+  line-height: normal;
+  margin-top: -0.07vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .dobr-pomp {
+  letter-spacing: -0.02vw;
+  line-height: 1.76vw;
+  margin-top: -0.07vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .social_media {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.73vw;
+  padding: 0.37vw 0.0vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .social_media-item {
+  height: 2.05vw;
+  position: relative;
+  width: 2.05vw;
+}
+
+.pedrollou95polskau951366px .linkedin {
+  align-items: center;
+  display: flex;
+  gap: 0.73vw;
+  height: 2.05vw;
+  justify-content: center;
+  padding: 0.29vw;
+  position: relative;
+  width: 2.05vw;
+}
+
+.pedrollou95polskau951366px .subtract {
+  aspect-ratio: 1;
+  height: 1.32vw;
+  position: relative;
+  width: 1.32vw;
+}
+
+.pedrollou95polskau951366px .x2025-pedrollo-polityka-prywatnoci {
+  height: 0.91vw;
+  position: relative;
+  width: 15.02vw;
+}
+
+.pedrollou95polskau951366px .address-5 {
+  position: relative;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .body0-2 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  justify-content: center;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .button_to_white-6 {
+  align-items: center;
+  border-radius: 2.2vw;
+  display: inline-flex;
+  gap: 0.73vw;
+  height: 3.07vw;
+  justify-content: center;
+  padding: 1.02vw 1.9vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .dane-5 {
+  display: flex;
+  justify-content: center;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .dobierz_pompe-2 {
+  align-items: center;
+  background-color: var(--royal-blue);
+  border-radius: 2.2vw;
+  display: flex;
+  gap: 1.46vw;
+  height: 3.07vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .dystrybutor-pomp-ped-3 {
+  align-self: stretch;
+  color: var(--silver-chalice);
+  font-family: var(--font-family-geist);
+  font-weight: 500;
+  letter-spacing: -0.02vw;
+  line-height: 1.32vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .frame-153-6 {
+  align-items: flex-start;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.73vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .frame-33-3 {
+  align-items: center;
+  border-bottom-style: solid;
+  border-bottom-width: 0.07vw;
+  border-color: transparent;
+  border-image: linear-gradient(90deg, rgba(64, 100, 223, 1) 0%, rgba(64, 100, 223, 0) 100%) 1;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.73vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .frame-51-3 {
+  flex: 1;
+  flex-grow: 1;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .frame-57-4 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .frame-6367-3 {
+  align-items: center;
+  aspect-ratio: 1.13;
+  background-color: var(--white);
+  border: 0.07vw solid;
+  border-color: var(--silver-chalice-2);
+  border-radius: 1.46vw;
+  box-shadow: 0.0vw 0.29vw 70.29vw #0000000f;
+  display: flex;
+  flex-direction: column;
+  gap: 2.2vw;
+  height: 32.43vw;
+  justify-content: center;
+  overflow: hidden;
+  position: relative;
+  width: 36.6vw;
+}
+
+.pedrollou95polskau951366px .frame-6379-4 {
+  align-items: flex-start;
+  display: flex;
+}
+
+.pedrollou95polskau951366px .frame-6407-3 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 0.73vw;
+  height: 1.02vw;
+  justify-content: center;
+  position: relative;
+  width: 1.1vw;
+}
+
+.pedrollou95polskau951366px .frame-6482-3 {
+  align-items: flex-start;
+  display: flex;
+  gap: 2.93vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .frame-6483-4 {
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .frame-6501-3 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.73vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .frame-6598-3 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .frame-68-3 {
+  display: inline-flex;
+  position: absolute;
+}
+
+.pedrollou95polskau951366px .frame-71-4 {
+  align-items: center;
+  display: inline-flex;
+}
+
+.pedrollou95polskau951366px .frame-72-3 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--shark);
+  border: 0.07vw solid;
+  border-radius: 0.0vw 30.0vw 30.0vw 0.0vw;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.73vw;
+  justify-content: center;
+  margin-left: -0.07vw;
+  overflow: hidden;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .frame-76-3 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.73vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .input-2 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 0.07vw solid;
+  border-color: var(--cod-gray-2);
+  border-radius: 0.73vw;
+  display: flex;
+  padding: 1.17vw 1.46vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .konsultacja-4 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 0.73vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .label-5 {
+  margin-top: -0.07vw;
+  position: relative;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .layer_1-2 {
+  aspect-ratio: 1;
+  background-size: 100% 100%;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .logo_anim-2 {
+  background-size: 100% 100%;
+  position: absolute;
+}
+
+.pedrollou95polskau951366px .name-5 {
+  margin-top: -0.07vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .niski-2 {
+  letter-spacing: -0.02vw;
+  line-height: 1.46vw;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .ogrd-1 {
+  height: 1.23vw;
+  margin-bottom: -0.08vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .plus-22 {
+  align-items: center;
+  aspect-ratio: 1;
+  border-radius: 2.2vw;
+  display: flex;
+  gap: 0.73vw;
+  height: 3.07vw;
+  justify-content: center;
+  padding: 0.73vw;
+  position: absolute;
+  width: 3.07vw;
+}
+
+.pedrollou95polskau951366px .star-3 {
+  letter-spacing: 0;
+  line-height: 1.46vw;
+  margin-top: -0.07vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .text0 {
+  align-self: stretch;
+  letter-spacing: -0.03vw;
+  line-height: 2.2vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .text1 {
+  align-self: stretch;
+  letter-spacing: -0.03vw;
+  line-height: 2.2vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .u7761719182_httpss-4 {
+  border-radius: 1.46vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .wicej-3 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -0.22vw;
+  margin-top: -0.37vw;
+  position: relative;
+  width: fit-content;
+}
+
+.pedrollou95polskau951366px .wiersz-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  border-bottom-style: solid;
+  border-bottom-width: 0.07vw;
+  border-color: var(--lynch);
+  display: flex;
+  flex: 0 0 auto;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95polskau951366px .x-4 {
+  height: 0.53vw;
+  position: relative;
+  width: 0.53vw;
+}
+
+.pedrollou95polskau951366px .x4-sr-s-3 {
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.pedrollou95polskau951366px .x5-2 {
+  height: 0.7vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .zapytaj-2 {
+  align-items: center;
+  background-color: var(--royal-blue);
+  border-radius: 2.2vw;
+  display: flex;
+  gap: 1.46vw;
+  height: 3.07vw;
+  padding: 1.02vw 5.12vw 1.02vw 1.9vw;
+  position: relative;
+}
+
+.pedrollou95polskau951366px .zapytaj-o-produkt-3 {
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+}
