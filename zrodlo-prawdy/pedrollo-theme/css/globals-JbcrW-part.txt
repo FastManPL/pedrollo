@@ -1,0 +1,300 @@
+.vector-11 {
+  height: 8.82%;
+  left: 41.71%;
+  position: absolute;
+  top: 45.59%;
+  width: 8.07%;
+}
+
+.vector-13 {
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 91.50%;
+}
+
+.vector-14 {
+  height: 46.79%;
+  left: 38.24%;
+  position: absolute;
+  top: 26.63%;
+  width: 39.51%;
+}
+
+.klatka_filmu {
+  align-self: stretch;
+  aspect-ratio: 2.1;
+  object-fit: cover;
+  position: relative;
+  width: 100%;
+}
+
+.vector-18 {
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100.00%;
+}
+
+.vector-20 {
+  height: 60.00%;
+  left: 52.94%;
+  position: absolute;
+  top: 20.00%;
+  transform: rotate(-90.00deg);
+  width: 69.08%;
+}
+
+.vector-21 {
+  height: 168.75%;
+  left: 42.21%;
+  position: absolute;
+  top: -34.38%;
+  transform: rotate(-90.00deg);
+  width: 10.39%;
+}
+
+.frame-93 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.frame-136 {
+  align-items: flex-end;
+  align-self: stretch;
+  background-color: var(--cod-gray);
+  display: flex;
+  flex: 0 0 auto;
+  position: relative;
+  width: 100%;
+}
+
+.frame-124 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.frame-156 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.frame-154 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.x02 {
+  height: 64.35%;
+  left: 22.76%;
+  position: absolute;
+  top: 35.68%;
+  width: 77.24%;
+}
+
+.x01 {
+  height: 64.35%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 77.22%;
+}
+
+.x02-1 {
+  height: 39.48%;
+  left: 0;
+  position: absolute;
+  top: 62.91%;
+  width: 100.00%;
+}
+
+.x01-1 {
+  height: 65.93%;
+  left: 32.55%;
+  position: absolute;
+  top: -2.38%;
+  width: 34.91%;
+}
+
+.x01-2 {
+  height: 47.02%;
+  left: 20.36%;
+  position: absolute;
+  top: 26.19%;
+  width: 59.56%;
+}
+
+.x02-2 {
+  height: 98.22%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 96.24%;
+}
+
+.x01-3 {
+  height: 46.56%;
+  left: 68.62%;
+  position: absolute;
+  top: 25.70%;
+  width: 10.72%;
+}
+
+.frame-6514 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.frame-6512 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.frame-6388 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.dowiedz-si-wicej {
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+}
+
+.zapytaj-o-zestaw {
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.frame-156-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.frame-154-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.x02-3 {
+  height: 64.35%;
+  left: 22.76%;
+  position: absolute;
+  top: 35.68%;
+  width: 77.24%;
+}
+
+.x01-4 {
+  height: 64.35%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 77.22%;
+}
+
+.frame-153-2 {
+  align-self: stretch;
+  display: flex;
+  width: 100%;
+}
+
+.frame-153-3 {
+  align-self: stretch;
+  display: flex;
+  width: 100%;
+}
+
+.vector-25 {
+  height: 35.00%;
+  left: 11.95%;
+  position: absolute;
+  top: 65.00%;
+  width: 75.14%;
+}
+
+.vector-26 {
+  height: 50.00%;
+  left: 11.95%;
+  position: absolute;
+  top: 0;
+  width: 75.14%;
+}
+
+.vector-27 {
+  height: 22.86%;
+  left: 7.55%;
+  position: absolute;
+  top: 8.57%;
+  width: 84.91%;
+}
+
+.frame-153-5 {
+  align-self: stretch;
+  display: flex;
+  width: 100%;
+}
+
+.konfugurator_i_wyniki {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.x02-4 {
+  height: 64.35%;
+  left: 22.76%;

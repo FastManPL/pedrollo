@@ -1,0 +1,13 @@
+/* Blog – tylko ewentualne nadpisania względem usecase-lista (te same klasy, ten sam layout). */
+
+.page--blog.pedrollou95useu95caseu95lista .frame-20 {
+  background-image: url(../img/Frame-6582.jpg);
+}
+
+.page--blog.pedrollou95useu95caseu95lista .title {
+  font-size: 3rem;
+}
+
+.page--blog.pedrollou95useu95caseu95lista .sprawd-na-konkretny {
+  color: var(--white, #fff);
+}

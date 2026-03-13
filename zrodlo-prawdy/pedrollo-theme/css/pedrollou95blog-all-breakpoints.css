@@ -1,0 +1,776 @@
+/* Blog: mobile (360) + desktop (1366), 2 bloki */
+
+@media screen and (max-width: 767px) {
+  .page--blog { display: none !important; }
+  .screen.pedrollou95blogu951366px { display: none !important; }
+}
+/* screen - pedrollou95blogu95360px (mobile) */
+
+.page--blog-mobile {
+  align-items: flex-start;
+  background-color: var(--cod-gray);
+  display: flex;
+  flex-direction: column;
+  min-width: 100.0vw;
+  position: relative;
+}
+
+.page--blog-mobile .menu_2 {
+  align-self: stretch;
+  height: 21.67vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--blog-mobile .konsultacja {
+  align-items: center;
+  align-self: stretch;
+  background-image: url(../img/frame-3673324-1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  gap: 2.78vw;
+  height: 116.67vw;
+  justify-content: center;
+  padding: 0.0vw 40.0vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--blog-mobile .ellipse-2 {
+  height: 225.83vw;
+  left: 0;
+  position: absolute;
+  top: -21.67vw;
+  width: 100.0vw;
+}
+
+.page--blog-mobile .frame-3673416 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 2.5vw;
+  padding: 0.0vw 0.0vw 20.0vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--blog-mobile .zanurz-si-w-wiecie-pomp {
+  align-self: stretch;
+  color: var(--concrete);
+  font-family: var(--font-family-manrope);
+  font-size: 8.33vw;
+  font-weight: 600;
+  letter-spacing: -0.17vw;
+  line-height: 9.44vw;
+  margin-top: -0.28vw;
+  position: relative;
+  text-align: center;
+}
+
+.page--blog-mobile .profesjonalne-porady {
+  align-self: stretch;
+  color: var(--white);
+  font-family: var(--font-family-manrope);
+  font-size: var(--font-size-m);
+  font-weight: 600;
+  letter-spacing: -0.1vw;
+  line-height: 6.94vw;
+  position: relative;
+  text-align: center;
+}
+
+.page--blog-mobile .arrow::before {
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  background: linear-gradient(180deg, rgba(64, 100, 223, 1) 0%, rgba(201, 201, 201, 1) 100%);
+  border-radius: 8.33vw;
+  content: '';
+  inset: 0;
+  mask-composite: exclude;
+  padding: 0.56vw;
+  pointer-events: none;
+  position: absolute;
+  z-index: 1;
+}
+
+.page--blog-mobile .arrow {
+  align-items: center;
+  aspect-ratio: 1;
+  border: none;
+  border-radius: 8.33vw;
+  display: flex;
+  gap: 2.78vw;
+  height: 11.11vw;
+  justify-content: center;
+  padding: 2.78vw;
+  position: relative;
+  transform: rotate(90.00deg);
+  width: 11.11vw;
+}
+
+.page--blog-mobile .frame-76 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 2.78vw;
+  padding: 0.0vw 0.0vw 0.0vw 0.83vw;
+  position: relative;
+}
+
+.page--blog-mobile .line-8 {
+  height: 2.53vw;
+  margin-left: -1.14vw;
+  margin-right: -1.33vw;
+  position: relative;
+  transform: rotate(-90.00deg);
+  width: 4.41vw;
+}
+
+.page--blog-mobile .frame-6581 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--black-haze);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 11.11vw;
+  padding: 8.33vw 5.56vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--blog-mobile .frame-36866 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 11.11vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--blog-mobile .frame-6602 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 11.11vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--blog-mobile .frame-6598 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 5.56vw;
+  position: relative;
+}
+
+.page--blog-mobile .frame {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 5.56vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--blog-mobile .frame-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 2.78vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--blog-mobile .dobry-tytu-wietnej-treci {
+  align-self: stretch;
+  letter-spacing: -0.14vw;
+  line-height: 9.72vw;
+  margin-top: -0.28vw;
+  position: relative;
+}
+
+.page--blog-mobile .krtka-zajawka-krtk {
+  align-self: stretch;
+  letter-spacing: -0.09vw;
+  line-height: 6.67vw;
+  position: relative;
+}
+
+.page--blog-mobile .kontakt-z-doradc {
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.page--blog-mobile .frame-660 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 8.33vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--blog-mobile .frame-6603 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 16.67vw;
+  justify-content: space-around;
+  position: relative;
+  width: 100%;
+}
+
+.page--blog-mobile .frame-6598-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 5.56vw;
+  position: relative;
+}
+
+.page--blog-mobile .rectangle-1106-1 {
+  align-self: stretch;
+  aspect-ratio: 1.78;
+  object-fit: cover;
+  position: relative;
+  width: 100%;
+}
+
+.page--blog-mobile .frame-36842 {
+  align-items: center;
+  align-self: stretch;
+  border-color: var(--pumice);
+  border-top-style: solid;
+  border-top-width: 0.28vw;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 2.78vw;
+  padding: 5.56vw 0.0vw 0.0vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--blog-mobile .more_2 {
+  align-items: center;
+  background: linear-gradient(270deg, rgba(248, 248, 248, 1) 0%, rgba(64, 100, 223, 1) 100%);
+  border: 0.28vw solid;
+  border-color: var(--pumice);
+  border-radius: 8.33vw;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 2.78vw;
+  justify-content: center;
+  padding: 4.17vw 7.22vw;
+  position: relative;
+}
+
+.page--blog-mobile .wicej {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.28vw;
+  position: relative;
+  width: fit-content;
+}
+
+.page--blog-mobile .arrow_down {
+  height: 5.89vw;
+  position: relative;
+  width: 5.28vw;
+}
+
+.page--blog-mobile .footer_desktop {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.page--blog-mobile .frame-6613 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--white);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 5.56vw;
+  padding: 11.11vw 5.56vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--blog-mobile .frame-36731 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 2.78vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--blog-mobile .zapytaj-o-pomp {
+  align-self: stretch;
+  color: var(--cod-gray);
+  font-family: var(--font-family-manrope);
+  font-size: 8.33vw;
+  font-weight: 600;
+  letter-spacing: -0.25vw;
+  line-height: 8.89vw;
+  margin-top: -0.28vw;
+  position: relative;
+  text-align: center;
+}
+
+.page--blog-mobile .opowiedz-nam-o-swoic {
+  align-self: stretch;
+  color: var(--cod-gray);
+  font-family: var(--font-family-manrope);
+  font-size: var(--font-size-xxs);
+  font-weight: 500;
+  letter-spacing: -0.08vw;
+  line-height: 6.39vw;
+  position: relative;
+  text-align: center;
+}
+
+.page--blog-mobile .input-1 {
+  height: 55.56vw;
+}
+
+.page--blog-mobile .frame-36727 {
+  align-items: center;
+  background-color: var(--white);
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.56vw;
+  position: relative;
+}
+
+.page--blog-mobile .label-2 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.28vw;
+}
+
+.page--blog-mobile .star {
+  letter-spacing: 0;
+  line-height: 5.56vw;
+  margin-top: -0.28vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--blog-mobile .input {
+  height: 14.72vw;
+}
+
+.page--blog-mobile .label {
+  letter-spacing: 0;
+  line-height: 5.28vw;
+  margin-top: -0.14vw;
+  white-space: nowrap;
+}
+
+.page--blog-mobile .frame-6589 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--white);
+  border: 0.28vw solid;
+  border-color: var(--cod-gray-2);
+  border-radius: 2.78vw;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 2.78vw;
+  height: 14.72vw;
+  justify-content: center;
+  padding: 4.72vw 5.56vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--blog-mobile .frame-6397 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: space-between;
+  position: relative;
+  width: 100%;
+}
+
+.page--blog-mobile .jestem {
+  color: var(--cod-gray);
+  font-family: var(--font-family-manrope);
+  font-size: var(--font-size-xs);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 5.28vw;
+  margin-top: -0.28vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--blog-mobile .arrow_down-1 {
+  height: 1.78vw;
+  position: relative;
+  width: 4.17vw;
+}
+
+.page--blog-mobile .arrow_down-2 {
+  height: 132.36%;
+  left: -4.32%;
+  position: absolute;
+  top: -11.85%;
+  width: 108.65%;
+}
+
+.page--blog-mobile .label-3 {
+  letter-spacing: 0;
+  line-height: 5.28vw;
+  margin-top: -0.28vw;
+  white-space: nowrap;
+}
+
+.page--blog-mobile .radio_select_2 {
+  align-items: center;
+  display: inline-flex;
+  gap: 2.78vw;
+  height: 13.89vw;
+  position: relative;
+}
+
+.page--blog-mobile .group-62 {
+  aspect-ratio: 1;
+  border: 0.56vw solid;
+  border-color: var(--celeste);
+  border-radius: 3.33vw;
+  height: 6.67vw;
+  position: relative;
+  width: 6.67vw;
+}
+
+.page--blog-mobile .x1-fazowe-230-v-50-hz {
+  color: var(--cod-gray);
+  font-family: var(--font-family-manrope);
+  font-size: 3.33vw;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 5.56vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--blog-mobile .wylij {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.83vw;
+  position: relative;
+  width: fit-content;
+}
+
+.page--blog-mobile .arrow_right-1 {
+  margin-bottom: -0.14vw;
+  margin-top: -0.14vw;
+}
+
+.page--blog-mobile .frame-78 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 11.11vw;
+  padding: 11.11vw 5.56vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--blog-mobile .ellipse-2-1 {
+  height: 402.22vw;
+  left: calc(50.00% - 50.0vw);
+  position: absolute;
+  top: calc(50.00% - 195.83vw);
+  width: 2.78vw;
+}
+
+.page--blog-mobile .frame-36738 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 2.78vw;
+  position: relative;
+}
+
+.page--blog-mobile .group-1 {
+  height: 10.83vw;
+  position: relative;
+  width: 47.27vw;
+}
+
+.page--blog-mobile .polska {
+  letter-spacing: -0.11vw;
+  line-height: 13.89vw;
+  margin-top: -0.28vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--blog-mobile .tworzymy-przyszo {
+  align-self: stretch;
+  color: var(--white);
+  font-family: var(--font-family-manrope);
+  font-size: var(--font-size-xxs);
+  font-weight: 500;
+  letter-spacing: -0.08vw;
+  line-height: 6.39vw;
+  position: relative;
+}
+
+.page--blog-mobile .strefa-partnera {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.56vw;
+  position: relative;
+  width: fit-content;
+}
+
+.page--blog-mobile .frame-36742 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8.33vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--blog-mobile .raz-kupujesz-bez-koca-pompujesz {
+  align-self: stretch;
+  letter-spacing: -0.17vw;
+  line-height: 11.11vw;
+  margin-top: -0.28vw;
+  position: relative;
+}
+
+.page--blog-mobile .frame-3674 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 1.94vw;
+  justify-content: center;
+  position: relative;
+}
+
+.page--blog-mobile .elektryczna-pompa-gbinowa {
+  letter-spacing: -0.07vw;
+  line-height: 6.11vw;
+  margin-top: -0.28vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--blog-mobile .frame-3674-1 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.page--blog-mobile .label_-menu_footer {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 2.78vw;
+  padding: 0.56vw 0.0vw;
+  position: relative;
+}
+
+.page--blog-mobile .frame-33 {
+  align-items: center;
+  border-bottom-style: solid;
+  border-bottom-width: 0.28vw;
+  border-color: transparent;
+  border-image: linear-gradient(90deg, rgba(64, 100, 223, 1) 0%, rgba(64, 100, 223, 0) 100%) 1;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 2.78vw;
+  padding: 1.11vw 0.0vw;
+  position: relative;
+}
+
+.page--blog-mobile .label-1 {
+  letter-spacing: 0.04vw;
+  line-height: normal;
+  margin-top: -0.28vw;
+}
+
+.page--blog-mobile .na-skrty {
+  letter-spacing: -0.07vw;
+  line-height: 6.11vw;
+  margin-top: -0.28vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--blog-mobile .frame-36747 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 4.17vw;
+  position: relative;
+}
+
+.page--blog-mobile .kontakt-z-nami {
+  letter-spacing: -0.07vw;
+  line-height: 6.11vw;
+  white-space: nowrap;
+}
+
+.page--blog-mobile .frame-36748 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 2.78vw;
+  justify-content: center;
+  padding: 1.67vw 0.0vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--blog-mobile .dachowa-43-a-96-500-sochaczew {
+  flex: 1;
+  letter-spacing: 0.04vw;
+  line-height: normal;
+  margin-top: -0.28vw;
+  position: relative;
+}
+
+.page--blog-mobile .dobr-pomp {
+  letter-spacing: -0.07vw;
+  line-height: 6.67vw;
+  margin-top: -0.28vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--blog-mobile .social_media {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 2.78vw;
+  padding: 1.39vw 0.0vw;
+  position: relative;
+}
+
+.page--blog-mobile .social_media-item {
+  height: 7.78vw;
+  position: relative;
+  width: 7.78vw;
+}
+
+.page--blog-mobile .linkedin {
+  align-items: center;
+  display: flex;
+  gap: 2.78vw;
+  height: 7.78vw;
+  justify-content: center;
+  padding: 1.11vw;
+  position: relative;
+  width: 7.78vw;
+}
+
+.page--blog-mobile .subtract {
+  aspect-ratio: 1;
+  height: 5.0vw;
+  position: relative;
+  width: 5.0vw;
+}
+
+.page--blog-mobile .x2025-pedrollo-polityka-prywatnoci {
+  height: 3.16vw;
+  position: relative;
+  width: 52.25vw;
+}
+
+.page--blog-mobile .arrow_right-2 {
+  height: 5.28vw;
+  margin-right: -0.33vw;
+  position: relative;
+  width: 5.88vw;
+}
+
+.page--blog-mobile .input-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--white);
+  border: 0.28vw solid;
+  border-color: var(--cod-gray-2);
+  border-radius: 2.78vw;
+  display: flex;
+  padding: 4.44vw 5.56vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--blog-mobile .kontakt-z {
+  margin-top: -0.28vw;
+  position: relative;
+  width: fit-content;
+}
+
+.page--blog-mobile .kontakt-z-doradc-4 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.28vw;
+  position: relative;
+  width: fit-content;
+}
+
+.page--blog-mobile .label-4 {
+  position: relative;
+  width: fit-content;
+}
+
+@media screen and (min-width: 768px) {
+  .page--blog-mobile { display: none !important; }
+
+  .screen.pedrollou95blogu951366px { display: flex !important; }
+}

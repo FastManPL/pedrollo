@@ -1,0 +1,12 @@
+{
+  "name": "pedrollo-strona-glowna",
+  "private": true,
+  "description": "Optymalizacja CSS dla strony głównej (index.html)",
+  "scripts": {
+    "optimize:css": "node build-purgecss.js",
+    "optimize:css:dry": "DRY_RUN=1 node build-purgecss.js"
+  },
+  "devDependencies": {
+    "purgecss": "^5.0.0"
+  }
+}

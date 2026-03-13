@@ -1,0 +1,5 @@
+# dependencies
+node_modules/
+
+# optional: uncomment to ignore optimized CSS (generate with npm run optimize:css)
+# css/optimized/

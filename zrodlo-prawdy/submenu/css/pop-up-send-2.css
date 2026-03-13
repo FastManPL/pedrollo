@@ -1,0 +1,78 @@
+/* screen - pop-up-send-2 */
+
+.pop-up-send-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 3.35vw;
+  position: relative;
+}
+
+.pop-up-send-2 .frame-36834 {
+  align-self: stretch;
+  flex: 0 0 auto;
+  flex-direction: column;
+  width: 100%;
+}
+
+.pop-up-send-2 .frame-36832 {
+  align-self: stretch;
+  background-color: var(--black-haze);
+  border-radius: 1.12vw;
+  flex: 0 0 auto;
+  gap: 8.94vw;
+  padding: 11.17vw 14.53vw;
+  width: 100%;
+}
+
+.pop-up-send-2 .frame-36731 {
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 3.35vw;
+}
+
+.pop-up-send-2 .span {
+  letter-spacing: -0.06vw;
+}
+
+.pop-up-send-2 .frame-36879 {
+  align-self: stretch;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 4.47vw;
+  width: 100%;
+}
+
+.pop-up-send-2 .nasz-ekspert-ju-ana {
+  align-self: stretch;
+  letter-spacing: -0.04vw;
+  line-height: 2.46vw;
+  position: relative;
+  text-align: center;
+}
+
+.pop-up-send-2 .span-1 {
+  letter-spacing: -0.01vw;
+}
+
+.pop-up-send-2 .span1 {
+  color: var(--royal-blue);
+  letter-spacing: -0.01vw;
+  text-decoration: underline;
+}
+
+.pop-up-send-2 .close_on_white {
+  aspect-ratio: 1;
+  height: 5.59vw;
+  position: absolute;
+  right: 3.35vw;
+  top: 3.35vw;
+  width: 5.59vw;
+}
+
+.pop-up-send-2 .frame {
+  align-items: flex-start;
+  display: flex;
+  position: relative;
+}

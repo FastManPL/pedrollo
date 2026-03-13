@@ -1,0 +1,48 @@
+/**
+ * Nadpisanie menu i stopki na podstronach (Kontakt, O nas itd.).
+ * Arkusze podstron (np. pedrollou95kontaktu951366px.css) mają własne reguły
+ * .menu_2-3 i .frame-78-3 (position: absolute, wąska szerokość), które ładowane
+ * po globals.css nadpisują wspólny wygląd. Ten plik ładuje się PO arkuszu
+ * podstrony i przywraca ten sam układ co na stronie głównej.
+ */
+
+/* Menu – zawsze na górze, pełna szerokość (jak na stronie głównej) */
+.page .menu_2-3 {
+  position: fixed !important;
+  top: 0 !important;
+  left: 0 !important;
+  right: 0 !important;
+  width: 100% !important;
+  max-width: 100% !important;
+  height: auto !important;
+  min-height: 5.21vw !important;
+}
+
+/* Wewnętrzny pasek menu – pełna szerokość, jak na main */
+.page .menu_2-3 .frame-27-3 {
+  width: 100% !important;
+  max-width: 100% !important;
+  box-sizing: border-box !important;
+}
+
+/* Stopka – w flow dokumentu na dole, nie position: absolute z top: 55% */
+.page .frame-78-3 {
+  position: relative !important;
+  top: auto !important;
+  left: auto !important;
+  height: auto !important;
+  width: 100% !important;
+  box-sizing: border-box !important;
+  display: flex !important;
+  flex-wrap: wrap !important;
+  gap: 5.21vw !important;
+  padding: 3.65vw 8.33vw !important;
+}
+
+@media (max-width: 767px) {
+  .page .frame-78-3 {
+    gap: 2rem !important;
+    padding: 2rem 1rem !important;
+    display: grid !important;
+  }
+}

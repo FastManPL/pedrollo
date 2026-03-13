@@ -11,8 +11,8 @@ Folder **`zrodlo-prawdy/`** jest jednym miejscem pracy dla wszystkich podstron p
 | 1 | Strona główna          | `index.html`                        | Źródło: hFF9f – pedrollou95polskau95mainu953 |
 | 2 | O nas                  | `onas.html`                         | Źródło: EWJUC – all-breakpoints |
 | 3 | Kontakt                | `kontakt.html`                      | Źródło: bcAa9 – 1366px |
-| 4 | Laboratorium           | `laboratorium.html`                 | **Placeholder** – brak eksportu z Anima; do uzupełnienia |
-| 5 | Use Case (pojedynczy)  | —                                   | Brak w eksportach; ewentualnie dodać później lub użyć szablonu z listy |
+| 4 | Laboratorium           | `laboratorium.html`                 | Źródło: AnimaPackage-Flex-4ZvV6 (wersja 1366px), jedna struktura `.page--laboratorium` |
+| 5 | Use Case (pojedynczy)  | `usecase.html`                      | Źródło: AnimaPackage-Flex-dvarI (ekran index), jedna struktura `.page--usecase` |
 | 6 | Program partnerski     | `program-partnerski.html`           | Źródło: egxs6 – all-breakpoints |
 | 7 | Produkt                | `produkt.html`                      | Źródło: v74Ij – all-breakpoints |
 | 8 | Dystrybutor            | `dystrybutor.html`                  | Źródło: v74Ij – all-breakpoints |
@@ -38,7 +38,7 @@ Wykonane dla stron all-breakpoints (usunięto bloki 768 i 1920, przełączanie w
 | O nas | `.page--onas-mobile` | `.page .page--onas` | ✅ poprawione (usunięto zbędne @media) |
 | Blog | `.page--blog-mobile` | `.page .page--blog` | ✅ |
 | Dystrybutor rejestracja krok 1 | — | `.page-registration` (już 1 blok) | ✅ style JbcrW |
-| Strona główna | `.page--index-mobile` | `.page .page--index` (blok **1920**) | ✅ Faza 1 (2 bloki) |
+| Strona główna | — (usunięto) | `.page .page--index` (blok **1920**, desktop) | ✅ jeden blok, mobile do ręcznego dopasowania |
 | Kontakt | `.page--kontakt-mobile` | `.page .page--kontakt` (blok **1366**) | ✅ Faza 1 (2 bloki) |
 
 Strony z jednym breakpointem – dodane klasy `page .page--*`: Blog wpis (`.page--blog-wpis`), FAQ (`.page--faq`), Polityka prywatności (`.page--polityka-prywatnosci`), Regulamin (`.page--regulamin`), Use case lista (`.page--usecase-lista`), Dystrybutor rejestracja krok 2 (`.page--dystrybutor-rejestracja-krok2`), podziękowanie (`.page--dystrybutor-rejestracja-podziekowanie`), Logowanie (`.page--logowanie`).
@@ -70,6 +70,19 @@ Fragmenty pod WordPress: **partials/header.html** (nawigacja desktop), **partial
 
 ---
 
+## Faza 5 – motyw WordPress
+
+Motyw **pedrollo-theme/** w katalogu `zrodlo-prawdy/`:
+
+- **header.php** / **footer.php** – sekcje globalne (zawartość z partials + ścieżki `get_template_directory_uri()`).
+- **front-page.php** – strona główna (hero + miejsce na resztę z index.html).
+- **page-faq.php** – pilot FAQ; treść w **template-parts/content-faq.php**.
+- **page-kontakt.php**, **page-dystrybutor.php**, **page-onas.php** / **page-o-nas.php** – treść w **template-parts/content-kontakt.php**, **content-dystrybutor.php**, **content-onas.php**.
+- Zasoby: **css/** i **img/** skopiowane z `zrodlo-prawdy/` do `pedrollo-theme/` (opis w **pedrollo-theme/README.md**).
+- Plan migracji: **PLAN-WORDPRESS.md**. Mapowanie stron → szablony WP w planie i w `functions.php` (`pedrollo_get_page_css()`).
+
+---
+
 ## Struktura folderu `zrodlo-prawdy/`
 
 ```
@@ -78,7 +91,8 @@ zrodlo-prawdy/
 ├── index.html
 ├── onas.html
 ├── kontakt.html
-├── laboratorium.html       (placeholder)
+├── laboratorium.html
+├── usecase.html
 ├── program-partnerski.html
 ├── produkt.html
 ├── dystrybutor.html
@@ -97,7 +111,9 @@ zrodlo-prawdy/
 ├── popup-info.html
 ├── logowanie.html
 ├── partials/               (Faza 4: header.html, footer.html – pod WP)
+├── pedrollo-theme/         (Faza 5: motyw WordPress – style.css, header.php, footer.php, front-page, page-faq itd.)
 ├── HEADER-FOOTER.md        (granice i użycie partials)
+├── PLAN-WORDPRESS.md       (plan migracji na WP)
 ├── css/                    (wspólne: globals.css, styleguide.css + pliki per strona)
 ├── img/                    (zmergowane zasoby z wszystkich pakietów)
 └── fonts/                  (puste w eksportach – fonty z zewn. CDN)
@@ -114,6 +130,8 @@ zrodlo-prawdy/
 - **bcAa9** = Kontakt
 - **egxs6** = Program partnerski, Logowanie
 - **JbcrW** = Dystrybutor rejestracja (krok 1–2, podziękowanie), wariant pop-up instalator
+- **4ZvV6** = Laboratorium (wersja 1366px z `AnimaPackage-Flex-4ZvV6/index.html`)
+- **dvarI** = Use Case pojedynczy (ekran index z `AnimaPackage-Flex-dvarI/index.html`)
 
 **Viewport i styleguide:** Wszystkie pliki HTML mają viewport `width=device-width, initial-scale=1.0`. Strony ładują styleguide/globals z pakietu (np. hFF9f, TVr8o, EWJUC, egxs6, JbcrW) przed CSS strony. Kontakt, Produkt, Dystrybutor – tylko bazowe styleguide/globals (brak plików bcAa9 i v74Ij w `css/`).
 

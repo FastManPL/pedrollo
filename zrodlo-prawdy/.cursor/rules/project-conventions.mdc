@@ -1,0 +1,63 @@
+---
+description: Konwencje projektu – przyciski, CSS, typografia (rem, line-height), vw→rem, struktura mobile, responsywność, mapy
+alwaysApply: true
+---
+
+# Konwencje projektu (Pedrollo / zrodlo-prawdy)
+
+## Prace początkowe nad podstroną
+
+Przy standaryzacji nowej podstrony wykonaj na starcie:
+
+1. **Arkusz CSS** – podstrona ładuje te same arkusze co index (styleguide, styleguide-hFF9f, globals, globals-hFF9f, pedrollou95polskau95mainu953.css), na końcu tylko arkusz specyficzny dla tej strony.
+2. **Usunięcie menu i footera** – menu (mobile i desktop) oraz footer to sekcje globalne; usuń je z HTML podstrony (będą dołączane wspólnie).
+3. **Usunięcie struktury mobile w HTML** – usuń cały blok odpowiedzialny za wersję „mobile” strony: element z klasami typu `page--nazwa-mobile`, `pedrollou95nazwau95mobileu95360px`, `screen` (np. `page--kontakt-mobile pedrollou95kontaktu95mobileu95360px screen`). W projekcie zostaje **jedna struktura** (desktop/responsive); osobny widok mobile w HTML nie jest używany.
+4. **Brak ukrywania strony na mobile w CSS** – usuń z arkusza podstrony media query, które ustawiają `display: none` na `.page--nazwa` lub `.screen.pedrollou95nazwa...` przy `max-width: 767px` (lub podobne). Jedna struktura ma być widoczna na wszystkich szerokościach; layout dostosowujemy wyłącznie przez media queries (kolumny, kolejność, rozmiary).
+
+## Źródło prawdy i podstrony
+
+- **index.html** jest źródłem prawdy: style (styleguide, zmienne, klasy typograficzne) i arkusze używane na stronie głównej są wspólne.
+- **Podstrony** ładują te same arkusze co index: `styleguide.css`, `styleguide-hFF9f.css`, `globals.css`, `globals-hFF9f.css`, `pedrollou95polskau95mainu953.css`. Na końcu dopisujesz **tylko** arkusz specyficzny dla danej podstrony (np. `pedrollou95polskau95ou95nas-all-breakpoints.css`).
+- Nie duplikuj zmiennych CSS ani klas typograficznych (np. `.manrope-semi-bold-concrete-23px`) w plikach typu styleguide-EWJUC / globals-EWJUC dla podstron. Klasy brakujące tylko na podstronie dopisuj do plików używanych przez index (np. `styleguide-hFF9f.css`), żeby jedna definicja służyła wszystkim.
+
+## Przyciski
+
+- Używaj **tych samych klas** dla podobnych przycisków w całym projekcie: np. `btn`, `btn--secondary`, `btn--cta-dark` (zgodnie z index.html).
+- Nie twórz nowych klas przycisków na podstronach, jeśli wizualnie i funkcją odpowiadają już zdefiniowanym.
+
+## Optymalizacja CSS
+
+- **Nie duplikuj** podobnego kodu w wielu plikach CSS. Wspólne style (np. efekt hover z krążącą ramką, typografia, zmienne) trzymaj w `globals.css` lub w arkuszu strony głównej; w arkuszu podstrony tylko to, co jest **specyficzne** dla tej podstrony.
+- Efekty współdzielone (np. krążąca ramka na kafelkach) definiuj raz w `globals.css` z selektorami scoped (np. `.page--onas .misja-2`, `.page--onas .frame-84-2 .niezawodnosc-2`) zamiast kopiować ten sam blok do wielu plików.
+
+## Klasy w obrębie jednej sekcji
+
+- W **jednej sekcji** (np. „Mamy prostą misję”, „Niezawodność płynie z jakości”) używaj **jednakowych klas** dla elementów tego samego typu (np. jeden nagłówek kafelka, jeden opis kafelka), zamiast unikalnych klas na każdy kafelek.
+- Przykład: zamiast `w-wiecie-gdzie-lic-2`, `jestemy-napdzani-i-2`, `nasze-pompy-pracuj-2` użyj jednej klasy np. `misja-tile-title` dla wszystkich nagłówków kafelków w tej sekcji; analogicznie dla opisów (`misja-tile-desc`).
+
+## Typografia i wartości w arkuszach podstrony (font-size, line-height, vw → rem)
+
+- **font-size**: stosuj **rem** (np. `1.28rem`, `var(--font-size-xl)`), nie `px` ani `vw` w nowych/aktualizowanych stylach.
+- **line-height**: zawsze **bez jednostek** (wartość liczbowa, np. `1.76`, `1.3`). Nie używaj `vw` w line-height.
+  - Jeśli w istniejącym kodzie jest `line-height` w `vw`: wartość **> 3** (np. `11.11vw`) → ustaw `line-height: 1.3`; wartość **≤ 3** (np. `1.76vw`) → zamień na tę samą liczbę bez jednostki (`1.76`).
+- **Zamiana vw→rem dotyczy przede wszystkim czcionek** (font-size, line-height, letter-spacing) oraz ewentualnie border-radius, gap. **Nie nadpisuj na sztywne rem** właściwości layoutu takich jak **width**, **padding**, **margin** (szczególnie na kontenerach), jeśli miałoby to powodować wystawanie zawartości poza ekran przy zwężaniu viewportu – zamiast tego stosuj procenty, `max-width: 100%`, `width: 100%`, `box-sizing: border-box` lub dostosowanie w media queries.
+- **Wartości vw w arkuszach podstrony** (tam gdzie już są): przy standaryzacji typografii zamień vw na rem w **font-size, line-height, letter-spacing**. Dla width/height/padding/margin kontenerów preferuj wartości względne (%, 100%, max-width) albo rem tylko tam, gdzie nie psują responsywności.
+
+## Responsywność (jedna struktura HTML)
+
+- Jedna struktura strony jest widoczna na wszystkich szerokościach; **nie** ukrywaj jej przez `display: none` na mobile.
+- Layout dostosowuj **wyłącznie przez media queries** w arkuszu podstrony: zmiana liczby kolumn (grid), `flex-direction: column`, `order`, pozycjonowanie.
+- **Sekcje z obrazem + tekstem**: poniżej 1024px zazwyczaj obraz nad tekstem, na całą szerokość. Ustaw `flex-direction: column` w kontenerze; obrazowi daj `width: 100%`, `min-height` lub `aspect-ratio`, żeby nie „znikał” przy zwężaniu. Elementy wcześniej `position: absolute` (obraz lub tekst) przełącz na `position: relative`, `left/top: auto` i ewentualnie `order`, żeby kolejność w kolumnie była prawidłowa.
+
+## Mapy i elementy na tle (pozycja względem tła)
+
+- Jeśli na mapie (lub innym tle) jest **punkt / pinezka / etykieta**, która ma być **zawsze w tym samym miejscu względem mapy** przy zmianie szerokości ekranu:
+  - Kontener z tłem (mapą): **skalowanie** – np. `aspect-ratio` + `height: auto`, `background-size: 100% 100%` (albo `cover` w zależności od potrzeb), bez sztywnej wysokości w rem.
+  - Pozycjonowanie punktu/etykiety: **w procentach** (`left: 41%`, `top: 42%`), nie w rem. Ewentualnie `transform: translate(-50%, -50%)` do wyśrodkowania.
+  - Dzięki temu mapa się skaluje, a punkt pozostaje relatywny do mapy.
+
+## Inne
+
+- Hover z „krążącą” ramką: tam gdzie ma być **bez zaokrągleń**, ustaw `border-radius: 0` na pseudoelement; tam gdzie ma być **z zaokrągleniami**, użyj `border-radius: inherit` (lub konkretna wartość z kafelka).
+- Aby ramka nie była ucinana u dołu: kontenery nad kafelkiem mają `overflow: visible`; pseudoelement ramki można lekko rozszerzyć (np. `top/left/right/bottom: -2px` i odpowiedni `padding`), żeby dolna krawędź była poza obrysem boxa.
+- Każdą podstronę można robić w osobnym czacie; te reguły zapewniają spójność z resztą projektu.

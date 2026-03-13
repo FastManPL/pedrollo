@@ -1,0 +1,542 @@
+/* screen - pedrollou95logowanie */
+
+.pedrollou95logowanie {
+  align-items: flex-start;
+  background-color: var(--cod-gray);
+  display: flex;
+  flex-direction: column;
+  overflow-x: hidden;
+  position: relative;
+}
+
+.pedrollou95logowanie .frame-20 {
+  align-self: stretch;
+  height: 50.0vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95logowanie .rectangle-6 {
+  background: linear-gradient(180deg, rgba(27, 27, 27, 0.5) 0%, rgba(27, 27, 27, 0) 100%);
+  height: 23.96vw;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100.0vw;
+}
+
+.pedrollou95logowanie .konsultacja {
+  align-items: center;
+  display: flex;
+  gap: 4.17vw;
+  justify-content: center;
+  left: calc(50.00% - 41.67vw);
+  position: absolute;
+  top: calc(50.00% - 11.25vw);
+  width: 83.33vw;
+}
+
+.pedrollou95logowanie .ellipse-2 {
+  height: 78.65vw;
+  left: calc(50.00% - 39.32vw);
+  position: absolute;
+  top: calc(50.00% - 39.32vw);
+  width: 78.65vw;
+}
+
+.pedrollou95logowanie .frame-36833 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 1.56vw;
+  position: relative;
+  width: 41.67vw;
+}
+
+.pedrollou95logowanie .frame-36834 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95logowanie .frame-36832 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--white);
+  border-radius: 0.52vw;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 1.56vw;
+  padding: 3.12vw 4.17vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95logowanie .zaloguj-si-do-strefy-partnera {
+  color: transparent;
+  flex: 1;
+  font-family: var(--font-family-manrope);
+  font-size: 3.12vw;
+  font-weight: 600;
+  letter-spacing: -0.06vw;
+  line-height: 3.65vw;
+  margin-top: -0.05vw;
+  position: relative;
+}
+
+.pedrollou95logowanie .span0 {
+  color: var(--royal-blue);
+  letter-spacing: -0.04vw;
+}
+
+.pedrollou95logowanie .span1 {
+  color: var(--cod-gray);
+  letter-spacing: -0.04vw;
+}
+
+.pedrollou95logowanie .vector-2 {
+  height: 3.02vw;
+  position: relative;
+  width: 3.07vw;
+}
+
+.pedrollou95logowanie .frame {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 1.04vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95logowanie .frame-36830 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 1.04vw;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95logowanie .input {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--white);
+  border: 0.05vw solid;
+  border-color: #0a0a0a33;
+  border-radius: 0.52vw;
+  display: flex;
+  height: 2.76vw;
+  padding: 0.83vw 1.04vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95logowanie .frame-36727 {
+  align-items: center;
+  background-color: var(--white);
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.1vw;
+  position: relative;
+}
+
+.pedrollou95logowanie .label {
+  color: #222222;
+  font-family: var(--font-family-manrope);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 1.04vw;
+  margin-top: -0.05vw;
+  white-space: nowrap;
+}
+
+.pedrollou95logowanie .star {
+  color: #e42313;
+  font-family: var(--font-family-manrope);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 1.04vw;
+  margin-top: -0.05vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95logowanie .radio_select_2 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.52vw;
+  height: 2.6vw;
+  position: relative;
+}
+
+.pedrollou95logowanie .nie-pamitasz-hasa {
+  color: #0a0a0a80;
+  font-family: var(--font-family-manrope);
+  font-size: var(--font-size-s);
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 1.04vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95logowanie .krok {
+  align-items: center;
+  background: linear-gradient(90deg, rgba(10, 10, 10, 1) 0%, rgba(64, 100, 223, 1) 100%);
+  border-radius: 1.56vw;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.52vw;
+  padding: 0.78vw 1.35vw;
+  position: relative;
+}
+
+.pedrollou95logowanie .dalej {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.1vw;
+  position: relative;
+  width: fit-content;
+}
+
+.pedrollou95logowanie .arrow_right {
+  height: 0.99vw;
+  margin-right: -0.06vw;
+  position: relative;
+  width: 1.1vw;
+}
+
+.pedrollou95logowanie .menu_2 {
+  -webkit-backdrop-filter: blur(0.13vw) brightness(100%);
+  align-items: flex-start;
+  backdrop-filter: blur(0.13vw) brightness(100%);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100.0vw;
+}
+
+.pedrollou95logowanie .group-1 {
+  height: 2.03vw;
+  position: relative;
+  width: 8.86vw;
+}
+
+.pedrollou95logowanie .frame-2 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  justify-content: space-between;
+  position: relative;
+}
+
+.pedrollou95logowanie .frame-6 {
+  align-items: center;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 3.12vw;
+  position: relative;
+}
+
+.pedrollou95logowanie .frame-33 {
+  align-items: center;
+  border-bottom-style: solid;
+  border-bottom-width: 0.05vw;
+  border-color: transparent;
+  border-image: linear-gradient(90deg, rgba(64, 100, 223, 1) 0%, rgba(64, 100, 223, 0) 100%) 1;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.52vw;
+  height: 5.1vw;
+  position: relative;
+}
+
+.pedrollou95logowanie .label-1 {
+  letter-spacing: 0.01vw;
+  line-height: normal;
+}
+
+.pedrollou95logowanie .arrow_down-1 {
+  height: 132.36%;
+  left: -4.32%;
+  position: absolute;
+  top: -11.85%;
+  width: 108.65%;
+}
+
+.pedrollou95logowanie .frame-1 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.52vw;
+  justify-content: center;
+  margin-bottom: -0.16vw;
+  margin-top: -0.16vw;
+  position: relative;
+}
+
+.pedrollou95logowanie .vector-3 {
+  aspect-ratio: 0.61;
+  height: 1.56vw;
+  position: relative;
+  width: 0.95vw;
+}
+
+.pedrollou95logowanie .vector {
+  height: 110.84%;
+  left: 68.77%;
+  position: absolute;
+  top: -5.42%;
+  width: 37.42%;
+}
+
+.pedrollou95logowanie .footer_desktop {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.52vw;
+  position: relative;
+}
+
+.pedrollou95logowanie .frame-78 {
+  align-items: flex-start;
+  display: flex;
+  gap: 5.21vw;
+  height: 32.19vw;
+  padding: 3.65vw 8.33vw;
+  position: relative;
+  width: 100.0vw;
+}
+
+.pedrollou95logowanie .ellipse-2-1 {
+  height: 32.19vw;
+  left: calc(50.00% - 50.0vw);
+  position: absolute;
+  top: calc(50.00% - 16.09vw);
+  width: 41.15vw;
+}
+
+.pedrollou95logowanie .frame-367-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: space-between;
+  position: relative;
+}
+
+.pedrollou95logowanie .frame-36738 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.52vw;
+  position: relative;
+}
+
+.pedrollou95logowanie .polska {
+  letter-spacing: -0.02vw;
+  line-height: 2.6vw;
+  margin-top: -0.05vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95logowanie .tworzymy-przyszo {
+  color: var(--white);
+  font-family: var(--font-family-manrope);
+  font-size: var(--font-size-m);
+  font-weight: 500;
+  letter-spacing: -0.02vw;
+  line-height: 1.41vw;
+  position: relative;
+  width: fit-content;
+}
+
+.pedrollou95logowanie .frame-36742 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 3.12vw;
+  position: relative;
+}
+
+.pedrollou95logowanie .raz-kupujesz-bez-koca-pompujesz {
+  letter-spacing: -0.04vw;
+  line-height: 2.6vw;
+  margin-top: -0.05vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95logowanie .frame-3674 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.52vw;
+  justify-content: center;
+  position: relative;
+}
+
+.pedrollou95logowanie .elektryczna-pompa-gbinowa {
+  letter-spacing: -0.02vw;
+  line-height: 1.25vw;
+  margin-top: -0.05vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95logowanie .frame-3674-1 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.26vw;
+  position: relative;
+}
+
+.pedrollou95logowanie .label_-menu_footer {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.52vw;
+  padding: 0.1vw 0.0vw;
+  position: relative;
+}
+
+.pedrollou95logowanie .frame-33-1 {
+  align-items: center;
+  border-bottom-style: solid;
+  border-bottom-width: 0.05vw;
+  border-color: transparent;
+  border-image: linear-gradient(90deg, rgba(64, 100, 223, 1) 0%, rgba(64, 100, 223, 0) 100%) 1;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.52vw;
+  padding: 0.21vw 0.0vw;
+  position: relative;
+}
+
+.pedrollou95logowanie .label-2 {
+  letter-spacing: 0.01vw;
+  line-height: normal;
+  margin-top: -0.05vw;
+}
+
+.pedrollou95logowanie .na-skrty {
+  letter-spacing: -0.02vw;
+  line-height: 1.25vw;
+  margin-top: -0.05vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95logowanie .kontakt-z-nami {
+  letter-spacing: -0.02vw;
+  line-height: 1.25vw;
+  margin-top: -0.05vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95logowanie .frame-36748 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 0.52vw;
+  justify-content: center;
+  padding: 0.31vw 0.0vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95logowanie .dachowa-43-a-96-500-sochaczew {
+  flex: 1;
+  letter-spacing: 0.01vw;
+  line-height: normal;
+  margin-top: -0.05vw;
+  position: relative;
+}
+
+.pedrollou95logowanie .dobr-pomp {
+  letter-spacing: -0.02vw;
+  line-height: 1.25vw;
+  margin-top: -0.05vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95logowanie .social_media {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.52vw;
+  padding: 0.26vw 0.0vw;
+  position: relative;
+}
+
+.pedrollou95logowanie .social_media-item {
+  height: 1.46vw;
+  position: relative;
+  width: 1.46vw;
+}
+
+.pedrollou95logowanie .linkedin {
+  align-items: center;
+  display: flex;
+  gap: 0.52vw;
+  height: 1.46vw;
+  justify-content: center;
+  padding: 0.21vw;
+  position: relative;
+  width: 1.46vw;
+}
+
+.pedrollou95logowanie .subtract {
+  aspect-ratio: 1;
+  height: 0.94vw;
+  position: relative;
+  width: 0.94vw;
+}
+
+.pedrollou95logowanie .span0-1 {
+  letter-spacing: -0.0vw;
+}
+
+.pedrollou95logowanie .label-3 {
+  position: relative;
+  width: fit-content;
+}

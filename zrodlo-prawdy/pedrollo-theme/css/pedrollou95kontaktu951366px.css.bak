@@ -1,0 +1,7132 @@
+/* screen - index */
+
+.index {
+  align-items: flex-start;
+  background-color: var(--cod-gray);
+  display: flex;
+  flex-direction: column;
+  min-width: 100.0vw;
+  position: relative;
+}
+
+.index .frame-20-2 {
+  align-self: stretch;
+  height: 50.0vw;
+  position: relative;
+  width: 100%;
+}
+
+.index .rectangle-1113 {
+  height: 50.0vw;
+  left: calc(50.00% - 1349.32vw);
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 11.51vw);
+  width: 100.0vw;
+}
+
+.index .rectangle-6-1 {
+  background: linear-gradient(180deg, rgba(27, 27, 27, 0.5) 0%, rgba(27, 27, 27, 0) 100%);
+  height: 23.96vw;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100.0vw;
+}
+
+.index .konsultacja-6 {
+  align-items: center;
+  display: flex;
+  gap: 4.17vw;
+  justify-content: center;
+  left: calc(50.00% - 41.67vw);
+  position: absolute;
+  top: calc(50.00% - 17.6vw);
+  width: 83.33vw;
+}
+
+.index .ellipse-2-12 {
+  height: 78.65vw;
+  left: calc(50.00% - 39.32vw);
+  position: absolute;
+  top: calc(50.00% - 39.27vw);
+  width: 78.65vw;
+}
+
+.index .frame-6483-6 {
+  align-items: center;
+  display: inline-flex;
+}
+
+.index .frame-6482-4 {
+  align-items: flex-start;
+  flex-direction: column;
+  gap: 2.08vw;
+  width: 28.12vw;
+}
+
+.index .frame-12 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 1.04vw;
+  position: relative;
+  width: 100%;
+}
+
+.index .frame-6501-2 {
+  align-items: center;
+}
+
+.index .kontakt-7 {
+  align-self: stretch;
+  height: 0.84vw;
+  position: relative;
+  width: 100%;
+}
+
+.index .porozmawiajmy-o-pom-1 {
+  align-self: stretch;
+  letter-spacing: -0.06vw;
+  line-height: 3.65vw;
+  position: relative;
+}
+
+.index .frame-13 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 1.04vw;
+  position: relative;
+  width: 100%;
+}
+
+.index .masz-studni-my-mamy-pomp-2 {
+  align-self: stretch;
+  color: var(--concrete);
+  font-family: var(--font-family-manrope);
+  font-size: 1.61vw;
+  font-weight: 600;
+  letter-spacing: -0.03vw;
+  line-height: 2.1vw;
+  margin-top: -0.05vw;
+  position: relative;
+}
+
+.index .ktra-bdzie-w-niej-2 {
+  align-self: stretch;
+  letter-spacing: -0.02vw;
+  line-height: 1.88vw;
+  position: relative;
+}
+
+.index .poznaj-nasz-zestaw {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.1vw;
+  position: relative;
+  width: fit-content;
+}
+
+.index .arrow_down-6 {
+  height: 1.1vw;
+  position: relative;
+  width: 0.99vw;
+}
+
+.index .u7761719182_httpss-8 {
+  aspect-ratio: 1.33;
+  flex: 1;
+  flex-grow: 1;
+  object-fit: cover;
+  position: relative;
+}
+
+.index .menu_2-2 {
+  -webkit-backdrop-filter: blur(0.13vw) brightness(100%);
+  align-items: flex-start;
+  backdrop-filter: blur(0.13vw) brightness(100%);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100.0vw;
+}
+
+.index .frame-27-1 {
+  align-items: center;
+  align-self: stretch;
+  border-bottom-style: solid;
+  border-bottom-width: 0.05vw;
+  border-color: var(--white-2);
+  display: flex;
+  gap: 5.73vw;
+  height: 5.21vw;
+  padding: 0.0vw 40.0vw;
+  position: relative;
+  width: 100%;
+}
+
+.index .group-1-4 {
+  background-image: url(../img/group-1-24@2x.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  height: 2.03vw;
+  position: relative;
+  width: 8.86vw;
+}
+
+.index .frame-2-1 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  justify-content: space-between;
+  position: relative;
+}
+
+.index .frame-6-1 {
+  align-items: center;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 3.12vw;
+  position: relative;
+}
+
+.index .menu-hover {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.52vw;
+  height: 5.21vw;
+  position: relative;
+}
+
+.index .frame-33-2 {
+  height: 5.1vw;
+}
+
+.index .label-7 {
+  letter-spacing: 0.01vw;
+  line-height: normal;
+}
+
+.index .arrow_down-4 {
+  height: 0.33vw;
+  position: relative;
+  width: 0.78vw;
+}
+
+.index .arrow_down-5 {
+  height: 132.38%;
+  left: -4.34%;
+  position: absolute;
+  top: -11.86%;
+  width: 108.67%;
+}
+
+.index .frame-25 {
+  height: 5.21vw;
+  position: relative;
+  width: 3.02vw;
+}
+
+.index .frame-5-1 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 3.65vw;
+  position: relative;
+}
+
+.index .call_button::before {
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  background: linear-gradient(90deg, rgba(64, 100, 223, 1) 0%, rgba(55, 55, 55, 1) 100%);
+  border-radius: 1.56vw;
+  content: '';
+  inset: 0;
+  mask-composite: exclude;
+  padding: 0.1vw;
+  pointer-events: none;
+  position: absolute;
+  z-index: 1;
+}
+
+.index .call_button {
+  align-items: center;
+  background: linear-gradient(90deg, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 255, 0) 100%);
+  border: none;
+  border-radius: 1.56vw;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.52vw;
+  height: 2.71vw;
+  justify-content: center;
+  padding: 0.73vw 1.35vw;
+  position: relative;
+}
+
+.index .frame-1-2 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.52vw;
+  justify-content: center;
+  margin-bottom: -0.16vw;
+  margin-top: -0.16vw;
+  position: relative;
+}
+
+.index .vector-8 {
+  aspect-ratio: 0.61;
+  height: 1.56vw;
+  position: relative;
+  width: 0.95vw;
+}
+
+.index .dobierz_pompe {
+  align-items: center;
+  background-color: var(--royal-blue);
+  border-radius: 1.56vw;
+  display: flex;
+  gap: 1.04vw;
+  height: 2.71vw;
+  padding: 0.73vw 3.65vw 0.73vw 1.35vw;
+  position: relative;
+  width: 12.19vw;
+}
+
+.index .frame-4-2 {
+  left: 9.58vw;
+}
+
+.index .group-3-2 {
+  height: 0.62vw;
+  position: relative;
+  width: 1.0vw;
+}
+
+.index .vector-6 {
+  height: 110.82%;
+  left: 68.78%;
+  position: absolute;
+  top: -5.41%;
+  width: 37.40%;
+}
+
+.index .vector-7 {
+  height: 16.67%;
+  left: -5.19%;
+  position: absolute;
+  top: 41.67%;
+  width: 105.19%;
+}
+
+.index .dobierz-pomp {
+  letter-spacing: -0.02vw;
+  line-height: normal;
+  margin-top: -0.08vw;
+  position: relative;
+  width: fit-content;
+}
+
+.index .frame-6483-7 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 100%;
+}
+
+.index .u7761719182_httpss-9 {
+  align-self: stretch;
+  background-image: url(../img/u7761719182-httpss-25.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 1.04vw;
+  height: 39.22vw;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.index .frame-36742-3 {
+  -webkit-backdrop-filter: blur(0.26vw) brightness(100%);
+  backdrop-filter: blur(0.26vw) brightness(100%);
+  background-color: var(--cod-gray-3);
+  border: 0.05vw solid;
+  border-color: var(--royal-blue-2);
+  border-radius: 1.04vw;
+  display: inline-flex;
+  gap: 0.78vw;
+  justify-content: center;
+  left: 43.28vw;
+  padding: 2.08vw;
+  position: absolute;
+  top: 14.32vw;
+}
+
+.index .group-1-5 {
+  aspect-ratio: 4.36;
+  height: 2.18vw;
+  position: relative;
+  width: 9.53vw;
+}
+
+.index .pedrollo-polska-2 {
+  letter-spacing: -0.02vw;
+  line-height: 1.25vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.index .dachowa-43-a-96-500-sochaczew-4 {
+  line-height: 1.17vw;
+  width: 10.89vw;
+}
+
+.index .vector-9 {
+  height: 2.55vw;
+  left: 40.36vw;
+  position: absolute;
+  top: 18.33vw;
+  width: 1.88vw;
+}
+
+.index .frame-6566-2 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--white);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 3.65vw;
+  padding: 3.65vw 21.35vw;
+  position: relative;
+  width: 100%;
+}
+
+.index .ellipse-2-13 {
+  height: 66.25vw;
+  left: calc(50.00% - 49.43vw);
+  position: absolute;
+  top: calc(50.00% - 39.53vw);
+  width: 66.3vw;
+}
+
+.index .frame-6587-2 {
+  align-items: center;
+  align-self: stretch;
+  border-radius: 1.56vw;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 1.04vw;
+  position: relative;
+  width: 100%;
+}
+
+.index .frame-6576-2 {
+  align-items: center;
+  align-self: stretch;
+  border-radius: 1.56vw;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 2.6vw;
+  position: relative;
+  width: 100%;
+}
+
+.index .frame-6596-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 3.12vw;
+  justify-content: center;
+  position: relative;
+}
+
+.index .frame-6597 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.index .instalator-2 {
+  aspect-ratio: 1;
+  height: 4.17vw;
+  object-fit: cover;
+  position: relative;
+  width: 4.17vw;
+}
+
+.index .znajd-instalatora-z-twojej-okolicy-2 {
+  align-self: stretch;
+  color: var(--cod-gray);
+  font-family: var(--font-family-manrope);
+  font-size: 3.12vw;
+  font-weight: 600;
+  letter-spacing: -0.09vw;
+  line-height: 3.75vw;
+  margin-top: -0.05vw;
+  position: relative;
+}
+
+.index .wolisz-powierzy-mont-2 {
+  align-self: stretch;
+  height: 2.84vw;
+  position: relative;
+  width: 100%;
+}
+
+.index .frame-6586-2 {
+  align-items: flex-start;
+  border-radius: 1.56vw;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 1.04vw;
+  position: relative;
+}
+
+.index .wpisz-kod-pocztowy-montau-2 {
+  align-self: stretch;
+  height: 1.13vw;
+  position: relative;
+  width: 100%;
+}
+
+.index .frame-6574-2 {
+  align-items: center;
+  border: 0.05vw solid;
+  border-color: var(--royal-blue);
+  border-radius: 1.56vw;
+  display: flex;
+  height: 2.76vw;
+  justify-content: space-between;
+  padding: 0.42vw 0.0vw 0.42vw 30.0vw;
+  position: relative;
+  width: 21.72vw;
+}
+
+.index .text-3 {
+  color: var(--cod-gray);
+  font-family: var(--font-family-manrope);
+  font-size: 0.99vw;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+}
+
+.index .button_to_dark_navi-3 {
+  margin-bottom: -0.42vw;
+  margin-top: -0.42vw;
+}
+
+.index .poznaj-nasz-zestaw-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.1vw;
+  position: relative;
+  width: fit-content;
+}
+
+.index .search-2 {
+  height: 0.99vw;
+  position: relative;
+  width: 0.99vw;
+}
+
+.index .u7761719182_httpss-10 {
+  background-image: url(../img/u7761719182-httpss-2.gif);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 1.04vw;
+  flex: 1;
+  flex-grow: 1;
+  height: 29.84vw;
+  position: relative;
+}
+
+.index .frame-6480-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--black-haze);
+  border: 0.05vw solid;
+  border-color: var(--pumice);
+  border-radius: 1.56vw;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 4.69vw;
+  padding: 1.56vw 2.6vw;
+  position: relative;
+  width: 100%;
+}
+
+.index .frame-6482-5 {
+  align-items: center;
+  align-self: stretch;
+  flex: 0 0 auto;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.index .pan-darek-2 {
+  letter-spacing: -0.03vw;
+  line-height: 2.08vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.index .frame-6580-2 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.52vw;
+  justify-content: center;
+  position: relative;
+}
+
+.index .arrow-3 {
+  align-items: center;
+  aspect-ratio: 1;
+  border: 0.1vw solid;
+  border-color: var(--emerald);
+  border-radius: 1.56vw;
+  display: flex;
+  gap: 0.52vw;
+  height: 1.04vw;
+  justify-content: center;
+  padding: 0.52vw 0.0vw;
+  position: relative;
+  width: 1.04vw;
+}
+
+.index .frame-76-2 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.52vw;
+  margin-bottom: -0.16vw;
+  margin-top: -0.16vw;
+  position: relative;
+}
+
+.index .line-8-2 {
+  height: 0.43vw;
+  margin-bottom: -0.07vw;
+  margin-left: -0.04vw;
+  margin-right: -0.04vw;
+  margin-top: -0.04vw;
+  position: relative;
+  width: 0.54vw;
+}
+
+.index .instalator-pomp-w-twojej-okolicy-2 {
+  height: 1.02vw;
+  margin-bottom: -0.09vw;
+  position: relative;
+  width: 15.06vw;
+}
+
+.index .frame-6494-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.index .zapytaj-2 {
+  align-items: center;
+  background-color: var(--royal-blue);
+  border-radius: 1.56vw;
+  display: flex;
+  gap: 1.04vw;
+  height: 2.71vw;
+  padding: 0.73vw 3.65vw 0.73vw 1.35vw;
+  position: relative;
+  width: 17.34vw;
+}
+
+.index .frame-4-3 {
+  left: 14.74vw;
+}
+
+.index .zapytaj-o-produkt {
+  letter-spacing: -0.02vw;
+  line-height: normal;
+  margin-top: -0.08vw;
+  position: relative;
+  width: fit-content;
+}
+
+.index .frame-64-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 11.98vw;
+  height: 47.03vw;
+  padding: 0.0vw 8.59vw;
+  position: relative;
+  width: 100%;
+}
+
+.index .frame-20-3 {
+  height: 38.07vw;
+  left: calc(50.00% - 50.0vw);
+  position: absolute;
+  top: calc(50.00% - 18.96vw);
+  width: 100.0vw;
+}
+
+.index .ellipse-1-2 {
+  background-color: var(--dove-gray);
+  border-radius: 27.24vw;
+  filter: blur(9.48vw);;
+  height: 54.48vw;
+  left: calc(50.00% - 27.24vw);
+  position: relative;
+  top: 12.4vw;
+  width: 54.48vw;
+}
+
+.index .frame-51-2 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 3.65vw;
+  justify-content: center;
+  padding: 3.65vw 0.0vw 80.0vw;
+  position: relative;
+}
+
+.index .frame-65-4 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.52vw;
+  justify-content: center;
+  position: relative;
+}
+
+.index .referencje-2 {
+  color: var(--concrete-2);
+  font-family: var(--font-family-manrope);
+  font-size: 1.04vw;
+  font-weight: 600;
+  letter-spacing: -0.03vw;
+  line-height: 1.56vw;
+  margin-top: -0.05vw;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.index .co-mwi-o-nas-klienci-2 {
+  letter-spacing: -0.05vw;
+  line-height: 2.71vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.index .testimonials-2 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 2.6vw;
+  justify-content: center;
+  margin-left: -67.84vw;
+  margin-right: -67.84vw;
+  position: relative;
+}
+
+.index .frame-79 {
+  height: 14.51vw;
+  position: relative;
+  width: 218.49vw;
+}
+
+.index .frame-69 {
+  -webkit-backdrop-filter: blur(1.04vw) brightness(100%);
+  align-items: center;
+  backdrop-filter: blur(1.04vw) brightness(100%);
+  display: inline-flex;
+  left: 0;
+  opacity: 0.4;
+  position: absolute;
+  top: 1.04vw;
+}
+
+.index .frame-71-2 {
+  background-color: var(--eerie-black);
+  border: 0.05vw solid;
+  border-color: var(--lynch);
+  border-radius: 1.56vw 0.0vw 0.0vw 1.56vw;
+  flex: 0 0 auto;
+  gap: 0.52vw;
+  padding: 2.08vw;
+  position: relative;
+}
+
+.index .frame-14 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.52vw;
+  justify-content: center;
+  position: relative;
+}
+
+.index .image-3 {
+  margin-left: -1242.16vw;
+  margin-top: -142.51vw;
+}
+
+.index .arek-nawrocki {
+  align-self: stretch;
+  letter-spacing: -0.02vw;
+  line-height: 1.04vw;
+  margin-top: -0.05vw;
+  position: relative;
+}
+
+.index .dystrybutor-pomp-ped-2 {
+  letter-spacing: -0.02vw;
+  line-height: 1.04vw;
+}
+
+.index .frame-72-2 {
+  border-color: var(--lynch);
+  padding: 2.08vw 2.6vw;
+}
+
+.index .zawsze-polecam-te-p {
+  letter-spacing: -0.04vw;
+  line-height: 1.93vw;
+  position: relative;
+  width: 23.96vw;
+}
+
+.index .span-4 {
+  letter-spacing: -0.01vw;
+}
+
+.index .frame-71-3 {
+  -webkit-backdrop-filter: blur(1.04vw) brightness(100%);
+  backdrop-filter: blur(1.04vw) brightness(100%);
+  left: 43.39vw;
+  opacity: 0.4;
+  position: absolute;
+  top: 1.04vw;
+}
+
+.index .image-4 {
+  margin-left: -1285.55vw;
+  margin-top: -142.51vw;
+}
+
+.index .arek-nawrocki-1 {
+  align-self: stretch;
+  letter-spacing: -0.02vw;
+  line-height: 1.04vw;
+  margin-top: -0.05vw;
+  position: relative;
+}
+
+.index .zawsze-polecam-te-p-1 {
+  letter-spacing: -0.04vw;
+  line-height: 1.93vw;
+  position: relative;
+  width: 23.96vw;
+}
+
+.index .frame-67-2 {
+  -webkit-backdrop-filter: blur(1.04vw) brightness(100%);
+  align-items: center;
+  backdrop-filter: blur(1.04vw) brightness(100%);
+  border-radius: 1.56vw;
+  display: inline-flex;
+  left: 86.77vw;
+  position: absolute;
+  top: 0;
+}
+
+.index .frame-71-4 {
+  background-color: var(--eerie-black);
+  border: 0.05vw solid;
+  border-color: var(--silver-chalice-2);
+  border-radius: 1.56vw 0.0vw 0.0vw 1.56vw;
+  flex: 0 0 auto;
+  gap: 0.52vw;
+  padding: 3.12vw;
+  position: relative;
+}
+
+.index .frame-57-3 {
+  gap: 0.31vw;
+}
+
+.index .dystrybutor-pomp-ped-3 {
+  letter-spacing: -0.01vw;
+  line-height: 0.94vw;
+}
+
+.index .frame-72-3 {
+  border-color: var(--silver-chalice-2);
+  padding: 2.08vw 3.65vw;
+}
+
+.index .sprzedaj-sprzt-r-2 {
+  letter-spacing: -0.04vw;
+  line-height: 1.93vw;
+  position: relative;
+  width: 23.96vw;
+}
+
+.index .frame-68 {
+  -webkit-backdrop-filter: blur(1.04vw) brightness(100%);
+  align-items: center;
+  backdrop-filter: blur(1.04vw) brightness(100%);
+  display: inline-flex;
+  left: 134.32vw;
+  opacity: 0.4;
+  position: absolute;
+  top: 1.04vw;
+}
+
+.index .sprzt-najwyszej-k {
+  letter-spacing: -0.04vw;
+  line-height: 1.93vw;
+  position: relative;
+  width: 23.96vw;
+}
+
+.index .frame-70-1 {
+  -webkit-backdrop-filter: blur(1.04vw) brightness(100%);
+  align-items: center;
+  backdrop-filter: blur(1.04vw) brightness(100%);
+  display: inline-flex;
+  left: 177.71vw;
+  opacity: 0.4;
+  position: absolute;
+  top: 1.04vw;
+}
+
+.index .image-5 {
+  margin-left: -1419.87vw;
+  margin-top: -142.51vw;
+}
+
+.index .sprzt-najwyszej-k-1 {
+  letter-spacing: -0.04vw;
+  line-height: 1.93vw;
+  position: relative;
+  width: 23.96vw;
+}
+
+.index .frame-77 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 1.04vw;
+  position: relative;
+}
+
+.index .arrow-2 {
+  height: 3.12vw;
+  position: relative;
+  width: 3.12vw;
+}
+
+.index .konsultacja-7 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.52vw;
+  padding: 9.38vw 8.33vw;
+  position: relative;
+  width: 100%;
+}
+
+.index .ellipse-2-14 {
+  height: 78.65vw;
+  left: calc(50.00% - 42.19vw);
+  position: absolute;
+  top: calc(50.00% - 39.06vw);
+  width: 78.65vw;
+}
+
+.index .frame-6483-8 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  width: 100%;
+}
+
+.index .u7761719182_httpss-11 {
+  background-image: url(../img/u7761719182-httpss-24.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 1.04vw;
+  flex: 1;
+  flex-grow: 1;
+  height: 35.1vw;
+  position: relative;
+}
+
+.index .ellipse-3-2 {
+  height: 35.26vw;
+  left: calc(50.00% - 21.3vw);
+  position: absolute;
+  top: calc(50.00% - 12.5vw);
+  width: 35.26vw;
+}
+
+.index .ellipse-2-15 {
+  height: 30.47vw;
+  left: calc(50.00% - 6.93vw);
+  position: absolute;
+  top: calc(50.00% - 24.74vw);
+  width: 31.09vw;
+}
+
+.index .frame-6482-6 {
+  align-items: flex-start;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 2.08vw;
+}
+
+.index .frame-65-5 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 1.56vw;
+  position: relative;
+  width: 100%;
+}
+
+.index .frame-6501-3 {
+  align-items: flex-start;
+}
+
+.index .pompa-ma-dziaa-be {
+  letter-spacing: -0.06vw;
+  line-height: 3.65vw;
+  margin-top: -0.05vw;
+  position: relative;
+  width: 38.65vw;
+}
+
+.index .to-prawda-e-jeste-2 {
+  align-self: stretch;
+  color: transparent;
+  font-family: var(--font-family-manrope);
+  font-size: var(--font-size-xxxxl);
+  font-weight: 600;
+  letter-spacing: -0.02vw;
+  line-height: 1.88vw;
+  position: relative;
+}
+
+.index .span-5 {
+  letter-spacing: -0.01vw;
+}
+
+.index .konsultacja-8 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 2.08vw;
+  padding: 33.85vw 8.33vw 6.25vw;
+  position: relative;
+  width: 100%;
+}
+
+.index .ellipse-2-16 {
+  height: 78.91vw;
+  left: calc(50.00% - 41.25vw);
+  position: absolute;
+  top: calc(50.00% - 42.5vw);
+  width: 78.91vw;
+}
+
+.index .frame-65-6 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 1.56vw;
+  left: 56.09vw;
+  position: absolute;
+  top: 6.88vw;
+}
+
+.index .obsugujemyca-polsk {
+  letter-spacing: -0.06vw;
+  line-height: 3.65vw;
+  margin-top: -0.05vw;
+  position: relative;
+  width: fit-content;
+}
+
+.index .odlego-nie-gra-ro-2 {
+  color: transparent;
+  font-family: var(--font-family-manrope);
+  font-size: var(--font-size-xxxxl);
+  font-weight: 600;
+  letter-spacing: -0.02vw;
+  line-height: 1.88vw;
+  position: relative;
+  width: fit-content;
+}
+
+.index .rectangle-1115-2 {
+  height: 39.69vw;
+  left: 8.33vw;
+  mix-blend-mode: screen;
+  object-fit: cover;
+  position: absolute;
+  top: -3.12vw;
+  width: 48.8vw;
+}
+
+.index .frame-36808-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 1.56vw;
+  position: relative;
+  width: 100%;
+}
+
+.index .kontakt-6::before {
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  background: conic-gradient(from 90deg at 48% 50%, rgba(42, 44, 55, 1) 0%, rgba(42, 44, 55, 1) 15%, rgba(42, 44, 55, 1) 31%);
+  border-radius: 0.52vw;
+  content: '';
+  inset: 0;
+  mask-composite: exclude;
+  padding: 0.05vw;
+  pointer-events: none;
+  position: absolute;
+  z-index: 1;
+}
+
+.index .kontakt-6 {
+  align-items: center;
+  border: none;
+  border-radius: 0.52vw;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 1.04vw;
+  height: 9.11vw;
+  padding: 2.08vw 1.56vw;
+  position: relative;
+}
+
+.index .biuro-2 {
+  letter-spacing: -0.02vw;
+  line-height: 1.25vw;
+  margin-top: -0.05vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.index .frame-36746-3 {
+  align-items: center;
+  gap: 0.26vw;
+}
+
+.index .phone-3 {
+  margin-top: -0.05vw;
+}
+
+.index .biuropedrollopolskapl {
+  cursor: pointer;
+  letter-spacing: 0.01vw;
+  line-height: normal;
+  position: relative;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.index .x48-46-4444-11-1 {
+  letter-spacing: 0.01vw;
+  line-height: normal;
+  margin-top: -0.05vw;
+  position: relative;
+  width: fit-content;
+}
+
+.index .footer_desktop-2 {
+  height: 72.66vw;
+  position: relative;
+  width: 100.0vw;
+}
+
+.index .frame-6613-2 {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  gap: 2.6vw;
+  height: 55.70%;
+  left: 0;
+  padding: 4.17vw 23.96vw;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+
+.index .frame-36731 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 1.04vw;
+  margin-left: -6.85vw;
+  margin-right: -6.85vw;
+  position: relative;
+}
+
+.index .zapytaj-o-pomp-2 {
+  color: var(--cod-gray);
+  font-family: var(--font-family-manrope);
+  font-size: 3.12vw;
+  font-weight: 600;
+  letter-spacing: -0.09vw;
+  line-height: 3.23vw;
+  margin-top: -0.05vw;
+  position: relative;
+  text-align: center;
+  width: 65.78vw;
+}
+
+.index .opowiedz-nam-o-swoic-2 {
+  color: var(--cod-gray);
+  font-family: var(--font-family-manrope);
+  font-size: var(--font-size-xxxl);
+  font-weight: 500;
+  letter-spacing: -0.02vw;
+  line-height: 1.67vw;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.index .input-5 {
+  align-self: stretch;
+  height: 10.42vw;
+  width: 100%;
+}
+
+.index .frame-36727-2 {
+  align-items: center;
+  background-color: var(--white);
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.1vw;
+  position: relative;
+}
+
+.index .label-8 {
+  letter-spacing: 0;
+  line-height: 1.04vw;
+  margin-top: -0.05vw;
+  white-space: nowrap;
+}
+
+.index .frame-367-4 {
+  display: flex;
+  gap: 1.04vw;
+  width: 100%;
+}
+
+.index .input-4 {
+  flex: 1;
+  flex-grow: 1;
+  height: 2.76vw;
+}
+
+.index .label-9 {
+  letter-spacing: 0;
+  line-height: 1.04vw;
+  margin-top: -0.05vw;
+  white-space: nowrap;
+}
+
+.index .frame-6589-2 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 0.05vw solid;
+  border-color: var(--cod-gray-2);
+  border-radius: 0.52vw;
+  cursor: pointer;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 0.52vw;
+  height: 2.76vw;
+  justify-content: center;
+  padding: 0.89vw 1.04vw;
+  position: relative;
+}
+
+.index .frame-6397-2 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: space-between;
+  margin-bottom: -0.03vw;
+  margin-top: -0.03vw;
+  position: relative;
+  width: 100%;
+}
+
+.index .jestem-2 {
+  color: var(--cod-gray);
+  font-family: var(--font-family-manrope);
+  font-size: var(--font-size-xxl);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 1.04vw;
+  margin-top: -0.05vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.index .label-10 {
+  letter-spacing: 0;
+  line-height: 1.04vw;
+  margin-top: -0.05vw;
+  white-space: nowrap;
+}
+
+.index .label-11 {
+  letter-spacing: 0;
+  line-height: 1.04vw;
+  margin-top: -0.05vw;
+  white-space: nowrap;
+}
+
+.index .frame-367-5 {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.index .radio_select_2-2 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.52vw;
+  height: 2.6vw;
+  position: relative;
+}
+
+.index .group-62-2 {
+  aspect-ratio: 1;
+  border: 0.1vw solid;
+  border-color: var(--celeste);
+  border-radius: 0.62vw;
+  height: 1.25vw;
+  position: relative;
+  width: 1.25vw;
+}
+
+.index .x1-fazowe-230-v-50-hz-2 {
+  color: var(--cod-gray);
+  font-family: var(--font-family-manrope);
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 1.04vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.index .krok {
+  align-items: center;
+  background: linear-gradient(90deg, rgba(10, 10, 10, 1) 0%, rgba(64, 100, 223, 1) 100%);
+  border-radius: 1.56vw;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.52vw;
+  padding: 0.78vw 1.35vw;
+  position: relative;
+}
+
+.index .dalej {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.1vw;
+  position: relative;
+  width: fit-content;
+}
+
+.index .arrow_right-6 {
+  margin-right: -0.06vw;
+}
+
+.index .frame-78-2 {
+  align-items: flex-start;
+  display: flex;
+  gap: 5.21vw;
+  height: 44.30%;
+  left: 0;
+  padding: 3.65vw 8.33vw;
+  position: absolute;
+  top: 55.70%;
+  width: 100%;
+}
+
+.index .ellipse-2-17 {
+  height: 32.19vw;
+  left: calc(50.00% - 50.0vw);
+  position: absolute;
+  top: calc(50.00% - 16.09vw);
+  width: 41.15vw;
+}
+
+.index .frame-367-6 {
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.index .frame-36750 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 2.6vw;
+  position: relative;
+}
+
+.index .frame-36738-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.52vw;
+  position: relative;
+}
+
+.index .group-1-6 {
+  height: 2.03vw;
+  position: relative;
+  width: 8.86vw;
+}
+
+.index .polska-2 {
+  letter-spacing: -0.02vw;
+  line-height: 2.6vw;
+  margin-top: -0.05vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.index .tworzymy-przyszo-2 {
+  color: var(--white);
+  font-family: var(--font-family-manrope);
+  font-size: var(--font-size-xxl);
+  font-weight: 500;
+  letter-spacing: -0.02vw;
+  line-height: 1.41vw;
+  position: relative;
+  width: fit-content;
+}
+
+.index .frame-36749 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 1.56vw;
+  position: relative;
+}
+
+.index .frame-36737 {
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.index .strefa_partnera {
+  align-items: center;
+  background: linear-gradient(90deg, rgba(64, 100, 223, 1) 0%, rgba(64, 100, 223, 0.15) 100%);
+  border: 0.05vw solid;
+  border-color: var(--royal-blue);
+  border-radius: 2.08vw;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 1.04vw;
+  justify-content: center;
+  padding: 0.89vw 1.56vw;
+  position: relative;
+}
+
+.index .pomi {
+  color: var(--concrete);
+  font-family: var(--font-family-manrope);
+  font-size: 0.99vw;
+  font-weight: 600;
+  letter-spacing: -0.02vw;
+  line-height: 1.35vw;
+  margin-top: -0.05vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.index .frame-36742-4 {
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 3.12vw;
+  position: relative;
+}
+
+.index .raz-kupujesz-bez-koca-pompujesz-2 {
+  color: var(--white);
+  font-family: var(--font-family-manrope);
+  font-size: 2.08vw;
+  font-weight: 600;
+  letter-spacing: -0.04vw;
+  line-height: 2.6vw;
+  margin-top: -0.05vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.index .elektryczna-pompa-gbinowa-2 {
+  letter-spacing: -0.02vw;
+  line-height: 1.25vw;
+  margin-top: -0.05vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.index .frame-3674-3 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.26vw;
+  position: relative;
+}
+
+.index .frame-33-3 {
+  padding: 0.21vw 0.0vw;
+}
+
+.index .label-12 {
+  letter-spacing: 0.01vw;
+  line-height: normal;
+  margin-top: -0.05vw;
+}
+
+.index .label-13 {
+  letter-spacing: 0.01vw;
+  line-height: normal;
+  margin-top: -0.05vw;
+}
+
+.index .label-14 {
+  letter-spacing: 0.01vw;
+  line-height: normal;
+  margin-top: -0.05vw;
+}
+
+.index .label-15 {
+  letter-spacing: 0.01vw;
+  line-height: normal;
+  margin-top: -0.05vw;
+}
+
+.index .label-16 {
+  letter-spacing: 0.01vw;
+  line-height: normal;
+  margin-top: -0.05vw;
+}
+
+.index .label-17 {
+  letter-spacing: 0.01vw;
+  line-height: normal;
+  margin-top: -0.05vw;
+}
+
+.index .label-18 {
+  letter-spacing: 0.01vw;
+  line-height: normal;
+  margin-top: -0.05vw;
+}
+
+.index .label-19 {
+  letter-spacing: 0.01vw;
+  line-height: normal;
+  margin-top: -0.05vw;
+}
+
+.index .label-20 {
+  letter-spacing: 0.01vw;
+  line-height: normal;
+  margin-top: -0.05vw;
+}
+
+.index .na-skrty-2 {
+  letter-spacing: -0.02vw;
+  line-height: 1.25vw;
+  margin-top: -0.05vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.index .label_-menu_footer-3 {
+  cursor: pointer;
+}
+
+.index .label-21 {
+  letter-spacing: 0.01vw;
+  line-height: normal;
+  margin-top: -0.05vw;
+}
+
+.index .label-22 {
+  letter-spacing: 0.01vw;
+  line-height: normal;
+  margin-top: -0.05vw;
+}
+
+.index .label-23 {
+  letter-spacing: 0.01vw;
+  line-height: normal;
+  margin-top: -0.05vw;
+}
+
+.index .label-24 {
+  letter-spacing: 0.01vw;
+  line-height: normal;
+  margin-top: -0.05vw;
+}
+
+.index .label-25 {
+  letter-spacing: 0.01vw;
+  line-height: normal;
+  margin-top: -0.05vw;
+}
+
+.index .label-26 {
+  letter-spacing: 0.01vw;
+  line-height: normal;
+  margin-top: -0.05vw;
+}
+
+.index .label-27 {
+  letter-spacing: 0.01vw;
+  line-height: normal;
+  margin-top: -0.05vw;
+}
+
+.index .label-28 {
+  letter-spacing: 0.01vw;
+  line-height: normal;
+  margin-top: -0.05vw;
+}
+
+.index .kontakt-z-nami-2 {
+  letter-spacing: -0.02vw;
+  line-height: 1.25vw;
+  margin-top: -0.05vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.index .frame-36746-4 {
+  align-items: flex-start;
+}
+
+.index .label-29 {
+  letter-spacing: 0.01vw;
+  line-height: normal;
+  margin-top: -0.05vw;
+}
+
+.index .label-30 {
+  letter-spacing: 0.01vw;
+  line-height: normal;
+  margin-top: -0.05vw;
+}
+
+.index .frame-36748-2 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 0.52vw;
+  justify-content: center;
+  padding: 0.31vw 0.0vw;
+  position: relative;
+  width: 100%;
+}
+
+.index .dachowa-43-a-96-500-sochaczew-5 {
+  flex: 1;
+  line-height: normal;
+  margin-top: -0.05vw;
+}
+
+.index .dobr-pomp-4 {
+  letter-spacing: -0.02vw;
+  line-height: 1.25vw;
+  margin-top: -0.05vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.index .label-31 {
+  letter-spacing: 0.01vw;
+  line-height: normal;
+  margin-top: -0.05vw;
+}
+
+.index .label-32 {
+  letter-spacing: 0.01vw;
+  line-height: normal;
+  margin-top: -0.05vw;
+}
+
+.index .social_media-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.52vw;
+  padding: 0.26vw 0.0vw;
+  position: relative;
+}
+
+.index .social_media-item-2 {
+  height: 1.46vw;
+  position: relative;
+  width: 1.46vw;
+}
+
+.index .linkedin-2 {
+  align-items: center;
+  display: flex;
+  gap: 0.52vw;
+  height: 1.46vw;
+  justify-content: center;
+  padding: 0.21vw;
+  position: relative;
+  width: 1.46vw;
+}
+
+.index .subtract-2 {
+  aspect-ratio: 1;
+  height: 0.94vw;
+  position: relative;
+  width: 0.94vw;
+}
+
+.index .copyright {
+  cursor: pointer;
+  letter-spacing: -0.01vw;
+  line-height: 1.25vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.index .span0 {
+  letter-spacing: -0.0vw;
+}
+
+.index .arrow_right {
+  height: 0.99vw;
+  position: relative;
+  width: 1.1vw;
+}
+
+.index .button_to_dark_navi {
+  align-items: center;
+  background: linear-gradient(270deg, rgba(64, 100, 223, 1) 0%, rgba(24, 30, 51, 1) 100%);
+  border: 0.1vw solid;
+  border-color: var(--royal-blue);
+  border-radius: 1.56vw;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.52vw;
+  justify-content: center;
+  padding: 0.73vw 1.35vw;
+  position: relative;
+}
+
+.index .dachowa-43-a-96-500-sochaczew {
+  letter-spacing: 0.01vw;
+  position: relative;
+}
+
+.index .dystrybutor-pomp-ped {
+  align-self: stretch;
+  position: relative;
+}
+
+.index .frame-33 {
+  align-items: center;
+  border-bottom-style: solid;
+  border-bottom-width: 0.05vw;
+  border-color: transparent;
+  border-image: linear-gradient(90deg, rgba(64, 100, 223, 1) 0%, rgba(64, 100, 223, 0) 100%) 1;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.52vw;
+  position: relative;
+}
+
+.index .frame-367 {
+  align-items: flex-start;
+  align-self: stretch;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.index .frame-36742 {
+  align-items: flex-start;
+  flex-direction: column;
+}
+
+.index .frame-36746 {
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.index .frame-4 {
+  align-items: center;
+  background-color: var(--concrete);
+  border-radius: 1.56vw;
+  display: flex;
+  flex-direction: column;
+  gap: 0.52vw;
+  height: 2.5vw;
+  justify-content: center;
+  padding: 0.52vw 0.68vw;
+  position: absolute;
+  top: 0.1vw;
+  width: 2.5vw;
+}
+
+.index .frame-57 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 7.5vw;
+}
+
+.index .frame-6482 {
+  display: flex;
+  position: relative;
+}
+
+.index .frame-6483 {
+  flex: 0 0 auto;
+  gap: 5.21vw;
+  position: relative;
+}
+
+.index .frame-6501 {
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.52vw;
+  position: relative;
+  width: 100%;
+}
+
+.index .frame-71 {
+  align-items: center;
+  display: inline-flex;
+}
+
+.index .frame-72 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--shark);
+  border: 0.05vw solid;
+  border-radius: 0.0vw 30.0vw 30.0vw 0.0vw;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.52vw;
+  justify-content: center;
+  margin-left: -0.05vw;
+  overflow: hidden;
+  position: relative;
+}
+
+.index .image {
+  aspect-ratio: 1;
+  height: 3.57vw;
+  position: relative;
+  width: 3.57vw;
+}
+
+.index .input {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 0.05vw solid;
+  border-color: var(--cod-gray-2);
+  border-radius: 0.52vw;
+  display: flex;
+  padding: 0.83vw 1.04vw;
+  position: relative;
+}
+
+.index .label {
+  position: relative;
+  width: fit-content;
+}
+
+.index .label_-menu_footer {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.52vw;
+  padding: 0.1vw 0.0vw;
+  position: relative;
+}
+
+.index .name {
+  align-self: stretch;
+  letter-spacing: -0.02vw;
+  line-height: 1.04vw;
+  margin-top: -0.05vw;
+  position: relative;
+}
+
+.index .phone {
+  letter-spacing: 0.01vw;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+}
+
+.index .star {
+  letter-spacing: 0;
+  line-height: 1.04vw;
+  margin-top: -0.05vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.index .x48-46-4444-11-1-4 {
+  letter-spacing: 0.01vw;
+  line-height: normal;
+  margin-top: -0.05vw;
+  position: relative;
+  width: fit-content;
+}
+/* screen - pedrollou95kontaktu951366px */
+
+.pedrollou95kontaktu951366px {
+  align-items: flex-start;
+  background-color: var(--cod-gray);
+  display: flex;
+  flex-direction: column;
+  min-width: 100.0vw;
+  position: relative;
+}
+
+.pedrollou95kontaktu951366px .frame-3673324-2 {
+  align-items: center;
+  align-self: stretch;
+  background-image: url(../img/frame-3673324.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  gap: 0.73vw;
+  height: 50.0vw;
+  justify-content: center;
+  padding: 6.59vw 4.39vw 0.0vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95kontaktu951366px .konsultacja-9 {
+  align-items: center;
+  gap: 5.86vw;
+  height: 41.36vw;
+  justify-content: center;
+}
+
+.pedrollou95kontaktu951366px .ellipse-2-18 {
+  height: 77.09vw;
+  left: calc(50.00% - 48.83vw);
+  position: absolute;
+  top: calc(50.00% - 28.26vw);
+  width: 97.66vw;
+}
+
+.pedrollou95kontaktu951366px .frame-6483-9 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 7.32vw;
+  position: relative;
+}
+
+.pedrollou95kontaktu951366px .frame-6482-7 {
+  align-items: flex-start;
+  flex-direction: column;
+  gap: 2.93vw;
+  width: 28.55vw;
+}
+
+.pedrollou95kontaktu951366px .frame-65-7 {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 1.46vw;
+  position: relative;
+  width: 28.55vw;
+}
+
+.pedrollou95kontaktu951366px .frame-6501-4 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.37vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95kontaktu951366px .kontakt-10 {
+  align-self: stretch;
+  height: 0.97vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95kontaktu951366px .porozmawiajmy-o-pom-2 {
+  align-self: stretch;
+  letter-spacing: -0.07vw;
+  line-height: 4.39vw;
+  position: relative;
+}
+
+.pedrollou95kontaktu951366px .frame-15 {
+  align-self: stretch;
+  display: flex;
+  gap: 0.73vw;
+  width: 100%;
+}
+
+.pedrollou95kontaktu951366px .masz-studni-my-mamy-pomp-3 {
+  align-self: stretch;
+  color: var(--concrete);
+  font-family: var(--font-family-manrope);
+  font-size: 1.9vw;
+  font-weight: 600;
+  letter-spacing: -0.04vw;
+  line-height: 2.47vw;
+  margin-top: -0.07vw;
+  position: relative;
+}
+
+.pedrollou95kontaktu951366px .ktra-bdzie-w-niej-3 {
+  align-self: stretch;
+  color: var(--silver-chalice);
+  font-family: var(--font-family-manrope);
+  font-size: 1.46vw;
+  font-weight: 600;
+  letter-spacing: -0.03vw;
+  line-height: 2.2vw;
+  position: relative;
+}
+
+.pedrollou95kontaktu951366px .button_to_white-5 {
+  background: linear-gradient(270deg, rgba(64, 100, 223, 1) 0%, rgba(255, 255, 255, 1) 100%);
+}
+
+.pedrollou95kontaktu951366px .kontakt-11 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -0.15vw;
+  margin-top: -0.44vw;
+  position: relative;
+  width: fit-content;
+}
+
+.pedrollou95kontaktu951366px .arrow_right-8 {
+  height: 1.55vw;
+  margin-bottom: -0.27vw;
+  margin-top: -0.26vw;
+  position: relative;
+  width: 1.39vw;
+}
+
+.pedrollou95kontaktu951366px .u7761719182_httpss-12 {
+  aspect-ratio: 1.33;
+  height: 34.54vw;
+  object-fit: cover;
+  position: relative;
+  width: 46.05vw;
+}
+
+.pedrollou95kontaktu951366px .menu_2-3 {
+  -webkit-backdrop-filter: blur(0.18vw) brightness(100%);
+  align-items: flex-start;
+  backdrop-filter: blur(0.18vw) brightness(100%);
+  display: flex;
+  flex-direction: column;
+  height: 5.86vw;
+  justify-content: center;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100.0vw;
+}
+
+.pedrollou95kontaktu951366px .frame-27-2 {
+  align-items: center;
+  align-self: stretch;
+  border-bottom-style: solid;
+  border-bottom-width: 0.07vw;
+  border-color: var(--white-2);
+  display: flex;
+  gap: 3.66vw;
+  height: 7.32vw;
+  margin-bottom: -0.73vw;
+  margin-top: -0.73vw;
+  padding: 0.0vw 40.0vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95kontaktu951366px .group-1-7 {
+  aspect-ratio: 4.36;
+  height: 2.02vw;
+  position: relative;
+  width: 8.8vw;
+}
+
+.pedrollou95kontaktu951366px .frame-2-2 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  justify-content: space-between;
+  position: relative;
+}
+
+.pedrollou95kontaktu951366px .frame-6-2 {
+  align-items: center;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 1.46vw;
+  position: relative;
+}
+
+.pedrollou95kontaktu951366px .menu-hover-1 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.73vw;
+  height: 7.32vw;
+  position: relative;
+}
+
+.pedrollou95kontaktu951366px .frame-33-4 {
+  gap: 0.37vw;
+  height: 7.17vw;
+}
+
+.pedrollou95kontaktu951366px .elektryczna-pompa-gbinowa-4-sr-s {
+  letter-spacing: 0.01vw;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+}
+
+.pedrollou95kontaktu951366px .arrow_down-7 {
+  aspect-ratio: 2.34;
+  height: 0.37vw;
+  position: relative;
+  width: 0.88vw;
+}
+
+.pedrollou95kontaktu951366px .arrow_down-8 {
+  height: 141.40%;
+  left: -5.34%;
+  position: absolute;
+  top: -15.36%;
+  width: 110.68%;
+}
+
+.pedrollou95kontaktu951366px .oferta-dla-partnerw {
+  letter-spacing: 0.01vw;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+}
+
+.pedrollou95kontaktu951366px .o-nas {
+  letter-spacing: 0.01vw;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+}
+
+.pedrollou95kontaktu951366px .frame-33-6 {
+  gap: 0.73vw;
+  height: 7.17vw;
+}
+
+.pedrollou95kontaktu951366px .kontakt-12 {
+  letter-spacing: 0.01vw;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+}
+
+.pedrollou95kontaktu951366px .frame-25-1 {
+  height: 7.32vw;
+  position: relative;
+  width: 4.25vw;
+}
+
+.pedrollou95kontaktu951366px .frame-5-2 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.73vw;
+  margin-left: -2.79vw;
+  position: relative;
+}
+
+.pedrollou95kontaktu951366px .call_button-1::before {
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  background: linear-gradient(90deg, rgba(64, 100, 223, 1) 0%, rgba(55, 55, 55, 1) 100%);
+  border-radius: 2.2vw;
+  content: '';
+  inset: 0;
+  mask-composite: exclude;
+  padding: 0.15vw;
+  pointer-events: none;
+  position: absolute;
+  z-index: 1;
+}
+
+.pedrollou95kontaktu951366px .call_button-1 {
+  align-items: center;
+  background: linear-gradient(90deg, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 255, 0) 100%);
+  border: none;
+  border-radius: 2.2vw;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.73vw;
+  height: 3.07vw;
+  justify-content: center;
+  padding: 1.02vw 1.9vw;
+  position: relative;
+}
+
+.pedrollou95kontaktu951366px .frame-1-3 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.73vw;
+  justify-content: center;
+  margin-bottom: -0.29vw;
+  margin-top: -0.29vw;
+  position: relative;
+}
+
+.pedrollou95kontaktu951366px .vector-10 {
+  aspect-ratio: 0.61;
+  height: 1.46vw;
+  position: relative;
+  width: 0.88vw;
+}
+
+.pedrollou95kontaktu951366px .dobierz_pompe-1 {
+  align-items: center;
+  background-color: var(--royal-blue);
+  border-radius: 2.2vw;
+  display: flex;
+  gap: 1.46vw;
+  height: 3.07vw;
+  padding: 0.73vw 4.17vw 0.73vw 1.32vw;
+  position: relative;
+  width: 13.47vw;
+}
+
+.pedrollou95kontaktu951366px .frame-4-4 {
+  height: 2.93vw;
+  left: 10.47vw;
+  top: 0.07vw;
+  width: 2.93vw;
+}
+
+.pedrollou95kontaktu951366px .group-3-3 {
+  height: 0.59vw;
+  width: 0.94vw;
+}
+
+.pedrollou95kontaktu951366px .vector-11 {
+  height: 116.24%;
+  left: 66.80%;
+  position: absolute;
+  top: -8.12%;
+  width: 42.80%;
+}
+
+.pedrollou95kontaktu951366px .vector-12 {
+  height: 25.00%;
+  left: -7.79%;
+  position: absolute;
+  top: 37.50%;
+  width: 107.80%;
+}
+
+.pedrollou95kontaktu951366px .dobierz-pomp-1 {
+  letter-spacing: -0.02vw;
+  line-height: normal;
+  margin-right: -0.59vw;
+  margin-top: -0.07vw;
+  position: relative;
+  width: fit-content;
+}
+
+.pedrollou95kontaktu951366px .frame-82-2 {
+  align-items: center;
+  background-color: var(--cod-gray);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100.0vw;
+}
+
+.pedrollou95kontaktu951366px .technologia_3-1 {
+  height: 47.36vw;
+  left: calc(50.00% - 50.0vw);
+  mix-blend-mode: lighten;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 100.0vw;
+}
+
+.pedrollou95kontaktu951366px .frame-6483-10 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 7.32vw;
+  height: 38.14vw;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95kontaktu951366px .u7761719182_httpss-13 {
+  align-self: stretch;
+  background-image: url(../img/u7761719182-httpss-28.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 1.46vw;
+  height: 38.43vw;
+  margin-bottom: -0.15vw;
+  margin-top: -0.15vw;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95kontaktu951366px .frame-36742-5 {
+  -webkit-backdrop-filter: blur(0.37vw) brightness(100%);
+  backdrop-filter: blur(0.37vw) brightness(100%);
+  background-color: var(--cod-gray-3);
+  border: 0.07vw solid;
+  border-color: var(--royal-blue-2);
+  border-radius: 1.46vw;
+  display: inline-flex;
+  gap: 0.73vw;
+  justify-content: center;
+  left: 45.31vw;
+  padding: 2.93vw;
+  position: absolute;
+  top: 10.69vw;
+}
+
+.pedrollou95kontaktu951366px .group-1-8 {
+  aspect-ratio: 4.36;
+  height: 2.73vw;
+  position: relative;
+  width: 11.93vw;
+}
+
+.pedrollou95kontaktu951366px .pedrollo-polska-3 {
+  letter-spacing: -0.02vw;
+  line-height: 1.76vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95kontaktu951366px .dachowa-43-a-96-500-sochaczew-6 {
+  line-height: 1.43vw;
+  width: fit-content;
+}
+
+.pedrollou95kontaktu951366px .vector-13 {
+  height: 3.59vw;
+  left: 41.22vw;
+  position: absolute;
+  top: 16.33vw;
+  width: 2.64vw;
+}
+
+.pedrollou95kontaktu951366px .frame-6566-3 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--white);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 5.12vw;
+  padding: 5.12vw 8.78vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95kontaktu951366px .ellipse-2-19 {
+  height: 93.12vw;
+  left: calc(50.00% - 50.0vw);
+  position: absolute;
+  top: calc(50.00% - 55.56vw);
+  width: 73.72vw;
+}
+
+.pedrollou95kontaktu951366px .frame-6587-3 {
+  align-items: center;
+  border-radius: 2.2vw;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 1.46vw;
+  position: relative;
+}
+
+.pedrollou95kontaktu951366px .frame-6576-3 {
+  align-items: center;
+  border-radius: 2.2vw;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 5.86vw;
+  justify-content: center;
+  position: relative;
+}
+
+.pedrollou95kontaktu951366px .frame-6596-3 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 2.93vw;
+  justify-content: center;
+  position: relative;
+}
+
+.pedrollou95kontaktu951366px .frame-16 {
+  align-self: stretch;
+  display: flex;
+  width: 100%;
+}
+
+.pedrollou95kontaktu951366px .instalator-3 {
+  aspect-ratio: 1;
+  height: 4.39vw;
+  object-fit: cover;
+  position: relative;
+  width: 4.39vw;
+}
+
+.pedrollou95kontaktu951366px .frame-17 {
+  align-self: stretch;
+  display: flex;
+  gap: 1.46vw;
+  width: 100%;
+}
+
+.pedrollou95kontaktu951366px .znajd-instalatora-z-twojej-okolicy-3 {
+  align-self: stretch;
+  color: var(--cod-gray);
+  font-family: var(--font-family-manrope);
+  font-size: 3.66vw;
+  font-weight: 600;
+  letter-spacing: -0.11vw;
+  line-height: 4.54vw;
+  margin-top: -0.07vw;
+  position: relative;
+}
+
+.pedrollou95kontaktu951366px .wolisz-powierzy-mont-3 {
+  align-self: stretch;
+  height: 3.33vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95kontaktu951366px .frame-6586-3 {
+  align-items: flex-start;
+  border-radius: 2.2vw;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 1.46vw;
+  position: relative;
+}
+
+.pedrollou95kontaktu951366px .wpisz-kod-pocztowy-montau-3 {
+  align-self: stretch;
+  height: 1.45vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95kontaktu951366px .frame-6574-3 {
+  align-items: center;
+  border: 0.07vw solid;
+  border-color: var(--royal-blue);
+  border-radius: 2.2vw;
+  display: flex;
+  height: 3.07vw;
+  justify-content: space-between;
+  padding: 0.59vw 0.0vw 0.59vw 30.0vw;
+  position: relative;
+  width: 30.53vw;
+}
+
+.pedrollou95kontaktu951366px .text-4 {
+  color: var(--cod-gray);
+  font-family: var(--font-family-manrope);
+  font-size: 1.39vw;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.07vw;
+  position: relative;
+  width: fit-content;
+}
+
+.pedrollou95kontaktu951366px .button_to_dark_navi-4 {
+  align-items: center;
+  background: linear-gradient(270deg, rgba(64, 100, 223, 1) 0%, rgba(24, 30, 51, 1) 100%);
+  border: 0.15vw solid;
+  border-color: var(--royal-blue);
+  border-radius: 2.2vw;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.73vw;
+  height: 3.07vw;
+  justify-content: center;
+  margin-bottom: -0.59vw;
+  margin-top: -0.59vw;
+  padding: 1.02vw 1.54vw;
+  position: relative;
+}
+
+.pedrollou95kontaktu951366px .poznaj-nasz-zestaw-2 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -0.26vw;
+  margin-top: -0.55vw;
+  position: relative;
+  width: fit-content;
+}
+
+.pedrollou95kontaktu951366px .search-3 {
+  height: 1.39vw;
+  margin-bottom: -0.18vw;
+  margin-top: -0.18vw;
+  position: relative;
+  width: 1.39vw;
+}
+
+.pedrollou95kontaktu951366px .u7761719182_httpss-14 {
+  aspect-ratio: 0.94;
+  background-image: url(../img/u7761719182-httpss-2.gif);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 1.46vw;
+  height: 39.02vw;
+  position: relative;
+  width: 36.6vw;
+}
+
+.pedrollou95kontaktu951366px .frame-6480-3 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--black-haze);
+  border: 0.07vw solid;
+  border-color: var(--pumice);
+  border-radius: 2.2vw;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 6.59vw;
+  padding: 2.2vw 3.66vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95kontaktu951366px .frame-6482-8 {
+  align-items: center;
+  align-self: stretch;
+  flex: 0 0 auto;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.pedrollou95kontaktu951366px .pan-darek-3 {
+  color: var(--cod-gray);
+  font-family: var(--font-family-manrope);
+  font-size: var(--font-size-xxxxxl);
+  font-weight: 600;
+  letter-spacing: -0.04vw;
+  line-height: 2.78vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95kontaktu951366px .frame-6580-3 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.73vw;
+  justify-content: center;
+  position: relative;
+}
+
+.pedrollou95kontaktu951366px .arrow-5 {
+  align-items: center;
+  aspect-ratio: 1;
+  border: 0.15vw solid;
+  border-color: var(--emerald);
+  border-radius: 2.2vw;
+  display: flex;
+  gap: 0.73vw;
+  height: 1.46vw;
+  justify-content: center;
+  padding: 0.73vw 0.0vw;
+  position: relative;
+  width: 1.46vw;
+}
+
+.pedrollou95kontaktu951366px .frame-76-3 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.73vw;
+  margin-bottom: -0.22vw;
+  margin-top: -0.22vw;
+  position: relative;
+}
+
+.pedrollou95kontaktu951366px .line-8-3 {
+  height: 0.6vw;
+  margin-bottom: -0.11vw;
+  margin-left: -0.05vw;
+  margin-right: -0.05vw;
+  margin-top: -0.05vw;
+  position: relative;
+  width: 0.76vw;
+}
+
+.pedrollou95kontaktu951366px .instalator-pomp-w-twojej-okolicy-3 {
+  height: 1.28vw;
+  margin-bottom: -0.1vw;
+  position: relative;
+  width: 19.05vw;
+}
+
+.pedrollou95kontaktu951366px .frame-6494-3 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.pedrollou95kontaktu951366px .zapytaj-3 {
+  align-items: center;
+  background-color: var(--royal-blue);
+  border-radius: 2.2vw;
+  display: flex;
+  gap: 1.46vw;
+  height: 3.07vw;
+  padding: 1.02vw 5.12vw 1.02vw 1.9vw;
+  position: relative;
+  width: 21.16vw;
+}
+
+.pedrollou95kontaktu951366px .frame-4-5 {
+  aspect-ratio: 1;
+  height: 2.78vw;
+  left: 18.23vw;
+  top: 0.15vw;
+  width: 2.78vw;
+}
+
+.pedrollou95kontaktu951366px .group-3-4 {
+  height: 0.73vw;
+  margin-left: -0.15vw;
+  margin-right: -0.15vw;
+  width: 1.17vw;
+}
+
+.pedrollou95kontaktu951366px .vector-14 {
+  height: 112.99%;
+  left: 67.99%;
+  position: absolute;
+  top: -6.50%;
+  width: 39.56%;
+}
+
+.pedrollou95kontaktu951366px .vector-15 {
+  height: 20.00%;
+  left: -6.23%;
+  position: absolute;
+  top: 40.00%;
+  width: 106.23%;
+}
+
+.pedrollou95kontaktu951366px .zapytaj-o-produkt-1 {
+  letter-spacing: -0.03vw;
+  line-height: normal;
+  margin-bottom: -0.33vw;
+  margin-top: -0.48vw;
+  position: relative;
+  width: fit-content;
+}
+
+.pedrollou95kontaktu951366px .frame-64-3 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 16.84vw;
+  height: 41.58vw;
+  padding: 0.0vw 12.08vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95kontaktu951366px .frame-20-4 {
+  height: 53.51vw;
+  left: calc(50.00% - 70.28vw);
+  position: absolute;
+  top: calc(50.00% - 26.72vw);
+  width: 140.56vw;
+}
+
+.pedrollou95kontaktu951366px .ellipse-1-3 {
+  background-color: var(--dove-gray);
+  border-radius: 29.8vw;
+  filter: blur(13.32vw);;
+  height: 59.59vw;
+  left: calc(50.00% - 29.8vw);
+  position: relative;
+  top: calc(50.00% - 29.72vw);
+  width: 59.59vw;
+}
+
+.pedrollou95kontaktu951366px .frame-51-3 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 2.93vw;
+  justify-content: center;
+  position: relative;
+}
+
+.pedrollou95kontaktu951366px .frame-65-8 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+}
+
+.pedrollou95kontaktu951366px .referencje-3 {
+  color: var(--concrete-2);
+  font-family: var(--font-family-manrope);
+  font-size: var(--font-size-xxl);
+  font-weight: 600;
+  letter-spacing: -0.04vw;
+  line-height: 2.2vw;
+  margin-top: -0.07vw;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95kontaktu951366px .co-mwi-o-nas-klienci-3 {
+  letter-spacing: -0.06vw;
+  line-height: 3.81vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95kontaktu951366px .testimonials-3 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 2.2vw;
+  justify-content: center;
+  margin-left: -115.63vw;
+  margin-right: -115.63vw;
+  position: relative;
+}
+
+.pedrollou95kontaktu951366px .frame-79-1 {
+  height: 17.06vw;
+  position: relative;
+  width: 307.1vw;
+}
+
+.pedrollou95kontaktu951366px .frame-69-1 {
+  -webkit-backdrop-filter: blur(1.46vw) brightness(100%);
+  align-items: center;
+  backdrop-filter: blur(1.46vw) brightness(100%);
+  display: inline-flex;
+  left: 0;
+  opacity: 0.4;
+  position: absolute;
+  top: 1.46vw;
+}
+
+.pedrollou95kontaktu951366px .frame-71-5 {
+  background-color: var(--eerie-black);
+  border: 0.07vw solid;
+  border-color: var(--lynch);
+  border-radius: 2.2vw 0.0vw 0.0vw 2.2vw;
+  flex: 0 0 auto;
+  gap: 0.73vw;
+  padding: 2.93vw;
+  position: relative;
+}
+
+.pedrollou95kontaktu951366px .frame-70-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.73vw;
+  justify-content: center;
+  position: relative;
+}
+
+.pedrollou95kontaktu951366px .image-7 {
+  margin-left: -1887.96vw;
+  margin-top: -148.43vw;
+}
+
+.pedrollou95kontaktu951366px .arek-nawrocki-2 {
+  align-self: stretch;
+  letter-spacing: -0.02vw;
+  line-height: 1.46vw;
+  margin-top: -0.07vw;
+  position: relative;
+}
+
+.pedrollou95kontaktu951366px .dystrybutor-pomp-ped-4 {
+  line-height: 1.46vw;
+}
+
+.pedrollou95kontaktu951366px .frame-72-4 {
+  border-color: var(--lynch);
+  padding: 2.93vw 3.66vw;
+}
+
+.pedrollou95kontaktu951366px .zawsze-polecam-te-p-2 {
+  letter-spacing: -0.06vw;
+  line-height: 2.71vw;
+  position: relative;
+  width: 33.67vw;
+}
+
+.pedrollou95kontaktu951366px .span-6 {
+  letter-spacing: -0.02vw;
+}
+
+.pedrollou95kontaktu951366px .frame-67-3 {
+  -webkit-backdrop-filter: blur(1.46vw) brightness(100%);
+  align-items: center;
+  backdrop-filter: blur(1.46vw) brightness(100%);
+  border-radius: 2.2vw;
+  display: inline-flex;
+  left: 121.96vw;
+  position: absolute;
+  top: 0;
+}
+
+.pedrollou95kontaktu951366px .frame-71-7 {
+  background-color: var(--eerie-black);
+  border: 0.07vw solid;
+  border-color: var(--silver-chalice-2);
+  border-radius: 2.2vw 0.0vw 0.0vw 2.2vw;
+  flex: 0 0 auto;
+  gap: 0.73vw;
+  padding: 2.93vw;
+  position: relative;
+}
+
+.pedrollou95kontaktu951366px .frame-18 {
+  display: inline-flex;
+  gap: 0.51vw;
+  justify-content: center;
+}
+
+.pedrollou95kontaktu951366px .frame-57-6 {
+  gap: 0.22vw;
+}
+
+.pedrollou95kontaktu951366px .name-5 {
+  color: var(--concrete);
+  font-family: var(--font-family-geist);
+  font-size: var(--font-size-m);
+  font-weight: 600;
+}
+
+.pedrollou95kontaktu951366px .dystrybutor-pomp-ped-6 {
+  color: var(--silver-chalice);
+  font-family: var(--font-family-geist);
+  font-size: 0.88vw;
+  font-weight: 500;
+  line-height: 1.32vw;
+}
+
+.pedrollou95kontaktu951366px .frame-72-6 {
+  border-color: var(--silver-chalice-2);
+  padding: 2.93vw 3.66vw;
+}
+
+.pedrollou95kontaktu951366px .sprzedaj-sprzt-r-3 {
+  letter-spacing: -0.05vw;
+  line-height: 2.27vw;
+  position: relative;
+  width: 33.67vw;
+}
+
+.pedrollou95kontaktu951366px .span-7 {
+  letter-spacing: -0.01vw;
+}
+
+.pedrollou95kontaktu951366px .frame-68-1 {
+  -webkit-backdrop-filter: blur(1.46vw) brightness(100%);
+  align-items: center;
+  backdrop-filter: blur(1.46vw) brightness(100%);
+  display: inline-flex;
+  left: 183.02vw;
+  opacity: 0.4;
+  position: absolute;
+  top: 1.1vw;
+}
+
+.pedrollou95kontaktu951366px .frame-71-6 {
+  background-color: var(--eerie-black);
+  border: 0.07vw solid;
+  border-color: var(--lynch);
+  border-radius: 2.2vw 0.0vw 0.0vw 2.2vw;
+  flex: 0 0 auto;
+  gap: 0.73vw;
+  padding: 1.46vw 2.93vw;
+  position: relative;
+}
+
+.pedrollou95kontaktu951366px .frame-57-5 {
+  gap: 0.44vw;
+}
+
+.pedrollou95kontaktu951366px .dystrybutor-pomp-ped-5 {
+  line-height: 1.32vw;
+}
+
+.pedrollou95kontaktu951366px .frame-72-5 {
+  border-color: var(--lynch);
+  padding: 2.2vw 2.93vw;
+}
+
+.pedrollou95kontaktu951366px .frame-70-3 {
+  -webkit-backdrop-filter: blur(1.46vw) brightness(100%);
+  align-items: center;
+  backdrop-filter: blur(1.46vw) brightness(100%);
+  display: inline-flex;
+  left: 249.78vw;
+  opacity: 0.4;
+  position: absolute;
+  top: 1.46vw;
+}
+
+.pedrollou95kontaktu951366px .image-8 {
+  margin-left: -2137.74vw;
+  margin-top: -148.43vw;
+}
+
+.pedrollou95kontaktu951366px .sprzt-najwyszej-k-2 {
+  letter-spacing: -0.06vw;
+  line-height: 2.71vw;
+  position: relative;
+  width: 33.67vw;
+}
+
+.pedrollou95kontaktu951366px .frame-71-8 {
+  -webkit-backdrop-filter: blur(1.46vw) brightness(100%);
+  backdrop-filter: blur(1.46vw) brightness(100%);
+  left: 62.37vw;
+  opacity: 0.4;
+  position: absolute;
+  top: 1.1vw;
+}
+
+.pedrollou95kontaktu951366px .image-9 {
+  margin-left: -1950.37vw;
+  margin-top: -146.58vw;
+}
+
+.pedrollou95kontaktu951366px .frame-77-1 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 1.46vw;
+  position: relative;
+}
+
+.pedrollou95kontaktu951366px .arrow-4 {
+  height: 4.39vw;
+  position: relative;
+  width: 4.39vw;
+}
+
+.pedrollou95kontaktu951366px .konsultacja-10 {
+  align-items: flex-start;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.73vw;
+  padding: 5.86vw 11.71vw;
+}
+
+.pedrollou95kontaktu951366px .ellipse-2-20 {
+  height: 110.54vw;
+  left: calc(50.00% - 50.0vw);
+  position: absolute;
+  top: calc(50.00% - 54.9vw);
+  width: 100.0vw;
+}
+
+.pedrollou95kontaktu951366px .frame-6483-11 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 5.86vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95kontaktu951366px .u7761719182_httpss-15 {
+  background-image: url(../img/u7761719182-httpss-26.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 1.46vw;
+  flex: 1;
+  flex-grow: 1;
+  height: 49.34vw;
+  position: relative;
+}
+
+.pedrollou95kontaktu951366px .ellipse-3-3 {
+  height: 47.07vw;
+  left: calc(50.00% - 27.67vw);
+  position: absolute;
+  top: calc(50.00% - 18.01vw);
+  width: 47.07vw;
+}
+
+.pedrollou95kontaktu951366px .ellipse-2-21 {
+  height: 40.92vw;
+  left: calc(50.00% - 9.81vw);
+  position: absolute;
+  top: calc(50.00% - 33.09vw);
+  width: 41.73vw;
+}
+
+.pedrollou95kontaktu951366px .frame-6482-9 {
+  align-items: flex-start;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 2.93vw;
+}
+
+.pedrollou95kontaktu951366px .frame-65-9 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 2.2vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95kontaktu951366px .pompa-ma-dziaa-be-1 {
+  align-self: stretch;
+  letter-spacing: -0.07vw;
+  line-height: 4.39vw;
+  margin-top: -0.07vw;
+  position: relative;
+}
+
+.pedrollou95kontaktu951366px .to-prawda-e-jeste-3 {
+  align-self: stretch;
+  letter-spacing: -0.03vw;
+  line-height: 2.2vw;
+  position: relative;
+}
+
+.pedrollou95kontaktu951366px .span-8 {
+  letter-spacing: -0.0vw;
+}
+
+.pedrollou95kontaktu951366px .konsultacja-11 {
+  align-items: flex-start;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 2.2vw;
+  padding: 35.87vw 4.39vw 8.78vw;
+}
+
+.pedrollou95kontaktu951366px .ellipse-2-22 {
+  height: 110.91vw;
+  left: calc(50.00% - 50.0vw);
+  position: absolute;
+  top: calc(50.00% - 55.42vw);
+  width: 100.0vw;
+}
+
+.pedrollou95kontaktu951366px .frame-65-10 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 2.2vw;
+  left: 55.56vw;
+  position: absolute;
+  top: 8.93vw;
+}
+
+.pedrollou95kontaktu951366px .obsugujemyca-polsk-1 {
+  letter-spacing: -0.07vw;
+  line-height: 4.39vw;
+  margin-top: -0.07vw;
+  position: relative;
+  width: fit-content;
+}
+
+.pedrollou95kontaktu951366px .odlego-nie-gra-ro-3 {
+  letter-spacing: -0.03vw;
+  line-height: 2.2vw;
+  position: relative;
+  width: fit-content;
+}
+
+.pedrollou95kontaktu951366px .rectangle-1115-3 {
+  height: 41.51vw;
+  left: 4.39vw;
+  mix-blend-mode: screen;
+  object-fit: cover;
+  position: absolute;
+  top: -0.37vw;
+  width: 51.02vw;
+}
+
+.pedrollou95kontaktu951366px .frame-36808-3 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 1.46vw 1.46vw;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95kontaktu951366px .kontakt-8::before {
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  background: conic-gradient(from 90deg at 48% 50%, rgba(42, 44, 55, 1) 0%, rgba(42, 44, 55, 1) 15%, rgba(42, 44, 55, 1) 31%);
+  border-radius: 0.73vw;
+  content: '';
+  inset: 0;
+  mask-composite: exclude;
+  padding: 0.07vw;
+  pointer-events: none;
+  position: absolute;
+  z-index: 1;
+}
+
+.pedrollou95kontaktu951366px .kontakt-8 {
+  align-items: center;
+  border: none;
+  border-radius: 0.73vw;
+  display: flex;
+  flex-direction: column;
+  gap: 0.73vw;
+  padding: 2.93vw 2.2vw;
+  position: relative;
+  width: 21.96vw;
+}
+
+.pedrollou95kontaktu951366px .biuro-3 {
+  letter-spacing: -0.03vw;
+  line-height: 1.76vw;
+  margin-top: -0.07vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95kontaktu951366px .frame-36746-5 {
+  align-items: center;
+  gap: 0.37vw;
+}
+
+.pedrollou95kontaktu951366px .biuropedrollopolskapl-1 {
+  cursor: pointer;
+  letter-spacing: 0.01vw;
+  line-height: normal;
+  position: relative;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.pedrollou95kontaktu951366px .kontakt-9::before {
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  background: conic-gradient(from 90deg at 48% 50%, rgba(42, 44, 55, 1) 0%, rgba(42, 44, 55, 1) 15%, rgba(42, 44, 55, 1) 31%);
+  border-radius: 0.73vw;
+  content: '';
+  inset: 0;
+  mask-composite: exclude;
+  padding: 0.07vw;
+  pointer-events: none;
+  position: absolute;
+  z-index: 1;
+}
+
+.pedrollou95kontaktu951366px .kontakt-9 {
+  align-items: center;
+  border: none;
+  border-radius: 0.73vw;
+  display: flex;
+  flex-direction: column;
+  gap: 0.73vw;
+  height: 11.79vw;
+  padding: 2.93vw 2.2vw;
+  position: relative;
+  width: 21.96vw;
+}
+
+.pedrollou95kontaktu951366px .footer_desktop-3 {
+  align-self: stretch;
+  height: 102.12vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95kontaktu951366px .frame-6613-3 {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  gap: 2.93vw;
+  height: 55.70%;
+  left: 0;
+  padding: 4.39vw 16.84vw;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+
+.pedrollou95kontaktu951366px .frame-36731-1 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 1.46vw;
+  margin-left: -13.07vw;
+  margin-right: -13.07vw;
+  position: relative;
+}
+
+.pedrollou95kontaktu951366px .zapytaj-o-pomp-3 {
+  color: var(--cod-gray);
+  font-family: var(--font-family-manrope);
+  font-size: 3.66vw;
+  font-weight: 600;
+  letter-spacing: -0.11vw;
+  line-height: 3.81vw;
+  margin-top: -0.07vw;
+  position: relative;
+  text-align: center;
+  width: 92.46vw;
+}
+
+.pedrollou95kontaktu951366px .opowiedz-nam-o-swoic-3 {
+  color: var(--cod-gray);
+  font-family: var(--font-family-manrope);
+  font-size: var(--font-size-xxl);
+  font-weight: 500;
+  letter-spacing: -0.03vw;
+  line-height: 1.98vw;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.pedrollou95kontaktu951366px .input-7 {
+  align-self: stretch;
+  height: 14.64vw;
+  width: 100%;
+}
+
+.pedrollou95kontaktu951366px .frame-36727-3 {
+  align-items: center;
+  background-color: var(--white);
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.15vw;
+  position: relative;
+}
+
+.pedrollou95kontaktu951366px .label-34 {
+  letter-spacing: 0;
+  line-height: 1.46vw;
+  white-space: nowrap;
+}
+
+.pedrollou95kontaktu951366px .frame-367-7 {
+  display: flex;
+  gap: 1.46vw;
+  width: 100%;
+}
+
+.pedrollou95kontaktu951366px .input-6 {
+  flex: 1;
+  flex-grow: 1;
+  height: 3.88vw;
+}
+
+.pedrollou95kontaktu951366px .label-35 {
+  letter-spacing: 0;
+  line-height: 1.46vw;
+  white-space: nowrap;
+}
+
+.pedrollou95kontaktu951366px .frame-6589-3 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 0.07vw solid;
+  border-color: var(--cod-gray-2);
+  border-radius: 0.73vw;
+  cursor: pointer;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 0.73vw;
+  height: 3.88vw;
+  justify-content: center;
+  padding: 1.24vw 1.46vw;
+  position: relative;
+}
+
+.pedrollou95kontaktu951366px .frame-6397-3 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: space-between;
+  margin-bottom: -0.04vw;
+  margin-top: -0.04vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95kontaktu951366px .jestem-3 {
+  color: var(--cod-gray);
+  font-family: var(--font-family-manrope);
+  font-size: var(--font-size-xl);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 1.46vw;
+  margin-top: -0.07vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95kontaktu951366px .arrow_down-9 {
+  height: 0.47vw;
+  position: relative;
+  width: 1.1vw;
+}
+
+.pedrollou95kontaktu951366px .arrow_down-10 {
+  height: 132.38%;
+  left: -4.34%;
+  position: absolute;
+  top: -11.86%;
+  width: 108.67%;
+}
+
+.pedrollou95kontaktu951366px .label-36 {
+  letter-spacing: 0;
+  line-height: 1.46vw;
+  white-space: nowrap;
+}
+
+.pedrollou95kontaktu951366px .label-37 {
+  letter-spacing: 0;
+  line-height: 1.46vw;
+  white-space: nowrap;
+}
+
+.pedrollou95kontaktu951366px .frame-367-8 {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.pedrollou95kontaktu951366px .radio_select_2-3 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.73vw;
+  height: 3.66vw;
+  position: relative;
+}
+
+.pedrollou95kontaktu951366px .group-62-3 {
+  aspect-ratio: 1;
+  border: 0.15vw solid;
+  border-color: var(--celeste);
+  border-radius: 0.88vw;
+  height: 1.76vw;
+  position: relative;
+  width: 1.76vw;
+}
+
+.pedrollou95kontaktu951366px .x1-fazowe-230-v-50-hz-3 {
+  color: var(--cod-gray);
+  font-family: var(--font-family-manrope);
+  font-size: 1.1vw;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 1.46vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95kontaktu951366px .button_to_white-6 {
+  background: linear-gradient(270deg, rgba(64, 100, 223, 1) 0%, rgba(255, 255, 255, 1) 100%);
+  flex: 0 0 auto;
+}
+
+.pedrollou95kontaktu951366px .wylij-2 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -0.15vw;
+  margin-top: -0.44vw;
+  position: relative;
+  width: fit-content;
+}
+
+.pedrollou95kontaktu951366px .arrow_right-7 {
+  height: 1.39vw;
+  margin-bottom: -0.18vw;
+  margin-right: -0.09vw;
+  margin-top: -0.18vw;
+  position: relative;
+  width: 1.55vw;
+}
+
+.pedrollou95kontaktu951366px .frame-78-3 {
+  align-items: flex-start;
+  display: flex;
+  gap: 7.32vw;
+  height: 44.30%;
+  left: 0;
+  padding: 5.12vw 11.71vw;
+  position: absolute;
+  top: 55.70%;
+  width: 100%;
+}
+
+.pedrollou95kontaktu951366px .ellipse-2-23 {
+  height: 45.24vw;
+  left: calc(50.00% - 50.0vw);
+  position: absolute;
+  top: calc(50.00% - 22.62vw);
+  width: 37.55vw;
+}
+
+.pedrollou95kontaktu951366px .frame-367-9 {
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.pedrollou95kontaktu951366px .frame-36750-1 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 3.66vw;
+  position: relative;
+}
+
+.pedrollou95kontaktu951366px .frame-36738-3 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.73vw;
+  position: relative;
+}
+
+.pedrollou95kontaktu951366px .group-1-9 {
+  height: 2.86vw;
+  position: relative;
+  width: 12.46vw;
+}
+
+.pedrollou95kontaktu951366px .polska-3 {
+  letter-spacing: -0.03vw;
+  line-height: 3.66vw;
+  margin-top: -0.07vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95kontaktu951366px .tworzymy-przyszo-3 {
+  color: var(--white);
+  font-family: var(--font-family-manrope);
+  font-size: var(--font-size-l);
+  font-weight: 500;
+  letter-spacing: -0.02vw;
+  line-height: 1.83vw;
+  position: relative;
+  width: fit-content;
+}
+
+.pedrollou95kontaktu951366px .frame-36749-1 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 2.2vw;
+  position: relative;
+}
+
+.pedrollou95kontaktu951366px .frame-36737-1 {
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.pedrollou95kontaktu951366px .button_to_white-7 {
+  background: linear-gradient(90deg, rgba(64, 100, 223, 1) 0%, rgba(64, 100, 223, 0.15) 100%);
+  border: 0.07vw solid;
+  border-color: var(--royal-blue);
+}
+
+.pedrollou95kontaktu951366px .strefa-partnera-2 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -0.22vw;
+  margin-top: -0.37vw;
+  position: relative;
+  width: fit-content;
+}
+
+.pedrollou95kontaktu951366px .frame-36742-6 {
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 4.39vw;
+  position: relative;
+}
+
+.pedrollou95kontaktu951366px .raz-kupujesz-bez-koca-pompujesz-3 {
+  letter-spacing: -0.04vw;
+  line-height: 2.93vw;
+  margin-top: -0.07vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95kontaktu951366px .elektryczna-pompa-gbinowa-3 {
+  letter-spacing: -0.02vw;
+  line-height: 1.61vw;
+  margin-top: -0.07vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95kontaktu951366px .frame-3674-4 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.22vw;
+  position: relative;
+}
+
+.pedrollou95kontaktu951366px .label_-menu_footer-4 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.73vw;
+  padding: 0.15vw 0.0vw;
+  position: relative;
+}
+
+.pedrollou95kontaktu951366px .frame-33-5 {
+  gap: 0.73vw;
+  padding: 0.29vw 0.0vw;
+}
+
+.pedrollou95kontaktu951366px .label-33 {
+  letter-spacing: 0.01vw;
+  line-height: normal;
+}
+
+.pedrollou95kontaktu951366px .na-skrty-3 {
+  letter-spacing: -0.02vw;
+  line-height: 1.61vw;
+  margin-top: -0.07vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95kontaktu951366px .kontakt-z-nami-3 {
+  letter-spacing: -0.02vw;
+  line-height: 1.61vw;
+  margin-top: -0.07vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95kontaktu951366px .frame-36746-6 {
+  align-items: flex-start;
+}
+
+.pedrollou95kontaktu951366px .frame-36748-3 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 0.73vw;
+  justify-content: center;
+  padding: 0.44vw 0.0vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95kontaktu951366px .dachowa-43-a-96-500-sochaczew-7 {
+  flex: 1;
+  line-height: normal;
+  margin-top: -0.07vw;
+}
+
+.pedrollou95kontaktu951366px .dobr-pomp-5 {
+  letter-spacing: -0.02vw;
+  line-height: 1.76vw;
+  margin-top: -0.07vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95kontaktu951366px .social_media-3 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.73vw;
+  padding: 0.37vw 0.0vw;
+  position: relative;
+}
+
+.pedrollou95kontaktu951366px .social_media-item-3 {
+  height: 2.05vw;
+  position: relative;
+  width: 2.05vw;
+}
+
+.pedrollou95kontaktu951366px .linkedin-3 {
+  align-items: center;
+  display: flex;
+  gap: 0.73vw;
+  height: 2.05vw;
+  justify-content: center;
+  padding: 0.29vw;
+  position: relative;
+  width: 2.05vw;
+}
+
+.pedrollou95kontaktu951366px .subtract-3 {
+  aspect-ratio: 1;
+  height: 1.32vw;
+  position: relative;
+  width: 1.32vw;
+}
+
+.pedrollou95kontaktu951366px .x2025-pedrollo-polityka-prywatnoci-2 {
+  height: 0.91vw;
+  position: relative;
+  width: 15.02vw;
+}
+
+.pedrollou95kontaktu951366px .button_to_white {
+  align-items: center;
+  border-radius: 2.2vw;
+  display: inline-flex;
+  gap: 0.73vw;
+  height: 3.07vw;
+  justify-content: center;
+  padding: 1.02vw 1.9vw;
+  position: relative;
+}
+
+.pedrollou95kontaktu951366px .dachowa-43-a-96-500-sochaczew {
+  letter-spacing: 0.01vw;
+  position: relative;
+}
+
+.pedrollou95kontaktu951366px .dystrybutor-pomp-ped {
+  align-self: stretch;
+  letter-spacing: -0.02vw;
+  position: relative;
+}
+
+.pedrollou95kontaktu951366px .frame {
+  align-items: flex-start;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.pedrollou95kontaktu951366px .frame-33 {
+  align-items: center;
+  border-bottom-style: solid;
+  border-bottom-width: 0.07vw;
+  border-color: transparent;
+  border-image: linear-gradient(90deg, rgba(64, 100, 223, 1) 0%, rgba(64, 100, 223, 0) 100%) 1;
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.pedrollou95kontaktu951366px .frame-367 {
+  align-items: flex-start;
+  align-self: stretch;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.pedrollou95kontaktu951366px .frame-36742 {
+  align-items: flex-start;
+  flex-direction: column;
+}
+
+.pedrollou95kontaktu951366px .frame-36746 {
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.pedrollou95kontaktu951366px .frame-4 {
+  align-items: center;
+  background-color: var(--concrete);
+  border-radius: 2.2vw;
+  display: flex;
+  flex-direction: column;
+  gap: 0.73vw;
+  justify-content: center;
+  padding: 0.73vw 0.95vw;
+  position: absolute;
+}
+
+.pedrollou95kontaktu951366px .frame-57 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 10.54vw;
+}
+
+.pedrollou95kontaktu951366px .frame-6482 {
+  display: flex;
+  position: relative;
+}
+
+.pedrollou95kontaktu951366px .frame-71 {
+  align-items: center;
+  display: inline-flex;
+}
+
+.pedrollou95kontaktu951366px .frame-72 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--shark);
+  border: 0.07vw solid;
+  border-radius: 0.0vw 30.0vw 30.0vw 0.0vw;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.73vw;
+  justify-content: center;
+  margin-left: -0.07vw;
+  overflow: hidden;
+  position: relative;
+}
+
+.pedrollou95kontaktu951366px .group-3 {
+  aspect-ratio: 1.6;
+  position: relative;
+}
+
+.pedrollou95kontaktu951366px .image {
+  aspect-ratio: 1;
+  height: 5.01vw;
+  position: relative;
+  width: 5.01vw;
+}
+
+.pedrollou95kontaktu951366px .input {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 0.07vw solid;
+  border-color: var(--cod-gray-2);
+  border-radius: 0.73vw;
+  display: flex;
+  padding: 1.17vw 1.46vw;
+  position: relative;
+}
+
+.pedrollou95kontaktu951366px .konsultacja {
+  align-self: stretch;
+  display: flex;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95kontaktu951366px .label {
+  margin-top: -0.07vw;
+  position: relative;
+  width: fit-content;
+}
+
+.pedrollou95kontaktu951366px .name {
+  align-self: stretch;
+  letter-spacing: -0.02vw;
+  line-height: 1.46vw;
+  margin-top: -0.07vw;
+  position: relative;
+}
+
+.pedrollou95kontaktu951366px .phone {
+  letter-spacing: 0.01vw;
+  line-height: normal;
+  margin-top: -0.07vw;
+  position: relative;
+  width: fit-content;
+}
+
+.pedrollou95kontaktu951366px .star {
+  letter-spacing: 0;
+  line-height: 1.46vw;
+  margin-top: -0.07vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95kontaktu951366px .x48-46-4444-11-1 {
+  letter-spacing: 0.01vw;
+  line-height: normal;
+  margin-top: -0.07vw;
+  position: relative;
+  width: fit-content;
+}
+/* screen - pedrollou95kontaktu95768px */
+
+.pedrollou95kontaktu95768px {
+  align-items: flex-start;
+  background-color: var(--cod-gray);
+  display: flex;
+  flex-direction: column;
+  min-width: 100.0vw;
+  position: relative;
+}
+
+.pedrollou95kontaktu95768px .rectangle-6 {
+  background: linear-gradient(180deg, rgba(27, 27, 27, 0.5) 0%, rgba(27, 27, 27, 0) 100%);
+  height: 32.55vw;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100.0vw;
+}
+
+.pedrollou95kontaktu95768px .menu_2-1 {
+  -webkit-backdrop-filter: blur(0.33vw) brightness(100%);
+  align-items: center;
+  align-self: stretch;
+  backdrop-filter: blur(0.33vw) brightness(100%);
+  display: flex;
+  flex-direction: column;
+  height: 10.16vw;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95kontaktu95768px .frame-27 {
+  align-items: center;
+  align-self: stretch;
+  border-bottom-style: solid;
+  border-bottom-width: 0.13vw;
+  border-color: var(--white-2);
+  display: flex;
+  height: 10.16vw;
+  justify-content: space-between;
+  padding: 0.0vw 40.0vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95kontaktu95768px .frame-1-1 {
+  flex: 1;
+  flex-grow: 1;
+  position: relative;
+}
+
+.pedrollou95kontaktu95768px .frame-36765 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 0.65vw;
+  position: relative;
+  width: 4.3vw;
+}
+
+.pedrollou95kontaktu95768px .rectangle-11 {
+  align-self: stretch;
+  background-color: var(--white);
+  border-radius: 1.3vw;
+  height: 0.52vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95kontaktu95768px .frame-3673324-1 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 1.3vw;
+  justify-content: center;
+  padding: 5.21vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95kontaktu95768px .konsultacja-3 {
+  align-items: center;
+  gap: 3.91vw;
+  justify-content: center;
+  width: 89.58vw;
+}
+
+.pedrollou95kontaktu95768px .ellipse-2-6 {
+  height: 155.47vw;
+  left: calc(50.00% - 50.0vw);
+  position: absolute;
+  top: calc(50.00% - 68.75vw);
+  width: 100.0vw;
+}
+
+.pedrollou95kontaktu95768px .frame-6483-3 {
+  align-items: center;
+  flex: 0 0 auto;
+  gap: 13.02vw;
+}
+
+.pedrollou95kontaktu95768px .frame-6482-3 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 2.6vw;
+  position: relative;
+}
+
+.pedrollou95kontaktu95768px .frame-65-2 {
+  align-items: flex-end;
+  align-self: stretch;
+  display: flex;
+  gap: 1.3vw;
+  width: 100%;
+}
+
+.pedrollou95kontaktu95768px .frame-6501-1 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.65vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95kontaktu95768px .kontakt-4 {
+  align-self: stretch;
+  height: 1.63vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95kontaktu95768px .porozmawiajmy-o-pomp {
+  align-self: stretch;
+  letter-spacing: -0.1vw;
+  line-height: 6.51vw;
+  position: relative;
+}
+
+.pedrollou95kontaktu95768px .frame-5 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 1.3vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95kontaktu95768px .masz-studni-my-mamy-pomp-1 {
+  align-self: stretch;
+  color: var(--concrete);
+  font-family: var(--font-family-manrope);
+  font-size: 2.6vw;
+  font-weight: 600;
+  letter-spacing: -0.05vw;
+  line-height: 3.39vw;
+  margin-top: -0.13vw;
+  position: relative;
+}
+
+.pedrollou95kontaktu95768px .ktra-bdzie-w-niej-1 {
+  align-self: stretch;
+  letter-spacing: -0.04vw;
+  line-height: 3.78vw;
+  position: relative;
+}
+
+.pedrollou95kontaktu95768px .button_to_white-2 {
+  background: linear-gradient(270deg, rgba(64, 100, 223, 1) 0%, rgba(255, 255, 255, 1) 100%);
+  height: 5.99vw;
+}
+
+.pedrollou95kontaktu95768px .kontakt-5 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.46vw;
+  position: relative;
+  width: fit-content;
+}
+
+.pedrollou95kontaktu95768px .arrow_right-2 {
+  height: 2.76vw;
+  margin-bottom: -0.22vw;
+  margin-top: -0.2vw;
+  position: relative;
+  width: 2.47vw;
+}
+
+.pedrollou95kontaktu95768px .u7761719182_httpss-4 {
+  align-self: stretch;
+  aspect-ratio: 1.33;
+  object-fit: cover;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95kontaktu95768px .frame-6483-4 {
+  align-items: flex-start;
+  flex-direction: column;
+  gap: 13.02vw;
+  height: 91.28vw;
+  justify-content: center;
+}
+
+.pedrollou95kontaktu95768px .u7761719182_httpss-5 {
+  align-self: stretch;
+  background-image: url(../img/u7761719182-httpss-21.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 2.6vw;
+  flex: 1;
+  flex-grow: 1;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95kontaktu95768px .frame-36742-2 {
+  -webkit-backdrop-filter: blur(0.65vw) brightness(100%);
+  align-items: flex-start;
+  backdrop-filter: blur(0.65vw) brightness(100%);
+  background-color: var(--cod-gray-3);
+  border: 0.13vw solid;
+  border-color: var(--royal-blue-2);
+  border-radius: 2.6vw;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 1.3vw;
+  justify-content: center;
+  left: 37.63vw;
+  padding: 5.21vw;
+  position: absolute;
+  top: 29.43vw;
+}
+
+.pedrollou95kontaktu95768px .group-1-2 {
+  aspect-ratio: 4.36;
+  height: 4.86vw;
+  position: relative;
+  width: 21.22vw;
+}
+
+.pedrollou95kontaktu95768px .pedrollo-polska-1 {
+  letter-spacing: -0.04vw;
+  line-height: 3.12vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95kontaktu95768px .dachowa-43-a-96-500-sochaczew-2 {
+  line-height: 2.55vw;
+  width: fit-content;
+}
+
+.pedrollou95kontaktu95768px .vector-3 {
+  height: 6.38vw;
+  left: 30.34vw;
+  position: absolute;
+  top: 39.45vw;
+  width: 4.69vw;
+}
+
+.pedrollou95kontaktu95768px .frame-6566-1 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--white);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 9.11vw;
+  padding: 3.91vw 5.21vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95kontaktu95768px .ellipse-2-7 {
+  height: 165.62vw;
+  left: calc(50.00% - 50.0vw);
+  position: absolute;
+  top: calc(50.00% - 98.96vw);
+  width: 92.19vw;
+}
+
+.pedrollou95kontaktu95768px .frame-6587-1 {
+  align-items: center;
+  align-self: stretch;
+  border-radius: 3.91vw;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 2.6vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95kontaktu95768px .frame-6576-1 {
+  align-items: center;
+  align-self: stretch;
+  border-radius: 3.91vw;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 5.21vw;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95kontaktu95768px .frame-6596-1 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 2.6vw;
+  justify-content: flex-end;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95kontaktu95768px .frame-6 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95kontaktu95768px .instalator-1 {
+  aspect-ratio: 1;
+  height: 7.81vw;
+  object-fit: cover;
+  position: relative;
+  width: 7.81vw;
+}
+
+.pedrollou95kontaktu95768px .frame-6575 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 1.3vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95kontaktu95768px .znajd-instalatora-z-twojej-okolicy-1 {
+  align-self: stretch;
+  color: var(--cod-gray);
+  font-family: var(--font-family-manrope);
+  font-size: 5.21vw;
+  font-weight: 600;
+  letter-spacing: -0.16vw;
+  line-height: 6.51vw;
+  margin-top: -0.13vw;
+  position: relative;
+  text-align: center;
+}
+
+.pedrollou95kontaktu95768px .wolisz-powierzy-mont-1 {
+  align-self: stretch;
+  height: 5.4vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95kontaktu95768px .frame-6586-1 {
+  align-items: center;
+  border-radius: 3.91vw;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 1.95vw;
+  position: relative;
+}
+
+.pedrollou95kontaktu95768px .wpisz-kod-pocztowy-montau-1 {
+  align-self: stretch;
+  height: 2.58vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95kontaktu95768px .frame-6574-1 {
+  align-items: center;
+  border: 0.13vw solid;
+  border-color: var(--royal-blue);
+  border-radius: 3.91vw;
+  display: flex;
+  height: 5.47vw;
+  justify-content: space-between;
+  padding: 1.04vw 0.0vw 1.04vw 30.0vw;
+  position: relative;
+  width: 54.3vw;
+}
+
+.pedrollou95kontaktu95768px .text-2 {
+  color: var(--cod-gray);
+  font-family: var(--font-family-manrope);
+  font-size: var(--font-size-l);
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+}
+
+.pedrollou95kontaktu95768px .button_to_dark_navi-1 {
+  align-items: center;
+  background: linear-gradient(270deg, rgba(64, 100, 223, 1) 0%, rgba(24, 30, 51, 1) 100%);
+  border: 0.26vw solid;
+  border-color: var(--royal-blue);
+  border-radius: 3.91vw;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 1.3vw;
+  height: 5.47vw;
+  justify-content: center;
+  margin-bottom: -1.04vw;
+  margin-top: -1.04vw;
+  padding: 1.82vw 2.73vw;
+  position: relative;
+}
+
+.pedrollou95kontaktu95768px .szukaj-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -0.2vw;
+  margin-top: -0.72vw;
+  position: relative;
+  width: fit-content;
+}
+
+.pedrollou95kontaktu95768px .search-1 {
+  height: 2.47vw;
+  margin-bottom: -0.33vw;
+  margin-top: -0.33vw;
+  position: relative;
+  width: 2.47vw;
+}
+
+.pedrollou95kontaktu95768px .u7761719182_httpss-6 {
+  aspect-ratio: 0.94;
+  background-image: url(../img/u7761719182-httpss-2.gif);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 2.6vw;
+  height: 69.4vw;
+  position: relative;
+  width: 65.1vw;
+}
+
+.pedrollou95kontaktu95768px .wyniki-wyszukiwania-po-kodzie-pocztowym-1 {
+  align-self: stretch;
+  height: 2.27vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95kontaktu95768px .frame-6480-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--black-haze);
+  border: 0.13vw solid;
+  border-color: var(--pumice);
+  border-radius: 3.91vw;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 11.72vw;
+  padding: 2.6vw 6.51vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95kontaktu95768px .frame-7 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 1.95vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95kontaktu95768px .pan-darek-1 {
+  color: var(--cod-gray);
+  font-family: var(--font-family-manrope);
+  font-size: 3.39vw;
+  font-weight: 600;
+  letter-spacing: -0.07vw;
+  line-height: 4.69vw;
+  margin-top: -0.13vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95kontaktu95768px .frame-6580-1 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 1.3vw;
+  justify-content: center;
+  position: relative;
+}
+
+.pedrollou95kontaktu95768px .arrow-1 {
+  align-items: center;
+  aspect-ratio: 1;
+  border: 0.26vw solid;
+  border-color: var(--emerald);
+  border-radius: 3.91vw;
+  display: flex;
+  gap: 1.3vw;
+  height: 2.6vw;
+  justify-content: center;
+  padding: 1.3vw 0.0vw;
+  position: relative;
+  width: 2.6vw;
+}
+
+.pedrollou95kontaktu95768px .frame-76-1 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 1.3vw;
+  margin-bottom: -0.39vw;
+  margin-top: -0.39vw;
+  position: relative;
+}
+
+.pedrollou95kontaktu95768px .line-8-1 {
+  height: 1.06vw;
+  margin-bottom: -0.19vw;
+  margin-left: -0.1vw;
+  margin-right: -0.09vw;
+  margin-top: -0.09vw;
+  position: relative;
+  width: 1.36vw;
+}
+
+.pedrollou95kontaktu95768px .instalator-pomp-w-twojej-okolicy-1 {
+  height: 2.03vw;
+  position: relative;
+  width: 30.11vw;
+}
+
+.pedrollou95kontaktu95768px .frame-6494-1 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.pedrollou95kontaktu95768px .zapytaj-1 {
+  align-items: center;
+  background-color: var(--royal-blue);
+  border-radius: 3.91vw;
+  display: flex;
+  gap: 2.6vw;
+  height: 5.99vw;
+  padding: 1.82vw 9.11vw 1.82vw 3.39vw;
+  position: relative;
+  width: 37.63vw;
+}
+
+.pedrollou95kontaktu95768px .frame-4-1 {
+  align-items: center;
+  aspect-ratio: 1;
+  background-color: var(--concrete);
+  border-radius: 3.91vw;
+  display: flex;
+  flex-direction: column;
+  gap: 1.3vw;
+  height: 5.6vw;
+  justify-content: center;
+  left: 31.77vw;
+  padding: 1.3vw 1.69vw 1.17vw;
+  position: absolute;
+  top: 0.26vw;
+  width: 5.6vw;
+}
+
+.pedrollou95kontaktu95768px .group-3-1 {
+  aspect-ratio: 1.6;
+  height: 1.3vw;
+  position: relative;
+  width: 2.09vw;
+}
+
+.pedrollou95kontaktu95768px .vector-4 {
+  height: 112.99%;
+  left: 67.99%;
+  position: absolute;
+  top: -6.49%;
+  width: 39.56%;
+}
+
+.pedrollou95kontaktu95768px .vector-5 {
+  height: 20.00%;
+  left: -6.23%;
+  position: absolute;
+  top: 40.00%;
+  width: 106.23%;
+}
+
+.pedrollou95kontaktu95768px .kontakt-do-instalatora-1 {
+  letter-spacing: -0.04vw;
+  line-height: normal;
+  margin-bottom: -0.07vw;
+  margin-top: -0.33vw;
+  position: relative;
+  width: fit-content;
+}
+
+.pedrollou95kontaktu95768px .frame-64-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 29.95vw;
+  height: 64.84vw;
+  padding: 0.0vw 40.0vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95kontaktu95768px .frame-20-1 {
+  height: 95.18vw;
+  left: calc(50.00% - 125.0vw);
+  position: absolute;
+  top: calc(50.00% - 47.53vw);
+  width: 250.0vw;
+}
+
+.pedrollou95kontaktu95768px .ellipse-1-1 {
+  background-color: var(--dove-gray);
+  border-radius: 41.6vw;
+  filter: blur(23.7vw);;
+  height: 83.2vw;
+  left: calc(50.00% - 41.54vw);
+  position: relative;
+  top: calc(50.00% - 41.67vw);
+  width: 83.2vw;
+}
+
+.pedrollou95kontaktu95768px .frame-51-1 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 2.6vw;
+  justify-content: center;
+  position: relative;
+}
+
+.pedrollou95kontaktu95768px .frame-65-3 {
+  align-items: center;
+  display: inline-flex;
+  justify-content: center;
+}
+
+.pedrollou95kontaktu95768px .referencje-1 {
+  color: var(--concrete-2);
+  font-family: var(--font-family-manrope);
+  font-size: var(--font-size-m);
+  font-weight: 600;
+  letter-spacing: -0.05vw;
+  line-height: 2.6vw;
+  margin-top: -0.13vw;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95kontaktu95768px .co-mwi-o-nas-klienci-1 {
+  letter-spacing: -0.08vw;
+  line-height: 5.47vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95kontaktu95768px .testimonials-1 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 3.91vw;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95kontaktu95768px .frame-67-1 {
+  -webkit-backdrop-filter: blur(2.6vw) brightness(100%);
+  align-items: center;
+  align-self: stretch;
+  backdrop-filter: blur(2.6vw) brightness(100%);
+  border-radius: 3.91vw;
+  display: flex;
+  flex: 0 0 auto;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95kontaktu95768px .frame-71-1 {
+  align-items: center;
+  background-color: var(--eerie-black);
+  border: 0.13vw solid;
+  border-color: var(--silver-chalice-2);
+  border-radius: 3.91vw 0.0vw 0.0vw 3.91vw;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 1.3vw;
+  padding: 5.21vw;
+  position: relative;
+}
+
+.pedrollou95kontaktu95768px .frame-8 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.91vw;
+  justify-content: center;
+  position: relative;
+}
+
+.pedrollou95kontaktu95768px .image-1 {
+  aspect-ratio: 1;
+  height: 8.92vw;
+  position: relative;
+  width: 8.92vw;
+}
+
+.pedrollou95kontaktu95768px .frame-57-1 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.39vw;
+  position: relative;
+  width: 18.75vw;
+}
+
+.pedrollou95kontaktu95768px .name-1 {
+  align-self: stretch;
+  color: var(--concrete);
+  font-family: var(--font-family-geist);
+  font-size: var(--font-size-m);
+  font-weight: 600;
+  letter-spacing: -0.04vw;
+  line-height: 2.6vw;
+  margin-top: -0.13vw;
+  position: relative;
+}
+
+.pedrollou95kontaktu95768px .dystrybutor-pomp-ped-1 {
+  align-self: stretch;
+  color: var(--silver-chalice);
+  font-family: var(--font-family-geist);
+  font-size: 1.56vw;
+  font-weight: 500;
+  letter-spacing: -0.03vw;
+  line-height: 2.34vw;
+  position: relative;
+}
+
+.pedrollou95kontaktu95768px .frame-72-1 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--shark);
+  border: 0.13vw solid;
+  border-color: var(--silver-chalice-2);
+  border-radius: 0.0vw 30.0vw 30.0vw 0.0vw;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 1.3vw;
+  justify-content: center;
+  margin-left: -0.13vw;
+  overflow: hidden;
+  padding: 5.21vw 6.51vw;
+  position: relative;
+}
+
+.pedrollou95kontaktu95768px .sprzedaj-sprzt-r-1 {
+  color: transparent;
+  flex: 1;
+  font-family: var(--font-family-manrope);
+  font-size: 2.47vw;
+  font-weight: 600;
+  letter-spacing: -0.07vw;
+  line-height: 3.78vw;
+  position: relative;
+}
+
+.pedrollou95kontaktu95768px .span-2 {
+  color: var(--silver-chalice);
+  letter-spacing: -0.01vw;
+}
+
+.pedrollou95kontaktu95768px .span1 {
+  letter-spacing: -0.01vw;
+}
+
+.pedrollou95kontaktu95768px .frame-9 {
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.pedrollou95kontaktu95768px .konsultacja-4 {
+  align-items: flex-start;
+  align-self: stretch;
+  gap: 1.3vw;
+  padding: 10.42vw 5.21vw;
+  width: 100%;
+}
+
+.pedrollou95kontaktu95768px .ellipse-2-8 {
+  height: 196.61vw;
+  left: calc(50.00% - 50.0vw);
+  position: absolute;
+  top: calc(50.00% - 97.53vw);
+  width: 100.0vw;
+}
+
+.pedrollou95kontaktu95768px .frame-6483-5 {
+  align-items: center;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 7.81vw;
+  justify-content: center;
+}
+
+.pedrollou95kontaktu95768px .u7761719182_httpss-7 {
+  background-image: url(../img/u7761719182-httpss-19@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 2.6vw;
+  height: 56.25vw;
+  position: relative;
+  width: 57.29vw;
+}
+
+.pedrollou95kontaktu95768px .ellipse-3-1 {
+  height: 78.65vw;
+  left: calc(50.00% - 46.74vw);
+  position: absolute;
+  top: calc(50.00% - 28.39vw);
+  width: 78.65vw;
+}
+
+.pedrollou95kontaktu95768px .ellipse-2-9 {
+  height: 68.88vw;
+  left: calc(50.00% - 19.4vw);
+  position: absolute;
+  top: calc(50.00% - 50.91vw);
+  width: 69.4vw;
+}
+
+.pedrollou95kontaktu95768px .frame-10 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 5.21vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95kontaktu95768px .frame-11 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 2.6vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95kontaktu95768px .pompa-ma-dziaa-bez-1 {
+  align-self: stretch;
+  letter-spacing: -0.1vw;
+  line-height: 6.51vw;
+  margin-top: -0.13vw;
+  position: relative;
+}
+
+.pedrollou95kontaktu95768px .to-prawda-e-jeste-1 {
+  align-self: stretch;
+  color: transparent;
+  font-family: var(--font-family-manrope);
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  letter-spacing: -0.04vw;
+  line-height: 3.78vw;
+  position: relative;
+}
+
+.pedrollou95kontaktu95768px .span-3 {
+  letter-spacing: -0.01vw;
+}
+
+.pedrollou95kontaktu95768px .konsultacja-5 {
+  align-items: flex-start;
+  align-self: stretch;
+  gap: 3.91vw;
+  padding: 5.21vw;
+  width: 100%;
+}
+
+.pedrollou95kontaktu95768px .ellipse-2-10 {
+  height: 174.09vw;
+  left: calc(50.00% - 50.0vw);
+  position: absolute;
+  top: calc(50.00% - 86.98vw);
+  width: 100.0vw;
+}
+
+.pedrollou95kontaktu95768px .rectangle-1115-1 {
+  height: 61.98vw;
+  margin-left: -0.59vw;
+  margin-right: -0.59vw;
+  mix-blend-mode: screen;
+  object-fit: cover;
+  position: relative;
+  width: 90.76vw;
+}
+
+.pedrollou95kontaktu95768px .obsugujemy-ca-polsk-1 {
+  letter-spacing: -0.13vw;
+  line-height: 7.81vw;
+  margin-top: -0.13vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95kontaktu95768px .odlego-nie-gra-ro-1 {
+  align-self: stretch;
+  letter-spacing: -0.05vw;
+  line-height: 3.91vw;
+  position: relative;
+}
+
+.pedrollou95kontaktu95768px .frame-36808-1 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 2.6vw 2.6vw;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95kontaktu95768px .kontakt-3::before {
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  background: conic-gradient(from 90deg at 48% 50%, rgba(42, 44, 55, 1) 0%, rgba(42, 44, 55, 1) 15%, rgba(42, 44, 55, 1) 31%);
+  border-radius: 1.3vw;
+  content: '';
+  inset: 0;
+  mask-composite: exclude;
+  padding: 0.13vw;
+  pointer-events: none;
+  position: absolute;
+  z-index: 1;
+}
+
+.pedrollou95kontaktu95768px .kontakt-3 {
+  align-items: center;
+  border: none;
+  border-radius: 1.3vw;
+  display: flex;
+  flex-direction: column;
+  gap: 1.3vw;
+  padding: 5.21vw 3.91vw;
+  position: relative;
+  width: 39.06vw;
+}
+
+.pedrollou95kontaktu95768px .biuro-1 {
+  letter-spacing: -0.05vw;
+  line-height: 3.12vw;
+  margin-top: -0.13vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95kontaktu95768px .frame-36746-1 {
+  align-items: center;
+  gap: 0.65vw;
+}
+
+.pedrollou95kontaktu95768px .phone-1 {
+  letter-spacing: 0.02vw;
+  line-height: normal;
+  margin-top: -0.13vw;
+  position: relative;
+  width: fit-content;
+}
+
+.pedrollou95kontaktu95768px .pedrollopolskapl-1 {
+  cursor: pointer;
+  letter-spacing: 0.02vw;
+  line-height: normal;
+  position: relative;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.pedrollou95kontaktu95768px .dobr-pomp-2 {
+  letter-spacing: -0.05vw;
+}
+
+.pedrollou95kontaktu95768px .infolinia-1 {
+  letter-spacing: -0.05vw;
+  line-height: 3.12vw;
+  margin-top: -0.13vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95kontaktu95768px .faktury-i-zamwienia-1 {
+  letter-spacing: -0.05vw;
+  line-height: 3.12vw;
+  margin-top: -0.13vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95kontaktu95768px .place-1 {
+  letter-spacing: -0.05vw;
+  line-height: 3.12vw;
+  margin-top: -0.13vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95kontaktu95768px .frame-82-1 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--cod-gray);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 13.02vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95kontaktu95768px .technologia_3 {
+  height: 84.24vw;
+  left: calc(50.00% - 50.0vw);
+  mix-blend-mode: lighten;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 100.0vw;
+}
+
+.pedrollou95kontaktu95768px .frame-36734-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95kontaktu95768px .footer_desktop-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95kontaktu95768px .frame-6613-1 {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 2.6vw;
+  padding: 5.21vw;
+  position: relative;
+  width: 100.0vw;
+}
+
+.pedrollou95kontaktu95768px .zapytaj-o-pomp-1 {
+  align-self: stretch;
+  color: var(--cod-gray);
+  font-family: var(--font-family-manrope);
+  font-size: 5.21vw;
+  font-weight: 600;
+  letter-spacing: -0.16vw;
+  line-height: 5.47vw;
+  margin-top: -0.13vw;
+  position: relative;
+  text-align: center;
+}
+
+.pedrollou95kontaktu95768px .opowiedz-nam-o-swoic-1 {
+  color: var(--cod-gray);
+  font-family: var(--font-family-manrope);
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  letter-spacing: -0.04vw;
+  line-height: 3.39vw;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.pedrollou95kontaktu95768px .input-3 {
+  align-self: stretch;
+  height: 26.04vw;
+  width: 100%;
+}
+
+.pedrollou95kontaktu95768px .frame-36727-1 {
+  align-items: center;
+  background-color: var(--white);
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.26vw;
+  position: relative;
+}
+
+.pedrollou95kontaktu95768px .label-4 {
+  letter-spacing: 0;
+  line-height: 2.47vw;
+  margin-top: -0.07vw;
+  white-space: nowrap;
+}
+
+.pedrollou95kontaktu95768px .star-1 {
+  letter-spacing: 0;
+  line-height: 2.6vw;
+  margin-top: -0.13vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95kontaktu95768px .frame-367-1 {
+  align-self: stretch;
+  display: flex;
+  gap: 2.6vw;
+  width: 100%;
+}
+
+.pedrollou95kontaktu95768px .input-2 {
+  flex: 1;
+  flex-grow: 1;
+  height: 6.9vw;
+}
+
+.pedrollou95kontaktu95768px .frame-6589-1 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 0.13vw solid;
+  border-color: var(--cod-gray-2);
+  border-radius: 1.3vw;
+  cursor: pointer;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 1.3vw;
+  height: 6.9vw;
+  justify-content: center;
+  padding: 2.21vw 2.6vw;
+  position: relative;
+}
+
+.pedrollou95kontaktu95768px .frame-6397-1 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: space-between;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95kontaktu95768px .jestem-1 {
+  color: var(--cod-gray);
+  font-family: var(--font-family-manrope);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 2.47vw;
+  margin-top: -0.13vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95kontaktu95768px .arrow_down-2 {
+  height: 0.83vw;
+  position: relative;
+  width: 1.95vw;
+}
+
+.pedrollou95kontaktu95768px .arrow_down-3 {
+  height: 132.38%;
+  left: -4.34%;
+  position: absolute;
+  top: -11.86%;
+  width: 108.67%;
+}
+
+.pedrollou95kontaktu95768px .label-6 {
+  letter-spacing: 0;
+  line-height: 2.47vw;
+  margin-top: -0.13vw;
+  white-space: nowrap;
+}
+
+.pedrollou95kontaktu95768px .frame-367-2 {
+  align-self: stretch;
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.pedrollou95kontaktu95768px .radio_select_2-1 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 1.3vw;
+  height: 6.51vw;
+  position: relative;
+}
+
+.pedrollou95kontaktu95768px .group-62-1 {
+  aspect-ratio: 1;
+  border: 0.26vw solid;
+  border-color: var(--celeste);
+  border-radius: 1.56vw;
+  height: 3.12vw;
+  position: relative;
+  width: 3.12vw;
+}
+
+.pedrollou95kontaktu95768px .x1-fazowe-230-v-50-hz-1 {
+  color: var(--cod-gray);
+  font-family: var(--font-family-manrope);
+  font-size: var(--font-size-m);
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 2.6vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95kontaktu95768px .button_to_white-3 {
+  background: linear-gradient(270deg, rgba(64, 100, 223, 1) 0%, rgba(255, 255, 255, 1) 100%);
+  flex: 0 0 auto;
+  height: 5.99vw;
+}
+
+.pedrollou95kontaktu95768px .wylij-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.46vw;
+  position: relative;
+  width: fit-content;
+}
+
+.pedrollou95kontaktu95768px .arrow_right-3 {
+  height: 2.47vw;
+  margin-bottom: -0.07vw;
+  margin-right: -0.15vw;
+  margin-top: -0.07vw;
+  position: relative;
+  width: 2.76vw;
+}
+
+.pedrollou95kontaktu95768px .frame-78-1 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 5.21vw;
+  padding: 5.21vw;
+  position: relative;
+  width: 100.0vw;
+}
+
+.pedrollou95kontaktu95768px .ellipse-2-11 {
+  height: 92.06vw;
+  left: calc(50.00% - 50.0vw);
+  position: absolute;
+  top: calc(50.00% - 46.09vw);
+  width: 27.86vw;
+}
+
+.pedrollou95kontaktu95768px .frame-367-3 {
+  display: inline-flex;
+  flex-direction: column;
+  gap: 2.6vw;
+}
+
+.pedrollou95kontaktu95768px .frame-36738-1 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 1.3vw;
+  position: relative;
+}
+
+.pedrollou95kontaktu95768px .group-1-3 {
+  height: 5.08vw;
+  position: relative;
+  width: 22.15vw;
+}
+
+.pedrollou95kontaktu95768px .polska-1 {
+  letter-spacing: -0.05vw;
+  line-height: 6.51vw;
+  margin-top: -0.13vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95kontaktu95768px .tworzymy-przyszo-1 {
+  color: var(--white);
+  font-family: var(--font-family-manrope);
+  font-size: var(--font-size-l);
+  font-weight: 500;
+  letter-spacing: -0.04vw;
+  line-height: 3.26vw;
+  position: relative;
+  width: fit-content;
+}
+
+.pedrollou95kontaktu95768px .button_to_white-4 {
+  background: linear-gradient(90deg, rgba(64, 100, 223, 1) 0%, rgba(64, 100, 223, 0.15) 100%);
+  border: 0.13vw solid;
+  border-color: var(--royal-blue);
+  height: 5.47vw;
+}
+
+.pedrollou95kontaktu95768px .strefa-partnera-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -0.39vw;
+  margin-top: -0.65vw;
+  position: relative;
+  width: fit-content;
+}
+
+.pedrollou95kontaktu95768px .arrow_right-4 {
+  height: 2.47vw;
+  margin-bottom: -0.33vw;
+  margin-right: -0.15vw;
+  margin-top: -0.33vw;
+  position: relative;
+  width: 2.76vw;
+}
+
+.pedrollou95kontaktu95768px .raz-kupujesz-bez-koca-pompujesz-1 {
+  letter-spacing: -0.08vw;
+  line-height: 5.21vw;
+  margin-top: -0.13vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95kontaktu95768px .elektryczna-pompa-gbinowa-1 {
+  letter-spacing: -0.04vw;
+  line-height: 2.86vw;
+  margin-top: -0.13vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95kontaktu95768px .frame-3674-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.39vw;
+  position: relative;
+}
+
+.pedrollou95kontaktu95768px .label_-menu_footer-1 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 1.3vw;
+  padding: 0.26vw 0.0vw;
+  position: relative;
+}
+
+.pedrollou95kontaktu95768px .frame-33-1 {
+  align-items: center;
+  border-bottom-style: solid;
+  border-bottom-width: 0.13vw;
+  border-color: transparent;
+  border-image: linear-gradient(90deg, rgba(64, 100, 223, 1) 0%, rgba(64, 100, 223, 0) 100%) 1;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 1.3vw;
+  padding: 0.52vw 0.0vw;
+  position: relative;
+}
+
+.pedrollou95kontaktu95768px .label-5 {
+  letter-spacing: 0.02vw;
+  line-height: normal;
+  margin-top: -0.13vw;
+}
+
+.pedrollou95kontaktu95768px .na-skrty-1 {
+  letter-spacing: -0.04vw;
+  line-height: 2.86vw;
+  margin-top: -0.13vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95kontaktu95768px .frame-36747-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: space-between;
+  position: relative;
+}
+
+.pedrollou95kontaktu95768px .kontakt-z-nami-1 {
+  letter-spacing: -0.04vw;
+  line-height: 2.86vw;
+  margin-top: -0.13vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95kontaktu95768px .frame-36746-2 {
+  align-items: flex-start;
+}
+
+.pedrollou95kontaktu95768px .frame-36748-1 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 1.3vw;
+  justify-content: center;
+  padding: 0.78vw 0.0vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95kontaktu95768px .dachowa-43-a-96-500-sochaczew-3 {
+  flex: 1;
+  line-height: normal;
+  margin-top: -0.13vw;
+}
+
+.pedrollou95kontaktu95768px .dobr-pomp-3 {
+  letter-spacing: -0.04vw;
+}
+
+.pedrollou95kontaktu95768px .social_media-1 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 1.3vw;
+  padding: 0.65vw 0.0vw;
+  position: relative;
+}
+
+.pedrollou95kontaktu95768px .social_media-item-1 {
+  height: 3.65vw;
+  position: relative;
+  width: 3.65vw;
+}
+
+.pedrollou95kontaktu95768px .linkedin-1 {
+  align-items: center;
+  display: flex;
+  gap: 1.3vw;
+  height: 3.65vw;
+  justify-content: center;
+  padding: 0.52vw;
+  position: relative;
+  width: 3.65vw;
+}
+
+.pedrollou95kontaktu95768px .subtract-1 {
+  aspect-ratio: 1;
+  height: 2.34vw;
+  position: relative;
+  width: 2.34vw;
+}
+
+.pedrollou95kontaktu95768px .x2025-pedrollo-polityka-prywatnoci-1 {
+  height: 1.48vw;
+  position: relative;
+  width: 24.49vw;
+}
+
+.pedrollou95kontaktu95768px .button_to_white {
+  align-items: center;
+  border-radius: 3.91vw;
+  display: inline-flex;
+  gap: 1.3vw;
+  justify-content: center;
+  padding: 1.82vw 3.39vw;
+  position: relative;
+}
+
+.pedrollou95kontaktu95768px .dachowa-43-a-96-500-sochaczew {
+  letter-spacing: 0.02vw;
+  position: relative;
+}
+
+.pedrollou95kontaktu95768px .dobr-pomp {
+  line-height: 3.12vw;
+  margin-top: -0.13vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95kontaktu95768px .frame-367 {
+  align-items: flex-start;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.pedrollou95kontaktu95768px .frame-36746 {
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.pedrollou95kontaktu95768px .frame-6483 {
+  align-self: stretch;
+  display: flex;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95kontaktu95768px .frame-65 {
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.pedrollou95kontaktu95768px .input {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 0.13vw solid;
+  border-color: var(--cod-gray-2);
+  border-radius: 1.3vw;
+  display: flex;
+  padding: 2.08vw 2.6vw;
+  position: relative;
+}
+
+.pedrollou95kontaktu95768px .konsultacja {
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.pedrollou95kontaktu95768px .label {
+  position: relative;
+  width: fit-content;
+}
+/* screen - pedrollou95kontaktu95mobileu95360px */
+
+.pedrollou95kontaktu95mobileu95360px {
+  align-items: flex-start;
+  background-color: var(--cod-gray);
+  display: flex;
+  flex-direction: column;
+  min-width: 100.0vw;
+  position: relative;
+}
+
+.pedrollou95kontaktu95mobileu95360px .menu_2 {
+  align-self: stretch;
+  height: 21.67vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95kontaktu95mobileu95360px .frame-3673324 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 2.78vw;
+  justify-content: center;
+  padding: 5.56vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95kontaktu95mobileu95360px .konsultacja {
+  align-items: center;
+  gap: 5.56vw;
+  justify-content: center;
+}
+
+.pedrollou95kontaktu95mobileu95360px .ellipse-2 {
+  height: 289.72vw;
+  left: calc(50.00% - 50.0vw);
+  position: absolute;
+  top: calc(50.00% - 104.44vw);
+  width: 100.0vw;
+}
+
+.pedrollou95kontaktu95mobileu95360px .frame-6483 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 27.78vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95kontaktu95mobileu95360px .frame-6482 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 5.56vw;
+  position: relative;
+}
+
+.pedrollou95kontaktu95mobileu95360px .frame-65 {
+  align-items: flex-end;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 2.78vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95kontaktu95mobileu95360px .frame-6501 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 1.39vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95kontaktu95mobileu95360px .kontakt-1 {
+  align-self: stretch;
+  height: 3.06vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95kontaktu95mobileu95360px .porozmawiajmy-o-pom {
+  align-self: stretch;
+  letter-spacing: -0.17vw;
+  line-height: 11.11vw;
+  position: relative;
+}
+
+.pedrollou95kontaktu95mobileu95360px .frame {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 2.78vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95kontaktu95mobileu95360px .masz-studni-my-mamy-pomp {
+  align-self: stretch;
+  color: var(--concrete);
+  font-family: var(--font-family-manrope);
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  letter-spacing: -0.09vw;
+  line-height: 5.67vw;
+  margin-top: -0.28vw;
+  position: relative;
+}
+
+.pedrollou95kontaktu95mobileu95360px .ktra-bdzie-w-niej {
+  align-self: stretch;
+  letter-spacing: -0.08vw;
+  line-height: 6.39vw;
+  position: relative;
+}
+
+.pedrollou95kontaktu95mobileu95360px .button_to_white {
+  background: linear-gradient(270deg, rgba(64, 100, 223, 1) 0%, rgba(255, 255, 255, 1) 100%);
+}
+
+.pedrollou95kontaktu95mobileu95360px .kontakt-2 {
+  letter-spacing: 0.04vw;
+  line-height: normal;
+  margin-top: -0.83vw;
+  position: relative;
+  width: fit-content;
+}
+
+.pedrollou95kontaktu95mobileu95360px .arrow_right-1 {
+  height: 5.88vw;
+  margin-bottom: -0.47vw;
+  margin-top: -0.42vw;
+  position: relative;
+  width: 5.28vw;
+}
+
+.pedrollou95kontaktu95mobileu95360px .u7761719182_httpss {
+  align-self: stretch;
+  aspect-ratio: 1.33;
+  object-fit: cover;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95kontaktu95mobileu95360px .frame-6483-1 {
+  align-items: flex-start;
+  gap: 27.78vw;
+  height: 117.22vw;
+}
+
+.pedrollou95kontaktu95mobileu95360px .u7761719182_httpss-1 {
+  align-self: stretch;
+  background-image: url(../img/u7761719182-httpss-17@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 5.56vw;
+  flex: 1;
+  flex-grow: 1;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95kontaktu95mobileu95360px .frame-36742 {
+  -webkit-backdrop-filter: blur(1.39vw) brightness(100%);
+  align-items: flex-start;
+  backdrop-filter: blur(1.39vw) brightness(100%);
+  background-color: var(--cod-gray-3);
+  border: 0.28vw solid;
+  border-color: var(--royal-blue-2);
+  border-radius: 5.56vw;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 2.78vw;
+  justify-content: center;
+  left: 16.39vw;
+  padding: 11.11vw;
+  position: absolute;
+  top: 12.78vw;
+}
+
+.pedrollou95kontaktu95mobileu95360px .group-1 {
+  aspect-ratio: 4.36;
+  height: 10.38vw;
+  position: relative;
+  width: 45.28vw;
+}
+
+.pedrollou95kontaktu95mobileu95360px .pedrollo-polska {
+  letter-spacing: -0.09vw;
+  line-height: 6.67vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95kontaktu95mobileu95360px .dachowa-43-a-96-500-sochaczew {
+  letter-spacing: 0.04vw;
+  line-height: 5.44vw;
+  position: relative;
+  width: fit-content;
+}
+
+.pedrollou95kontaktu95mobileu95360px .vector {
+  height: 13.61vw;
+  left: 45.28vw;
+  position: absolute;
+  top: 67.5vw;
+  width: 10.0vw;
+}
+
+.pedrollou95kontaktu95mobileu95360px .frame-6566 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--white);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 19.44vw;
+  padding: 8.33vw 5.56vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95kontaktu95mobileu95360px .ellipse-2-1 {
+  height: 353.33vw;
+  left: calc(50.00% - 50.0vw);
+  position: absolute;
+  top: calc(50.00% - 211.11vw);
+  width: 100.0vw;
+}
+
+.pedrollou95kontaktu95mobileu95360px .frame-6587 {
+  align-items: center;
+  align-self: stretch;
+  border-radius: 8.33vw;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 2.78vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95kontaktu95mobileu95360px .frame-6576 {
+  align-items: center;
+  align-self: stretch;
+  border-radius: 8.33vw;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 5.56vw;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95kontaktu95mobileu95360px .frame-6596 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 2.78vw;
+  justify-content: flex-end;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95kontaktu95mobileu95360px .frame-1 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95kontaktu95mobileu95360px .instalator {
+  aspect-ratio: 1;
+  height: 16.67vw;
+  object-fit: cover;
+  position: relative;
+  width: 16.67vw;
+}
+
+.pedrollou95kontaktu95mobileu95360px .frame-2 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 2.78vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95kontaktu95mobileu95360px .znajd-instalatora-z-twojej-okolicy {
+  align-self: stretch;
+  letter-spacing: -0.25vw;
+  line-height: 11.11vw;
+  margin-top: -0.28vw;
+  position: relative;
+  text-align: center;
+}
+
+.pedrollou95kontaktu95mobileu95360px .wolisz-powierzy-mont {
+  align-self: stretch;
+  height: 9.56vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95kontaktu95mobileu95360px .frame-6586 {
+  align-items: center;
+  align-self: stretch;
+  border-radius: 8.33vw;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 4.17vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95kontaktu95mobileu95360px .wpisz-kod-pocztowy-montau {
+  align-self: stretch;
+  height: 4.95vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95kontaktu95mobileu95360px .frame-6574 {
+  align-items: center;
+  align-self: stretch;
+  border: 0.28vw solid;
+  border-color: var(--royal-blue);
+  border-radius: 8.33vw;
+  display: flex;
+  height: 11.67vw;
+  justify-content: space-between;
+  padding: 2.22vw 0.0vw 2.22vw 30.0vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95kontaktu95mobileu95360px .text-1 {
+  color: var(--cod-gray);
+  font-family: var(--font-family-manrope);
+  font-size: 4.17vw;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+}
+
+.pedrollou95kontaktu95mobileu95360px .button_to_dark_navi {
+  align-items: center;
+  background: linear-gradient(270deg, rgba(64, 100, 223, 1) 0%, rgba(24, 30, 51, 1) 100%);
+  border: 0.56vw solid;
+  border-color: var(--royal-blue);
+  border-radius: 8.33vw;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 2.78vw;
+  height: 11.67vw;
+  justify-content: center;
+  margin-bottom: -2.22vw;
+  margin-top: -2.22vw;
+  padding: 3.89vw 5.83vw;
+  position: relative;
+}
+
+.pedrollou95kontaktu95mobileu95360px .szukaj {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -0.28vw;
+  margin-top: -1.39vw;
+  position: relative;
+  width: fit-content;
+}
+
+.pedrollou95kontaktu95mobileu95360px .search {
+  height: 5.28vw;
+  margin-bottom: -0.69vw;
+  margin-top: -0.69vw;
+  position: relative;
+  width: 5.28vw;
+}
+
+.pedrollou95kontaktu95mobileu95360px .u7761719182_httpss-2 {
+  aspect-ratio: 0.94;
+  background-image: url(../img/u7761719182-httpss-2.gif);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 5.56vw;
+  height: 72.45vw;
+  position: relative;
+  width: 68.02vw;
+}
+
+.pedrollou95kontaktu95mobileu95360px .wyniki-wyszukiwania-po-kodzie-pocztowym {
+  align-self: stretch;
+  height: 4.3vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95kontaktu95mobileu95360px .frame-6480 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--black-haze);
+  border: 0.28vw solid;
+  border-color: var(--pumice);
+  border-radius: 8.33vw;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 25.0vw;
+  padding: 5.56vw 13.89vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95kontaktu95mobileu95360px .frame-6482-1 {
+  align-items: center;
+  gap: 4.17vw;
+}
+
+.pedrollou95kontaktu95mobileu95360px .pan-darek {
+  color: var(--cod-gray);
+  font-family: var(--font-family-manrope);
+  font-size: 6.67vw;
+  font-weight: 600;
+  letter-spacing: -0.13vw;
+  line-height: 9.44vw;
+  margin-top: -0.28vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95kontaktu95mobileu95360px .frame-6580 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 2.78vw;
+  justify-content: center;
+  margin-left: -4.17vw;
+  margin-right: -4.17vw;
+  position: relative;
+}
+
+.pedrollou95kontaktu95mobileu95360px .arrow {
+  align-items: center;
+  aspect-ratio: 1;
+  border: 0.56vw solid;
+  border-color: var(--emerald);
+  border-radius: 8.33vw;
+  display: flex;
+  gap: 2.78vw;
+  height: 5.56vw;
+  justify-content: center;
+  padding: 2.78vw 0.0vw;
+  position: relative;
+  width: 5.56vw;
+}
+
+.pedrollou95kontaktu95mobileu95360px .frame-76 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 2.78vw;
+  margin-bottom: -0.83vw;
+  margin-top: -0.83vw;
+  position: relative;
+}
+
+.pedrollou95kontaktu95mobileu95360px .line-8 {
+  height: 2.27vw;
+  margin-bottom: -0.4vw;
+  margin-left: -0.21vw;
+  margin-right: -0.19vw;
+  margin-top: -0.2vw;
+  position: relative;
+  width: 2.9vw;
+}
+
+.pedrollou95kontaktu95mobileu95360px .instalator-pomp-w-twojej-okolicy {
+  height: 4.06vw;
+  position: relative;
+  width: 60.23vw;
+}
+
+.pedrollou95kontaktu95mobileu95360px .frame-6494 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  margin-left: -9.58vw;
+  margin-right: -9.58vw;
+  position: relative;
+}
+
+.pedrollou95kontaktu95mobileu95360px .zapytaj {
+  align-items: center;
+  background-color: var(--royal-blue);
+  border-radius: 8.33vw;
+  display: flex;
+  gap: 5.56vw;
+  height: 12.78vw;
+  padding: 3.89vw 19.44vw 3.89vw 7.22vw;
+  position: relative;
+  width: 80.28vw;
+}
+
+.pedrollou95kontaktu95mobileu95360px .frame-4 {
+  align-items: center;
+  aspect-ratio: 1;
+  background-color: var(--concrete);
+  border-radius: 8.33vw;
+  display: flex;
+  flex-direction: column;
+  gap: 2.78vw;
+  height: 11.94vw;
+  justify-content: center;
+  left: 67.78vw;
+  padding: 2.78vw 3.61vw 2.5vw;
+  position: absolute;
+  top: 0.56vw;
+  width: 11.94vw;
+}
+
+.pedrollou95kontaktu95mobileu95360px .group-3 {
+  aspect-ratio: 1.6;
+  height: 2.78vw;
+  position: relative;
+  width: 4.46vw;
+}
+
+.pedrollou95kontaktu95mobileu95360px .vector-1 {
+  height: 112.99%;
+  left: 67.99%;
+  position: absolute;
+  top: -6.50%;
+  width: 39.56%;
+}
+
+.pedrollou95kontaktu95mobileu95360px .vector-2 {
+  height: 20.00%;
+  left: -6.23%;
+  position: absolute;
+  top: 40.00%;
+  width: 106.23%;
+}
+
+.pedrollou95kontaktu95mobileu95360px .kontakt-do-instalatora {
+  letter-spacing: -0.08vw;
+  line-height: normal;
+  margin-top: -0.56vw;
+  position: relative;
+  width: fit-content;
+}
+
+.pedrollou95kontaktu95mobileu95360px .frame-64 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 63.89vw;
+  padding: 0.0vw 40.0vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95kontaktu95mobileu95360px .frame-51 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 5.56vw;
+  justify-content: center;
+  padding: 0.0vw 0.0vw 30.0vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95kontaktu95mobileu95360px .frame-65-1 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+}
+
+.pedrollou95kontaktu95mobileu95360px .referencje {
+  color: var(--concrete-2);
+  font-family: var(--font-family-manrope);
+  font-size: 3.33vw;
+  font-weight: 600;
+  letter-spacing: -0.1vw;
+  line-height: 5.56vw;
+  margin-top: -0.28vw;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95kontaktu95mobileu95360px .co-mwi-o-nas-klienci {
+  color: var(--concrete);
+  font-family: var(--font-family-manrope);
+  font-size: 5.56vw;
+  font-weight: 600;
+  letter-spacing: -0.11vw;
+  line-height: 8.89vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95kontaktu95mobileu95360px .testimonials {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 4.17vw;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95kontaktu95mobileu95360px .frame-67 {
+  -webkit-backdrop-filter: blur(5.56vw) brightness(100%);
+  align-items: flex-start;
+  align-self: stretch;
+  backdrop-filter: blur(5.56vw) brightness(100%);
+  border-radius: 8.33vw;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95kontaktu95mobileu95360px .frame-71 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--eerie-black);
+  border: 0.28vw solid;
+  border-color: var(--silver-chalice-2);
+  border-radius: 5.56vw 5.56vw 0.0vw 0.0vw;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 2.78vw;
+  padding: 5.56vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95kontaktu95mobileu95360px .frame-70 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 5.56vw;
+  position: relative;
+}
+
+.pedrollou95kontaktu95mobileu95360px .image {
+  aspect-ratio: 1;
+  height: 19.03vw;
+  position: relative;
+  width: 19.03vw;
+}
+
+.pedrollou95kontaktu95mobileu95360px .frame-57 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 0.83vw;
+  position: relative;
+  width: 40.0vw;
+}
+
+.pedrollou95kontaktu95mobileu95360px .name {
+  align-self: stretch;
+  color: var(--concrete);
+  font-family: var(--font-family-geist);
+  font-size: 3.61vw;
+  font-weight: 600;
+  letter-spacing: -0.07vw;
+  line-height: 5.28vw;
+  margin-top: -0.28vw;
+  position: relative;
+}
+
+.pedrollou95kontaktu95mobileu95360px .dystrybutor-pomp-ped {
+  align-self: stretch;
+  color: var(--silver-chalice);
+  font-family: var(--font-family-geist);
+  font-size: 3.06vw;
+  font-weight: 500;
+  letter-spacing: -0.06vw;
+  line-height: 4.72vw;
+  position: relative;
+}
+
+.pedrollou95kontaktu95mobileu95360px .frame-72 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--shark);
+  border: 0.28vw solid;
+  border-color: var(--silver-chalice-2);
+  border-radius: 0.0vw 0.0vw 20.0vw 20.0vw;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 2.78vw;
+  justify-content: center;
+  margin-top: -0.28vw;
+  overflow: hidden;
+  padding: 5.56vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95kontaktu95mobileu95360px .sprzedaj-sprzt-r {
+  flex: 1;
+  letter-spacing: -0.12vw;
+  line-height: 6.39vw;
+  margin-top: -0.28vw;
+  position: relative;
+}
+
+.pedrollou95kontaktu95mobileu95360px .span {
+  letter-spacing: -0.02vw;
+}
+
+.pedrollou95kontaktu95mobileu95360px .frame-3 {
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.pedrollou95kontaktu95mobileu95360px .frame-20 {
+  height: 155.0vw;
+  left: calc(50.00% - 73.33vw);
+  position: absolute;
+  top: calc(50.00% - 77.5vw);
+  width: 146.67vw;
+}
+
+.pedrollou95kontaktu95mobileu95360px .ellipse-1 {
+  background-color: var(--dove-gray);
+  border-radius: 66.81vw;
+  filter: blur(50.56vw);;
+  height: 133.61vw;
+  left: calc(50.00% - 66.67vw);
+  position: relative;
+  top: calc(50.00% - 66.67vw);
+  width: 133.61vw;
+}
+
+.pedrollou95kontaktu95mobileu95360px .konsultacja-1 {
+  align-items: flex-start;
+  gap: 5.56vw;
+  padding: 5.56vw;
+}
+
+.pedrollou95kontaktu95mobileu95360px .ellipse-2-2 {
+  height: 340.83vw;
+  left: calc(50.00% - 50.0vw);
+  position: absolute;
+  top: calc(50.00% - 123.33vw);
+  width: 100.0vw;
+}
+
+.pedrollou95kontaktu95mobileu95360px .rectangle-1115 {
+  align-self: stretch;
+  height: 60.56vw;
+  mix-blend-mode: screen;
+  object-fit: cover;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95kontaktu95mobileu95360px .obsugujemy-ca-polsk {
+  align-self: stretch;
+  letter-spacing: -0.17vw;
+  line-height: 11.11vw;
+  margin-top: -0.28vw;
+  position: relative;
+}
+
+.pedrollou95kontaktu95mobileu95360px .odlego-nie-gra-ro {
+  align-self: stretch;
+  letter-spacing: -0.08vw;
+  line-height: 6.39vw;
+  position: relative;
+}
+
+.pedrollou95kontaktu95mobileu95360px .span-1 {
+  letter-spacing: -0.01vw;
+}
+
+.pedrollou95kontaktu95mobileu95360px .frame-36808 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 2.78vw 2.78vw;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95kontaktu95mobileu95360px .kontakt::before {
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  background: conic-gradient(from 90deg at 48% 50%, rgba(42, 44, 55, 1) 0%, rgba(42, 44, 55, 1) 15%, rgba(42, 44, 55, 1) 31%);
+  border-radius: 2.78vw;
+  content: '';
+  inset: 0;
+  mask-composite: exclude;
+  padding: 0.28vw;
+  pointer-events: none;
+  position: absolute;
+  z-index: 1;
+}
+
+.pedrollou95kontaktu95mobileu95360px .kontakt {
+  align-items: center;
+  border: none;
+  border-radius: 2.78vw;
+  display: flex;
+  flex-direction: column;
+  gap: 2.78vw;
+  padding: 5.56vw 8.33vw;
+  position: relative;
+  width: 83.33vw;
+}
+
+.pedrollou95kontaktu95mobileu95360px .biuro {
+  letter-spacing: -0.11vw;
+  line-height: 6.67vw;
+  margin-top: -0.28vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95kontaktu95mobileu95360px .frame-36746 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 1.39vw;
+  position: relative;
+}
+
+.pedrollou95kontaktu95mobileu95360px .phone {
+  letter-spacing: 0.04vw;
+  line-height: normal;
+  margin-top: -0.28vw;
+  position: relative;
+  width: fit-content;
+}
+
+.pedrollou95kontaktu95mobileu95360px .pedrollopolskapl {
+  cursor: pointer;
+  letter-spacing: 0.04vw;
+  line-height: normal;
+  position: relative;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.pedrollou95kontaktu95mobileu95360px .dobr-pomp {
+  letter-spacing: -0.11vw;
+  line-height: 6.67vw;
+  margin-top: -0.28vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95kontaktu95mobileu95360px .infolinia {
+  letter-spacing: -0.11vw;
+  line-height: 6.67vw;
+  margin-top: -0.28vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95kontaktu95mobileu95360px .faktury-i-zamwienia {
+  letter-spacing: -0.11vw;
+  line-height: 6.67vw;
+  margin-top: -0.28vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95kontaktu95mobileu95360px .place {
+  letter-spacing: -0.11vw;
+  line-height: 6.67vw;
+  margin-top: -0.28vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95kontaktu95mobileu95360px .konsultacja-2 {
+  align-items: flex-start;
+  gap: 2.78vw;
+  padding: 11.11vw 5.56vw;
+}
+
+.pedrollou95kontaktu95mobileu95360px .ellipse-2-3 {
+  height: 419.44vw;
+  left: calc(50.00% - 50.0vw);
+  position: absolute;
+  top: calc(50.00% - 208.06vw);
+  width: 100.0vw;
+}
+
+.pedrollou95kontaktu95mobileu95360px .frame-6483-2 {
+  align-items: center;
+  flex: 0 0 auto;
+  gap: 5.56vw;
+}
+
+.pedrollou95kontaktu95mobileu95360px .u7761719182_httpss-3 {
+  background-image: url(../img/u7761719182-httpss-15@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 5.56vw;
+  height: 58.89vw;
+  position: relative;
+  width: 48.89vw;
+}
+
+.pedrollou95kontaktu95mobileu95360px .ellipse-3 {
+  height: 144.44vw;
+  left: calc(50.00% - 50.0vw);
+  position: absolute;
+  top: calc(50.00% - 55.83vw);
+  width: 100.0vw;
+}
+
+.pedrollou95kontaktu95mobileu95360px .ellipse-2-4 {
+  height: 128.89vw;
+  left: calc(50.00% - 47.22vw);
+  position: absolute;
+  top: calc(50.00% - 83.89vw);
+  width: 97.22vw;
+}
+
+.pedrollou95kontaktu95mobileu95360px .frame-6482-2 {
+  align-items: flex-start;
+  gap: 11.11vw;
+}
+
+.pedrollou95kontaktu95mobileu95360px .pompa-ma-dziaa-bez {
+  align-self: stretch;
+  letter-spacing: -0.17vw;
+  line-height: 11.11vw;
+  margin-top: -0.28vw;
+  position: relative;
+}
+
+.pedrollou95kontaktu95mobileu95360px .to-prawda-e-jeste {
+  align-self: stretch;
+  letter-spacing: -0.08vw;
+  line-height: 6.39vw;
+  position: relative;
+}
+
+.pedrollou95kontaktu95mobileu95360px .frame-82 {
+  align-items: flex-end;
+  align-self: stretch;
+  background-color: var(--cod-gray);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 11.11vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95kontaktu95mobileu95360px .frame-36734 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95kontaktu95mobileu95360px .footer_desktop {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95kontaktu95mobileu95360px .frame-6613 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--white);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 5.56vw;
+  padding: 11.11vw 5.56vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95kontaktu95mobileu95360px .zapytaj-o-pomp {
+  align-self: stretch;
+  letter-spacing: -0.25vw;
+  line-height: 8.89vw;
+  margin-top: -0.28vw;
+  position: relative;
+  text-align: center;
+}
+
+.pedrollou95kontaktu95mobileu95360px .opowiedz-nam-o-swoic {
+  align-self: stretch;
+  color: var(--cod-gray);
+  font-family: var(--font-family-manrope);
+  font-size: var(--font-size-m);
+  font-weight: 500;
+  letter-spacing: -0.08vw;
+  line-height: 6.39vw;
+  position: relative;
+  text-align: center;
+}
+
+.pedrollou95kontaktu95mobileu95360px .input-1 {
+  height: 55.56vw;
+}
+
+.pedrollou95kontaktu95mobileu95360px .frame-36727 {
+  align-items: center;
+  background-color: var(--white);
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.56vw;
+  position: relative;
+}
+
+.pedrollou95kontaktu95mobileu95360px .label-2 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.28vw;
+}
+
+.pedrollou95kontaktu95mobileu95360px .star {
+  letter-spacing: 0;
+  line-height: 5.56vw;
+  margin-top: -0.28vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95kontaktu95mobileu95360px .input {
+  height: 14.72vw;
+}
+
+.pedrollou95kontaktu95mobileu95360px .label {
+  letter-spacing: 0;
+  line-height: 5.28vw;
+  margin-top: -0.14vw;
+  white-space: nowrap;
+}
+
+.pedrollou95kontaktu95mobileu95360px .frame-6589 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--white);
+  border: 0.28vw solid;
+  border-color: var(--cod-gray-2);
+  border-radius: 2.78vw;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 2.78vw;
+  height: 14.72vw;
+  justify-content: center;
+  padding: 4.72vw 5.56vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95kontaktu95mobileu95360px .frame-6397 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: space-between;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95kontaktu95mobileu95360px .jestem {
+  color: var(--cod-gray);
+  font-family: var(--font-family-manrope);
+  font-size: 4.17vw;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 5.28vw;
+  margin-top: -0.28vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95kontaktu95mobileu95360px .arrow_down {
+  height: 1.78vw;
+  position: relative;
+  width: 4.17vw;
+}
+
+.pedrollou95kontaktu95mobileu95360px .arrow_down-1 {
+  height: 132.38%;
+  left: -4.34%;
+  position: absolute;
+  top: -11.86%;
+  width: 108.67%;
+}
+
+.pedrollou95kontaktu95mobileu95360px .label-3 {
+  letter-spacing: 0;
+  line-height: 5.28vw;
+  margin-top: -0.28vw;
+  white-space: nowrap;
+}
+
+.pedrollou95kontaktu95mobileu95360px .radio_select_2 {
+  align-items: center;
+  display: inline-flex;
+  gap: 2.78vw;
+  height: 13.89vw;
+  position: relative;
+}
+
+.pedrollou95kontaktu95mobileu95360px .group-62 {
+  aspect-ratio: 1;
+  border: 0.56vw solid;
+  border-color: var(--celeste);
+  border-radius: 3.33vw;
+  height: 6.67vw;
+  position: relative;
+  width: 6.67vw;
+}
+
+.pedrollou95kontaktu95mobileu95360px .x1-fazowe-230-v-50-hz {
+  color: var(--cod-gray);
+  font-family: var(--font-family-manrope);
+  font-size: 3.33vw;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 5.56vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95kontaktu95mobileu95360px .wylij {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.83vw;
+  position: relative;
+  width: fit-content;
+}
+
+.pedrollou95kontaktu95mobileu95360px .arrow_right {
+  height: 5.28vw;
+  margin-bottom: -0.14vw;
+  margin-right: -0.33vw;
+  margin-top: -0.14vw;
+  position: relative;
+  width: 5.89vw;
+}
+
+.pedrollou95kontaktu95mobileu95360px .frame-78 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 11.11vw;
+  padding: 11.11vw 5.56vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95kontaktu95mobileu95360px .ellipse-2-5 {
+  height: 402.22vw;
+  left: calc(50.00% - 50.0vw);
+  position: absolute;
+  top: calc(50.00% - 195.83vw);
+  width: 2.78vw;
+}
+
+.pedrollou95kontaktu95mobileu95360px .frame-367 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 5.56vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95kontaktu95mobileu95360px .frame-36738 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 2.78vw;
+  position: relative;
+}
+
+.pedrollou95kontaktu95mobileu95360px .group-1-1 {
+  height: 10.83vw;
+  position: relative;
+  width: 47.26vw;
+}
+
+.pedrollou95kontaktu95mobileu95360px .polska {
+  letter-spacing: -0.11vw;
+  line-height: 13.89vw;
+  margin-top: -0.28vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95kontaktu95mobileu95360px .tworzymy-przyszo {
+  align-self: stretch;
+  color: var(--white);
+  font-family: var(--font-family-manrope);
+  font-size: var(--font-size-m);
+  font-weight: 500;
+  letter-spacing: -0.08vw;
+  line-height: 6.39vw;
+  position: relative;
+}
+
+.pedrollou95kontaktu95mobileu95360px .button_to_white-1 {
+  background: linear-gradient(90deg, rgba(64, 100, 223, 1) 0%, rgba(64, 100, 223, 0.15) 100%);
+  border: 0.28vw solid;
+  border-color: var(--royal-blue);
+}
+
+.pedrollou95kontaktu95mobileu95360px .strefa-partnera {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.56vw;
+  position: relative;
+  width: fit-content;
+}
+
+.pedrollou95kontaktu95mobileu95360px .frame-36742-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8.33vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95kontaktu95mobileu95360px .raz-kupujesz-bez-koca-pompujesz {
+  align-self: stretch;
+  letter-spacing: -0.17vw;
+  line-height: 11.11vw;
+  margin-top: -0.28vw;
+  position: relative;
+}
+
+.pedrollou95kontaktu95mobileu95360px .frame-3674 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 1.94vw;
+  justify-content: center;
+  position: relative;
+}
+
+.pedrollou95kontaktu95mobileu95360px .elektryczna-pompa-gbinowa {
+  letter-spacing: -0.07vw;
+  line-height: 6.11vw;
+  margin-top: -0.28vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95kontaktu95mobileu95360px .frame-3674-1 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.pedrollou95kontaktu95mobileu95360px .label_-menu_footer {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 2.78vw;
+  padding: 0.56vw 0.0vw;
+  position: relative;
+}
+
+.pedrollou95kontaktu95mobileu95360px .frame-33 {
+  align-items: center;
+  border-bottom-style: solid;
+  border-bottom-width: 0.28vw;
+  border-color: transparent;
+  border-image: linear-gradient(90deg, rgba(64, 100, 223, 1) 0%, rgba(64, 100, 223, 0) 100%) 1;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 2.78vw;
+  padding: 1.11vw 0.0vw;
+  position: relative;
+}
+
+.pedrollou95kontaktu95mobileu95360px .label-1 {
+  letter-spacing: 0.04vw;
+  line-height: normal;
+  margin-top: -0.28vw;
+}
+
+.pedrollou95kontaktu95mobileu95360px .na-skrty {
+  letter-spacing: -0.07vw;
+  line-height: 6.11vw;
+  margin-top: -0.28vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95kontaktu95mobileu95360px .frame-36747 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 4.17vw;
+  position: relative;
+}
+
+.pedrollou95kontaktu95mobileu95360px .kontakt-z-nami {
+  letter-spacing: -0.07vw;
+  line-height: 6.11vw;
+  margin-top: -0.28vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95kontaktu95mobileu95360px .frame-36748 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 2.78vw;
+  justify-content: center;
+  padding: 1.67vw 0.0vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95kontaktu95mobileu95360px .dachowa-43-a-96-500-sochaczew-1 {
+  flex: 1;
+  letter-spacing: 0.04vw;
+  line-height: normal;
+  margin-top: -0.28vw;
+  position: relative;
+}
+
+.pedrollou95kontaktu95mobileu95360px .dobr-pomp-1 {
+  letter-spacing: -0.07vw;
+  line-height: 6.67vw;
+  margin-top: -0.28vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95kontaktu95mobileu95360px .social_media {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 2.78vw;
+  padding: 1.39vw 0.0vw;
+  position: relative;
+}
+
+.pedrollou95kontaktu95mobileu95360px .social_media-item {
+  height: 7.78vw;
+  position: relative;
+  width: 7.78vw;
+}
+
+.pedrollou95kontaktu95mobileu95360px .linkedin {
+  align-items: center;
+  display: flex;
+  gap: 2.78vw;
+  height: 7.78vw;
+  justify-content: center;
+  padding: 1.11vw;
+  position: relative;
+  width: 7.78vw;
+}
+
+.pedrollou95kontaktu95mobileu95360px .subtract {
+  aspect-ratio: 1;
+  height: 5.0vw;
+  position: relative;
+  width: 5.0vw;
+}
+
+.pedrollou95kontaktu95mobileu95360px .x2025-pedrollo-polityka-prywatnoci {
+  height: 3.16vw;
+  position: relative;
+  width: 52.24vw;
+}
+
+.pedrollou95kontaktu95mobileu95360px .button_to_white-2 {
+  align-items: center;
+  border-radius: 8.33vw;
+  display: inline-flex;
+  gap: 2.78vw;
+  height: 12.78vw;
+  justify-content: center;
+  padding: 3.89vw 7.22vw;
+  position: relative;
+}
+
+.pedrollou95kontaktu95mobileu95360px .frame-6482-3 {
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95kontaktu95mobileu95360px .frame-6483-3 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95kontaktu95mobileu95360px .input-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--white);
+  border: 0.28vw solid;
+  border-color: var(--cod-gray-2);
+  border-radius: 2.78vw;
+  display: flex;
+  padding: 4.44vw 5.56vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95kontaktu95mobileu95360px .konsultacja-3 {
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95kontaktu95mobileu95360px .label-4 {
+  position: relative;
+  width: fit-content;
+}
+@media screen and (max-width: 767px) {
+  .screen.pedrollou95kontaktu95768px { 
+    display: none;
+   }
+  .screen.index { 
+    display: none;
+   }
+  .screen.pedrollou95kontaktu951366px { 
+    display: none;
+   }
+}
+@media screen and (min-width: 768px) and (max-width: 1365px) {
+  .screen.pedrollou95kontaktu95mobileu95360px { 
+    display: none;
+   }
+  .screen.index { 
+    display: none;
+   }
+  .screen.pedrollou95kontaktu951366px { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1366px) and (max-width: 1919px) {
+  .screen.pedrollou95kontaktu95mobileu95360px { 
+    display: none;
+   }
+  .screen.pedrollou95kontaktu95768px { 
+    display: none;
+   }
+  .screen.index { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1920px) {
+  .screen.pedrollou95kontaktu95mobileu95360px { 
+    display: none;
+   }
+  .screen.pedrollou95kontaktu95768px { 
+    display: none;
+   }
+  .screen.pedrollou95kontaktu951366px { 
+    display: none;
+   }
+}

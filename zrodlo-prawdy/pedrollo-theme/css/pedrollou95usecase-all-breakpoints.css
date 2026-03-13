@@ -1,0 +1,5648 @@
+body {--salem: #009347;--big-stone:#17233F70;--celtic:#00934740;}
+.page--usecase {
+  align-items: center;
+  background-color: var(--cod-gray);
+  display: flex;
+  flex-direction: column;
+  min-width: 100.0vw;
+  position: relative;
+}
+
+.page--usecase .frame-20 {
+  align-items: center;
+  align-self: stretch;
+  background-image: url(../img/frame-20-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  gap: 0.52vw;
+  height: 50.0vw;
+  justify-content: center;
+  padding: 15.62vw 21.35vw 10.42vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--usecase .ellipse-2 {
+  height: 65.57vw;
+  left: calc(50.00% - 32.76vw);
+  position: absolute;
+  top: calc(50.00% - 32.81vw);
+  width: 65.57vw;
+}
+
+.page--usecase .konsultacja {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.52vw;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.page--usecase .jak-pompa-pedrollo-o {
+  color: var(--concrete);
+  font-size: 4.69vw;
+  letter-spacing: -0.09vw;
+  line-height: 1.4;
+  margin-top: -0.05vw;
+  text-align: center;
+  width: 57.29vw;
+}
+
+.page--usecase .nisze-zuycie-prdu {
+  color: transparent;
+  font-family: var(--font-family-manrope);
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  height: 5.21vw;
+  letter-spacing: -0.02vw;
+  line-height: 1.6;
+  position: relative;
+  text-align: center;
+  width: 57.29vw;
+}
+
+.page--usecase .span0 {
+  color: var(--white);
+  letter-spacing: -0.01vw;
+}
+
+.page--usecase .span1 {
+  color: var(--silver-chalice);
+  letter-spacing: -0.01vw;
+}
+
+.page--usecase .arrow-2 {
+  border-color: var(--white);
+  height: 3.12vw;
+  padding: 0.52vw;
+  transform: rotate(90.00deg);
+  width: 3.12vw;
+}
+
+.page--usecase .frame-76 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.52vw;
+  padding: 0.0vw 0.0vw 0.0vw 0.16vw;
+  position: relative;
+}
+
+.page--usecase .line-8-2 {
+  height: 0.47vw;
+  margin-left: -0.21vw;
+  margin-right: -0.25vw;
+  position: relative;
+  transform: rotate(-90.00deg);
+  width: 0.83vw;
+}
+
+.page--usecase .frame-3673321 {
+  background-color: var(--cod-gray);
+  height: 327.97vw;
+  position: relative;
+  width: 100.0vw;
+}
+
+.page--usecase .group-6318 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 1.2vw;
+  height: 317.45vw;
+  left: calc(50.00% - 1.67vw);
+  position: absolute;
+  top: 6.93vw;
+  width: 3.49vw;
+}
+
+.page--usecase .czasu {
+  height: 1.2vw;
+  letter-spacing: -0.03vw;
+  line-height: 1.2;
+  margin-left: -0.1vw;
+  text-align: center;
+  white-space: nowrap;
+  width: 3.39vw;
+}
+
+.page--usecase .line-23 {
+  height: 315.05vw;
+  margin-left: 0;
+  object-fit: cover;
+  width: 1px;
+}
+
+.page--usecase .frame-3673344 {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 3.12vw;
+  justify-content: center;
+  left: calc(50.00% - 47.08vw);
+  position: absolute;
+  top: 13.07vw;
+}
+
+.page--usecase .group-6328 {
+  height: 28.59vw;
+  position: relative;
+  width: 41.25vw;
+}
+
+.page--usecase .group-6319 {
+  height: 27.55vw;
+  left: 1.04vw;
+  position: absolute;
+  top: 0;
+  width: 29.32vw;
+}
+
+.page--usecase .freepik__assistant__55995-1 {
+  aspect-ratio: 1;
+  height: 27.55vw;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 27.55vw;
+}
+
+.page--usecase .rectangle-1119-1 {
+  left: 18.23vw;
+  top: 0;
+  width: 11.09vw;
+}
+
+.page--usecase .zakup-i-monta {
+  left: 21.93vw;
+  position: absolute;
+  text-align: right;
+  top: 7.6vw;
+  width: 19.22vw;
+}
+
+.page--usecase .frame-68-2 {
+  align-items: center;
+  display: flex;
+  left: 21.93vw;
+  top: 11.98vw;
+  width: 19.22vw;
+}
+
+.page--usecase .frame-3673327 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.78vw;
+  justify-content: center;
+  position: relative;
+}
+
+.page--usecase .frame-36733 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.26vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--usecase .frame-36733-1 {
+  align-self: stretch;
+  display: flex;
+  gap: 0.78vw;
+  width: 100%;
+}
+
+.page--usecase .frame-3673331 {
+  height: 2.24vw;
+  position: relative;
+  width: 2.24vw;
+}
+
+.page--usecase .pompa-900-z {
+  letter-spacing: -0.03vw;
+  line-height: 1.2;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--usecase .frame-3673331-1 {
+  background-color: var(--royal-blue-2);
+  border-radius: 0.52vw;
+  height: 2.24vw;
+  overflow: hidden;
+  position: relative;
+  width: 2.24vw;
+}
+
+.page--usecase .group-6314 {
+  aspect-ratio: 1;
+  height: 46.43%;
+  left: 27.86%;
+  position: relative;
+  top: 27.67%;
+  width: 46.42%;
+}
+
+.page--usecase .vector-2 {
+  height: 46.52%;
+  left: 2.79%;
+  position: absolute;
+  top: 53.29%;
+  width: 46.51%;
+}
+
+.page--usecase .vector-3 {
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 99.81%;
+}
+
+.page--usecase .vector-4 {
+  height: 42.25%;
+  left: 57.66%;
+  position: absolute;
+  top: 2.46%;
+  width: 42.35%;
+}
+
+.page--usecase .monta-500-z {
+  letter-spacing: -0.03vw;
+  line-height: 1.2;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--usecase .frame-3673336-3 {
+  align-items: flex-start;
+  background-color: var(--alizarin-crimson);
+  border-radius: 0.52vw;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.52vw;
+  padding: 0.52vw 0.78vw;
+  position: relative;
+}
+
+.page--usecase .czny-koszt-od-zakupu {
+  align-self: stretch;
+  letter-spacing: -0.03vw;
+  line-height: 1.2;
+  margin-top: -0.05vw;
+  position: relative;
+  text-align: center;
+}
+
+/* Mniejsze teksty opisowe w boksach osi czasu */
+.page--usecase .frame-3673335 p,
+.page--usecase .frame-3673335-1 p,
+.page--usecase .frame-3673335-2 p,
+.page--usecase .frame-3673335-3 p,
+.page--usecase .frame-3673335-4 p,
+.page--usecase .frame-3673335-5 p,
+.page--usecase .frame-3673335-6 p,
+.page--usecase .frame-3673335-7 p,
+.page--usecase .frame-3673335-8 p,
+.page--usecase .frame-3673335-9 p {
+  font-size: 0.875rem;
+  line-height: 1.4;
+}
+
+.page--usecase .frame-3673335 {
+  -webkit-backdrop-filter: blur(1.04vw) brightness(100%);
+  align-items: center;
+  backdrop-filter: blur(1.04vw) brightness(100%);
+  background-color: var(--ebony-clay);
+  border: 0.05vw solid;
+  border-color: var(--royal-blue-4);
+  border-radius: 0.78vw;
+  display: flex;
+  flex-direction: column;
+  gap: 0.52vw;
+  height: 6.04vw;
+  justify-content: center;
+  left: 0;
+  padding: 1.3vw;
+  position: absolute;
+  top: 22.55vw;
+  width: 19.48vw;
+}
+
+.page--usecase .zakup-taniej-pompy {
+  align-self: stretch;
+  letter-spacing: -0.02vw;
+  line-height: 1.41;
+  margin-top: -0.05vw;
+  position: relative;
+}
+
+.page--usecase .frame-36733-2 {
+  align-self: stretch;
+  display: inline-flex;
+  gap: 0.52vw;
+  padding: 0.0vw 0.0vw 11.04vw;
+}
+
+.page--usecase .frame-36733-3 {
+  background-color: var(--royal-blue-3);
+  border-radius: 1.04vw;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 0.52vw;
+  justify-content: center;
+  padding: 1.25vw 1.41vw;
+}
+
+.page--usecase .frame-3673326 {
+  align-items: center;
+  background-color: var(--royal-blue);
+  border-radius: 1.56vw;
+  display: flex;
+  flex-direction: column;
+  gap: 0.52vw;
+  height: 2.4vw;
+  justify-content: center;
+  padding: 0.62vw;
+  position: relative;
+  width: 2.4vw;
+}
+
+.page--usecase .group-6329 {
+  height: 28.59vw;
+  margin-right: -0.1vw;
+  position: relative;
+  width: 41.25vw;
+}
+
+.page--usecase .group-6317 {
+  background-image: url(../img/01-1-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 27.55vw;
+  left: 12.55vw;
+  position: absolute;
+  top: 0;
+  width: 27.55vw;
+}
+
+.page--usecase .rectangle-1120-1 {
+  background: linear-gradient(270deg, rgba(10, 10, 10, 0.7) 0%, rgba(10, 10, 10, 0) 100%);
+  height: 27.55vw;
+  transform: rotate(180deg);
+  width: 11.56vw;
+}
+
+.page--usecase .zakup-i-monta-1 {
+  left: 0;
+  position: absolute;
+  top: 7.71vw;
+  white-space: nowrap;
+}
+
+.page--usecase .frame-68-3 {
+  align-items: center;
+  display: inline-flex;
+  left: 0;
+  top: 11.93vw;
+}
+
+.page--usecase .pompa-2800-z {
+  letter-spacing: -0.03vw;
+  line-height: 1.2;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--usecase .monta-500-z-1 {
+  letter-spacing: -0.03vw;
+  line-height: 1.2;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+/* Zielone bloki „Łączny koszt” (Pompa Pedrollo) – tekst do prawej */
+.page--usecase .frame-3673336 .czny-koszt-od-zakupu,
+.page--usecase .frame-3673336-4 .czny-koszt-od-zakupu,
+.page--usecase .frame-3673336-8 .czny-koszt-od-zakupu,
+.page--usecase .frame-3673336-8 .czny-koszt-od-zakupu-1 {
+  text-align: right;
+}
+
+.page--usecase .frame-3673336 {
+  align-items: flex-end;
+  background-color: var(--salem);
+  border-radius: 0.52vw;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.52vw;
+  padding: 0.52vw 0.78vw;
+  position: relative;
+  text-align: right;
+  width: auto;
+}
+
+.page--usecase .frame-3673335-1 {
+  background-color: var(--ebony-clay-2);
+  border-color: var(--royal-blue-4);
+  gap: 0.52vw;
+  height: 7.45vw;
+  justify-content: center;
+  right: 0.1vw;
+  top: 21.15vw;
+  width: 20.16vw;
+}
+
+.page--usecase .zakup-pompy-pedrollo {
+  align-self: stretch;
+  letter-spacing: -0.02vw;
+  line-height: 1.41;
+  margin-top: -0.05vw;
+  position: relative;
+}
+
+.page--usecase .frame-3673345 {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 3.12vw;
+  justify-content: center;
+  left: calc(50.00% - 47.03vw);
+  position: absolute;
+  top: 50.21vw;
+}
+
+.page--usecase .group-6322 {
+  height: 30.68vw;
+  position: relative;
+  width: 41.15vw;
+}
+
+.page--usecase .group-6321 {
+  height: 27.55vw;
+  left: 1.04vw;
+  position: absolute;
+  top: 0;
+  width: 27.19vw;
+}
+
+.page--usecase .freepik__assistant__55995-1-1 {
+  height: 27.19vw;
+  left: 0;
+  top: 0.1vw;
+  width: 27.19vw;
+}
+
+.page--usecase .rectangle-1119-2 {
+  left: 16.93vw;
+  top: 0.05vw;
+  width: 10.26vw;
+}
+
+.page--usecase .frame-3673355 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 1.04vw;
+  left: 21.35vw;
+  position: absolute;
+  top: 9.01vw;
+  width: 19.79vw;
+}
+
+.page--usecase .pierwsza-awaria {
+  align-self: stretch;
+  margin-top: -0.05vw;
+  position: relative;
+  text-align: right;
+}
+
+.page--usecase .frame-367335 {
+  align-items: center;
+  background-color: var(--alizarin-crimson);
+  border-radius: 0.52vw;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.52vw;
+  justify-content: center;
+  padding: 0.52vw;
+  position: relative;
+}
+
+.page--usecase .objta-gwarancj {
+  letter-spacing: -0.02vw;
+  line-height: 1.56;
+  margin-top: -0.05vw;
+  position: relative;
+  text-align: right;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--usecase .frame-68-4 {
+  align-items: center;
+  display: flex;
+  right: 0;
+  top: 19.1vw;
+  width: 19.79vw;
+}
+
+.page--usecase .frame-3673327-1 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.78vw;
+  justify-content: center;
+  margin-right: -0.25vw;
+  position: relative;
+}
+
+.page--usecase .wymiana-500-z {
+  letter-spacing: -0.03vw;
+  line-height: 1.2;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--usecase .frame-367332 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.78vw;
+  position: relative;
+}
+
+.page--usecase .nadwyka-za-prd-2-lata-300-z {
+  letter-spacing: -0.03vw;
+  line-height: 1.2;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--usecase .frame-3673336-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--alizarin-crimson);
+  border-radius: 0.52vw;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.52vw;
+  padding: 0.52vw 0.78vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--usecase .frame-3673335-2 {
+  background: linear-gradient(0deg, rgba(88, 20, 14, 0.4) 0%, rgba(88, 20, 14, 0.4) 100%), linear-gradient(0deg, rgba(10, 10, 10, 0.5) 0%, rgba(10, 10, 10, 0.5) 100%);
+  border-color: var(--alizarin-crimson-2);
+  gap: 0.78vw;
+  left: 0;
+  top: 19.58vw;
+  width: 18.75vw;
+}
+
+.page--usecase .frame-367333 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--alizarin-crimson);
+  border-radius: 0.52vw;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 0.52vw;
+  justify-content: center;
+  padding: 0.52vw 0.78vw;
+  position: relative;
+  width: 100%;
+}
+
+/* Ikony Arrow-n.png (Awaria) i Arrow-y.png (check) – całe ikonki z kółkiem */
+.page--usecase .usecase-icon-awaria {
+  height: 2rem;
+  width: auto;
+  flex-shrink: 0;
+  display: block;
+}
+.page--usecase .usecase-icon-check {
+  height: 2rem;
+  width: auto;
+  flex-shrink: 0;
+  display: block;
+}
+
+.page--usecase .awaria {
+  letter-spacing: -0.03vw;
+  line-height: 1.2;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--usecase .nagy-brak-wody-i-ty {
+  letter-spacing: -0.02vw;
+  line-height: 1.41;
+  margin-left: -0.12vw;
+  margin-right: -0.12vw;
+  position: relative;
+  width: 16.41vw;
+}
+
+.page--usecase .frame-3673350 {
+  align-items: center;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.52vw;
+  padding: 0.0vw 0.0vw 9.58vw;
+  position: relative;
+}
+
+.page--usecase .frame-3673326-2 {
+  border-radius: 1.56vw;
+  flex: 0 0 auto;
+}
+
+.page--usecase .group-6323 {
+  height: 30.05vw;
+  margin-right: -0.1vw;
+  position: relative;
+  width: 41.23vw;
+}
+
+.page--usecase .group-6320 {
+  background-image: url(../img/01-1-3.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 27.4vw;
+  left: 12.71vw;
+  position: absolute;
+  top: 0;
+  width: 27.4vw;
+}
+
+.page--usecase .rectangle-1120-2 {
+  background: linear-gradient(270deg, rgba(10, 10, 10, 0.7) 0%, rgba(10, 10, 10, 0) 100%);
+  height: 27.38vw;
+  margin-left: 0;
+  transform: rotate(180deg);
+  width: 9.83vw;
+}
+
+.page--usecase .brak-wydarze {
+  left: 0.47vw;
+  position: absolute;
+  top: 9.11vw;
+  width: 20.83vw;
+}
+
+.page--usecase .frame-68-5 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  left: 0;
+  top: 19.1vw;
+  width: 19.79vw;
+}
+
+.page--usecase .frame-367 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.26vw;
+  position: relative;
+}
+
+.page--usecase .koszty-0-z {
+  letter-spacing: -0.03vw;
+  line-height: 1.2;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--usecase .frame-3673336-4 {
+  align-items: flex-end;
+  background-color: var(--salem);
+  border-radius: 0.52vw;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.52vw;
+  margin-right: -0.25vw;
+  padding: 0.52vw 0.78vw;
+  position: relative;
+  text-align: right;
+  width: auto;
+}
+
+.page--usecase .frame-3673336-5 {
+  -webkit-backdrop-filter: blur(1.04vw) brightness(100%);
+  align-items: center;
+  backdrop-filter: blur(1.04vw) brightness(100%);
+  background-color: var(--celtic);
+  border: 0.05vw solid;
+  border-color: var(--salem-2);
+  border-radius: 0.78vw;
+  display: inline-flex;
+  gap: 0.52vw;
+  left: 19.32vw;
+  padding: 1.3vw;
+  position: absolute;
+  top: 25.42vw;
+}
+
+.page--usecase .frame {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.52vw;
+  position: relative;
+}
+
+
+.page--usecase .system-dziaa-bez-za {
+  letter-spacing: -0.02vw;
+  line-height: 1.41;
+  margin-top: -0.05vw;
+  position: relative;
+  width: 16.88vw;
+}
+
+.page--usecase .frame-3673346 {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 3.12vw;
+  left: calc(50.00% - 47.08vw);
+  position: absolute;
+  top: 89.84vw;
+}
+
+.page--usecase .group-6324 {
+  height: 32.97vw;
+  position: relative;
+  width: 41.15vw;
+}
+
+.page--usecase .group-6330 {
+  height: 27.97vw;
+  left: 1.04vw;
+  position: absolute;
+  top: 0;
+  width: 40.1vw;
+}
+
+.page--usecase .group-6321-1 {
+  background-image: url(../img/freepik--assistant--55995-1-3.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 27.55vw;
+  left: 0;
+  width: 27.55vw;
+}
+
+.page--usecase .rectangle-1119 {
+  margin-left: 15.94vw;
+  width: 11.61vw;
+}
+
+.page--usecase .frame-3673354 {
+  align-items: flex-end;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 1.04vw;
+  left: 17.45vw;
+  position: absolute;
+  top: 9.11vw;
+}
+
+.page--usecase .koniec-ywotnoci {
+  margin-top: -0.05vw;
+  position: relative;
+  text-align: right;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--usecase .po-gwarancji {
+  letter-spacing: -0.02vw;
+  line-height: 1.56;
+  margin-top: -0.05vw;
+  position: relative;
+  text-align: right;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--usecase .frame-68-6 {
+  align-items: center;
+  display: inline-flex;
+  left: 17.97vw;
+  top: 19.1vw;
+}
+
+.page--usecase .frame-367333-1 {
+  height: 2.24vw;
+  position: relative;
+  width: 2.24vw;
+}
+
+.page--usecase .kupno-nowej-pompy-1000-z-inflacja {
+  letter-spacing: -0.03vw;
+  line-height: 1.2;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--usecase .wymiana-550-z-inflacja {
+  letter-spacing: -0.03vw;
+  line-height: 1.2;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--usecase .frame-3673335-3 {
+  background: linear-gradient(0deg, rgba(88, 20, 14, 0.4) 0%, rgba(88, 20, 14, 0.4) 100%), linear-gradient(0deg, rgba(10, 10, 10, 0.5) 0%, rgba(10, 10, 10, 0.5) 100%);
+  border-color: var(--alizarin-crimson-2);
+  gap: 0.78vw;
+  justify-content: center;
+  left: 0;
+  top: 19.06vw;
+  width: 17.08vw;
+}
+
+.page--usecase .pompa-cakowicie-prz {
+  align-self: stretch;
+  letter-spacing: -0.02vw;
+  line-height: 1.41;
+  position: relative;
+}
+
+.page--usecase .group-6325 {
+  height: 29.84vw;
+  margin-right: -0.1vw;
+  position: relative;
+  width: 41.25vw;
+}
+
+.page--usecase .group-6320-1 {
+  background-image: url(../img/01-1-6.png);
+  background-size: 100% 100%;
+}
+
+.page--usecase .rectangle-1120 {
+  transform: rotate(180deg);
+  width: 9.17vw;
+}
+
+.page--usecase .brak-wydarze-1 {
+  top: 9.11vw;
+}
+
+.page--usecase .frame-68 {
+  -webkit-backdrop-filter: blur(1.04vw) brightness(100%);
+  align-items: flex-start;
+  backdrop-filter: blur(1.04vw) brightness(100%);
+  background-color: var(--big-stone);
+  border-radius: 1.56vw;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 0.78vw;
+  justify-content: center;
+  left: 0.05vw;
+  padding: 1.3vw 1.56vw;
+  position: absolute;
+  top: 19.1vw;
+}
+
+.page--usecase .frame-3673336-6 {
+  -webkit-backdrop-filter: blur(1.04vw) brightness(100%);
+  align-items: center;
+  backdrop-filter: blur(1.04vw) brightness(100%);
+  background-color: var(--celtic);
+  border: 0.05vw solid;
+  border-color: var(--salem-2);
+  border-radius: 0.78vw;
+  display: inline-flex;
+  gap: 0.52vw;
+  left: 25.16vw;
+  padding: 1.3vw;
+  position: absolute;
+  top: 25.42vw;
+}
+
+.page--usecase .system-nadal-dziaa-idealnie {
+  letter-spacing: -0.02vw;
+  line-height: 1.41;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--usecase .frame-3673348 {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 3.12vw;
+  left: calc(50.00% - 47.08vw);
+  position: absolute;
+  top: 132.29vw;
+}
+
+.page--usecase .group-6326 {
+  height: 30.36vw;
+  position: relative;
+  width: 41.16vw;
+}
+
+.page--usecase .group-6321-2 {
+  background-image: url(../img/freepik--assistant--55995-1-4.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 27.55vw;
+  left: 1.04vw;
+  width: 27.55vw;
+}
+
+.page--usecase .frame-3673353 {
+  align-items: flex-end;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 1.04vw;
+  left: 23.91vw;
+  position: absolute;
+  top: 9.11vw;
+}
+
+.page--usecase .kolejna-awaria {
+  margin-top: -0.05vw;
+  position: relative;
+  text-align: right;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--usecase .gwarancja {
+  letter-spacing: -0.02vw;
+  line-height: 1.56;
+  position: relative;
+  text-align: right;
+}
+
+.page--usecase .frame-68-7 {
+  align-items: center;
+  display: inline-flex;
+  left: 21.09vw;
+  top: 19.1vw;
+}
+
+.page--usecase .wymiana-600-z-inflacja {
+  letter-spacing: -0.03vw;
+  line-height: 1.2;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--usecase .frame-3673335-4 {
+  background: linear-gradient(0deg, rgba(228, 35, 19, 0.1) 0%, rgba(228, 35, 19, 0.1) 100%), linear-gradient(0deg, rgba(10, 10, 10, 0.5) 0%, rgba(10, 10, 10, 0.5) 100%);
+  border-color: var(--alizarin-crimson-2);
+  gap: 0.78vw;
+  justify-content: center;
+  left: 0;
+  top: 16.46vw;
+  width: 19.38vw;
+}
+
+.page--usecase .znowu-brak-wody-zm {
+  align-self: stretch;
+  letter-spacing: -0.02vw;
+  line-height: 1.41;
+  position: relative;
+}
+
+.page--usecase .frame-3673349 {
+  align-items: center;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.52vw;
+  padding: 0.0vw 0.0vw 10.68vw;
+  position: relative;
+}
+
+.page--usecase .frame-3673326-1 {
+  border-radius: 1.04vw;
+  height: 2.4vw;
+}
+
+.page--usecase .group-6327 {
+  height: 30.05vw;
+  margin-right: -0.1vw;
+  position: relative;
+  width: 41.25vw;
+}
+
+.page--usecase .group-6320-2 {
+  background-image: url(../img/01-1-7.png);
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.page--usecase .brak-wydarze-2 {
+  top: 9.11vw;
+}
+
+.page--usecase .frame-3673336-2 {
+  -webkit-backdrop-filter: blur(1.04vw) brightness(100%);
+  align-items: center;
+  backdrop-filter: blur(1.04vw) brightness(100%);
+  background-color: var(--celtic);
+  border: 0.05vw solid;
+  border-color: var(--salem-2);
+  border-radius: 0.78vw;
+  display: flex;
+  gap: 0.52vw;
+  justify-content: center;
+  left: 22.29vw;
+  padding: 1.3vw;
+  position: absolute;
+  top: 25.42vw;
+  width: 18.85vw;
+}
+
+.page--usecase .klient-zapomnia-e {
+  flex: 1;
+  letter-spacing: -0.02vw;
+  line-height: 1.41;
+  margin-top: -0.05vw;
+  position: relative;
+}
+
+.page--usecase .frame-3673353-1 {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 3.12vw;
+  left: calc(50.00% - 47.08vw);
+  position: absolute;
+  top: 173.02vw;
+}
+
+.page--usecase .group-6326-1 {
+  height: 31.25vw;
+  position: relative;
+  width: 41.16vw;
+}
+
+.page--usecase .group-6321-3 {
+  background-image: url(../img/freepik--assistant--55995-1-5.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 27.55vw;
+  left: 1.04vw;
+  width: 27.55vw;
+}
+
+.page--usecase .frame-3673354-1 {
+  align-items: flex-end;
+  flex-direction: column;
+  gap: 1.04vw;
+  left: 18.49vw;
+  top: 9.11vw;
+}
+
+.page--usecase .koniec-ywotnoci-1 {
+  margin-top: -0.05vw;
+  position: relative;
+  text-align: right;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--usecase .frame-68-1 {
+  align-items: center;
+  display: inline-flex;
+  left: 19.06vw;
+  top: 19.1vw;
+}
+
+.page--usecase .kupno-nowej-pompy-1200-z-inflacja {
+  letter-spacing: -0.03vw;
+  line-height: 1.2;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--usecase .vector-5 {
+  height: 46.52%;
+  left: 2.79%;
+  position: absolute;
+  top: 53.30%;
+  width: 46.51%;
+}
+
+.page--usecase .wymiana-700-z-inflacja {
+  letter-spacing: -0.03vw;
+  line-height: 1.2;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--usecase .frame-3673335-5 {
+  background: linear-gradient(0deg, rgba(228, 35, 19, 0.1) 0%, rgba(228, 35, 19, 0.1) 100%), linear-gradient(0deg, rgba(10, 10, 10, 0.5) 0%, rgba(10, 10, 10, 0.5) 100%);
+  border-color: var(--alizarin-crimson-2);
+  gap: 0.78vw;
+  height: 14.79vw;
+  justify-content: center;
+  left: 0;
+  top: 16.46vw;
+  width: 17.55vw;
+}
+
+.page--usecase .koniec-ywotnoci-po {
+  align-self: stretch;
+  letter-spacing: -0.02vw;
+  line-height: 1.41;
+  position: relative;
+}
+
+.page--usecase .group-6320-3 {
+  background-image: url(../img/01-1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.page--usecase .brak-wydarze-3 {
+  top: 9.11vw;
+}
+
+.page--usecase .niezawodno-przez-8 {
+  flex: 1;
+  letter-spacing: -0.02vw;
+  line-height: 1.41;
+  margin-top: -0.05vw;
+  position: relative;
+}
+
+.page--usecase .frame-3673354-2 {
+  align-items: flex-start;
+  gap: 3.12vw;
+  left: calc(50.00% - 47.03vw);
+  top: 212.34vw;
+}
+
+.page--usecase .group-6326-2 {
+  height: 30.89vw;
+  position: relative;
+  width: 41.04vw;
+}
+
+.page--usecase .group-6321-4 {
+  background-image: url(../img/freepik--assistant--55995-1-6.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 27.55vw;
+  left: 1.04vw;
+  width: 27.55vw;
+}
+
+.page--usecase .frame-3673354-3 {
+  align-items: flex-end;
+  flex-direction: column;
+  gap: 1.04vw;
+  left: 18.07vw;
+  top: 9.11vw;
+}
+
+.page--usecase .koniec-ywotnoci-2 {
+  margin-top: -0.05vw;
+  position: relative;
+  text-align: right;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--usecase .frame-68-8 {
+  align-items: center;
+  display: inline-flex;
+  left: 18.96vw;
+  top: 19.1vw;
+}
+
+.page--usecase .kupno-nowej-pompy-1300-z-inflacja {
+  letter-spacing: -0.03vw;
+  line-height: 1.2;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--usecase .wymiana-750-z-inflacja {
+  letter-spacing: -0.03vw;
+  line-height: 1.2;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--usecase .nadwyka-za-prd-3-lata-450-z {
+  letter-spacing: -0.03vw;
+  line-height: 1.2;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--usecase .frame-3673335-6 {
+  background: linear-gradient(0deg, rgba(228, 35, 19, 0.1) 0%, rgba(228, 35, 19, 0.1) 100%), linear-gradient(0deg, rgba(10, 10, 10, 0.5) 0%, rgba(10, 10, 10, 0.5) 100%);
+  border-color: var(--alizarin-crimson-2);
+  gap: 0.78vw;
+  height: 14.43vw;
+  justify-content: center;
+  left: 0;
+  top: 16.46vw;
+  width: 17.45vw;
+}
+
+.page--usecase .number-2 {
+  margin-left: -0.1vw;
+  margin-right: -0.1vw;
+}
+
+.page--usecase .group-6320-4 {
+  background-image: url(../img/01-1-4.png);
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.page--usecase .brak-wydarze-4 {
+  top: 9.11vw;
+}
+
+.page--usecase .peen-relaks-i-zaufa {
+  flex: 1;
+  letter-spacing: -0.02vw;
+  line-height: 1.41;
+  margin-top: -0.05vw;
+  position: relative;
+}
+
+.page--usecase .frame-3673355-1 {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 3.12vw;
+  left: calc(50.00% - 47.08vw);
+  position: absolute;
+  top: 251.35vw;
+}
+
+.page--usecase .group-6326-3 {
+  height: 30.47vw;
+  position: relative;
+  width: 41.16vw;
+}
+
+.page--usecase .group-6321-5 {
+  background-image: url(../img/freepik--assistant--55995-1-7.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 27.55vw;
+  left: 1.04vw;
+  width: 27.55vw;
+}
+
+.page--usecase .frame-3673354-4 {
+  align-items: flex-end;
+  flex-direction: column;
+  gap: 1.04vw;
+  left: 18.49vw;
+  top: 8.59vw;
+}
+
+.page--usecase .koniec-ywotnoci-3 {
+  margin-top: -0.05vw;
+  position: relative;
+  text-align: right;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--usecase .kupno-nowej-pompy-1500-z-inflacja {
+  letter-spacing: -0.03vw;
+  line-height: 1.2;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--usecase .wymiana-800-z-inflacja {
+  letter-spacing: -0.03vw;
+  line-height: 1.2;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--usecase .nadwyka-za-prd-3-lata-450-z-1 {
+  letter-spacing: -0.03vw;
+  line-height: 1.2;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--usecase .frame-3673335-7 {
+  background: linear-gradient(0deg, rgba(228, 35, 19, 0.1) 0%, rgba(228, 35, 19, 0.1) 100%), linear-gradient(0deg, rgba(10, 10, 10, 0.5) 0%, rgba(10, 10, 10, 0.5) 100%);
+  border-color: var(--alizarin-crimson-2);
+  gap: 0.78vw;
+  height: 14.01vw;
+  justify-content: center;
+  left: 0;
+  top: 16.46vw;
+  width: 17.6vw;
+}
+
+.page--usecase .number-1 {
+  margin-left: -0.23vw;
+  margin-right: -0.23vw;
+}
+
+.page--usecase .group-6320-5 {
+  background-image: url(../img/01-1-5.png);
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.page--usecase .brak-wydarze-5 {
+  top: 8.59vw;
+}
+
+.page--usecase .frame-3673356 {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 3.12vw;
+  left: calc(50.00% - 47.03vw);
+  position: absolute;
+  top: 290.68vw;
+}
+
+.page--usecase .group-6326-4 {
+  height: 28.09vw;
+  position: relative;
+  width: 41.04vw;
+}
+
+.page--usecase .group-6321-6 {
+  height: 27.76vw;
+  left: 0.94vw;
+  width: 28.12vw;
+}
+
+.page--usecase .freepik__assistant__55995-1-2 {
+  height: 27.55vw;
+  left: 0.1vw;
+  top: 0.05vw;
+  width: 27.55vw;
+}
+
+.page--usecase .rectangle-1119-3 {
+  left: 18.02vw;
+  top: 0;
+  width: 9.64vw;
+}
+
+.page--usecase .rectangle-1120-3 {
+  background: linear-gradient(270deg, rgba(10, 10, 10, 0.7) 0%, rgba(10, 10, 10, 0) 100%);
+  height: 28.12vw;
+  left: 8.07vw;
+  position: absolute;
+  top: 7.71vw;
+  transform: rotate(90.00deg);
+  width: 11.98vw;
+}
+
+.page--usecase .frame-3673354-5 {
+  align-items: flex-start;
+  flex-direction: column;
+  gap: 1.04vw;
+  left: 22.71vw;
+  top: 9.11vw;
+}
+
+.page--usecase .podsumowanie-koszmaru {
+  margin-top: -0.05vw;
+  position: relative;
+  text-align: right;
+  width: fit-content;
+}
+
+.page--usecase .frame-68-9 {
+  align-items: center;
+  display: inline-flex;
+  left: 21.3vw;
+  top: 16.15vw;
+}
+
+.page--usecase .nadwyka-za-prd-1-rok-150-z {
+  letter-spacing: -0.03vw;
+  line-height: 1.2;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--usecase .frame-3673336-7 {
+  align-items: flex-start;
+  background-color: var(--alizarin-crimson);
+  border-radius: 0.52vw;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.52vw;
+  padding: 1.04vw 1.3vw;
+  position: relative;
+}
+
+.page--usecase .price {
+  align-self: stretch;
+  color: var(--white);
+  font-family: var(--font-family-manrope);
+  font-size: 3.02vw;
+  font-weight: 600;
+  letter-spacing: -0.09vw;
+  line-height: 2.5;
+  position: relative;
+  text-align: center;
+}
+
+.page--usecase .frame-3673335-8 {
+  background: linear-gradient(0deg, rgba(228, 35, 19, 0.1) 0%, rgba(228, 35, 19, 0.1) 100%), linear-gradient(0deg, rgba(10, 10, 10, 0.5) 0%, rgba(10, 10, 10, 0.5) 100%);
+  border-color: var(--alizarin-crimson-2);
+  gap: 0.78vw;
+  justify-content: center;
+  left: 0;
+  top: 17.5vw;
+  width: 18.7vw;
+}
+
+.page--usecase .klient-jest-zestreso {
+  align-self: stretch;
+  letter-spacing: -0.02vw;
+  line-height: 1.41;
+  margin-top: -0.05vw;
+  position: relative;
+}
+
+.page--usecase .group-6320-6 {
+  background-image: url(../img/01-1-8.png);
+  background-size: 100% 100%;
+}
+
+.page--usecase .podsumowanie {
+  left: 0;
+  position: absolute;
+  top: 9.11vw;
+  white-space: nowrap;
+}
+
+.page--usecase .frame-68-10 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  left: 0.05vw;
+  top: 16.15vw;
+  width: 19.48vw;
+}
+
+.page--usecase .frame-3673336-8 {
+  align-items: flex-end;
+  background-color: var(--salem);
+  border-radius: 0.52vw;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.52vw;
+  padding: 1.04vw 1.3vw;
+  position: relative;
+  text-align: right;
+}
+
+.page--usecase .czny-koszt-od-zakupu-1 {
+  align-self: stretch;
+  letter-spacing: -0.03vw;
+  line-height: 1.2;
+  margin-top: -0.03vw;
+  position: relative;
+  text-align: center;
+}
+
+.page--usecase .frame-3673352 {
+  align-items: center;
+  background-color: var(--cod-gray);
+  border-bottom: 1px solid var(--white-2);
+  display: flex;
+  gap: 26.04vw;
+  justify-content: center;
+  padding: 1.04vw 0;
+  width: 100%;
+  z-index: 20;
+}
+
+.page--usecase .frame-3673352--sticky {
+  position: sticky;
+  top: 0;
+}
+
+.page--usecase .frame-367332-1 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.8rem;
+  position: relative;
+}
+
+.page--usecase .ellipse-2-1 {
+  height: 5.21vw;
+  left: calc(50.00% - 4.84vw);
+  position: absolute;
+  top: calc(50.00% - 2.6vw);
+  width: 26.04vw;
+}
+
+.page--usecase .tani-zamiennik {
+  margin-top: -0.05vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--usecase .frame-3673322 {
+  align-items: center;
+  background-color: var(--alizarin-crimson);
+  border-radius: 999px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.52vw;
+  justify-content: center;
+  padding: 0.4vw 0.9vw;
+  position: relative;
+}
+
+.page--usecase .problem {
+  color: #fff;
+  font-size: 0.95rem;
+  letter-spacing: -0.02vw;
+  line-height: 1.2;
+  margin-top: 0;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--usecase .ellipse-2-2 {
+  height: 5.21vw;
+  left: calc(50.00% - 5.1vw);
+  position: absolute;
+  top: calc(50.00% - 2.6vw);
+  width: 26.04vw;
+}
+
+.page--usecase .pompa-pedrollo {
+  margin-top: -0.05vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--usecase .frame-3673322-1 {
+  align-items: center;
+  background-color: var(--salem);
+  border-radius: 999px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.52vw;
+  justify-content: center;
+  padding: 0.4vw 0.9vw;
+  position: relative;
+}
+
+.page--usecase .rozwizanie {
+  color: #fff;
+  font-size: 0.95rem;
+  letter-spacing: -0.02vw;
+  line-height: 1.2;
+  margin-top: 0;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--usecase .frame-3673359 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 0.52vw;
+  left: calc(50.00% - 18.96vw);
+  padding: 0.57vw 0 0;
+  position: absolute;
+  top: 82.29vw;
+  width: 37.92vw;
+}
+
+/* Gdy badge "Od tego momentu" dojedzie do nagłówka, przylepia się pod nim – wymaga JS (scroll) */
+.page--usecase .frame-3673359.is-stuck {
+  position: fixed;
+  top: 0rem;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 20;
+}
+
+.page--usecase .frame-3673342 {
+  -webkit-backdrop-filter: blur(1.04vw) brightness(100%);
+  align-items: center;
+  backdrop-filter: blur(1.04vw) brightness(100%);
+  background: linear-gradient(0deg, rgba(228, 35, 19, 0.4) 0%, rgba(228, 35, 19, 0.4) 100%), linear-gradient(0deg, rgba(10, 10, 10, 0.5) 0%, rgba(10, 10, 10, 0.5) 100%);
+  border: 0.05vw solid;
+  border-color: var(--alizarin-crimson-2);
+  border-radius: 0.52vw;
+  box-shadow: 0.0vw 0.21vw 0.21vw #00000040;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.78vw;
+  padding: 0.78vw 1.04vw;
+  position: relative;
+}
+
+.page--usecase .frame-3673336-9 {
+  align-items: flex-start;
+  background-color: var(--alizarin-crimson);
+  border-radius: 2.08vw;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.52vw;
+  padding: 0.52vw;
+  position: relative;
+}
+
+.page--usecase .frame-3673343 {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.52vw;
+  justify-content: center;
+  position: relative;
+  width: 1.2vw;
+}
+
+.page--usecase .text-1 {
+  align-self: stretch;
+  color: var(--white);
+  font-family: var(--font-family-manrope);
+  font-size: 1.61vw;
+  font-weight: 700;
+  letter-spacing: -0.05vw;
+  line-height: 1.2;
+  margin-top: -0.05vw;
+  position: relative;
+  text-align: center;
+}
+
+.page--usecase .od-tego-momentu-tani {
+  letter-spacing: 0;
+  line-height: 1.09;
+  position: relative;
+  width: fit-content;
+}
+
+.page--usecase .frame-36860 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--black-haze);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.52vw;
+  padding: 3.12vw 0.0vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--usecase .frame-6604 {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 3.12vw;
+  position: relative;
+  width: 60.73vw;
+}
+
+.page--usecase ._case {
+  align-items: center;
+  background-color: var(--white);
+  border: 0.05vw solid;
+  border-color: var(--pumice);
+  border-radius: 0.52vw;
+  display: flex;
+  gap: 2.08vw;
+  padding: 2.08vw 2.6vw;
+  position: relative;
+  width: 28.8vw;
+}
+
+.page--usecase .arrow_stroke_on_white_blue {
+  height: 3.12vw;
+  position: relative;
+  width: 3.12vw;
+}
+
+.page--usecase .frame-6608 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  position: relative;
+}
+
+.page--usecase .frame-65 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.page--usecase .e-use-case {
+  align-self: stretch;
+  color: transparent;
+  font-family: var(--font-family-manrope);
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  letter-spacing: -0.02vw;
+  line-height: 1.88;
+  margin-top: -0.05vw;
+  position: relative;
+}
+
+.page--usecase .span0-1 {
+  color: var(--royal-blue);
+  letter-spacing: -0.01vw;
+}
+
+.page--usecase .span1-1 {
+  color: var(--cod-gray);
+  letter-spacing: -0.01vw;
+}
+
+.page--usecase .jak-pompa-pedrollo-obnia {
+  align-self: stretch;
+  color: var(--cod-gray);
+  font-size: 1.93vw;
+  letter-spacing: -0.04vw;
+  line-height: 2;
+}
+
+.page--usecase .dobry-tytu-wietnej-treci {
+  align-self: stretch;
+  color: var(--cod-gray);
+  font-family: var(--font-family-manrope);
+  font-size: 1.93vw;
+  font-weight: 600;
+  letter-spacing: -0.04vw;
+  line-height: 2;
+  position: relative;
+}
+
+.page--usecase .porownanie {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.52vw;
+  padding: 4.17vw 8.33vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--usecase .ellipse-2-3 {
+  height: 36.98vw;
+  left: calc(50.00% - 39.32vw);
+  position: absolute;
+  top: calc(50.00% - 18.49vw);
+  width: 78.65vw;
+}
+
+.page--usecase .frame-6483 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 5.21vw;
+  position: relative;
+}
+
+.page--usecase .frame-6567 {
+  height: 28.65vw;
+  position: relative;
+  width: 28.65vw;
+}
+
+.page--usecase .ellipse-3 {
+  background-color: var(--royal-blue-5);
+  border-radius: 11.48vw/11.46vw;
+  filter: blur(9.48vw);;
+  height: 22.92vw;
+  left: calc(50.00% - 11.46vw);
+  position: absolute;
+  top: calc(50.00% - 11.46vw);
+  width: 22.97vw;
+}
+
+.page--usecase .vector-7 {
+  height: 19.84vw;
+  left: calc(50.00% - 10.05vw);
+  position: absolute;
+  top: calc(50.00% - 10.26vw);
+  width: 20.0vw;
+}
+
+.page--usecase .pompa_5_po_upcale-1 {
+  aspect-ratio: 0.37;
+  height: 30.78vw;
+  left: calc(50.00% - 5.21vw);
+  object-fit: cover;
+  position: absolute;
+  top: 2.19vw;
+  width: 11.35vw;
+}
+
+.page--usecase .frame-6482 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 2.08vw;
+  position: relative;
+}
+
+.page--usecase .frame-1 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 1.56vw;
+  position: relative;
+}
+
+.page--usecase .szukasz-efektywnej {
+  color: var(--concrete);
+  font-family: var(--font-family-manrope);
+  font-size: 3.12vw;
+  font-weight: 600;
+  letter-spacing: -0.06vw;
+  line-height: 2;
+  margin-top: -0.05vw;
+  position: relative;
+  width: fit-content;
+}
+
+.page--usecase .nie-ryzykuj-z-wybore {
+  color: transparent;
+  font-family: var(--font-family-manrope);
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  letter-spacing: -0.02vw;
+  line-height: 1.88;
+  position: relative;
+  width: 29.32vw;
+}
+
+.page--usecase .button_to_dark_navi {
+  align-items: center;
+  background: linear-gradient(270deg, rgba(64, 100, 223, 1) 0%, rgba(24, 30, 51, 1) 100%);
+  border: 0.1vw solid;
+  border-color: var(--royal-blue);
+  border-radius: 1.56vw;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.52vw;
+  justify-content: center;
+  padding: 0.73vw 1.35vw;
+  position: relative;
+}
+
+.page--usecase .poznaj-nasz-zestaw {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.1vw;
+  position: relative;
+  width: fit-content;
+}
+
+.page--usecase .arrow_right {
+  height: 0.99vw;
+  margin-right: -0.06vw;
+  position: relative;
+  width: 1.1vw;
+}
+
+.page--usecase .input-1 {
+  align-self: stretch;
+  height: 10.42vw;
+  width: 100%;
+}
+
+.page--usecase .frame-36727 {
+  align-items: center;
+  background-color: var(--white);
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.1vw;
+  position: relative;
+}
+
+.page--usecase .label-2 {
+  letter-spacing: 0;
+  line-height: 1.04;
+  margin-top: -0.05vw;
+  white-space: nowrap;
+}
+
+.page--usecase .frame-367-1 {
+  display: flex;
+  gap: 1.04vw;
+  width: 100%;
+}
+
+.page--usecase .input {
+  flex: 1;
+  flex-grow: 1;
+  height: 2.76vw;
+}
+
+.page--usecase .label-3 {
+  letter-spacing: 0;
+  line-height: 1.04;
+  margin-top: -0.05vw;
+  white-space: nowrap;
+}
+
+.page--usecase .frame-6589 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 0.05vw solid;
+  border-color: var(--cod-gray-2);
+  border-radius: 0.52vw;
+  cursor: pointer;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 0.52vw;
+  height: 2.76vw;
+  justify-content: center;
+  padding: 0.89vw 1.04vw;
+  position: relative;
+}
+
+.page--usecase .frame-6397 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: space-between;
+  margin-bottom: -0.03vw;
+  margin-top: -0.03vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--usecase .jestem {
+  color: var(--cod-gray);
+  font-family: var(--font-family-manrope);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 1.04;
+  margin-top: -0.05vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--usecase .arrow_down-2 {
+  height: 132.38%;
+  left: -4.32%;
+  position: absolute;
+  top: -11.85%;
+  width: 108.65%;
+}
+
+.page--usecase .label-4 {
+  letter-spacing: 0;
+  line-height: 1.04;
+  margin-top: -0.05vw;
+  white-space: nowrap;
+}
+
+.page--usecase .label-5 {
+  letter-spacing: 0;
+  line-height: 1.04;
+  margin-top: -0.05vw;
+  white-space: nowrap;
+}
+
+.page--usecase .frame-367-2 {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.page--usecase .radio_select_2 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.52vw;
+  height: 2.6vw;
+  position: relative;
+}
+
+.page--usecase .group-62 {
+  aspect-ratio: 1;
+  border: 0.1vw solid;
+  border-color: var(--celeste);
+  border-radius: 0.62vw;
+  height: 1.25vw;
+  position: relative;
+  width: 1.25vw;
+}
+
+.page--usecase .x1-fazowe-230-v-50-hz {
+  color: var(--cod-gray);
+  font-family: var(--font-family-manrope);
+  font-size: 0.89vw;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 1.04;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--usecase .krok {
+  align-items: center;
+  background: linear-gradient(90deg, rgba(10, 10, 10, 1) 0%, rgba(64, 100, 223, 1) 100%);
+  border-radius: 1.56vw;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.52vw;
+  padding: 0.78vw 1.35vw;
+  position: relative;
+}
+
+.page--usecase .dalej {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.1vw;
+  position: relative;
+  width: fit-content;
+}
+
+.page--usecase .frame-78 {
+  align-items: flex-start;
+  display: flex;
+  gap: 5.21vw;
+  height: 44.30%;
+  left: 0;
+  padding: 3.65vw 8.33vw;
+  position: absolute;
+  top: 55.70%;
+  width: 100%;
+}
+
+.page--usecase .ellipse-2-4 {
+  height: 32.19vw;
+  left: calc(50.00% - 50.0vw);
+  position: absolute;
+  top: calc(50.00% - 16.09vw);
+  width: 41.15vw;
+}
+
+.page--usecase .frame-367-3 {
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.page--usecase .frame-36750 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 2.6vw;
+  position: relative;
+}
+
+.page--usecase .frame-36738 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.52vw;
+  position: relative;
+}
+
+.page--usecase .polska {
+  letter-spacing: -0.02vw;
+  line-height: 2;
+  margin-top: -0.05vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--usecase .tworzymy-przyszo {
+  color: var(--white);
+  font-family: var(--font-family-manrope);
+  font-size: var(--font-size-l);
+  font-weight: 500;
+  letter-spacing: -0.02vw;
+  line-height: 1.41;
+  position: relative;
+  width: fit-content;
+}
+
+.page--usecase .frame-36737 {
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.page--usecase .strefa_partnera {
+  align-items: center;
+  background: linear-gradient(90deg, rgba(64, 100, 223, 1) 0%, rgba(64, 100, 223, 0.15) 100%);
+  border: 0.05vw solid;
+  border-color: var(--royal-blue);
+  border-radius: 2.08vw;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 1.04vw;
+  justify-content: center;
+  padding: 0.89vw 1.56vw;
+  position: relative;
+}
+
+.page--usecase .pomi {
+  color: var(--concrete);
+  font-family: var(--font-family-manrope);
+  font-size: 0.99vw;
+  font-weight: 600;
+  letter-spacing: -0.02vw;
+  line-height: 1.35;
+  margin-top: -0.05vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--usecase .frame-36742 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 3.12vw;
+  position: relative;
+}
+
+.page--usecase .raz-kupujesz-bez-koca-pompujesz {
+  letter-spacing: -0.04vw;
+  line-height: 2;
+  margin-top: -0.05vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--usecase .frame-36777 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 1.04vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--usecase .frame-3674 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.52vw;
+  justify-content: center;
+  position: relative;
+}
+
+.page--usecase .elektryczna-pompa-gbinowa {
+  letter-spacing: -0.02vw;
+  line-height: 1.25;
+  margin-top: -0.05vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--usecase .label_-menu_footer {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.52vw;
+  padding: 0.1vw 0.0vw;
+  position: relative;
+}
+
+.page--usecase .frame-33-1 {
+  align-items: center;
+  border-bottom-style: solid;
+  border-bottom-width: 0.05vw;
+  border-color: transparent;
+  border-image: linear-gradient(90deg, rgba(64, 100, 223, 1) 0%, rgba(64, 100, 223, 0) 100%) 1;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.52vw;
+  padding: 0.21vw 0.0vw;
+  position: relative;
+}
+
+.page--usecase .label-1 {
+  letter-spacing: 0.01vw;
+  line-height: normal;
+  margin-top: -0.05vw;
+}
+
+.page--usecase .na-skrty {
+  letter-spacing: -0.02vw;
+  line-height: 1.25;
+  margin-top: -0.05vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--usecase .label_-menu_footer-1 {
+  align-items: center;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.52vw;
+  padding: 0.1vw 0.0vw;
+  position: relative;
+}
+
+.page--usecase .kontakt-z-nami {
+  letter-spacing: -0.02vw;
+  line-height: 1.25;
+  margin-top: -0.05vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--usecase .frame-36746 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.page--usecase .frame-36748 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 0.52vw;
+  justify-content: center;
+  padding: 0.31vw 0.0vw;
+  position: relative;
+  width: 100%;
+}
+
+.page--usecase .dachowa-43-a-96-500-sochaczew {
+  flex: 1;
+  letter-spacing: 0.01vw;
+  line-height: normal;
+  margin-top: -0.05vw;
+  position: relative;
+}
+
+.page--usecase .dobr-pomp {
+  letter-spacing: -0.02vw;
+  line-height: 1.25;
+  margin-top: -0.05vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--usecase .social_media {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.52vw;
+  padding: 0.26vw 0.0vw;
+  position: relative;
+}
+
+.page--usecase .social_media-item {
+  height: 1.46vw;
+  position: relative;
+  width: 1.46vw;
+}
+
+.page--usecase .linkedin {
+  align-items: center;
+  display: flex;
+  gap: 0.52vw;
+  height: 1.46vw;
+  justify-content: center;
+  padding: 0.21vw;
+  position: relative;
+  width: 1.46vw;
+}
+
+.page--usecase .subtract {
+  aspect-ratio: 1;
+  height: 0.94vw;
+  position: relative;
+  width: 0.94vw;
+}
+
+.page--usecase .copyright {
+  letter-spacing: -0.01vw;
+  line-height: 1.25;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--usecase .span0-2 {
+  letter-spacing: -0.0vw;
+}
+
+.page--usecase .address-2 {
+  flex: 1;
+  letter-spacing: -0.02vw;
+  line-height: 1.41;
+  margin-top: -0.05vw;
+  position: relative;
+}
+
+.page--usecase .arrow-3 {
+  align-items: center;
+  border: 0.1vw solid;
+  border-radius: 1.56vw;
+  display: flex;
+  gap: 0.52vw;
+  justify-content: center;
+  position: relative;
+}
+
+.page--usecase .brak-wydarze-6 {
+  left: 0;
+  position: absolute;
+  white-space: nowrap;
+}
+
+.page--usecase .frame-367-4 {
+  align-items: flex-start;
+  align-self: stretch;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.page--usecase .frame-36733-4 {
+  align-items: center;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.page--usecase .frame-3673326-3 {
+  align-items: center;
+  background-color: var(--royal-blue);
+  display: flex;
+  gap: 0.52vw;
+  justify-content: center;
+  padding: 0.62vw;
+  position: relative;
+  width: 2.4vw;
+}
+
+.page--usecase .frame-3673335-9 {
+  -webkit-backdrop-filter: blur(1.04vw) brightness(100%);
+  align-items: center;
+  backdrop-filter: blur(1.04vw) brightness(100%);
+  border: 0.05vw solid;
+  border-radius: 0.78vw;
+  display: flex;
+  flex-direction: column;
+  padding: 1.3vw;
+  position: absolute;
+}
+
+.page--usecase .frame-3673354-6 {
+  display: inline-flex;
+  position: absolute;
+}
+
+.page--usecase .frame-68-11 {
+  -webkit-backdrop-filter: blur(1.04vw) brightness(100%);
+  backdrop-filter: blur(1.04vw) brightness(100%);
+  background-color: var(--big-stone);
+  border-radius: 1.56vw;
+  gap: 0.78vw;
+  padding: 1.3vw 1.56vw;
+  position: absolute;
+}
+
+.page--usecase .freepik__assistant__55995-1-3 {
+  aspect-ratio: 1;
+  object-fit: cover;
+  position: absolute;
+}
+
+.page--usecase .group-6320-7 {
+  display: flex;
+  height: 27.55vw;
+  left: 12.55vw;
+  position: absolute;
+  top: 0;
+  width: 27.55vw;
+}
+
+.page--usecase .group-6321-7 {
+  position: absolute;
+  top: 0;
+}
+
+.page--usecase .input-2 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 0.05vw solid;
+  border-color: var(--cod-gray-2);
+  border-radius: 0.52vw;
+  display: flex;
+  padding: 0.83vw 1.04vw;
+  position: relative;
+}
+
+.page--usecase .jak-pompa-pedrollo {
+  font-family: var(--font-family-manrope);
+  font-weight: 600;
+  position: relative;
+}
+
+.page--usecase .koniec-ywotnoci-po-3 {
+  align-self: stretch;
+  letter-spacing: -0.02vw;
+  line-height: 1.41;
+  position: relative;
+}
+
+.page--usecase .koszty-0-z-7 {
+  letter-spacing: -0.03vw;
+  line-height: 1.2;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--usecase .label-6 {
+  position: relative;
+  width: fit-content;
+}
+
+.page--usecase .nadwyka-za-prd-2-lata-300-z-4 {
+  letter-spacing: -0.03vw;
+  line-height: 1.2;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--usecase .number-3 {
+  color: #fff;
+  font-family: var(--font-family-manrope);
+  font-weight: 600;
+  letter-spacing: -0.03vw;
+  line-height: 1.2;
+  margin-top: -0.05vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--usecase .rectangle {
+  background: linear-gradient(270deg, rgba(10, 10, 10, 0.7) 0%, rgba(10, 10, 10, 0) 100%);
+  height: 27.55vw;
+}
+
+.page--usecase .rectangle-1119-4 {
+  background: linear-gradient(270deg, rgba(10, 10, 10, 0.7) 0%, rgba(10, 10, 10, 0) 100%);
+  height: 27.55vw;
+  position: absolute;
+}
+
+.page--usecase .rok-8 {
+  color: #fff;
+  letter-spacing: -0.03vw;
+  line-height: 1.2;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--usecase .star-3 {
+  letter-spacing: 0;
+  line-height: 1.04;
+  margin-top: -0.05vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--usecase .zakup-pompy-nr {
+  letter-spacing: -0.02vw;
+  line-height: 1.56;
+  margin-top: -0.05vw;
+  position: relative;
+  text-align: right;
+  white-space: nowrap;
+  width: fit-content;
+}
+/* screen - pedrollou95useu95caseu951366px */
+
+.pedrollou95useu95caseu951366px {
+  align-items: flex-start;
+  background-color: var(--cod-gray);
+  display: flex;
+  flex-direction: column;
+  min-width: 100.0vw;
+  position: relative;
+}
+
+.pedrollou95useu95caseu951366px .frame-3673324-3 {
+  align-items: center;
+  align-self: stretch;
+  background-image: url(../img/frame-3673324-4.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  gap: 0.73vw;
+  height: 50.0vw;
+  justify-content: center;
+  padding: 6.59vw 4.39vw 0.0vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95useu95caseu951366px .ellipse-2-16 {
+  aspect-ratio: 1;
+  height: 68.89vw;
+  left: calc(50.00% - 43.85vw);
+  position: absolute;
+  top: calc(50.00% - 25.04vw);
+  width: 87.77vw;
+}
+
+.pedrollou95useu95caseu951366px .konsultacja-3 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.73vw;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95useu95caseu951366px .jak-pompa-pedrollo-o-3 {
+  color: var(--concrete);
+  font-family: var(--font-family-manrope);
+  font-size: 4.98vw;
+  font-weight: 600;
+  letter-spacing: -0.1vw;
+  line-height: 2;
+  margin-top: -0.07vw;
+  position: relative;
+  text-align: center;
+  width: 64.86vw;
+}
+
+.pedrollou95useu95caseu951366px .nisze-zuycie-prdu-3 {
+  color: transparent;
+  font-family: var(--font-family-manrope);
+  font-size: 1.46vw;
+  font-weight: 600;
+  height: 7.32vw;
+  letter-spacing: -0.03vw;
+  line-height: 2;
+  position: relative;
+  text-align: center;
+  width: 80.53vw;
+}
+
+.pedrollou95useu95caseu951366px .span0-7 {
+  letter-spacing: -0.01vw;
+}
+
+.pedrollou95useu95caseu951366px .span1-5 {
+  color: var(--silver-chalice);
+  letter-spacing: -0.01vw;
+}
+
+.pedrollou95useu95caseu951366px .arrow-11 {
+  aspect-ratio: 1;
+  border-color: var(--white);
+  height: 3.66vw;
+  padding: 0.73vw;
+  transform: rotate(90.00deg);
+  width: 3.66vw;
+}
+
+.pedrollou95useu95caseu951366px .frame-76-5 {
+  padding: 0.0vw 0.0vw 0.0vw 0.22vw;
+}
+
+.pedrollou95useu95caseu951366px .line-8-12 {
+  height: 0.67vw;
+  margin-left: -0.3vw;
+  margin-right: -0.35vw;
+  position: relative;
+  transform: rotate(-90.00deg);
+  width: 1.16vw;
+}
+
+.pedrollou95useu95caseu951366px .menu_2-3 {
+  -webkit-backdrop-filter: blur(0.18vw) brightness(100%);
+  align-items: flex-start;
+  backdrop-filter: blur(0.18vw) brightness(100%);
+  display: flex;
+  flex-direction: column;
+  height: 5.86vw;
+  justify-content: center;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100.0vw;
+}
+
+.pedrollou95useu95caseu951366px .frame-27-1 {
+  align-items: center;
+  align-self: stretch;
+  border-bottom-style: solid;
+  border-bottom-width: 0.07vw;
+  border-color: var(--white-2);
+  display: flex;
+  gap: 3.66vw;
+  height: 7.32vw;
+  margin-bottom: -0.73vw;
+  margin-top: -0.73vw;
+  padding: 0.0vw 40.0vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95useu95caseu951366px .group-1-3 {
+  aspect-ratio: 4.36;
+  height: 2.02vw;
+  position: relative;
+  width: 8.8vw;
+}
+
+.pedrollou95useu95caseu951366px .frame-2-2 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  justify-content: space-between;
+  position: relative;
+}
+
+.pedrollou95useu95caseu951366px .frame-6-1 {
+  align-items: center;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 1.46vw;
+  position: relative;
+}
+
+.pedrollou95useu95caseu951366px .menu-hover-1 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.73vw;
+  height: 7.32vw;
+  position: relative;
+}
+
+.pedrollou95useu95caseu951366px .frame-33-4 {
+  gap: 0.37vw;
+  height: 7.17vw;
+}
+
+.pedrollou95useu95caseu951366px .elektryczna-pompa-gbinowa-4-sr-s {
+  letter-spacing: 0.01vw;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+}
+
+.pedrollou95useu95caseu951366px .arrow_down-7 {
+  aspect-ratio: 2.34;
+  height: 0.37vw;
+  position: relative;
+  width: 0.88vw;
+}
+
+.pedrollou95useu95caseu951366px .arrow_down-8 {
+  height: 141.40%;
+  left: -5.34%;
+  position: absolute;
+  top: -15.36%;
+  width: 110.68%;
+}
+
+.pedrollou95useu95caseu951366px .oferta-dla-partnerw {
+  letter-spacing: 0.01vw;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+}
+
+.pedrollou95useu95caseu951366px .o-nas {
+  letter-spacing: 0.01vw;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+}
+
+.pedrollou95useu95caseu951366px .frame-33-6 {
+  gap: 0.73vw;
+  height: 7.17vw;
+}
+
+.pedrollou95useu95caseu951366px .kontakt {
+  letter-spacing: 0.01vw;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+}
+
+.pedrollou95useu95caseu951366px .frame-25-1 {
+  height: 7.32vw;
+  position: relative;
+  width: 4.25vw;
+}
+
+.pedrollou95useu95caseu951366px .frame-5-1 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.73vw;
+  margin-left: -2.79vw;
+  position: relative;
+}
+
+.pedrollou95useu95caseu951366px .call_button-1::before {
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  background: linear-gradient(90deg, rgba(64, 100, 223, 1) 0%, rgba(55, 55, 55, 1) 100%);
+  border-radius: 2.2vw;
+  content: '';
+  inset: 0;
+  mask-composite: exclude;
+  padding: 0.15vw;
+  pointer-events: none;
+  position: absolute;
+  z-index: 1;
+}
+
+.pedrollou95useu95caseu951366px .call_button-1 {
+  align-items: center;
+  background: linear-gradient(90deg, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 255, 0) 100%);
+  border: none;
+  border-radius: 2.2vw;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.73vw;
+  height: 3.07vw;
+  justify-content: center;
+  padding: 1.02vw 1.9vw;
+  position: relative;
+}
+
+.pedrollou95useu95caseu951366px .frame-1-2 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.73vw;
+  justify-content: center;
+  margin-bottom: -0.29vw;
+  margin-top: -0.29vw;
+  position: relative;
+}
+
+.pedrollou95useu95caseu951366px .vector-20 {
+  aspect-ratio: 0.61;
+  height: 1.46vw;
+  position: relative;
+  width: 0.88vw;
+}
+
+.pedrollou95useu95caseu951366px .phone-1 {
+  letter-spacing: 0.01vw;
+  line-height: normal;
+  margin-top: -0.07vw;
+  position: relative;
+  width: fit-content;
+}
+
+.pedrollou95useu95caseu951366px .dobierz_pompe-1 {
+  align-items: center;
+  background-color: var(--royal-blue);
+  border-radius: 2.2vw;
+  display: flex;
+  gap: 1.46vw;
+  height: 3.07vw;
+  padding: 0.73vw 4.17vw 0.73vw 1.32vw;
+  position: relative;
+  width: 13.47vw;
+}
+
+.pedrollou95useu95caseu951366px .frame-4-1 {
+  align-items: center;
+  background-color: var(--concrete);
+  border-radius: 2.2vw;
+  display: flex;
+  flex-direction: column;
+  gap: 0.73vw;
+  height: 2.93vw;
+  justify-content: center;
+  left: 10.47vw;
+  padding: 0.73vw 0.95vw;
+  position: absolute;
+  top: 0.07vw;
+  width: 2.93vw;
+}
+
+.pedrollou95useu95caseu951366px .group-3-1 {
+  aspect-ratio: 1.6;
+  height: 0.59vw;
+  position: relative;
+  width: 0.94vw;
+}
+
+.pedrollou95useu95caseu951366px .vector-21 {
+  height: 116.24%;
+  left: 66.78%;
+  position: absolute;
+  top: -8.12%;
+  width: 42.80%;
+}
+
+.pedrollou95useu95caseu951366px .vector-22 {
+  height: 25.00%;
+  left: -7.79%;
+  position: absolute;
+  top: 37.50%;
+  width: 107.78%;
+}
+
+.pedrollou95useu95caseu951366px .dobierz-pomp-1 {
+  letter-spacing: -0.02vw;
+  line-height: normal;
+  margin-right: -0.59vw;
+  margin-top: -0.07vw;
+  position: relative;
+  width: fit-content;
+}
+
+.pedrollou95useu95caseu951366px .frame-3673321-3 {
+  align-self: stretch;
+  background-color: var(--cod-gray);
+  height: 182.21vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95useu95caseu951366px .frame-3673344-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 2.2vw;
+  height: 31.41vw;
+  justify-content: center;
+  left: 0;
+  padding: 0.0vw 60.0vw;
+  position: absolute;
+  top: 11.71vw;
+  width: 100.0vw;
+}
+
+.pedrollou95useu95caseu951366px .group-6328-1 {
+  aspect-ratio: 1.28;
+  flex: 1;
+  flex-grow: 1;
+  position: relative;
+}
+
+.pedrollou95useu95caseu951366px .group-6319-1 {
+  aspect-ratio: 1;
+  background-image: url(../img/freepik--assistant--55995-1-14@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 26.43vw;
+  left: 1.46vw;
+  position: absolute;
+  top: 0;
+  width: 26.43vw;
+}
+
+.pedrollou95useu95caseu951366px .rectangle-1119-4 {
+  height: 26.46vw;
+  margin-left: 17.48vw;
+  width: 8.97vw;
+}
+
+.pedrollou95useu95caseu951366px .zakup-i-monta-5 {
+  left: 8.42vw;
+  letter-spacing: -0.06vw;
+  line-height: 2;
+  text-align: right;
+  top: 12.96vw;
+  width: 31.7vw;
+}
+
+.pedrollou95useu95caseu951366px .frame-68-19 {
+  align-items: center;
+  left: 20.94vw;
+  top: 18.01vw;
+  width: 19.03vw;
+}
+
+.pedrollou95useu95caseu951366px .frame-3673327-10 {
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 0.73vw;
+}
+
+.pedrollou95useu95caseu951366px .frame-367333-8 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.22vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95useu95caseu951366px .frame-367332-4 {
+  align-self: stretch;
+  display: flex;
+  gap: 0.73vw;
+  width: 100%;
+}
+
+.pedrollou95useu95caseu951366px .x00-z-1 {
+  line-height: 1.24;
+}
+
+.pedrollou95useu95caseu951366px .frame-3673331-6 {
+  background-color: var(--royal-blue-2);
+  border-radius: 0.73vw;
+  overflow: hidden;
+}
+
+.pedrollou95useu95caseu951366px .group-6314-3 {
+  aspect-ratio: 1;
+  height: 46.43%;
+  left: 27.86%;
+  position: relative;
+  top: 27.67%;
+  width: 46.42%;
+}
+
+.pedrollou95useu95caseu951366px .vector-17 {
+  height: 46.52%;
+  left: 2.79%;
+  position: absolute;
+  top: 53.29%;
+  width: 46.51%;
+}
+
+.pedrollou95useu95caseu951366px .vector-18 {
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 99.81%;
+}
+
+.pedrollou95useu95caseu951366px .vector-19 {
+  height: 42.25%;
+  left: 57.66%;
+  position: absolute;
+  top: 2.46%;
+  width: 42.35%;
+}
+
+.pedrollou95useu95caseu951366px .frame-3673336-29 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--alizarin-crimson);
+  border-radius: 0.73vw;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.73vw;
+  padding: 0.73vw 1.1vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95useu95caseu951366px .czny-koszt-od-zakupu-1400-z {
+  align-self: stretch;
+  letter-spacing: -0.04vw;
+  line-height: 1.24;
+  margin-top: -0.07vw;
+  position: relative;
+  text-align: center;
+}
+
+.pedrollou95useu95caseu951366px .frame-3673335-17 {
+  background-color: var(--ebony-clay);
+  border-color: var(--royal-blue-4);
+  gap: 0.73vw;
+  justify-content: center;
+  left: 0;
+  top: 20.72vw;
+  width: 18.3vw;
+}
+
+.pedrollou95useu95caseu951366px .zakup-taniej-pompy-3 {
+  align-self: stretch;
+  letter-spacing: -0.02vw;
+  line-height: 1.76;
+  margin-top: -0.07vw;
+  position: relative;
+}
+
+.pedrollou95useu95caseu951366px .frame-3673351-1 {
+  align-items: center;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.73vw;
+  padding: 0.0vw 0.0vw 3.22vw;
+  position: relative;
+}
+
+.pedrollou95useu95caseu951366px .frame-3673322-7 {
+  background-color: var(--royal-blue-3);
+  flex-direction: column;
+  padding: 1.46vw 1.61vw;
+}
+
+.pedrollou95useu95caseu951366px .frame-3673326-5 {
+  align-items: center;
+  background-color: var(--royal-blue);
+  border-radius: 2.2vw;
+  display: flex;
+  gap: 0.73vw;
+  height: 3.37vw;
+  justify-content: center;
+  padding: 0.88vw;
+  position: relative;
+  width: 3.37vw;
+}
+
+.pedrollou95useu95caseu951366px .group-6329-1 {
+  aspect-ratio: 1.25;
+  flex: 1;
+  flex-grow: 1;
+  margin-bottom: -0.72vw;
+  margin-right: -0.15vw;
+  position: relative;
+}
+
+.pedrollou95useu95caseu951366px .group-6317-1 {
+  aspect-ratio: 1;
+  background-image: url(../img/01-1-14@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 26.28vw;
+  left: 12.45vw;
+  position: absolute;
+  top: 0;
+  width: 26.28vw;
+}
+
+.pedrollou95useu95caseu951366px .rectangle-1120-5 {
+  background: linear-gradient(270deg, rgba(10, 10, 10, 0.7) 0%, rgba(10, 10, 10, 0) 100%);
+  border-radius: 1.46vw 0.0vw 0.0vw 1.46vw;
+  height: 26.25vw;
+  margin-left: 0;
+  transform: rotate(180deg);
+  width: 11.01vw;
+}
+
+.pedrollou95useu95caseu951366px .zakup-i-monta-6 {
+  left: 0;
+  letter-spacing: -0.05vw;
+  line-height: 2;
+  top: 13.18vw;
+  width: 22.91vw;
+}
+
+.pedrollou95useu95caseu951366px .frame-68-20 {
+  align-items: center;
+  left: 0;
+  top: 18.01vw;
+  width: 19.03vw;
+}
+
+.pedrollou95useu95caseu951366px .x00-z-2 {
+  line-height: 1.46;
+}
+
+.pedrollou95useu95caseu951366px .frame-3673336-30 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--salem);
+  border-radius: 0.73vw;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.73vw;
+  padding: 0.73vw 1.1vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95useu95caseu951366px .czny-koszt-od-zakupu-6 {
+  margin-top: -0.07vw;
+  text-align: center;
+}
+
+.pedrollou95useu95caseu951366px .frame-3673335-18 {
+  background-color: var(--ebony-clay-2);
+  border-color: var(--royal-blue-4);
+  gap: 0.73vw;
+  justify-content: center;
+  right: 0.15vw;
+  top: 20.57vw;
+  width: 18.3vw;
+}
+
+.pedrollou95useu95caseu951366px .zakup-pompy-pedrollo-3 {
+  align-self: stretch;
+  letter-spacing: -0.02vw;
+  line-height: 1.98;
+  margin-top: -0.07vw;
+  position: relative;
+}
+
+.pedrollou95useu95caseu951366px .frame-3673345-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 2.2vw;
+  height: 35.58vw;
+  justify-content: center;
+  left: 0;
+  padding: 0.0vw 60.0vw;
+  position: absolute;
+  top: 48.24vw;
+  width: 100.0vw;
+}
+
+.pedrollou95useu95caseu951366px .group-6322-1 {
+  flex: 1;
+  flex-grow: 1;
+  height: 38.07vw;
+  margin-bottom: -2.48vw;
+  position: relative;
+}
+
+.pedrollou95useu95caseu951366px .group-6321-9 {
+  aspect-ratio: 1.03;
+  height: 26.72vw;
+  left: 1.54vw;
+  width: 27.53vw;
+}
+
+.pedrollou95useu95caseu951366px .freepik__assistant__55995-1-7 {
+  height: 26.43vw;
+  left: 0;
+  width: 27.53vw;
+}
+
+.pedrollou95useu95caseu951366px .rectangle-1119-5 {
+  height: 26.72vw;
+  left: 17.13vw;
+  position: absolute;
+  top: 0;
+  width: 10.47vw;
+}
+
+.pedrollou95useu95caseu951366px .frame-3673355-2 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 1.46vw;
+  left: 10.98vw;
+  position: absolute;
+  top: 13.4vw;
+  width: 29.06vw;
+}
+
+.pedrollou95useu95caseu951366px .pierwsza-awaria-1 {
+  align-self: stretch;
+  letter-spacing: -0.06vw;
+  line-height: 2;
+  margin-top: -0.07vw;
+  position: relative;
+  text-align: right;
+}
+
+.pedrollou95useu95caseu951366px .frame-367335-1 {
+  align-items: center;
+  background-color: var(--alizarin-crimson);
+  border-radius: 0.73vw;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.73vw;
+  justify-content: center;
+  padding: 0.73vw;
+  position: relative;
+}
+
+.pedrollou95useu95caseu951366px .x-gwarancj {
+  letter-spacing: -0.02vw;
+  line-height: 1.76;
+  margin-top: -0.07vw;
+  position: relative;
+  text-align: right;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95useu95caseu951366px .frame-3673335-19 {
+  background: linear-gradient(0deg, rgba(88, 20, 14, 0.4) 0%, rgba(88, 20, 14, 0.4) 100%), linear-gradient(0deg, rgba(10, 10, 10, 0.5) 0%, rgba(10, 10, 10, 0.5) 100%);
+  border-color: var(--alizarin-crimson-2);
+  gap: 1.1vw;
+  left: 0;
+  top: 20.5vw;
+  width: 18.3vw;
+}
+
+.pedrollou95useu95caseu951366px .frame-3673336-31 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--alizarin-crimson);
+  border-radius: 0.73vw;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 0.73vw;
+  justify-content: center;
+  padding: 0.73vw 1.1vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95useu95caseu951366px .arrow-9 {
+  aspect-ratio: 1;
+  border-color: var(--white);
+  height: 2.56vw;
+  padding: 0.73vw 0.0vw;
+  width: 2.56vw;
+}
+
+.pedrollou95useu95caseu951366px .group-65-3 {
+  height: 0.88vw;
+  position: relative;
+  transform: rotate(45deg);
+  width: 0.88vw;
+}
+
+.pedrollou95useu95caseu951366px .line-1-3 {
+  height: 0.73vw;
+  left: 0.07vw;
+  position: absolute;
+  top: 0.07vw;
+  transform: rotate(-45deg);
+  width: 0.73vw;
+}
+
+.pedrollou95useu95caseu951366px .awaria-3 {
+  letter-spacing: -0.04vw;
+  line-height: 1.68;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95useu95caseu951366px .nagy-brak-wody-i-ty-1 {
+  align-self: stretch;
+  letter-spacing: -0.02vw;
+  line-height: 1.76;
+  position: relative;
+}
+
+.pedrollou95useu95caseu951366px .frame-68-21 {
+  align-items: center;
+  right: 0;
+  top: 21.23vw;
+  width: 19.03vw;
+}
+
+.pedrollou95useu95caseu951366px .frame-3673327-11 {
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 1.1vw;
+}
+
+.pedrollou95useu95caseu951366px .frame-36733-11 {
+  align-items: flex-start;
+  flex-direction: column;
+  gap: 0.37vw;
+}
+
+.pedrollou95useu95caseu951366px .frame-36733-12 {
+  align-items: center;
+  gap: 1.1vw;
+}
+
+.pedrollou95useu95caseu951366px .frame-367333-9 {
+  height: 3.15vw;
+  position: relative;
+  width: 3.15vw;
+}
+
+.pedrollou95useu95caseu951366px .frame-3673350-1 {
+  align-items: center;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.73vw;
+  padding: 0.0vw 0.0vw 6.15vw;
+  position: relative;
+}
+
+.pedrollou95useu95caseu951366px .group-6323-1 {
+  flex: 1;
+  flex-grow: 1;
+  height: 32.06vw;
+  margin-right: -0.15vw;
+  position: relative;
+}
+
+.pedrollou95useu95caseu951366px .group-6320-9 {
+  aspect-ratio: 1;
+  background-image: url(../img/01-1-15@2x.png);
+  left: 12.45vw;
+  width: 26.21vw;
+}
+
+.pedrollou95useu95caseu951366px .rectangle-1120-6 {
+  background: linear-gradient(270deg, rgba(10, 10, 10, 0.7) 0%, rgba(10, 10, 10, 0) 100%);
+  height: 24.65vw;
+  margin-left: 0;
+  transform: rotate(180deg);
+  width: 9.41vw;
+}
+
+.pedrollou95useu95caseu951366px .brak-wydarze-8 {
+  top: 12.45vw;
+  width: 32.65vw;
+}
+
+.pedrollou95useu95caseu951366px .frame-68-22 {
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: center;
+  left: 0;
+  top: 21.23vw;
+  width: 19.03vw;
+}
+
+.pedrollou95useu95caseu951366px .frame-3673340-3 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.37vw;
+  position: relative;
+}
+
+.pedrollou95useu95caseu951366px .frame-3673327-12 {
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 1.1vw;
+}
+
+.pedrollou95useu95caseu951366px .czny-koszt-od-zakupu-3300-z-1 {
+  align-self: stretch;
+  letter-spacing: -0.04vw;
+  line-height: 1.46;
+  margin-top: -0.07vw;
+  position: relative;
+  text-align: center;
+}
+
+.pedrollou95useu95caseu951366px .frame-3673336-32 {
+  -webkit-backdrop-filter: blur(1.46vw) brightness(100%);
+  align-items: center;
+  backdrop-filter: blur(1.46vw) brightness(100%);
+  background-color: var(--celtic);
+  border: 0.07vw solid;
+  border-color: var(--salem-2);
+  border-radius: 1.1vw;
+  display: flex;
+  gap: 0.73vw;
+  padding: 1.46vw;
+  position: absolute;
+  right: 0.15vw;
+  top: 22.91vw;
+  width: 18.3vw;
+}
+
+.pedrollou95useu95caseu951366px .arrow-10 {
+  border-color: var(--emerald);
+  height: 2.56vw;
+  padding: 0.73vw 0.0vw;
+  width: 2.56vw;
+}
+
+.pedrollou95useu95caseu951366px .line-8-11 {
+  height: 0.67vw;
+  margin-bottom: -0.1vw;
+  margin-left: -0.05vw;
+  margin-right: -0.05vw;
+  margin-top: -0.05vw;
+  position: relative;
+  width: 0.91vw;
+}
+
+.pedrollou95useu95caseu951366px .system-dziaa-bez-za-1 {
+  flex: 1;
+  letter-spacing: -0.02vw;
+  line-height: 1.76;
+  margin-top: -0.07vw;
+  position: relative;
+}
+
+.pedrollou95useu95caseu951366px .frame-3673346-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 2.2vw;
+  height: 39.09vw;
+  left: 0;
+  padding: 0.0vw 60.0vw;
+  position: absolute;
+  top: 88.95vw;
+  width: 100.0vw;
+}
+
+.pedrollou95useu95caseu951366px .group-6324-1 {
+  height: 39.11vw;
+  position: relative;
+  width: 40.35vw;
+}
+
+.pedrollou95useu95caseu951366px .group-6330-1 {
+  height: 39.09vw;
+  left: 1.46vw;
+  position: absolute;
+  top: 0;
+  width: 38.87vw;
+}
+
+.pedrollou95useu95caseu951366px .group-6321-10 {
+  height: 26.28vw;
+  left: 0.07vw;
+  width: 26.06vw;
+}
+
+.pedrollou95useu95caseu951366px .freepik__assistant__55995-1-8 {
+  height: 26.06vw;
+  left: 0;
+  width: 26.06vw;
+}
+
+.pedrollou95useu95caseu951366px .rectangle-1119-6 {
+  height: 26.28vw;
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 10.98vw;
+}
+
+.pedrollou95useu95caseu951366px .frame-3673354-8 {
+  align-items: flex-end;
+  display: inline-flex;
+  left: 13.4vw;
+  top: 13.54vw;
+}
+
+.pedrollou95useu95caseu951366px .koniec-ywotnoci-6 {
+  letter-spacing: -0.06vw;
+  line-height: 2;
+  margin-top: -0.07vw;
+  position: relative;
+  text-align: right;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95useu95caseu951366px .frame-68-23 {
+  align-items: center;
+  left: 19.47vw;
+  top: 21.23vw;
+  width: 19.25vw;
+}
+
+.pedrollou95useu95caseu951366px .kupno-nowej-pompy-1000-z-inflacja-3 {
+  flex: 1;
+  letter-spacing: -0.04vw;
+  line-height: 1.46;
+  position: relative;
+}
+
+.pedrollou95useu95caseu951366px .wymiana-550-z-inflacja-3 {
+  flex: 1;
+  letter-spacing: -0.04vw;
+  line-height: 1.46;
+  position: relative;
+}
+
+.pedrollou95useu95caseu951366px .frame-3673335-20 {
+  background: linear-gradient(0deg, rgba(88, 20, 14, 0.4) 0%, rgba(88, 20, 14, 0.4) 100%), linear-gradient(0deg, rgba(10, 10, 10, 0.5) 0%, rgba(10, 10, 10, 0.5) 100%);
+  border-color: var(--alizarin-crimson-2);
+  gap: 1.1vw;
+  justify-content: center;
+  left: 0;
+  top: 21.52vw;
+  width: 19.25vw;
+}
+
+.pedrollou95useu95caseu951366px .pompa-cakowicie-prz-3 {
+  align-self: stretch;
+  letter-spacing: -0.02vw;
+  line-height: 1.76;
+  position: relative;
+}
+
+.pedrollou95useu95caseu951366px .frame-3673347-1 {
+  align-items: center;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.73vw;
+  padding: 0.0vw 0.0vw 9.66vw;
+  position: relative;
+}
+
+.pedrollou95useu95caseu951366px .group-6325-1 {
+  height: 32.48vw;
+  margin-right: -0.16vw;
+  position: relative;
+  width: 40.04vw;
+}
+
+.pedrollou95useu95caseu951366px .group-6320-10 {
+  align-items: center;
+  background-image: url(../img/01-1-16@2x.png);
+  left: 12.15vw;
+  width: 26.21vw;
+}
+
+.pedrollou95useu95caseu951366px .rectangle-1120-7 {
+  background: linear-gradient(270deg, rgba(10, 10, 10, 0.7) 0%, rgba(10, 10, 10, 0) 100%);
+  border-radius: 0.0vw 20.0vw 20.0vw 0.0vw;
+  height: 26.18vw;
+  margin-left: 0.01vw;
+  margin-top: 0.03vw;
+  transform: rotate(180deg);
+  width: 9.53vw;
+}
+
+.pedrollou95useu95caseu951366px .brak-wydarze-9 {
+  top: 13.54vw;
+  width: 23.87vw;
+}
+
+.pedrollou95useu95caseu951366px .frame-68-24 {
+  align-items: flex-start;
+  flex-direction: column;
+  height: 11.27vw;
+  justify-content: center;
+  left: 0;
+  top: 21.23vw;
+  width: 19.03vw;
+}
+
+.pedrollou95useu95caseu951366px .frame-3673336-33 {
+  -webkit-backdrop-filter: blur(1.46vw) brightness(100%);
+  align-items: center;
+  backdrop-filter: blur(1.46vw) brightness(100%);
+  background-color: var(--celtic);
+  border: 0.07vw solid;
+  border-color: var(--salem-2);
+  border-radius: 1.1vw;
+  display: flex;
+  gap: 0.73vw;
+  left: 21.6vw;
+  padding: 1.46vw;
+  position: absolute;
+  top: 26.65vw;
+  width: 18.3vw;
+}
+
+.pedrollou95useu95caseu951366px .system-nadal-dziaa-idealnie-3 {
+  flex: 1;
+  letter-spacing: -0.02vw;
+  line-height: 1.98;
+  margin-top: -0.07vw;
+  position: relative;
+}
+
+.pedrollou95useu95caseu951366px .group-6318-3 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 0.63vw;
+  height: 170.79vw;
+  left: calc(50.00% - 2.2vw);
+  position: absolute;
+  top: 9.52vw;
+  width: 4.61vw;
+}
+
+.pedrollou95useu95caseu951366px .czasu-3 {
+  height: 0.4vw;
+  letter-spacing: -0.03vw;
+  line-height: 1.32;
+  margin-left: -0.15vw;
+  text-align: center;
+  white-space: nowrap;
+  width: 4.47vw;
+}
+
+.pedrollou95useu95caseu951366px .line-23-3 {
+  height: 169.77vw;
+  margin-left: -0.07vw;
+  object-fit: cover;
+  width: 0.07vw;
+}
+
+.pedrollou95useu95caseu951366px .frame-3673356-2 {
+  align-items: flex-start;
+  display: flex;
+  gap: 2.2vw;
+  height: 34.92vw;
+  left: 0;
+  padding: 0.0vw 60.0vw;
+  position: absolute;
+  top: 133.24vw;
+  width: 100.0vw;
+}
+
+.pedrollou95useu95caseu951366px .group-6326-5 {
+  flex: 1;
+  flex-grow: 1;
+  height: 34.75vw;
+  position: relative;
+}
+
+.pedrollou95useu95caseu951366px .group-6321-11 {
+  height: 26.06vw;
+  left: 1.32vw;
+  width: 26.35vw;
+}
+
+.pedrollou95useu95caseu951366px .freepik__assistant__55995-1-9 {
+  height: 26.06vw;
+  left: 0.15vw;
+  width: 26.13vw;
+}
+
+.pedrollou95useu95caseu951366px .rectangle-1119-7 {
+  height: 25.77vw;
+  position: absolute;
+  right: 0.07vw;
+  top: 0;
+  width: 6.66vw;
+}
+
+.pedrollou95useu95caseu951366px .rectangle-1120-8 {
+  background: linear-gradient(270deg, rgba(10, 10, 10, 0.7) 0%, rgba(10, 10, 10, 0) 100%);
+  border-radius: 0.0vw 20.0vw 20.0vw 0.0vw;
+  height: 26.28vw;
+  left: 10.47vw;
+  position: absolute;
+  top: 10.32vw;
+  transform: rotate(90.00deg);
+  width: 5.27vw;
+}
+
+.pedrollou95useu95caseu951366px .frame-3673354-9 {
+  align-items: flex-start;
+  display: flex;
+  left: 19.4vw;
+  top: 12.74vw;
+  width: 20.72vw;
+}
+
+.pedrollou95useu95caseu951366px .podsumowanie-koszmaru-3 {
+  letter-spacing: -0.06vw;
+  line-height: 2;
+  margin-top: -0.07vw;
+  position: relative;
+  text-align: right;
+  width: fit-content;
+}
+
+.pedrollou95useu95caseu951366px .frame-68-25 {
+  align-items: center;
+  left: 20.79vw;
+  top: 20.42vw;
+  width: 19.33vw;
+}
+
+.pedrollou95useu95caseu951366px .frame-367333-10 {
+  height: 3.15vw;
+  position: relative;
+  width: 3.15vw;
+}
+
+.pedrollou95useu95caseu951366px .nadwyka-za-prd-1-rok-150-z-3 {
+  flex: 1;
+  letter-spacing: -0.04vw;
+  line-height: 1.46;
+  position: relative;
+}
+
+.pedrollou95useu95caseu951366px .frame-3673336-34 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--alizarin-crimson);
+  border-radius: 0.73vw;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.73vw;
+  padding: 1.46vw 1.83vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95useu95caseu951366px .czny-koszt-od-zakupu-7 {
+  margin-top: -0.07vw;
+}
+
+.pedrollou95useu95caseu951366px .price-3 {
+  align-self: stretch;
+  color: var(--white);
+  font-family: var(--font-family-manrope);
+  font-size: 3.51vw;
+  font-weight: 600;
+  letter-spacing: -0.11vw;
+  line-height: 2;
+  position: relative;
+  text-align: center;
+}
+
+.pedrollou95useu95caseu951366px .frame-3673335-21 {
+  background: linear-gradient(0deg, rgba(228, 35, 19, 0.1) 0%, rgba(228, 35, 19, 0.1) 100%), linear-gradient(0deg, rgba(10, 10, 10, 0.5) 0%, rgba(10, 10, 10, 0.5) 100%);
+  border-color: var(--alizarin-crimson-2);
+  bottom: 0.07vw;
+  gap: 1.1vw;
+  justify-content: center;
+  left: 0;
+  width: 19.11vw;
+}
+
+.pedrollou95useu95caseu951366px .klient-jest-zestreso-3 {
+  align-self: stretch;
+  letter-spacing: -0.02vw;
+  line-height: 1.76;
+  margin-top: -0.07vw;
+  position: relative;
+}
+
+.pedrollou95useu95caseu951366px .frame-3673349-1 {
+  align-items: center;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.73vw;
+  padding: 0.0vw 0.0vw 3.37vw;
+  position: relative;
+}
+
+.pedrollou95useu95caseu951366px .number-11 {
+  margin-left: -0.18vw;
+  margin-right: -0.18vw;
+}
+
+.pedrollou95useu95caseu951366px .group-6327-1 {
+  flex: 1;
+  flex-grow: 1;
+  height: 34.88vw;
+  margin-right: -0.15vw;
+  position: relative;
+}
+
+.pedrollou95useu95caseu951366px .group-6320-11 {
+  background-image: url(../img/01-1-17@2x.png);
+  left: 12.59vw;
+  width: 26.06vw;
+}
+
+.pedrollou95useu95caseu951366px .rectangle-1120-9 {
+  background: linear-gradient(270deg, rgba(10, 10, 10, 0.7) 0%, rgba(10, 10, 10, 0) 100%);
+  border-radius: 0.0vw 20.0vw 20.0vw 0.0vw;
+  height: 26.21vw;
+  margin-left: 0;
+  margin-top: 0.03vw;
+  transform: rotate(180deg);
+  width: 8.67vw;
+}
+
+.pedrollou95useu95caseu951366px .podsumowanie-3 {
+  left: 0;
+  letter-spacing: -0.06vw;
+  line-height: 2;
+  position: absolute;
+  top: 12.81vw;
+  width: 21.23vw;
+}
+
+.pedrollou95useu95caseu951366px .frame-68-26 {
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  left: 0;
+  top: 20.5vw;
+  width: 18.96vw;
+}
+
+.pedrollou95useu95caseu951366px .frame-3673336-35 {
+  align-items: flex-start;
+  background-color: var(--salem);
+  border-radius: 0.73vw;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.73vw;
+  padding: 1.46vw 1.83vw;
+  position: relative;
+}
+
+.pedrollou95useu95caseu951366px .czny-koszt-od-zakupu-8 {
+  margin-top: -0.04vw;
+}
+
+.pedrollou95useu95caseu951366px .frame-3673336-36 {
+  -webkit-backdrop-filter: blur(1.46vw) brightness(100%);
+  align-items: center;
+  backdrop-filter: blur(1.46vw) brightness(100%);
+  background-color: var(--celtic);
+  border: 0.07vw solid;
+  border-color: var(--salem-2);
+  border-radius: 1.1vw;
+  display: flex;
+  gap: 0.73vw;
+  justify-content: center;
+  left: 21.16vw;
+  padding: 1.46vw;
+  position: absolute;
+  top: 27.53vw;
+  width: 18.96vw;
+}
+
+.pedrollou95useu95caseu951366px .line-8-13 {
+  height: 0.67vw;
+  margin-bottom: -0.1vw;
+  margin-left: -0.05vw;
+  margin-right: -0.05vw;
+  margin-top: -0.05vw;
+  position: relative;
+  width: 0.91vw;
+}
+
+.pedrollou95useu95caseu951366px .address-4 {
+  flex: 1;
+  letter-spacing: -0.02vw;
+  line-height: 1.76;
+  margin-top: -0.07vw;
+  position: relative;
+}
+
+.pedrollou95useu95caseu951366px .frame-3673352-1 {
+  align-items: center;
+  background-color: var(--cod-gray);
+  border-bottom-style: solid;
+  border-bottom-width: 0.07vw;
+  border-color: var(--white-2);
+  border-top-style: solid;
+  border-top-width: 0.07vw;
+  display: flex;
+  gap: 19.77vw;
+  justify-content: center;
+  left: 0;
+  padding: 1.46vw 0.0vw;
+  position: absolute;
+  top: 0;
+  width: 100.0vw;
+}
+
+.pedrollou95useu95caseu951366px .frame-367332-5 {
+  display: inline-flex;
+  gap: 1.61vw;
+}
+
+.pedrollou95useu95caseu951366px .ellipse-2-17 {
+  height: 6.59vw;
+  left: calc(50.00% - 6.81vw);
+  position: absolute;
+  top: calc(50.00% - 3.29vw);
+  width: 36.6vw;
+}
+
+.pedrollou95useu95caseu951366px .tani-zamiennik-7 {
+  letter-spacing: -0.04vw;
+  line-height: 2;
+  margin-top: -0.07vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95useu95caseu951366px .frame-3673322-8 {
+  background-color: var(--alizarin-crimson);
+  padding: 1.02vw 1.54vw;
+}
+
+.pedrollou95useu95caseu951366px .problem-7 {
+  letter-spacing: -0.03vw;
+  line-height: 2;
+  margin-top: -0.07vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95useu95caseu951366px .ellipse-2-18 {
+  height: 6.59vw;
+  left: calc(50.00% - 7.17vw);
+  position: absolute;
+  top: calc(50.00% - 3.29vw);
+  width: 34.85vw;
+}
+
+.pedrollou95useu95caseu951366px .pompa-pedrollo-7 {
+  letter-spacing: -0.04vw;
+  line-height: 2;
+  margin-top: -0.07vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95useu95caseu951366px .frame-3673322-9 {
+  background-color: var(--salem);
+  padding: 1.02vw 1.54vw;
+}
+
+.pedrollou95useu95caseu951366px .rozwizanie-7 {
+  letter-spacing: -0.03vw;
+  line-height: 2;
+  margin-top: -0.07vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95useu95caseu951366px .frame-3673359-3 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 0.73vw;
+  left: 0;
+  padding: 0.81vw 0.0vw 0.0vw;
+  position: absolute;
+  top: 88.43vw;
+  width: 100.0vw;
+}
+
+.pedrollou95useu95caseu951366px .frame-3673342-3 {
+  -webkit-backdrop-filter: blur(1.46vw) brightness(100%);
+  align-items: center;
+  backdrop-filter: blur(1.46vw) brightness(100%);
+  background: linear-gradient(0deg, rgba(228, 35, 19, 0.4) 0%, rgba(228, 35, 19, 0.4) 100%), linear-gradient(0deg, rgba(10, 10, 10, 0.5) 0%, rgba(10, 10, 10, 0.5) 100%);
+  border: 0.07vw solid;
+  border-color: var(--alizarin-crimson-2);
+  border-radius: 0.73vw;
+  box-shadow: 0.0vw 0.29vw 0.29vw #00000040;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 0.59vw;
+  padding: 0.88vw;
+  position: relative;
+  width: 12.96vw;
+}
+
+.pedrollou95useu95caseu951366px .frame-3673336-37 {
+  align-items: center;
+  aspect-ratio: 1;
+  background-color: var(--alizarin-crimson);
+  border-radius: 2.93vw;
+  display: flex;
+  flex-direction: column;
+  gap: 0.73vw;
+  height: 2.27vw;
+  justify-content: center;
+  padding: 0.73vw;
+  position: relative;
+  width: 2.27vw;
+}
+
+.pedrollou95useu95caseu951366px .frame-3673343-1 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 0.73vw;
+  height: 1.1vw;
+  justify-content: center;
+  margin-bottom: -0.15vw;
+  margin-top: -0.15vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95useu95caseu951366px .text-4 {
+  align-self: stretch;
+  letter-spacing: -0.05vw;
+  line-height: 2;
+  margin-bottom: -0.48vw;
+  margin-top: -0.62vw;
+  position: relative;
+  text-align: center;
+}
+
+.pedrollou95useu95caseu951366px .od-tego-momentu-tani-3 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 1.24;
+  margin-top: -0.07vw;
+  position: relative;
+}
+
+.pedrollou95useu95caseu951366px .frame-82-2 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--cod-gray);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95useu95caseu951366px .technologia_3-1 {
+  height: 47.36vw;
+  left: calc(50.00% - 50.0vw);
+  mix-blend-mode: lighten;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 100.0vw;
+}
+
+.pedrollou95useu95caseu951366px .ellipse-3-3 {
+  background-color: #ffffff0d;
+  border-radius: 28.37vw;
+  height: 56.73vw;
+  left: 41.87vw;
+  top: -4.9vw;
+  width: 56.73vw;
+}
+
+.pedrollou95useu95caseu951366px .frame-36860-3 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--black-haze);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.73vw;
+  padding: 2.93vw 0.0vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95useu95caseu951366px .frame-6604-3 {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 2.93vw;
+  justify-content: center;
+  position: relative;
+  width: 85.36vw;
+}
+
+.pedrollou95useu95caseu951366px ._case-3 {
+  align-items: center;
+  background-color: var(--white);
+  border: 0.07vw solid;
+  border-color: var(--pumice);
+  border-radius: 0.73vw;
+  display: flex;
+  gap: 2.93vw;
+  height: 12.88vw;
+  padding: 2.93vw 3.66vw;
+  position: relative;
+  width: 30.23vw;
+}
+
+.pedrollou95useu95caseu951366px .arrow_stroke_on_white_blue-5 {
+  transform: rotate(180deg);
+}
+
+.pedrollou95useu95caseu951366px .line-8-14 {
+  height: 1.16vw;
+  margin-bottom: -0.05vw;
+  margin-left: -0.05vw;
+  margin-right: -0.1vw;
+  margin-top: -0.05vw;
+  position: relative;
+  transform: rotate(-180deg);
+  width: 0.67vw;
+}
+
+.pedrollou95useu95caseu951366px .frame-6608-3 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  position: relative;
+}
+
+.pedrollou95useu95caseu951366px .frame-11 {
+  align-self: stretch;
+  display: flex;
+  width: 100%;
+}
+
+.pedrollou95useu95caseu951366px .e-use-case-3 {
+  align-self: stretch;
+  color: transparent;
+  font-family: var(--font-family-manrope);
+  font-size: var(--font-size-m);
+  font-weight: 500;
+  letter-spacing: -0.02vw;
+  line-height: 1.83;
+  margin-top: -0.07vw;
+  position: relative;
+}
+
+.pedrollou95useu95caseu951366px .span0-6 {
+  color: var(--royal-blue);
+  letter-spacing: -0.0vw;
+}
+
+.pedrollou95useu95caseu951366px .span1-4 {
+  color: var(--cod-gray);
+  letter-spacing: -0.0vw;
+}
+
+.pedrollou95useu95caseu951366px .jak-pompa-pedrollo-obnia-3 {
+  align-self: stretch;
+  color: var(--cod-gray);
+  font-family: var(--font-family-manrope);
+  font-size: 2.05vw;
+  font-weight: 600;
+  letter-spacing: -0.04vw;
+  line-height: 2;
+  position: relative;
+}
+
+.pedrollou95useu95caseu951366px .dobry-tytu-wietnej-treci-3 {
+  align-self: stretch;
+  color: var(--cod-gray);
+  font-family: var(--font-family-manrope);
+  font-size: 2.05vw;
+  font-weight: 600;
+  letter-spacing: -0.04vw;
+  line-height: 2;
+  position: relative;
+}
+
+.pedrollou95useu95caseu951366px .line-8-15 {
+  height: 1.16vw;
+  margin-bottom: -0.05vw;
+  margin-left: -0.05vw;
+  margin-right: -0.1vw;
+  margin-top: -0.05vw;
+  position: relative;
+  width: 0.67vw;
+}
+
+.pedrollou95useu95caseu951366px .porownanie-3 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.73vw;
+  padding: 5.86vw 11.71vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95useu95caseu951366px .ellipse-2-19 {
+  height: 51.98vw;
+  left: calc(50.00% - 50.0vw);
+  position: absolute;
+  top: calc(50.00% - 25.99vw);
+  width: 100.0vw;
+}
+
+.pedrollou95useu95caseu951366px .frame-6483-3 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 5.86vw;
+  margin-left: -5.38vw;
+  margin-right: -5.38vw;
+  position: relative;
+}
+
+.pedrollou95useu95caseu951366px .frame-6567-3 {
+  height: 40.26vw;
+  position: relative;
+  width: 40.26vw;
+}
+
+.pedrollou95useu95caseu951366px .ellipse-3-4 {
+  background-color: var(--royal-blue-5);
+  border-radius: 16.14vw/16.11vw;
+  height: 32.21vw;
+  left: calc(50.00% - 16.11vw);
+  top: calc(50.00% - 16.11vw);
+  width: 32.28vw;
+}
+
+.pedrollou95useu95caseu951366px .vector-23 {
+  height: 27.89vw;
+  left: calc(50.00% - 14.13vw);
+  position: absolute;
+  top: calc(50.00% - 14.42vw);
+  width: 28.11vw;
+}
+
+.pedrollou95useu95caseu951366px .pompa_5_po_upcale-1-3 {
+  aspect-ratio: 0.37;
+  height: 43.27vw;
+  left: calc(50.00% - 7.32vw);
+  object-fit: cover;
+  position: absolute;
+  top: 3.07vw;
+  width: 15.96vw;
+}
+
+.pedrollou95useu95caseu951366px .frame-12 {
+  display: inline-flex;
+  gap: 2.2vw;
+}
+
+.pedrollou95useu95caseu951366px .frame-65-5 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 1.46vw;
+  position: relative;
+}
+
+.pedrollou95useu95caseu951366px .szukasz-efektywnej-3 {
+  color: var(--concrete);
+  font-family: var(--font-family-manrope);
+  font-size: 3.66vw;
+  font-weight: 600;
+  letter-spacing: -0.07vw;
+  line-height: 2;
+  margin-top: -0.07vw;
+  position: relative;
+  width: fit-content;
+}
+
+.pedrollou95useu95caseu951366px .nie-ryzykuj-z-wybore-3 {
+  color: transparent;
+  font-family: var(--font-family-manrope);
+  font-size: var(--font-size-l);
+  font-weight: 600;
+  letter-spacing: -0.03vw;
+  line-height: 2;
+  position: relative;
+  width: 41.22vw;
+}
+
+.pedrollou95useu95caseu951366px .span0-8 {
+  letter-spacing: -0.0vw;
+}
+
+.pedrollou95useu95caseu951366px .span1-6 {
+  color: var(--silver-chalice);
+  letter-spacing: -0.0vw;
+}
+
+.pedrollou95useu95caseu951366px .button_to_white-5 {
+  background: linear-gradient(270deg, rgba(64, 100, 223, 1) 0%, rgba(255, 255, 255, 1) 100%);
+}
+
+.pedrollou95useu95caseu951366px .bezpatna-konsultacj-2 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -0.15vw;
+  margin-top: -0.44vw;
+  position: relative;
+  width: fit-content;
+}
+
+.pedrollou95useu95caseu951366px .arrow_right-4 {
+  height: 1.39vw;
+  margin-bottom: -0.18vw;
+  margin-right: -0.09vw;
+  margin-top: -0.18vw;
+  position: relative;
+  width: 1.55vw;
+}
+
+.pedrollou95useu95caseu951366px .footer_desktop-3 {
+  align-self: stretch;
+  height: 102.12vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95useu95caseu951366px .frame-6613-3 {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  gap: 2.93vw;
+  height: 55.70%;
+  left: 0;
+  padding: 4.39vw 16.84vw;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+
+.pedrollou95useu95caseu951366px .frame-36731-3 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 1.46vw;
+  margin-left: -13.07vw;
+  margin-right: -13.07vw;
+  position: relative;
+}
+
+.pedrollou95useu95caseu951366px .zapytaj-o-pomp-3 {
+  color: var(--cod-gray);
+  font-family: var(--font-family-manrope);
+  font-size: 3.66vw;
+  font-weight: 600;
+  letter-spacing: -0.11vw;
+  line-height: 2;
+  margin-top: -0.07vw;
+  position: relative;
+  text-align: center;
+  width: 92.46vw;
+}
+
+.pedrollou95useu95caseu951366px .opowiedz-nam-o-swoic-3 {
+  color: var(--cod-gray);
+  font-family: var(--font-family-manrope);
+  font-size: var(--font-size-l);
+  font-weight: 500;
+  letter-spacing: -0.03vw;
+  line-height: 1.98;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.pedrollou95useu95caseu951366px .frame-13 {
+  align-self: stretch;
+  display: flex;
+  gap: 1.46vw;
+  width: 100%;
+}
+
+.pedrollou95useu95caseu951366px .input-7 {
+  align-self: stretch;
+  height: 14.64vw;
+  width: 100%;
+}
+
+.pedrollou95useu95caseu951366px .frame-36727-3 {
+  align-items: center;
+  background-color: var(--white);
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.15vw;
+  position: relative;
+}
+
+.pedrollou95useu95caseu951366px .label-14 {
+  letter-spacing: 0;
+  line-height: 1.46;
+  white-space: nowrap;
+}
+
+.pedrollou95useu95caseu951366px .frame-367-8 {
+  display: flex;
+  gap: 1.46vw;
+  width: 100%;
+}
+
+.pedrollou95useu95caseu951366px .input-6 {
+  flex: 1;
+  flex-grow: 1;
+  height: 3.88vw;
+}
+
+.pedrollou95useu95caseu951366px .label-15 {
+  letter-spacing: 0;
+  line-height: 1.46;
+  white-space: nowrap;
+}
+
+.pedrollou95useu95caseu951366px .frame-6589-3 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 0.07vw solid;
+  border-color: var(--cod-gray-2);
+  border-radius: 0.73vw;
+  cursor: pointer;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 0.73vw;
+  height: 3.88vw;
+  justify-content: center;
+  padding: 1.24vw 1.46vw;
+  position: relative;
+}
+
+.pedrollou95useu95caseu951366px .frame-6397-3 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: space-between;
+  margin-bottom: -0.04vw;
+  margin-top: -0.04vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95useu95caseu951366px .jestem-3 {
+  color: var(--cod-gray);
+  font-family: var(--font-family-manrope);
+  font-size: 1.24vw;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 1.46;
+  margin-top: -0.07vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95useu95caseu951366px .arrow_down-9 {
+  height: 0.47vw;
+  position: relative;
+  width: 1.1vw;
+}
+
+.pedrollou95useu95caseu951366px .arrow_down-10 {
+  height: 132.38%;
+  left: -4.32%;
+  position: absolute;
+  top: -11.86%;
+  width: 108.65%;
+}
+
+.pedrollou95useu95caseu951366px .label-16 {
+  letter-spacing: 0;
+  line-height: 1.46;
+  white-space: nowrap;
+}
+
+.pedrollou95useu95caseu951366px .label-17 {
+  letter-spacing: 0;
+  line-height: 1.46;
+  white-space: nowrap;
+}
+
+.pedrollou95useu95caseu951366px .frame-367-9 {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.pedrollou95useu95caseu951366px .radio_select_2-3 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.73vw;
+  height: 3.66vw;
+  position: relative;
+}
+
+.pedrollou95useu95caseu951366px .group-62-3 {
+  aspect-ratio: 1;
+  border: 0.15vw solid;
+  border-color: var(--celeste);
+  border-radius: 0.88vw;
+  height: 1.76vw;
+  position: relative;
+  width: 1.76vw;
+}
+
+.pedrollou95useu95caseu951366px .x1-fazowe-230-v-50-hz-3 {
+  color: var(--cod-gray);
+  font-family: var(--font-family-manrope);
+  font-size: var(--font-size-s);
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 1.46;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95useu95caseu951366px .button_to_white-6 {
+  background: linear-gradient(270deg, rgba(64, 100, 223, 1) 0%, rgba(255, 255, 255, 1) 100%);
+  flex: 0 0 auto;
+}
+
+.pedrollou95useu95caseu951366px .wylij-2 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -0.15vw;
+  margin-top: -0.44vw;
+  position: relative;
+  width: fit-content;
+}
+
+.pedrollou95useu95caseu951366px .frame-78-3 {
+  align-items: flex-start;
+  display: flex;
+  gap: 7.32vw;
+  height: 44.30%;
+  left: 0;
+  padding: 5.12vw 11.71vw;
+  position: absolute;
+  top: 55.70%;
+  width: 100%;
+}
+
+.pedrollou95useu95caseu951366px .ellipse-2-20 {
+  height: 45.24vw;
+  left: calc(50.00% - 50.0vw);
+  position: absolute;
+  top: calc(50.00% - 22.62vw);
+  width: 37.55vw;
+}
+
+.pedrollou95useu95caseu951366px .frame-367-10 {
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.pedrollou95useu95caseu951366px .frame-36750-1 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 3.66vw;
+  position: relative;
+}
+
+.pedrollou95useu95caseu951366px .frame-36738-3 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.73vw;
+  position: relative;
+}
+
+.pedrollou95useu95caseu951366px .group-1-4 {
+  height: 2.86vw;
+  position: relative;
+  width: 12.46vw;
+}
+
+.pedrollou95useu95caseu951366px .polska-3 {
+  letter-spacing: -0.03vw;
+  line-height: 2;
+  margin-top: -0.07vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95useu95caseu951366px .tworzymy-przyszo-3 {
+  color: var(--white);
+  font-family: var(--font-family-manrope);
+  font-size: var(--font-size-m);
+  font-weight: 500;
+  letter-spacing: -0.02vw;
+  line-height: 1.83;
+  position: relative;
+  width: fit-content;
+}
+
+.pedrollou95useu95caseu951366px .frame-36737-3 {
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.pedrollou95useu95caseu951366px .button_to_white-7 {
+  background: linear-gradient(90deg, rgba(64, 100, 223, 1) 0%, rgba(64, 100, 223, 0.15) 100%);
+  border: 0.07vw solid;
+  border-color: var(--royal-blue);
+}
+
+.pedrollou95useu95caseu951366px .strefa-partnera-2 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -0.22vw;
+  margin-top: -0.37vw;
+  position: relative;
+  width: fit-content;
+}
+
+.pedrollou95useu95caseu951366px .frame-36742-2 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 4.39vw;
+  position: relative;
+}
+
+.pedrollou95useu95caseu951366px .raz-kupujesz-bez-koca-pompujesz-3 {
+  letter-spacing: -0.04vw;
+  line-height: 2;
+  margin-top: -0.07vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95useu95caseu951366px .frame-3674-5 {
+  gap: 0.51vw;
+  justify-content: center;
+}
+
+.pedrollou95useu95caseu951366px .elektryczna-pompa-gbinowa-3 {
+  letter-spacing: -0.02vw;
+  line-height: 1.61;
+  margin-top: -0.07vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95useu95caseu951366px .frame-3674-6 {
+  gap: 0.22vw;
+}
+
+.pedrollou95useu95caseu951366px .label_-menu_footer-4 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.73vw;
+  padding: 0.15vw 0.0vw;
+  position: relative;
+}
+
+.pedrollou95useu95caseu951366px .frame-33-5 {
+  gap: 0.73vw;
+  padding: 0.29vw 0.0vw;
+}
+
+.pedrollou95useu95caseu951366px .label-13 {
+  letter-spacing: 0.01vw;
+  line-height: normal;
+}
+
+.pedrollou95useu95caseu951366px .na-skrty-3 {
+  letter-spacing: -0.02vw;
+  line-height: 1.61;
+  margin-top: -0.07vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95useu95caseu951366px .kontakt-z-nami-3 {
+  letter-spacing: -0.02vw;
+  line-height: 1.61;
+  margin-top: -0.07vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95useu95caseu951366px .frame-36746-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.pedrollou95useu95caseu951366px .frame-36748-3 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 0.73vw;
+  justify-content: center;
+  padding: 0.44vw 0.0vw;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95useu95caseu951366px .dachowa-43-a-96-500-sochaczew-3 {
+  flex: 1;
+  letter-spacing: 0.01vw;
+  line-height: normal;
+  margin-top: -0.07vw;
+  position: relative;
+}
+
+.pedrollou95useu95caseu951366px .dobr-pomp-3 {
+  letter-spacing: -0.02vw;
+  line-height: 1.76;
+  margin-top: -0.07vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95useu95caseu951366px .social_media-3 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.73vw;
+  padding: 0.37vw 0.0vw;
+  position: relative;
+}
+
+.pedrollou95useu95caseu951366px .social_media-item-3 {
+  height: 2.05vw;
+  position: relative;
+  width: 2.05vw;
+}
+
+.pedrollou95useu95caseu951366px .linkedin-3 {
+  align-items: center;
+  display: flex;
+  gap: 0.73vw;
+  height: 2.05vw;
+  justify-content: center;
+  padding: 0.29vw;
+  position: relative;
+  width: 2.05vw;
+}
+
+.pedrollou95useu95caseu951366px .subtract-3 {
+  aspect-ratio: 1;
+  height: 1.32vw;
+  position: relative;
+  width: 1.32vw;
+}
+
+.pedrollou95useu95caseu951366px .x2025-pedrollo-polityka-prywatnoci-2 {
+  height: 0.91vw;
+  position: relative;
+  width: 15.02vw;
+}
+
+.pedrollou95useu95caseu951366px .arrow {
+  align-items: center;
+  border: 0.15vw solid;
+  border-radius: 2.2vw;
+  display: flex;
+  gap: 0.73vw;
+  justify-content: center;
+  position: relative;
+}
+
+.pedrollou95useu95caseu951366px .arrow_stroke_on_white_blue {
+  align-items: center;
+  aspect-ratio: 1;
+  background: linear-gradient(90deg, rgba(64, 100, 223, 1) 0%, rgba(255, 255, 255, 1) 100%);
+  border: 0.15vw solid;
+  border-color: var(--gravel);
+  border-radius: 2.2vw;
+  display: flex;
+  gap: 0.73vw;
+  height: 3.66vw;
+  justify-content: center;
+  padding: 0.73vw;
+  position: relative;
+  width: 3.66vw;
+}
+
+.pedrollou95useu95caseu951366px .brak-wydarze {
+  left: 0.07vw;
+  letter-spacing: -0.06vw;
+  line-height: 2;
+  position: absolute;
+}
+
+.pedrollou95useu95caseu951366px .button_to_white {
+  align-items: center;
+  border-radius: 2.2vw;
+  display: inline-flex;
+  gap: 0.73vw;
+  height: 3.07vw;
+  justify-content: center;
+  padding: 1.02vw 1.9vw;
+  position: relative;
+}
+
+.pedrollou95useu95caseu951366px .czny-koszt-od-zakupu {
+  align-self: stretch;
+  letter-spacing: -0.04vw;
+  line-height: 1.46;
+  position: relative;
+}
+
+.pedrollou95useu95caseu951366px .ellipse-3 {
+  filter: blur(13.32vw);;
+  position: absolute;
+}
+
+.pedrollou95useu95caseu951366px .frame {
+  align-items: flex-start;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.pedrollou95useu95caseu951366px .frame-33 {
+  align-items: center;
+  border-bottom-style: solid;
+  border-bottom-width: 0.07vw;
+  border-color: transparent;
+  border-image: linear-gradient(90deg, rgba(64, 100, 223, 1) 0%, rgba(64, 100, 223, 0) 100%) 1;
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.pedrollou95useu95caseu951366px .frame-367 {
+  align-items: flex-start;
+  align-self: stretch;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.pedrollou95useu95caseu951366px .frame-36733 {
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  position: relative;
+  width: 100%;
+}
+
+.pedrollou95useu95caseu951366px .frame-367332 {
+  align-items: center;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.pedrollou95useu95caseu951366px .frame-3673322 {
+  align-items: center;
+  border-radius: 1.46vw;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.73vw;
+  justify-content: center;
+  position: relative;
+}
+
+.pedrollou95useu95caseu951366px .frame-3673327 {
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+}
+
+.pedrollou95useu95caseu951366px .frame-3673331 {
+  height: 3.15vw;
+  position: relative;
+  width: 3.15vw;
+}
+
+.pedrollou95useu95caseu951366px .frame-3673335 {
+  -webkit-backdrop-filter: blur(1.46vw) brightness(100%);
+  align-items: center;
+  backdrop-filter: blur(1.46vw) brightness(100%);
+  border: 0.07vw solid;
+  border-radius: 1.1vw;
+  display: flex;
+  flex-direction: column;
+  padding: 1.46vw;
+  position: absolute;
+}
+
+.pedrollou95useu95caseu951366px .frame-3673354 {
+  flex-direction: column;
+  gap: 1.46vw;
+  position: absolute;
+}
+
+.pedrollou95useu95caseu951366px .frame-3674 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.pedrollou95useu95caseu951366px .frame-68 {
+  -webkit-backdrop-filter: blur(1.46vw) brightness(100%);
+  backdrop-filter: blur(1.46vw) brightness(100%);
+  background-color: var(--big-stone);
+  border-radius: 1.1vw;
+  display: flex;
+  gap: 1.1vw;
+  padding: 1.1vw;
+  position: absolute;
+}
+
+.pedrollou95useu95caseu951366px .frame-76 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.73vw;
+  position: relative;
+}
+
+.pedrollou95useu95caseu951366px .freepik__assistant__55995-1 {
+  aspect-ratio: 1;
+  object-fit: cover;
+  position: absolute;
+  top: 0.07vw;
+}
+
+.pedrollou95useu95caseu951366px .group-6320 {
+  background-size: 100% 100%;
+  display: flex;
+  height: 26.21vw;
+  position: absolute;
+  top: 0;
+}
+
+.pedrollou95useu95caseu951366px .group-6321 {
+  position: absolute;
+  top: 0;
+}
+
+.pedrollou95useu95caseu951366px .input {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 0.07vw solid;
+  border-color: var(--cod-gray-2);
+  border-radius: 0.73vw;
+  display: flex;
+  padding: 1.17vw 1.46vw;
+  position: relative;
+}
+
+.pedrollou95useu95caseu951366px .koszty-0-z {
+  letter-spacing: -0.04vw;
+  line-height: 1.46;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95useu95caseu951366px .label {
+  margin-top: -0.07vw;
+  position: relative;
+  width: fit-content;
+}
+
+.pedrollou95useu95caseu951366px .nadwyka-za-prd-2-lata-300-z {
+  flex: 1;
+  letter-spacing: -0.04vw;
+  line-height: 1.46;
+  position: relative;
+}
+
+.pedrollou95useu95caseu951366px .number {
+  letter-spacing: -0.04vw;
+  line-height: 2;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95useu95caseu951366px .rectangle-1119 {
+  background: linear-gradient(270deg, rgba(10, 10, 10, 0.7) 0%, rgba(10, 10, 10, 0) 100%);
+  border-radius: 0.0vw 20.0vw 20.0vw 0.0vw;
+}
+
+.pedrollou95useu95caseu951366px .rok {
+  letter-spacing: -0.04vw;
+  line-height: 2;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95useu95caseu951366px .star {
+  letter-spacing: 0;
+  line-height: 1.46;
+  margin-top: -0.07vw;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95useu95caseu951366px .x00-z {
+  letter-spacing: -0.04vw;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pedrollou95useu95caseu951366px .zakup-i-monta {
+  position: absolute;
+  white-space: nowrap;
+}
+/* screen - pedrollou95useu95caseu95mobileu95360px */
+
+/* Nagłówki powielone na mobile – na desktop ukryte */
+.page--usecase .usecase-mobile-header {
+  display: none;
+}
+
+/* ========== Usecase: mobile poniżej 1024px ========== */
+@media (max-width: 1023px) {
+  /* Ukrycie masek (rectangle-1119*, rectangle-1120*) */
+  .page--usecase [class*="rectangle-1119"],
+  .page--usecase [class*="rectangle-1120"] {
+    display: none !important;
+  }
+
+  .page--usecase .frame-3673321 {
+    height: auto;
+    min-height: 0;
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 2rem;
+    overflow: visible;
+  }
+
+  /* Nagłówek sticky ukryty na mobile; powielone nagłówki przy każdym roku */
+  .page--usecase .frame-3673352.frame-3673352--sticky {
+    display: none;
+  }
+
+  .page--usecase .usecase-mobile-header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    padding: 0.75rem 0;
+    gap: 1rem;
+    flex-wrap: wrap;
+    margin-top: 1rem;
+  }
+
+  .page--usecase .frame-3673321 > .usecase-mobile-header:first-of-type {
+    margin-top: 0;
+  }
+
+  .page--usecase .usecase-mobile-header .frame-367332-1 {
+    position: relative;
+  }
+
+  .page--usecase .usecase-mobile-header .ellipse-2-1,
+  .page--usecase .usecase-mobile-header .ellipse-2-2 {
+    position: relative;
+    left: auto;
+    top: auto;
+    height: 1.25rem;
+    width: auto;
+  }
+
+  /* Oś czasu po lewej: linia + etykieta "Oś czasu" */
+  .page--usecase .group-6318 {
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 3.5rem;
+    min-width: 3.5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.5rem;
+    padding-top: 0.5rem;
+  }
+
+  .page--usecase .group-6318 .line-23 {
+    flex: 1;
+    min-height: 200px;
+    height: 100%;
+    object-fit: fill;
+    margin-left: 0;
+  }
+
+  .page--usecase .group-6318 .czasu {
+    font-size: 0.75rem;
+    line-height: 1.2;
+    width: auto;
+    margin: 0;
+  }
+
+  /* Wiersze osi: układ [badge roku | lewy kafelek | prawy kafelek], oś po lewej */
+  .page--usecase .frame-3673344,
+  .page--usecase .frame-3673345,
+  .page--usecase .frame-3673346,
+  .page--usecase .frame-3673348,
+  .page--usecase .frame-3673353-1,
+  .page--usecase .frame-3673354-2.frame-3673354-6,
+  .page--usecase .frame-3673355-1,
+  .page--usecase .frame-3673356 {
+    position: relative;
+    left: auto;
+    top: auto;
+    display: flex;
+    flex-direction: row;
+    align-items: stretch;
+    gap: 0.5rem;
+    padding-left: 3.5rem;
+    margin-top: 1rem;
+    width: 100%;
+    box-sizing: border-box;
+    overflow: visible;
+  }
+
+  /* Wiersz 4 Rok – dodatkowo pewna minimalna wysokość i odstęp, żeby nagłówek „Tani Zamiennik” z następnej sekcji się nie nakładał */
+  .page--usecase .frame-3673321 .frame-3673346 {
+    min-height: 0;
+    margin-bottom: 0.5rem;
+  }
+
+  .page--usecase .frame-3673344 > *:nth-child(1),
+  .page--usecase .frame-3673345 > *:nth-child(1),
+  .page--usecase .frame-3673346 > *:nth-child(1),
+  .page--usecase .frame-3673348 > *:nth-child(1),
+  .page--usecase .frame-3673353-1 > *:nth-child(1),
+  .page--usecase .frame-3673354-2 > *:nth-child(1),
+  .page--usecase .frame-3673355-1 > *:nth-child(1),
+  .page--usecase .frame-3673356 > *:nth-child(1) {
+    order: 2;
+    flex: 1;
+    min-width: 0;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .page--usecase .frame-3673344 > *:nth-child(2),
+  .page--usecase .frame-3673345 > *:nth-child(2),
+  .page--usecase .frame-3673346 > *:nth-child(2),
+  .page--usecase .frame-3673348 > *:nth-child(2),
+  .page--usecase .frame-3673353-1 > *:nth-child(2),
+  .page--usecase .frame-3673354-2 > *:nth-child(2),
+  .page--usecase .frame-3673355-1 > *:nth-child(2),
+  .page--usecase .frame-3673356 > *:nth-child(2) {
+    order: 1;
+    flex-shrink: 0;
+  }
+
+  .page--usecase .frame-3673344 > *:nth-child(3),
+  .page--usecase .frame-3673345 > *:nth-child(3),
+  .page--usecase .frame-3673346 > *:nth-child(3),
+  .page--usecase .frame-3673348 > *:nth-child(3),
+  .page--usecase .frame-3673353-1 > *:nth-child(3),
+  .page--usecase .frame-3673354-2 > *:nth-child(3),
+  .page--usecase .frame-3673355-1 > *:nth-child(3),
+  .page--usecase .frame-3673356 > *:nth-child(3) {
+    order: 3;
+    flex: 1;
+    min-width: 0;
+    display: flex;
+    flex-direction: column;
+  }
+
+  /* W kafelkach: zdjęcia i teksty jeden pod drugim (reset absolute → flow) */
+  .page--usecase .frame-3673321 .group-6328,
+  .page--usecase .frame-3673321 .group-6329,
+  .page--usecase .frame-3673321 .group-6322,
+  .page--usecase .frame-3673321 .group-6323,
+  .page--usecase .frame-3673321 .group-6324,
+  .page--usecase .frame-3673321 .group-6325,
+  .page--usecase .frame-3673321 .group-6326,
+  .page--usecase .frame-3673321 .group-6327,
+  .page--usecase .frame-3673321 .group-6326-1,
+  .page--usecase .frame-3673321 .group-6326-2,
+  .page--usecase .frame-3673321 .group-6326-3,
+  .page--usecase .frame-3673321 .group-6326-4 {
+    height: auto;
+    width: auto;
+  }
+
+  .page--usecase .frame-3673321 .group-6328 > *,
+  .page--usecase .frame-3673321 .group-6329 > *,
+  .page--usecase .frame-3673321 .group-6322 > *,
+  .page--usecase .frame-3673321 .group-6323 > *,
+  .page--usecase .frame-3673321 .group-6325 > *,
+  .page--usecase .frame-3673321 .group-6326 > *,
+  .page--usecase .frame-3673321 .group-6327 > *,
+  .page--usecase .frame-3673321 .group-6326-1 > *,
+  .page--usecase .frame-3673321 .group-6326-2 > *,
+  .page--usecase .frame-3673321 .group-6326-3 > *,
+  .page--usecase .frame-3673321 .group-6326-4 > * {
+    position: relative;
+    left: auto;
+    top: auto;
+    right: auto;
+    bottom: auto;
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+  }
+
+  /* group-6324 (wiersz 4 Rok – Koniec Żywotności): pełny reset z !important, żeby nic nie wystawało */
+  .page--usecase .frame-3673321 .group-6324,
+  .page--usecase .frame-3673321 .group-6325 {
+    height: auto !important;
+    min-height: 0;
+    display: flex !important;
+    flex-direction: column;
+    overflow: visible !important;
+  }
+
+  .page--usecase .frame-3673321 .group-6324 > * {
+    position: relative !important;
+    left: auto !important;
+    top: auto !important;
+    right: auto !important;
+    bottom: auto !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    height: auto !important;
+  }
+
+  .page--usecase .frame-3673321 .group-6324 .frame-3673335-3,
+  .page--usecase .frame-3673321 .group-6324 .frame-3673335-9 {
+    position: relative !important;
+    left: auto !important;
+    top: auto !important;
+    right: auto !important;
+    bottom: auto !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    height: auto !important;
+    min-height: 4.5rem;
+    flex-shrink: 0;
+  }
+
+  .page--usecase .frame-3673321 .group-6324 .group-6330 {
+    display: flex !important;
+    flex-direction: column;
+    position: relative !important;
+    left: auto !important;
+    top: auto !important;
+    right: auto !important;
+    bottom: auto !important;
+    height: auto !important;
+    width: 100% !important;
+    overflow: visible !important;
+  }
+
+  .page--usecase .frame-3673321 .group-6324 .group-6330 > * {
+    position: relative !important;
+    left: auto !important;
+    top: auto !important;
+    right: auto !important;
+    bottom: auto !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    height: auto !important;
+  }
+
+  .page--usecase .frame-3673321 .group-6324 .group-6330 .group-6321-1,
+  .page--usecase .frame-3673321 .group-6324 .group-6330 .group-6321-1 * {
+    position: relative !important;
+    left: auto !important;
+    top: auto !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    height: auto !important;
+  }
+
+  .page--usecase .frame-3673321 .group-6324 .group-6330 .frame-3673354,
+  .page--usecase .frame-3673321 .group-6324 .group-6330 .frame-68-6 {
+    position: relative !important;
+    left: auto !important;
+    top: auto !important;
+    right: auto !important;
+    bottom: auto !important;
+  }
+
+  /* Wiersz 4 Rok i jego lewa kolumna – overflow widoczny, żeby nic nie było obcięte */
+  .page--usecase .frame-3673321 .frame-3673346 {
+    overflow: visible !important;
+    align-items: flex-start;
+  }
+
+  /* Poniżej 1024px opisy bez ograniczenia szerokości */
+  .page--usecase .frame-3673321 [class*="frame-3673335"] p,
+  .page--usecase .frame-3673321 .nagy-brak-wody-i-ty,
+  .page--usecase .frame-3673321 .system-dziaa-bez-za,
+  .page--usecase .frame-3673321 .zakup-taniej-pompy,
+  .page--usecase .frame-3673321 .pompa-cakowicie-prz,
+  .page--usecase .frame-3673321 .znowu-brak-wody-zm,
+  .page--usecase .frame-3673321 .klient-zapomnia-e,
+  .page--usecase .frame-3673321 .niezawodno-przez-8,
+  .page--usecase .frame-3673321 .system-nadal-dziaa-idealnie,
+  .page--usecase .frame-3673321 .peen-relaks-i-zaufa,
+  .page--usecase .frame-3673321 .klient-jest-zestreso,
+  .page--usecase .frame-3673321 .address-2 {
+    width: 100%;
+    max-width: 100%;
+    box-sizing: border-box;
+  }
+
+  /* Ikony przy cenach (pompa, montaż itd.) – stały rozmiar 4rem */
+  .page--usecase .frame-3673321 .frame-3673331,
+  .page--usecase .frame-3673321 .frame-3673331-1,
+  .page--usecase .frame-3673321 .frame-367333-1 {
+    width: 4rem !important;
+    height: 4rem !important;
+    min-width: 4rem !important;
+    min-height: 4rem !important;
+    flex-shrink: 0;
+  }
+
+  /* Ikony Arrow-n / Arrow-y – stały rozmiar w rem poniżej 1024px */
+  .page--usecase .frame-3673321 .usecase-icon-awaria,
+  .page--usecase .frame-3673321 .usecase-icon-check {
+    height: 2rem !important;
+    width: auto !important;
+  }
+
+  .page--usecase .frame-3673321 .group-6328 img,
+  .page--usecase .frame-3673321 .group-6329 img,
+  .page--usecase .frame-3673321 .group-6322 img,
+  .page--usecase .frame-3673321 .group-6323 img,
+  .page--usecase .frame-3673321 .group-6324 img,
+  .page--usecase .frame-3673321 .group-6325 img,
+  .page--usecase .frame-3673321 .group-6326 img,
+  .page--usecase .frame-3673321 .group-6327 img,
+  .page--usecase .frame-3673321 .group-6326-1 img,
+  .page--usecase .frame-3673321 .group-6326-2 img,
+  .page--usecase .frame-3673321 .group-6326-3 img,
+  .page--usecase .frame-3673321 .group-6326-4 img {
+    position: relative;
+    left: auto;
+    top: auto;
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+  }
+
+  /* Badge "Od tego momentu..." nigdy nie przyklejony na mobile */
+  .page--usecase .frame-3673359,
+  .page--usecase .frame-3673359.is-stuck {
+    position: relative;
+    top: auto;
+    left: auto;
+    transform: none;
+    width: 100%;
+    max-width: 100%;
+    box-sizing: border-box;
+    margin-top: 1rem;
+  }
+
+  .page--usecase .frame-3673359 .frame-3673342 {
+    width: 100%;
+    box-sizing: border-box;
+  }
+
+  /* Jednolite wielkości dla podobnych elementów w kafelkach porównania */
+  .page--usecase .frame-3673321 .frame-3673335,
+  .page--usecase .frame-3673321 .frame-3673335-1,
+  .page--usecase .frame-3673321 .frame-3673335-2,
+  .page--usecase .frame-3673321 .frame-3673335-3,
+  .page--usecase .frame-3673321 .frame-3673335-4,
+  .page--usecase .frame-3673321 .frame-3673335-5,
+  .page--usecase .frame-3673321 .frame-3673335-6,
+  .page--usecase .frame-3673321 .frame-3673335-7,
+  .page--usecase .frame-3673321 .frame-3673335-8,
+  .page--usecase .frame-3673321 .frame-3673335-9 {
+    min-height: 4.5rem;
+  }
+
+  .page--usecase .frame-3673321 .frame-3673336,
+  .page--usecase .frame-3673321 .frame-3673336-1,
+  .page--usecase .frame-3673321 .frame-3673336-2,
+  .page--usecase .frame-3673321 .frame-3673336-3,
+  .page--usecase .frame-3673321 .frame-3673336-4,
+  .page--usecase .frame-3673321 .frame-3673336-5,
+  .page--usecase .frame-3673321 .frame-3673336-6,
+  .page--usecase .frame-3673321 .frame-3673336-7,
+  .page--usecase .frame-3673321 .frame-3673336-8,
+  .page--usecase .frame-3673321 .frame-3673336-9 {
+    min-height: 2.5rem;
+  }
+}
+
+/* ========== Usecase: bardzo wąski mobile (≤768px) – przewijanie w prawo, nagłówki w jednym rzędzie ========== */
+@media (max-width: 767px) {
+  .page--usecase {
+    overflow-x: hidden;
+  }
+
+  /* Przewijanie tylko w tej sekcji, widoczny pasek poziomy */
+  .page--usecase .usecase-table-scroll {
+    width: 100%;
+    max-width: 100%;
+    overflow-x: scroll;
+    overflow-y: visible;
+    -webkit-overflow-scrolling: touch;
+    box-sizing: border-box;
+  }
+
+  .page--usecase .usecase-table-scroll .frame-3673321 {
+    min-width: 720px;
+  }
+
+  /* Nagłówki Tani Zamiennik | Pompa Pedrollo obok siebie, nad odpowiadającymi kafelkami (ta sama siatka co wiersze) */
+  .page--usecase .usecase-mobile-header {
+    display: grid;
+    grid-template-columns: 3.5rem 3rem 1fr 1fr;
+    gap: 0.5rem;
+    flex-wrap: nowrap;
+    padding-left: 0;
+    align-items: center;
+  }
+
+  .page--usecase .usecase-mobile-header .frame-367332-1:first-child {
+    grid-column: 3;
+    min-width: 0;
+  }
+
+  .page--usecase .usecase-mobile-header .frame-367332-1:last-child {
+    grid-column: 4;
+    min-width: 0;
+  }
+
+  /* Wszystkie zdjęcia w tabeli – te same proporcje (kwadrat) */
+  .page--usecase .frame-3673321 img {
+    aspect-ratio: 1;
+    object-fit: cover;
+  }
+
+  .page--usecase .frame-3673321 .group-6319,
+  .page--usecase .frame-3673321 .group-6321,
+  .page--usecase .frame-3673321 .group-6321-1,
+  .page--usecase .frame-3673321 .group-6321-2,
+  .page--usecase .frame-3673321 .group-6321-3,
+  .page--usecase .frame-3673321 .group-6321-4,
+  .page--usecase .frame-3673321 .group-6321-5,
+  .page--usecase .frame-3673321 .group-6321-6,
+  .page--usecase .frame-3673321 .group-6320,
+  .page--usecase .frame-3673321 .group-6320-1,
+  .page--usecase .frame-3673321 .group-6320-2,
+  .page--usecase .frame-3673321 .group-6320-3,
+  .page--usecase .frame-3673321 .group-6320-4,
+  .page--usecase .frame-3673321 .group-6320-5,
+  .page--usecase .frame-3673321 .group-6320-6,
+  .page--usecase .frame-3673321 .group-6317 {
+    aspect-ratio: 1;
+    background-size: cover;
+    background-position: center;
+  }
+
+  /* group-6330 w group-6324 NIE ma być kwadratem – to kontener na zdjęcie + nagłówek + koszty, ma się rozciągać */
+  .page--usecase .frame-3673321 .group-6324 .group-6330 {
+    aspect-ratio: auto !important;
+    height: auto !important;
+    min-height: 0;
+  }
+
+  /* Sekcja .porownanie: poniżej 768px najpierw obrazek, potem tekst */
+  .porownanie .frame-6483 {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .porownanie .frame-6483 .frame-6567 {
+    order: 1;
+  }
+
+  .porownanie .frame-6483 .frame-6482 {
+    order: 2;
+  }
+  .usecase-table-header {
+    line-height: 2;
+  }
+}
+
+/* Zawartość single use case – zajmuje przestrzeń flex */
+.page--usecase .usecase-single-content {
+  flex: 1 0 auto;
+  width: 100%;
+}
+
+/* Stopka wewnątrz .page – wymuszenie layoutu jak w globals (strona use case ładuje ten arkusz, nie główny) */
+.page--usecase .footer_root.global-footer {
+  flex: 0 0 auto;
+  align-items: flex-start;
+  display: flex;
+  gap: 5.21vw;
+  padding: 3.65vw 8.33vw;
+  width: 100%;
+  box-sizing: border-box;
+}
+

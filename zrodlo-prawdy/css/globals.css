@@ -1,13 +1,158 @@
 @import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
 @import url("https://fonts.googleapis.com/css?family=Manrope:500,700,600,400|Geist:500,600");
 /* The following line is used to measure usage of this code. You can remove it if you want. */
-@import url("https://px.animaapp.com/6996e91911f214dc11d109d5.6996e91a11f214dc11d109d8.NlDLqQR.hcp.png");
 
 
+/* Responsywne rozmiary czcionek: 18px = 1rem w skali projektu */
+html {
+  font-size: clamp(0.8rem, 1vw + 0.1rem, 1.2rem);
+}
+body {
+  font-size: 1rem;
+  width: 100%;
+  overflow-x: hidden;
+}
+
+/* Usunięcie 100vw – na mobile (i ogólnie) 100vw obejmuje pasek przewijania, więc zawartość zachodzi w prawo i padding wygląda na mniejszy z prawej. Wymuszamy width: 100% na głównym kontenerze i sekcjach. */
+.pedrollou95polskau95mainu953 {
+  width: 100% !important;
+  max-width: 100% !important;
+  min-width: 0 !important;
+  box-sizing: border-box;
+}
+/* Sekcje i elementy z width: 100vw w main CSS – 100% rodzica, żeby padding po bokach był wizualnie równy */
+.pedrollou95polskau95mainu953 .frame-6302,
+.pedrollou95polskau95mainu953 .frame-35-3,
+.pedrollou95polskau95mainu953 .video_slider-1,
+.pedrollou95polskau95mainu953 .footer_desktop-3,
+.pedrollou95polskau95mainu953 .rectangle-6,
+.pedrollou95polskau95mainu953 .frame-20-6,
+.pedrollou95polskau95mainu953 .frame-20-7 {
+  width: 100% !important;
+  max-width: 100% !important;
+  box-sizing: border-box;
+}
+
+/* Hero – układ desktop: lewa kolumna (tytuł, opis, CTA) + prawa (Made in Italy, 4 cechy) */
+.hero-content.frame-34-3 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-between;
+  padding: 11vw 4vw 2vw;
+  gap: 3vw;
+  pointer-events: none;
+}
+.hero-content.frame-34-3 * {
+  pointer-events: auto;
+}
+.hero-left {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 0.8vw;
+  max-width: 100%;
+  flex: 1;
+  min-height: 100%;
+}
+.hero-header-img {
+  height: auto;
+  max-width: 100%;
+  width: auto;
+  align-self: flex-start;
+}
+.hero-subline {
+  display: flex;
+  align-items: center;
+  gap: 0.5vw;
+  margin: 0;
+  font-family: var(--font-family-geist, "Geist", sans-serif);
+  font-size: 1.2rem;
+  font-weight: 400;
+  color: #fff;
+}
+.hero-subline-dot {
+  color: var(--royal-blue, #4064df);
+}
+.hero-desc {
+  margin: 0;
+  margin-top: auto;
+  max-width: 40%;
+  font-family: var(--font-family-geist, "Geist", sans-serif);
+  font-size: 0.85rem;
+  font-weight: 400;
+  color: rgba(255, 255, 255, 0.9);
+  line-height: 1.5;
+}
+.hero-cta {
+  margin-top: 0.5vw;
+}
+.hero-cta.btn--primary {
+  background: #4064df;
+}
+.hero-right {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 1.5vw;
+  flex-shrink: 0;
+}
+.hero-madeinitaly {
+  height: auto;
+  width: auto;
+  max-height: 8rem;
+  min-height: 48px;
+}
+.hero-features-list {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 0.6vw;
+}
+.hero-feature {
+  display: flex;
+  align-items: center;
+  gap: 0.5vw;
+  font-family: var(--font-family-geist, "Geist", sans-serif);
+  font-size: 0.8rem;
+  font-weight: 400;
+  color: #BDC2D6;
+}
+.hero-feature img {
+  width: 1.4vw;
+  height: auto;
+  min-width: 18px;
+}
 
 .screen a {
   display: contents;
   text-decoration: none;
+}
+.screen a.btn--menu-2 {
+  display: inline-flex;
+}
+/* Link jako przycisk – cały obszar reaguje na hover (jak div.btn w „Zobacz porównanie”) */
+.screen a.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.73vw;
+  padding: 1rem 2rem;
+  height: 2.71rem;
+  border-radius: 999px;
+  flex: 0 0 auto;
+  position: relative;
+  cursor: pointer;
+  text-decoration: none;
+  color: inherit;
+}
+.screen a.dobierz_pompe-4 {
+  display: flex;
+}
+.screen a.porownanie-btn {
+  display: block;
+  text-decoration: none;
+  color: inherit;
 }
 
 .overlay-base {
@@ -17,6 +162,10 @@
   position: fixed;
   top: 0;
   width: 100%;
+  z-index: 9999;
+}
+.close_on_white {
+  cursor: pointer;
 }
 
 .overlay-base.animate-appear {
@@ -126,10 +275,10 @@
 .pomi {
   color: var(--concrete);
   font-family: var(--font-family-manrope);
-  font-size: 0.99vw;
+  font-size: 0.95rem;
   font-weight: 600;
   letter-spacing: -0.02vw;
-  line-height: 1.35vw;
+  line-height: 1.35;
   margin-top: -0.05vw;
   position: relative;
   white-space: nowrap;
@@ -138,10 +287,77 @@
 
 .copyright {
   letter-spacing: -0.01vw;
-  line-height: 1.25vw;
+  line-height: 1.25;
   position: relative;
   white-space: nowrap;
   width: fit-content;
+}
+
+
+
+/* === Stopka: bez niebieskiej ramki pod linkami, podkreślenie L→R na hover === */
+.footer_desktop .frame-33,
+.footer_desktop .frame-33-6,
+.footer_desktop-3 .frame-33,
+.footer_desktop-3 .frame-33-6 {
+  border: none !important;
+  border-image: none !important;
+}
+.screen a.footer-menu-link {
+  display: inline-flex;
+}
+.footer-menu-link {
+  text-decoration: none;
+  color: inherit;
+  position: relative;
+}
+.footer-menu-link::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  height: 0.1vw;
+  max-height: 2px;
+  width: 0;
+  background: var(--royal-blue, #4064df);
+  transition: width 0.3s ease;
+}
+.footer-menu-link:hover::after {
+  width: 100%;
+}
+
+/* === Stopka: ikonki social media – anchor, wypełnienie niebieskie L→R na hover === */
+.footer-social-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  overflow: hidden;
+  text-decoration: none;
+  color: inherit;
+}
+.footer-social-link::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 0;
+  background: var(--royal-blue, #4064df);
+  transition: width 0.25s ease;
+  z-index: 0;
+}
+.footer-social-link:hover::after {
+  width: 100%;
+}
+.footer-social-link img,
+.footer-social-link .linkedin,
+.footer-social-link .linkedin-3 {
+  position: relative;
+  z-index: 1;
+}
+.footer-social-link:hover img {
+  filter: brightness(0) invert(1);
 }
 
 .span0 {
@@ -222,25 +438,25 @@
 
 .label-7 {
   letter-spacing: 0;
-  line-height: 1.46vw;
+  line-height: 1.46;
   white-space: nowrap;
 }
 
 .label-8 {
   letter-spacing: 0;
-  line-height: 1.46vw;
+  line-height: 1.46;
   white-space: nowrap;
 }
 
 .label-9 {
   letter-spacing: 0;
-  line-height: 1.46vw;
+  line-height: 1.46;
   white-space: nowrap;
 }
 
 .label-10 {
   letter-spacing: 0;
-  line-height: 1.46vw;
+  line-height: 1.46;
   white-space: nowrap;
 }
 
@@ -314,27 +530,525 @@
 /* === Faza 2: wspólne klasy przycisków (.btn) – szczegóły: zrodlo-prawdy/KLASY-CSS.md === */
 .btn {
   align-items: center;
-  border-radius: 2.2vw;
+  border-radius: 999px;
   display: inline-flex;
   flex: 0 0 auto;
   gap: 0.73vw;
-  height: 3.07vw;
   justify-content: center;
-  padding: 1.02vw 1.9vw;
+  padding: 1rem 2rem;
   position: relative;
+  cursor:pointer;
+  display:flex;justify-content:space-between;
 }
 .btn--primary {
   background: linear-gradient(270deg, rgba(64, 100, 223, 1) 0%, rgba(255, 255, 255, 1) 100%);
 }
 .btn--secondary {
-  background: linear-gradient(270deg, rgba(64, 100, 223, 1) 0%, rgba(24, 30, 51, 1) 100%);
+  background: #4064df;
   border: 0.1vw solid;
   border-color: var(--royal-blue-3);
+  overflow: hidden;
+}
+.btn--secondary::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 0;
+  background-color: #192037;
+  z-index: 0;
+  transition: width 0.3s ease-out;
+}
+.btn--secondary:hover::before,
+.btn--secondary-active.btn--secondary::before {
+  width: 100%;
+}
+.btn--secondary > * {
+  position: relative;
+  z-index: 1;
+}
+/* Przyciski kart 4SR 2-S / 4SR 4-S (Charakterystyka pracy) – wymiary jak dawny .rodzaj_pompy-2, link jak przycisk */
+.pedrollou95polskau95mainu953 .frame-158-1 .frame-88 .btn.btn--secondary {
+  display: inline-flex;
+  height: auto;
+  padding: 0.89vw 1.56vw;
+  gap: 1.04vw;
+  border-radius: 2.08vw;
+  text-decoration: none;
+  color: inherit;
+}
+.pedrollou95polskau95mainu953 .frame-158-1 .frame-88 .btn.btn--secondary .x4-sr-2-s-9,
+.pedrollou95polskau95mainu953 .frame-158-1 .frame-88 .btn.btn--secondary .manrope-semi-bold-concrete-19px {
+  color: var(--concrete, #f2f2f2);
+}
+/* Konfigurator – tło Konfigurator-4, formularz po lewej, teksty po prawej (odwzorowanie konfigurator-3.jpg) */
+.pedrollou95polskau95mainu953 .konfigurator-form-sekcja {
+  align-self: stretch;
+  background: url("../img/Konfigurator-4.png") center center / cover no-repeat;
+  min-height: 42vw;
+  display: flex;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: space-between;
+  padding: 3vw 4vw;
+  width: 100%;
+  box-sizing: border-box;
+  gap: 3vw;
+}
+.pedrollou95polskau95mainu953 .konfigurator-lewy {
+  flex: 0 0 auto;
+  max-width: 50%;
+  min-width: 40%;
+  min-height: 42vw;
+}
+.pedrollou95polskau95mainu953 .konfigurator-form-panel {
+  background: transparent;
+  border-radius: 0;
+  padding: 0;
+  box-shadow: none;
+  font-family: var(--font-family-manrope, "Manrope", sans-serif);
+}
+.pedrollou95polskau95mainu953 .konfigurator-form {
+  display: flex;
+  flex-direction: column;
+  gap: 1.2vw;
+}
+.pedrollou95polskau95mainu953 .konfigurator-ramka {
+  background: #fff;
+  border: 0.05vw solid rgba(0, 0, 0, 0.12);
+  border-radius: 1vw;
+  padding: 1.2vw 1.4vw;
+  box-shadow: 0 0.1vw 0.4vw rgba(0, 0, 0, 0.06);
+}
+.pedrollou95polskau95mainu953 .konfigurator-sekcja {
+  display: flex;
+  flex-direction: row;
+  gap: 0.9vw;
+  align-items: flex-start;
+}
+.pedrollou95polskau95mainu953 .konfigurator-krok-num {
+  width: 1.8vw;
+  height: 1.8vw;
+  min-width: 1.8vw;
+  min-height: 1.8vw;
+  border-radius: 50%;
+  background: var(--royal-blue, #4064df);
+  color: #fff;
+  font-weight: 700;
+  font-size: 0.9rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.pedrollou95polskau95mainu953 .konfigurator-sekcja-tresc {
+  flex: 1;
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5vw;
+}
+.pedrollou95polskau95mainu953 .konfigurator-sekcja-tytul {
+  margin: 0;
+  font-size: 0.95rem;
+  line-height: 1.3;
+  color: var(--cod-gray, #1a1a1a);
+  font-weight: 600;
+}
+.pedrollou95polskau95mainu953 .konfigurator-form-select {
+  padding: 0.6vw 0.9vw;
+  border: 0.05vw solid rgba(0, 0, 0, 0.25);
+  border-radius: 0.52vw;
+  font-family: inherit;
+  font-size: 0.9rem;
+  color: var(--cod-gray, #1a1a1a);
+  background: #fff;
+  width: 100%;
+  box-sizing: border-box;
+  appearance: auto;
+}
+.pedrollou95polskau95mainu953 .konfigurator-form-select:focus {
+  outline: none;
+  border-color: var(--royal-blue, #4064df);
+}
+.pedrollou95polskau95mainu953 .konfigurator-radios {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5vw;
+}
+.pedrollou95polskau95mainu953 .konfigurator-radio {
+  display: flex;
+  align-items: center;
+  gap: 0.5vw;
+  cursor: pointer;
+  font-size: 0.9rem;
+  color: var(--cod-gray, #1a1a1a);
+}
+.pedrollou95polskau95mainu953 .konfigurator-radio input {
+  width: 1.1em;
+  height: 1.1em;
+  accent-color: var(--royal-blue, #4064df);
+}
+/* Sekcja 3 – suwaki jak na screenie: tor niebieski–szary, uchwyt biały z obramowaniem i liczbą w środku, etykieta pod suwakiem */
+.pedrollou95polskau95mainu953 .konfigurator-slider-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1vw;
+}
+.pedrollou95polskau95mainu953 .konfigurator-slider-row {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 0.5rem;
+  margin-top:1vw;
+}
+.pedrollou95polskau95mainu953 .konfigurator-slider-label {
+  font-size: 0.85rem;
+  color: var(--cod-gray, #1a1a1a);
+  order: 1;
+}
+.pedrollou95polskau95mainu953 .konfigurator-slider-wrap {
+  position: relative;
+  width: 100%;
+  max-width: 100%;
+  min-width: 100%;
+  order: 2;
+  min-height: 2.2vw;
+  display: flex;
+  align-items: flex-end;
+  padding-bottom: 0.35vw;
+}
+.pedrollou95polskau95mainu953 .konfigurator-range {
+  width: 100%;
+  height: 0.4vw;
+  min-height: 4px;
+  -webkit-appearance: none;
+  appearance: none;
+  background: linear-gradient(to right, #6B7EEB 0%, #6B7EEB var(--range-percent, 0%), #E0E0E0 var(--range-percent, 0%), #E0E0E0 100%);
+  border-radius: 999px;
+  outline: none;
+  display: block;
+}
+.pedrollou95polskau95mainu953 .konfigurator-range::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 1px;
+  height: 1px;
+  opacity: 0;
+  cursor: pointer;
+}
+.pedrollou95polskau95mainu953 .konfigurator-range::-moz-range-thumb {
+  width: 1px;
+  height: 1px;
+  opacity: 0;
+  cursor: pointer;
+  border: none;
+}
+.pedrollou95polskau95mainu953 .konfigurator-slider-thumb {
+  position: absolute;
+  bottom: -0.25vw;
+  left: var(--range-percent, 0%);
+  transform: translateX(-50%);
+  width: 1.8vw;
+  min-width: 24px;
+  height: 1.8vw;
+  min-height: 24px;
+  border-radius: 50%;
+  background: #fff;
+  border: 0.15vw solid #6B7EEB;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  pointer-events: none;
+  box-shadow: 0 0.1vw 0.25vw rgba(0, 0, 0, 0.15);
+}
+.pedrollou95polskau95mainu953 .konfigurator-slider-value {
+  font-size: 0.8rem;
+  font-weight: 700;
+  color: #6B7EEB;
+}
+.pedrollou95polskau95mainu953 .konfigurator-footer-ramka {
+  background: #fff;
+  border: 0.05vw solid rgba(0, 0, 0, 0.12);
+  border-radius: 1vw;
+  padding: 1.2vw 1.4vw;
+  box-shadow: 0 0.1vw 0.4vw rgba(0, 0, 0, 0.06);
+  margin-top: 1.2vw;
+}
+.pedrollou95polskau95mainu953 .konfigurator-form-footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 1vw;
+  padding: 0;
+  margin: 0;
+  border: none;
+}
+.pedrollou95polskau95mainu953 .konfigurator-kroki {
+  display: flex;
+  align-items: center;
+  gap: 0.35vw;
+  font-size: 0.9rem;
+  color: var(--cod-gray, #1a1a1a);
+}
+.pedrollou95polskau95mainu953 .konfigurator-krok-aktual {
+  width: 1.4vw;
+  height: 1.4vw;
+  min-width: 22px;
+  min-height: 22px;
+  border-radius: 50%;
+  background: var(--royal-blue, #4064df);
+  color: #fff;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 700;
+  font-size: 0.75em;
+}
+.pedrollou95polskau95mainu953 .konfigurator-krok-inny {
+  color: #888;
+  font-weight: 600;
+}
+.pedrollou95polskau95mainu953 .konfigurator-dalej {
+  cursor: pointer;
+  border: none;
+  color: #fff;
+  text-decoration: none;
+}
+.pedrollou95polskau95mainu953 .konfigurator-prawy {
+  flex: 1;
+  max-width: 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  text-align: right;
+  padding-left: 1vw;
+  min-height: 0;
+}
+.pedrollou95polskau95mainu953 .konfigurator-gora {
+  flex: 0 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 0.8vw;
+}
+.pedrollou95polskau95mainu953 .konfigurator-naglowek-rzad {
+  display: flex;
+  align-items: center;
+  gap: 1vw;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+}
+.pedrollou95polskau95mainu953 .konfigurator-kroki-kapsula {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4vw;
+  background: rgba(240, 240, 242, 0.95);
+  border: 0.05vw solid rgba(0, 0, 0, 0.08);
+  border-radius: 999px;
+  padding: 0.35vw 0.9vw;
+}
+.pedrollou95polskau95mainu953 .konfigurator-kroki-kapsula .konfigurator-kroki-tekst {
+  font-size: 0.9rem;
+  color: var(--cod-gray, #1a1a1a);
+}
+.pedrollou95polskau95mainu953 .konfigurator-kroki-kapsula .konfigurator-krok-aktual {
+  width: 1.3vw;
+  height: 1.3vw;
+  min-width: 20px;
+  min-height: 20px;
+  font-size: 0.7em;
+}
+.pedrollou95polskau95mainu953 .konfigurator-kroki-kapsula .konfigurator-krok-inny {
+  color: #888;
+  font-size: 0.9rem;
+}
+.pedrollou95polskau95mainu953 .konfigurator-tytul-glowny {
+  margin: 0;
+  font-size: 2.5rem;
+  line-height: 1.15;
+  color: var(--cod-gray, #1a1a1a);
+  font-weight: 700;
+}
+.pedrollou95polskau95mainu953 .konfigurator-podtytul {
+  margin: 0;
+  font-size: 1rem;
+  color: var(--cod-gray, #1a1a1a);
+  font-weight: 600;
+}
+.pedrollou95polskau95mainu953 .konfigurator-logo {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+.pedrollou95polskau95mainu953 .konfigurator-logo-img {
+  height: auto;
+  max-width: 12vw;
+  max-height: 3.5vw;
+  width: auto;
+  object-fit: contain;
+  display: block;
+}
+.pedrollou95polskau95mainu953 .konfigurator-pomoc-box {
+  background: rgba(255, 255, 255, 0.95);
+  border-radius: 1.2vw;
+  padding: 1.4vw 1.8vw;
+  box-shadow: 0 0.3vw 1.5vw rgba(0, 0, 0, 0.1);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 0.8vw;
+  margin-top: auto;
+  flex-shrink: 0;
+  max-width: 22vw;
+}
+.pedrollou95polskau95mainu953 .konfigurator-pomoc-gora {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 0.6vw;
+  justify-content: flex-start;
+}
+.pedrollou95polskau95mainu953 .konfigurator-pomoc-gora .konfigurator-pomoc-ikona {
+  width: 2.2vw;
+  height: 2.2vw;
+  min-width: 28px;
+  min-height: 28px;
+  object-fit: contain;
+  flex-shrink: 0;
+}
+.pedrollou95polskau95mainu953 .konfigurator-pomoc-box .konfigurator-pomoc-tekst {
+  margin: 0;
+  text-align: left;
+  line-height: 1.2;
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: var(--cod-gray, #1a1a1a);
+}
+.pedrollou95polskau95mainu953 .konfigurator-kontakt-btn {
+  text-decoration: none;
+  color: inherit;
+}
+.pedrollou95polskau95mainu953 .konfigurator-kontakt-btn img {filter: invert(1);}
+.ui-accordion-header, .ui-accordion-content {width:100% !important;}
+.ui-accordion-header-icon {display:none !important;}
+.ui-accordion .ui-accordion-header {padding: 0 !important;}
+.screen a.konfigurator-kontakt-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.52vw;
+}
+.pedrollou95polskau95mainu953 .konfigurator-dalej.btn--secondary {
+  color: #fff;
+}
+.pedrollou95polskau95mainu953 .konfigurator-form-select option {
+  color: var(--cod-gray, #1a1a1a);
+}
+
+/* Karty Charakterystyka pracy – przełączanie 4SR 2-S / 4SR 4-S */
+.charakterystyka-card--hidden {
+  display: none;
 }
 .btn--dark {
   background: linear-gradient(270deg, rgba(255, 255, 255, 1) 0%, rgba(64, 100, 223, 1) 100%);
   border: 0.1vw solid;
   border-color: var(--pumice, #c9c9c9);
+}
+/* Uniwersalny przycisk: białe tło, po najechaniu niebieskie wjeżdżające od lewej, ikona/strzałka biała */
+.btn--white-blue {
+  border: 0.1vw solid var(--cod-gray-3, #333);
+  color: var(--cod-gray, #1a1a1a);
+  overflow: hidden;
+  position: relative;
+}
+.btn--white-blue::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 0;
+  background-color: #4064df;
+  z-index: 0;
+  transition: width 0.3s ease-out;
+}
+.btn--white-blue:hover::before {
+  width: 100%;
+}
+.btn--white-blue > * {
+  position: relative;
+  z-index: 1;
+}
+.btn--white-blue:hover,
+.btn--white-blue:hover .geist-medium-cod-gray-19px,
+.btn--white-blue:hover .lista-zestaww-4 {
+  color: #fff;
+}
+.btn--white-blue:hover img {
+  filter: brightness(0) invert(1);
+}
+.screen a.btn--white-blue {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.52vw;
+  padding: 0.89vw 1.56vw;
+  border-radius: 1.56vw;
+  text-decoration: none;
+}
+.btn--white-blue .lista-zestaww-3 {
+  background: none;
+  border: none;
+}
+.screen a.zapytaj-o-zestaw_2-3 {
+  display: inline-flex;
+  align-items: center;
+  text-decoration: none;
+  color: inherit;
+}
+/* Sekcja „Wybierz zestaw” – czcionka jak w projekcie (Manrope) */
+.pedrollou95polskau95mainu953 .frame-36754-2 {
+  font-family: var(--font-family-manrope, "Manrope", sans-serif);
+}
+
+/* Karty „Wybierz zestaw” – przełączanie (frame-98 = przyciski, frame-97 = karty) */
+/* Nadpisanie .frame-97 { display: flex } z pedrollou95polskau95mainu953.css */
+.pedrollou95polskau95mainu953 .wybierz-zestaw-cards .wybierz-zestaw-card.wybierz-zestaw-card--hidden {
+  display: none !important;
+}
+.wybierz-zestaw-tabs {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.wybierz-zestaw-tab,
+.wybierz-zestaw-tab-kafelek {
+  cursor: pointer;
+  font: inherit;
+  text-align: center;
+  padding: 0.83vw 1.04vw;
+}
+.wybierz-zestaw-tab--active,
+.wybierz-zestaw-tab--active.frame-36752-3,
+.wybierz-zestaw-tab.frame-36752-3 {
+  background-color: var(--royal-blue);
+  border-color: var(--royal-blue);
+  color: #fff;
+}
+
+/* Napis zamiast grafiki „Wszystko, czego potrzebujesz w jednym zestawie” */
+.pedrollou95polskau95mainu953 .wszystko-czego-potrz-tekst {
+  height: auto;
+  min-height: 0;
+  font-family: var(--font-family-manrope, "Manrope", sans-serif);
+  font-size: var(--font-size-m, 1rem);
+  font-weight: 600;
+  color: var(--gravel, #4a4a4a);
+  line-height: 1.4;
+  margin: 0;
 }
 .btn--cta {
   background: linear-gradient(90deg, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 255, 0) 100%);
@@ -342,19 +1056,3793 @@
   border-radius: 1.56vw;
   height: 2.71vw;
   padding: 0.73vw 1.35vw;
+  
 }
+/* .btn--menu-2: ramka na hover w kolorze #3d5fd3 od lewej do prawej */
+.btn--menu-2 {
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  position: relative;
+}
+.btn--menu-2::after {
+  border: 1px solid #3d5fd3;
+  border-radius: inherit;
+  clip-path: inset(0 100% 0 0);
+  content: "";
+  inset: 0;
+  pointer-events: none;
+  position: absolute;
+  transition: clip-path 0.35s ease-out;
+}
+.btn--menu-2:hover::after {
+  clip-path: inset(0 0 0 0);
+}
+.btn--menu-2:hover .vector-99 {
+  filter: brightness(0) saturate(100%) invert(31%) sepia(79%) saturate(2476%) hue-rotate(221deg);
+  transition: none;
+}
+
+/* Uniwersalna klasa przycisku CTA (Dobierz pompę / Zapytaj o zestaw): kółko rozszerza się w lewo, tło ciemne, ramka i kółko niebieskie na hover */
+.btn--cta-dark {
+  border: 1px solid transparent;
+  overflow: hidden;
+  position: relative;
+}
+.btn--cta-dark::before {
+  background-color: var(--concrete, #f2f2f2);
+  border-radius: 1.56vw;
+  content: "";
+  position: absolute;
+  right: 0.1vw;
+  top: 0vw;
+  transition: right 0.4s ease-out, width 0.4s ease-out, height 0.4s ease-out, top 0.4s ease-out, border-radius 0.4s ease-out, background-color 0.3s ease-out 0.35s;
+  width: 2.5vw;
+  z-index: 0;
+}
+.btn--cta-dark:hover::before {
+  background-color: #181e33;
+  border-radius: 1.56vw;
+  height: 100%;
+  right: 0;
+  top: 0;
+  width: 100%;
+}
+.btn--cta-dark:hover {
+  border: 0.13vw solid #3d5fd3;
+  transition: border-color 0.25s ease-out 0.35s;
+}
+.btn--cta-dark:hover .frame-4-19,
+.btn--cta-dark:hover .frame-6405-7 {
+  background-color: #3d5fd3;
+  transition: background-color 0.3s ease-out 0.35s;
+}
+.btn--cta-dark .frame-4-19,
+.btn--cta-dark .frame-6405-7 {
+  z-index: 1;
+}
+.btn--cta-dark .frame-4-19 img,
+.btn--cta-dark .frame-6405-7 img {
+  transition: filter 0.25s ease-out;
+}
+.btn--cta-dark:hover .frame-4-19 img,
+.btn--cta-dark:hover .frame-6405-7 img {
+  filter: brightness(0) invert(1);
+}
+.btn--cta-dark .dobierz-pomp,
+.btn--cta-dark .zapytaj-o-zestaw-3 {
+  position: relative;
+  z-index: 1;
+}
+/* Przyciski .zapytaj-6 (Zapytaj o produkt / Kontakt do instalatora): na hover kółko niebieskie, ikonka biała */
+.zapytaj-6.btn--cta-dark .frame-4-21 {
+  position: relative;
+  z-index: 1;
+}
+.zapytaj-6.btn--cta-dark .frame-4-21 img {
+  transition: filter 0.25s ease-out;
+}
+.zapytaj-6.btn--cta-dark:hover::before {
+  background-color: var(--royal-blue, #4064df);
+}
+.zapytaj-6.btn--cta-dark:hover .frame-4-21 img {
+  filter: brightness(0) invert(1);
+}
+/* Wariant z czarnym tłem na starcie (Zapytaj o zestaw) */
+.zapytaj-o-zestaw_2-3.btn--cta-dark {
+  background: #000;
+}
+/* Przycisk Zapytaj o zestaw – jak navbar: rem, bez sztywnej szerokości (nadpisuje vw z main CSS) */
+.pedrollou95polskau95mainu953 .zapytaj-o-zestaw_2-3.btn--cta-dark,
+.screen a.zapytaj-o-zestaw_2-3.btn--cta-dark {
+  width: auto !important;
+  min-width: 0 !important;
+  height: auto !important;
+  padding: 0 0 0 1rem !important;
+  gap: 0.5rem !important;
+  border-radius: 999px !important;
+  border-color:#000;
+}
+.pedrollou95polskau95mainu953 .zapytaj-o-zestaw_2-3.btn--cta-dark::before {
+  right: 0.25rem !important;
+  top: 0 !important;
+  border-radius: 999px !important;
+}
+.pedrollou95polskau95mainu953 .zapytaj-o-zestaw_2-3 .frame-6405-7 {
+  position: relative !important;
+  left: auto !important;
+  right: auto !important;
+  width: 2.5rem !important;
+  height: 2.5rem !important;
+  flex-shrink: 0;
+  border-radius: 999px;
+}
+.pedrollou95polskau95mainu953 .zapytaj-o-zestaw_2-3 .zapytaj-o-zestaw-3 {
+  font-size: 1rem !important;
+  line-height: normal !important;
+}
+.pedrollou95polskau95mainu953 .zapytaj-o-zestaw_2-3 .arrow_right-18 {
+  width: 1rem !important;
+  height: auto !important;
+  margin: 0 !important;
+}
+.screen a.btn--cta-dark {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  border-radius: 999px;
+  text-decoration: none;
+  color: inherit;
+}
+
+/* Klasa .zapytaj-6 – wspólna baza (tło, kształt) na wszystkich podstronach; !important, żeby nie było nadpisywane przez inne arkusze; padding bez !important, żeby wariant .btn--cta-dark mógł ustawić wielkość */
+.zapytaj-6 {
+  align-items: center !important;
+  background-color: var(--royal-blue) !important;
+  border-radius: 999px !important;
+  display: flex !important;
+  gap: 0.5rem !important;
+  padding: 0;
+  position: relative !important;
+}
+
+/* Przycisk hero „Więcej” / zapytaj-6 z kółkiem (frame-4-19): wrapper <a>, wewnątrz div.zapytaj-6.btn--cta-dark – style globalne */
+.screen a:has(> .zapytaj-6.btn--cta-dark) {
+  color: inherit;
+  display: inline-block;
+  text-decoration: none;
+}
+/* Domyślnie mniejszy padding (index: „Zapytaj o produkt” z frame-4-21) */
+.zapytaj-6.btn--cta-dark {
+  align-items: center;
+  display: inline-flex;
+  gap: 0.5rem;
+  padding: 0 0 0 1rem;
+  position: relative;
+  width: auto;
+  min-width: 0;
+}
+/* Wariant hero „Więcej” (frame-4-19) – większy padding tylko na stronie produktu */
+.zapytaj-6.btn--cta-dark:has(.frame-4-19) {
+  padding: 0.6rem 3rem 0.6rem 1.5rem !important;
+  min-height: 2.5rem;
+}
+.zapytaj-6.btn--cta-dark > span {
+  position: relative;
+  z-index: 1;
+}
+.zapytaj-6.btn--cta-dark .frame-4-19 {
+  align-items: center;
+  background-color: var(--concrete, #f2f2f2);
+  border-radius: 999px;
+  display: flex;
+  height: 2.5rem;
+  justify-content: center;
+  padding: 0.35rem;
+  position: absolute;
+  right: 0.1rem;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 2.5rem;
+  flex-shrink: 0;
+}
+/* Strzałka jak na index (group-3 + vector-93/94), obrócona o 180° względem wcześniejszej – wskazuje w dół */
+.zapytaj-6.btn--cta-dark .frame-4-19 .group-3 {
+  height: 1rem;
+  width: 1rem;
+  position: relative;
+  transform: rotate(90deg);
+}
+.zapytaj-6.btn--cta-dark .frame-4-19 .vector-93 {
+  height: 110.82%;
+  left: 68.78%;
+  position: absolute;
+  top: -5.41%;
+  width: 37.41%;
+}
+.zapytaj-6.btn--cta-dark .frame-4-19 .vector-94 {
+  height: 16.67%;
+  left: -5.19%;
+  position: absolute;
+  top: 41.67%;
+  width: 105.19%;
+}
+.zapytaj-6.btn--cta-dark .frame-4-19 img {
+  display: block;
+  object-fit: contain;
+}
+
+/* Przycisk "Porównanie, które mówi samo za siebie": niebieskie tło od kółka w lewo, potem #181e33, kółko białe, strzałka #4064df */
+.porownanie-btn {
+  position: relative;
+  overflow: hidden;
+  width: fit-content;
+}
+.porownanie-btn::before {
+  content: "";
+  position: absolute;
+  right: 0.1vw;
+  top: 0;
+  width: 2.5rem;
+  height: 100%;
+  border-radius: 2.6vw;
+  background-color: #4064df;
+  z-index: 0;
+  transition: width 0.3s ease-out, right 0.3s ease-out, background-color 0.3s ease-out 0.3s;
+}
+.porownanie-btn:hover::before {
+  width: 100%;
+  right: 0;
+  border-radius: 2.6vw;
+  background-color: #181e33;
+}
+.porownanie-btn .madre_decyzje-3 {
+  position: relative;
+  z-index: 1;
+}
+.porownanie-btn .frame-4-22 {
+  z-index: 1;
+  transition: background-color 0.3s ease-out 0.4s;
+}
+.porownanie-btn:hover .frame-4-22 {
+  background-color: #fff;
+}
+.porownanie-btn .frame-4-22 img {
+  transition: filter 0.3s ease-out 0.4s;
+}
+.porownanie-btn:hover .frame-4-22 img {
+  filter: brightness(0) saturate(100%) invert(31%) sepia(98%) saturate(2000%) hue-rotate(221deg);
+}
+
+/* === Tabela .frame-124-3: hover na wierszu – ramka: środkowa komórka #3f63df, boczne #575e7c; ikonka #4064df; środkowa komórka tło #1a254a === */
+/* Hover gdy najechano na dowolną komórkę (również środkową) – :has() */
+.pedrollou95polskau95mainu953 .frame-124-3 article.wiersz {
+  transition: border-color 0.2s ease;
+}
+.pedrollou95polskau95mainu953 .frame-124-3 article.wiersz:has(.frame-112-3:hover),
+.pedrollou95polskau95mainu953 .frame-124-3 article.wiersz:has(.frame-95-5:hover),
+.pedrollou95polskau95mainu953 .frame-124-3 article.wiersz:has(.frame-114-1:hover) {
+  border-bottom-color: transparent;
+}
+/* Ramka pod komórkami: środkowa #3f63df, boczne #575e7c */
+.pedrollou95polskau95mainu953 .frame-124-3 article.wiersz .frame-112-3,
+.pedrollou95polskau95mainu953 .frame-124-3 article.wiersz .frame-95-5,
+.pedrollou95polskau95mainu953 .frame-124-3 article.wiersz .frame-114-1 {
+  border-bottom: 0.05vw solid transparent;
+  transition: border-color 0.2s ease, background-color 0.2s ease;
+}
+.pedrollou95polskau95mainu953 .frame-124-3 article.wiersz:has(.frame-112-3:hover) .frame-112-3,
+.pedrollou95polskau95mainu953 .frame-124-3 article.wiersz:has(.frame-112-3:hover) .frame-114-1,
+.pedrollou95polskau95mainu953 .frame-124-3 article.wiersz:has(.frame-95-5:hover) .frame-112-3,
+.pedrollou95polskau95mainu953 .frame-124-3 article.wiersz:has(.frame-95-5:hover) .frame-114-1,
+.pedrollou95polskau95mainu953 .frame-124-3 article.wiersz:has(.frame-114-1:hover) .frame-112-3,
+.pedrollou95polskau95mainu953 .frame-124-3 article.wiersz:has(.frame-114-1:hover) .frame-114-1 {
+  border-bottom-color: #575e7c;
+}
+.pedrollou95polskau95mainu953 .frame-124-3 article.wiersz:has(.frame-112-3:hover) .frame-95-5,
+.pedrollou95polskau95mainu953 .frame-124-3 article.wiersz:has(.frame-95-5:hover) .frame-95-5,
+.pedrollou95polskau95mainu953 .frame-124-3 article.wiersz:has(.frame-114-1:hover) .frame-95-5 {
+  border-bottom-color: #3f63df;
+}
+.pedrollou95polskau95mainu953 .frame-124-3 article.wiersz:has(.frame-112-3:hover) .frame-95-5,
+.pedrollou95polskau95mainu953 .frame-124-3 article.wiersz:has(.frame-95-5:hover) .frame-95-5,
+.pedrollou95polskau95mainu953 .frame-124-3 article.wiersz:has(.frame-114-1:hover) .frame-95-5 {
+  background-color: #1a254a;
+}
+.pedrollou95polskau95mainu953 .frame-124-3 article.wiersz .frame-112-3 img,
+.pedrollou95polskau95mainu953 .frame-124-3 article.wiersz .frame-98 img {
+  transition: filter 0.2s ease;
+}
+.pedrollou95polskau95mainu953 .frame-124-3 article.wiersz:has(.frame-112-3:hover) .frame-112-3 img,
+.pedrollou95polskau95mainu953 .frame-124-3 article.wiersz:has(.frame-112-3:hover) .frame-98 img,
+.pedrollou95polskau95mainu953 .frame-124-3 article.wiersz:has(.frame-95-5:hover) .frame-112-3 img,
+.pedrollou95polskau95mainu953 .frame-124-3 article.wiersz:has(.frame-95-5:hover) .frame-98 img,
+.pedrollou95polskau95mainu953 .frame-124-3 article.wiersz:has(.frame-114-1:hover) .frame-112-3 img,
+.pedrollou95polskau95mainu953 .frame-124-3 article.wiersz:has(.frame-114-1:hover) .frame-98 img {
+  filter: brightness(0) saturate(100%) invert(31%) sepia(98%) saturate(2000%) hue-rotate(221deg);
+}
+#slider_zestawy .flickity-viewport {overflow:visible !important;}
+
+/* === Sekcja Dane techniczne (.frame-140-5): kafelki – hover: tło #111729, podświetlenie ramki biegnące po obwodzie === */
+@property --dane-angle {
+  syntax: "<angle>";
+  initial-value: 0deg;
+  inherits: false;
+}
+/* Kontener kafelków: własny kontekst nakładania, żeby z-index hovera działał względem sąsiadów */
+.pedrollou95polskau95mainu953 .frame-140-5 .frame-126-6 {
+  position: relative;
+  isolation: isolate;
+}
+.pedrollou95polskau95mainu953 .frame-140-5 .dane-13,
+.pedrollou95polskau95mainu953 .frame-140-5 .dane-14 {
+  position: relative;
+  z-index: 1;
+  transition: background-color 0.25s ease;
+}
+/* Ramka ::after musi być nad zawartością kafelka (m.in. nad .group-37-11) */
+.pedrollou95polskau95mainu953 .frame-140-5 .dane-13::after,
+.pedrollou95polskau95mainu953 .frame-140-5 .dane-14::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  padding: 0.05vw;
+  border-radius: inherit;
+  /* Szerszy łuk z gradientem (miękki zanik zamiast ostrej krawędzi) */
+  background: conic-gradient(
+    from var(--dane-angle, 0deg),
+    #4064df 0deg,
+    rgba(64, 100, 223, 0.85) 25deg,
+    rgba(64, 100, 223, 0.35) 55deg,
+    transparent 85deg,
+    transparent 360deg
+  );
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  mask-composite: exclude;
+  pointer-events: none;
+  z-index: 1;
+  opacity: 0;
+  transition: opacity 0.2s ease;
+  --dane-angle: 0deg;
+}
+.pedrollou95polskau95mainu953 .frame-140-5 .dane-13:hover,
+.pedrollou95polskau95mainu953 .frame-140-5 .dane-14:hover {
+  background-color: #111729;
+  z-index: 10 !important;
+  transform: translateZ(0);
+}
+.pedrollou95polskau95mainu953 .frame-140-5 .dane-13:hover::after,
+.pedrollou95polskau95mainu953 .frame-140-5 .dane-14:hover::after {
+  z-index: 2;
+}
+.pedrollou95polskau95mainu953 .frame-140-5 .dane-13:hover::after,
+.pedrollou95polskau95mainu953 .frame-140-5 .dane-14:hover::after {
+  opacity: 1;
+  animation: dane-border-run 2.8s linear infinite;
+}
+
+/* Sekcja Zastosowania – przycisk .btn.btn--secondary (biały tekst), te same kafelki i hover jak Dane techniczne */
+.pedrollou95polskau95mainu953 .frame-140-6 .frame-102 .btn.btn--secondary {
+  color: #fff;
+  text-decoration: none;
+}
+.pedrollou95polskau95mainu953 .frame-140-6 .frame-126-6 {
+  position: relative;
+  isolation: isolate;
+}
+.pedrollou95polskau95mainu953 .frame-140-6 .dane-13,
+.pedrollou95polskau95mainu953 .frame-140-6 .dane-14 {
+  position: relative;
+  z-index: 1;
+  transition: background-color 0.25s ease;
+}
+.pedrollou95polskau95mainu953 .frame-140-6 .dane-13::after,
+.pedrollou95polskau95mainu953 .frame-140-6 .dane-14::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  padding: 0.05vw;
+  border-radius: inherit;
+  background: conic-gradient(
+    from var(--dane-angle, 0deg),
+    #4064df 0deg,
+    rgba(64, 100, 223, 0.85) 25deg,
+    rgba(64, 100, 223, 0.35) 55deg,
+    transparent 85deg,
+    transparent 360deg
+  );
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  mask-composite: exclude;
+  pointer-events: none;
+  z-index: 1;
+  opacity: 0;
+  transition: opacity 0.2s ease;
+  --dane-angle: 0deg;
+}
+.pedrollou95polskau95mainu953 .frame-140-6 .dane-13:hover,
+.pedrollou95polskau95mainu953 .frame-140-6 .dane-14:hover {
+  background-color: #111729;
+  z-index: 10 !important;
+  transform: translateZ(0);
+}
+.pedrollou95polskau95mainu953 .frame-140-6 .dane-13:hover::after,
+.pedrollou95polskau95mainu953 .frame-140-6 .dane-14:hover::after {
+  z-index: 2;
+}
+.pedrollou95polskau95mainu953 .frame-140-6 .dane-13:hover::after,
+.pedrollou95polskau95mainu953 .frame-140-6 .dane-14:hover::after {
+  opacity: 1;
+  animation: dane-border-run 2.8s linear infinite;
+}
+
+@keyframes dane-border-run {
+  to {
+    --dane-angle: 360deg;
+  }
+}
+
+/* === Sekcja „Mamy prostą misję” (onas.html): ten sam efekt hover co .frame-6512-3 / dane – krążąca ramka + delikatne tło === */
+.page--onas .frame-82-2,
+.page--onas .frame-36782-2,
+.page--onas .frame-65-5,
+.page--onas .frame-13 {
+  overflow: visible;
+}
+.page--onas .frame-13 {
+  position: relative;
+  isolation: isolate;
+}
+.page--onas .misja-2 {
+  position: relative;
+  z-index: 1;
+  overflow: visible;
+  transition: background-color 0.25s ease;
+}
+.page--onas .misja-2::after {
+  content: "";
+  position: absolute;
+  /* Rozszerzenie 2px wokół – dolna krawędź ramki nie jest ucinana przez overflow */
+  top: -2px;
+  left: -2px;
+  right: -2px;
+  bottom: -2px;
+  padding: calc(0.05vw + 2px);
+  border-radius: 0;
+  box-sizing: border-box;
+  background: conic-gradient(
+    from var(--dane-angle, 0deg),
+    #4064df 0deg,
+    rgba(64, 100, 223, 0.85) 25deg,
+    rgba(64, 100, 223, 0.35) 55deg,
+    transparent 85deg,
+    transparent 360deg
+  );
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  mask-composite: exclude;
+  pointer-events: none;
+  z-index: 1;
+  opacity: 0;
+  transition: opacity 0.2s ease;
+  --dane-angle: 0deg;
+}
+.page--onas .misja-2:hover {
+  background-color: #11172980;
+  z-index: 10 !important;
+  transform: translateZ(0);
+}
+.page--onas .misja-2:hover::after {
+  z-index: 2;
+  opacity: 1;
+  animation: dane-border-run 2.8s linear infinite;
+}
+
+/* === Sekcja „Niezawodność płynie z jakości” (onas.html): krążąca ramka + delikatne tło przy hover, z zaokrągleniami === */
+.page--onas .frame-36784-2,
+.page--onas .frame-84-2,
+.page--onas .frame-84-2 .frame-13 {
+  overflow: visible;
+}
+.page--onas .frame-84-2 .niezawodnosc-2 {
+  overflow: visible;
+  z-index: 1;
+  transition: background-color 0.25s ease;
+}
+.page--onas .frame-84-2 .niezawodnosc-2::after {
+  content: "";
+  position: absolute;
+  top: -2px;
+  left: -2px;
+  right: -2px;
+  bottom: -2px;
+  padding: calc(0.05vw + 2px);
+  border-radius: inherit;
+  box-sizing: border-box;
+  background: conic-gradient(
+    from var(--dane-angle, 0deg),
+    #4064df 0deg,
+    rgba(64, 100, 223, 0.85) 25deg,
+    rgba(64, 100, 223, 0.35) 55deg,
+    transparent 85deg,
+    transparent 360deg
+  );
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  mask-composite: exclude;
+  pointer-events: none;
+  z-index: 1;
+  opacity: 0;
+  transition: opacity 0.2s ease;
+  --dane-angle: 0deg;
+}
+.page--onas .frame-84-2 .niezawodnosc-2:hover {
+  background-color: #111729;
+  z-index: 10 !important;
+  transform: translateZ(0);
+}
+.page--onas .frame-84-2 .niezawodnosc-2:hover::after {
+  z-index: 2;
+  opacity: 1;
+  animation: dane-border-run 2.8s linear infinite;
+}
+
+/* === Sekcja „Pełna zgodność z normami” (laboratorium.html): krążąca ramka przy hover, z zaokrągleniami === */
+.page--laboratorium .frame-84-3,
+.page--laboratorium .frame-126-1 {
+  overflow: visible;
+}
+.page--laboratorium .frame-126-1 .niezawodnosc-3 {
+  overflow: visible;
+  z-index: 1;
+  transition: background-color 0.25s ease;
+}
+.page--laboratorium .frame-126-1 .niezawodnosc-3::after {
+  content: "";
+  position: absolute;
+  top: -2px;
+  left: -2px;
+  right: -2px;
+  bottom: -2px;
+  padding: 2px;
+  border-radius: inherit;
+  box-sizing: border-box;
+  background: conic-gradient(
+    from var(--dane-angle, 0deg),
+    #4064df 0deg,
+    rgba(64, 100, 223, 0.85) 25deg,
+    rgba(64, 100, 223, 0.35) 55deg,
+    transparent 85deg,
+    transparent 360deg
+  );
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  mask-composite: exclude;
+  pointer-events: none;
+  z-index: 1;
+  opacity: 0;
+  transition: opacity 0.2s ease;
+  --dane-angle: 0deg;
+}
+.page--laboratorium .frame-126-1 .niezawodnosc-3:hover {
+  background-color: #111729;
+  z-index: 10 !important;
+  transform: translateZ(0);
+}
+.page--laboratorium .frame-126-1 .niezawodnosc-3:hover::after {
+  z-index: 2;
+  opacity: 1;
+  animation: dane-border-run 2.8s linear infinite;
+}
+
+/* === Sekcja „Opatentowana technologia” (produkt.html): krążąca ramka przy hover, z zaokrągleniami === */
+.page--produkt .frame-84-1,
+.page--produkt .frame-126-1 {
+  overflow: visible;
+}
+.page--produkt .frame-126-1 .patent-2,
+.page--produkt .frame-126-1 .patent-3 {
+  overflow: visible;
+  z-index: 1;
+  transition: background-color 0.25s ease;
+}
+.page--produkt .frame-126-1 .patent-2::after,
+.page--produkt .frame-126-1 .patent-3::after {
+  content: "";
+  position: absolute;
+  top: -2px;
+  left: -2px;
+  right: -2px;
+  bottom: -2px;
+  padding: calc(0.05vw + 2px);
+  border-radius: inherit;
+  box-sizing: border-box;
+  background: conic-gradient(
+    from var(--dane-angle, 0deg),
+    #4064df 0deg,
+    rgba(64, 100, 223, 0.85) 25deg,
+    rgba(64, 100, 223, 0.35) 55deg,
+    transparent 85deg,
+    transparent 360deg
+  );
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  mask-composite: exclude;
+  pointer-events: none;
+  z-index: 1;
+  opacity: 0;
+  transition: opacity 0.2s ease;
+  --dane-angle: 0deg;
+}
+.page--produkt .frame-126-1 .patent-2:hover,
+.page--produkt .frame-126-1 .patent-3:hover {
+  background-color: #111729;
+  z-index: 10 !important;
+  transform: translateZ(0);
+}
+.page--produkt .frame-126-1 .patent-2:hover::after,
+.page--produkt .frame-126-1 .patent-3:hover::after {
+  z-index: 2;
+  opacity: 1;
+  animation: dane-border-run 2.8s linear infinite;
+}
+
+/* === Sekcja kontakt (kontakt.html) .frame-36808-3: grid 5 kolumn, krążąca ramka + niebieski tytuł przy hover === */
+.page--kontakt .konsultacja-11,
+.page--kontakt .frame-36808-3 {
+  overflow: visible;
+}
+.page--kontakt .frame-36808-3 {
+  position: relative;
+  isolation: isolate;
+}
+.page--kontakt .kontakt-tile {
+  position: relative;
+  z-index: 1;
+  overflow: visible;
+  transition: background-color 0.25s ease;
+}
+.page--kontakt .kontakt-tile::after {
+  content: "";
+  position: absolute;
+  top: -2px;
+  left: -2px;
+  right: -2px;
+  bottom: -2px;
+  padding: 0.17rem;
+  border-radius: 0.625rem;
+  box-sizing: border-box;
+  background: conic-gradient(
+    from var(--dane-angle, 0deg),
+    #4064df 0deg,
+    rgba(64, 100, 223, 0.85) 25deg,
+    rgba(64, 100, 223, 0.35) 55deg,
+    transparent 85deg,
+    transparent 360deg
+  );
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  mask-composite: exclude;
+  pointer-events: none;
+  z-index: 1;
+  opacity: 0;
+  transition: opacity 0.2s ease;
+  --dane-angle: 0deg;
+}
+.page--kontakt .kontakt-tile:hover {
+  background-color: #11172980;
+  z-index: 10 !important;
+  transform: translateZ(0);
+}
+.page--kontakt .kontakt-tile:hover::after {
+  z-index: 2;
+  opacity: 1;
+  animation: dane-border-run 2.8s linear infinite;
+}
+.page--kontakt .kontakt-tile:hover .kontakt-tile-title {
+  color: #4064df;
+}
+
+/* Podkreślenie słowa „ludzie” w sekcji Pomocni fachowcy (zamiast .line-16-4) */
+.page--onas .text-underline-blue {
+  border-bottom: 2px solid var(--royal-blue, #4064df);
+  padding-bottom: 0.05em;
+}
+
+.pedrollou95polskau95mainu953 .krzywe-i-dane-tekst {
+  height: auto;
+  min-height: 0;
+  font-family: var(--font-family-manrope, "Manrope", sans-serif);
+  font-size: var(--font-size-s, 0.9rem);
+  font-weight: 600;
+  color: var(--concrete, #f2f2f2);
+  line-height: 1.4;
+  margin: 0;
+}
+.pedrollou95polskau95mainu953 .frame-192-2--left,
+.pedrollou95polskau95mainu953 .frame-192-2--left .body0-6,
+.pedrollou95polskau95mainu953 .frame-192-2--left .body0-7 {
+  text-align: left;
+}
+
+/* === Slider „Dopasuj zestaw po zastosowaniu” (Flickity: bez zapętlenia, slajdy do krawędzi, strzałki pod) === */
+/* Sekcja slidera zestawów – bez przycinania, slajdy mogą iść do krawędzi */
+.pedrollou95polskau95mainu953 .frame-6389-3 {
+  overflow: visible;
+}
+.zestawy-slider-wrap {
+  position: relative;
+  width: 100%;
+  overflow: visible;
+}
+.pedrollou95polskau95mainu953 .zestawy-flickity {
+  overflow: visible;
+}
+.pedrollou95polskau95mainu953 .zestawy-flickity .carousel-cell {
+  width: 42%;
+  margin-right: 1.04vw;
+  min-height: 30.36vw;
+}
+.pedrollou95polskau95mainu953 .zestawy-flickity .carousel-cell:last-child {
+  margin-right: 0;
+}
+/* Strzałki pod sliderem – widoczne, w flow (nie absolute) */
+.pedrollou95polskau95mainu953 .zestawy-arrows {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1.04vw;
+  margin-top: 1.04vw;
+  position: relative;
+  top: auto;
+  left: auto;
+  width: auto;
+  height: auto;
+}
+.pedrollou95polskau95mainu953 .zestawy-arrows .zestawy-arrow-btn,
+.pedrollou95polskau95mainu953 .zestawy-arrows .arrow-21 {
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+  border: none;
+  background: none;
+  width: 3.12vw;
+  min-width: 2rem;
+  height: 3.12vw;
+  min-height: 2rem;
+}
+.pedrollou95polskau95mainu953 .zestawy-arrows .zestawy-arrow-btn img,
+.pedrollou95polskau95mainu953 .zestawy-arrows .arrow-21 img {
+  display: block;
+  width: 100%;
+  height: auto;
+  max-height: 100%;
+  object-fit: contain;
+  transition: transform 0.2s ease;
+}
+/* Strzałka w lewo: na prev używamy ikony „w prawo” (arrow-7) i obracamy 180° */
+.pedrollou95polskau95mainu953 .zestawy-arrows .zestawy-arrow-prev.zestawy-arrow-active img {
+  transform: rotate(180deg);
+}
+/* Strzałka w prawo: na next przy krawędzi używamy ikony „w lewo” (arrow-4) i obracamy 180° */
+.pedrollou95polskau95mainu953 .zestawy-arrows .zestawy-arrow-next.zestawy-arrow-at-edge img {
+  transform: rotate(180deg);
+}
+.pedrollou95polskau95mainu953 .zestawy-arrows .zestawy-arrow-btn:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+/* Hover: maska półprzezroczysta od środka + przycisk na środku */
+.pedrollou95polskau95mainu953 .zestawy-slide-img {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+.pedrollou95polskau95mainu953 .zestawy-slide-img .zestawy-slide-mask {
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.5);
+  transform: scale(0);
+  transform-origin: center;
+  transition: transform 0.35s ease-out;
+  pointer-events: none;
+}
+.pedrollou95polskau95mainu953 .frame-6367-8:hover .zestawy-slide-mask {
+  transform: scale(1);
+}
+.pedrollou95polskau95mainu953 .zestawy-slide-btn {
+  opacity: 0;
+  transition: opacity 0.25s ease 0.1s;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 1;
+}
+.pedrollou95polskau95mainu953 .frame-6367-8:hover .zestawy-slide-btn {
+  opacity: 1;
+}
+/* Przycisk „Dowiedz się więcej”: <a href="#">, białe tło, kółko z chevronem w dół, hover = niebieskie tło od lewej */
+.pedrollou95polskau95mainu953 .zestawy-slide-cta {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.52vw;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 1;
+  background: #fff;
+  color: var(--cod-gray, #1a1a1a);
+  text-decoration: none;
+  font-family: var(--font-family-geist, "Geist", sans-serif);
+  font-weight: 500;
+  font-size: 1rem;
+  padding: 0 0 0 1.35vw;
+  height: 2.86vw;
+  min-height: 2.5rem;
+  border-radius: 1.56vw;
+  overflow: hidden;
+  box-sizing: border-box;
+  border: none;
+}
+.pedrollou95polskau95mainu953 .zestawy-slide-cta::before {
+  content: "";
+  position: absolute;
+  right: 0;
+  top: 0;
+  height: 100%;
+  width: 0;
+  background-color: #4064df;
+  z-index: 0;
+  transition: width 0.3s ease-out;
+}
+.pedrollou95polskau95mainu953 .zestawy-slide-cta:hover::before {
+  width: 100%;
+}
+.pedrollou95polskau95mainu953 .zestawy-slide-cta-text {
+  position: relative;
+  z-index: 1;
+}
+.pedrollou95polskau95mainu953 .zestawy-slide-cta-circle {
+  position: relative;
+  z-index: 1;
+  flex-shrink: 0;
+  width: 2.66vw;
+  height: 2.66vw;
+  min-width: 2rem;
+  min-height: 2rem;
+  background-color: #4064df;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: auto;
+}
+.pedrollou95polskau95mainu953 .zestawy-slide-cta-circle img {
+  width: 0.6rem;
+  height: auto;
+  filter: brightness(0) invert(1);
+}
+.pedrollou95polskau95mainu953 .zestawy-slide-cta:hover .zestawy-slide-cta-text {
+  color: #fff;
+}
+.pedrollou95polskau95mainu953 .zestawy-slide-cta:hover .zestawy-slide-cta-circle {
+  background-color: rgba(255, 255, 255, 0.25);
+}
+
+/* === Sekcja .frame-61-1: zdjęcie w tle, .frame-51-10 sticky na środku, scroll tylko img === */
+.frame-61-1 {
+  position: relative;
+  width: 100%;
+}
+/* Obrazek w flow – wysokość sekcji = wysokość img (responsywnie, bez stałego height) */
+.pedrollou95polskau95mainu953 .frame-61-1 .pedrollo_house_3-3 {
+  position: relative;
+  display: block;
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  pointer-events: none;
+  vertical-align: middle;
+}
+/* Sticky-wrap nakładką od 40rem w dół – bez stałej wysokości, dopasowuje się do sekcji */
+.frame-61-1-sticky-wrap {
+  position: absolute;
+  top: 40rem;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  width: 100%;
+  z-index: 1;
+}
+/* Zewnętrzny wrapper: pełna szerokość i wysokość, sticky, zawartość wyśrodkowana */
+.frame-51-10-outer {
+  position: sticky;
+  top: 50%;
+  bottom: 5vh;
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transform: translateY(-50%);
+  box-sizing: border-box;
+}
+/* Zawartość wyśrodkowana wewnątrz wrappera (override position: absolute z głównego CSS) */
+.pedrollou95polskau95mainu953 .frame-61-1 .frame-51-10 {
+  position: relative;
+  top: auto;
+  left: auto;
+  width: 79.48vw;
+  max-width: 79.48vw;
+  margin-left: 0;
+  transform: none;
+}
+
+/* === Sekcja „Codzienna niezawodność…” – 3 kafelki, ujednolicone klasy === */
+.pedrollou95polskau95mainu953 .frame-55-3 .niezawodnosc-tile-content {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.52vw;
+  position: relative;
+  width: 100%;
+}
+.pedrollou95polskau95mainu953 .frame-55-3 .niezawodnosc-tile-title {
+  align-self: stretch;
+  letter-spacing: -0.04vw;
+  line-height: 1.3;
+  margin-top: -0.05vw;
+  position: relative;
+}
+.pedrollou95polskau95mainu953 .frame-55-3 .niezawodnosc-tile-text {
+  align-self: stretch;
+  letter-spacing: -0.02vw;
+  line-height: 1.35;
+  position: relative;
+}
+
 .btn--cta-dark {
   background: linear-gradient(270deg, rgba(64, 100, 223, 0) 0%, rgba(64, 100, 223, 1) 100%);
   border: 0.13vw solid;
-  border-color: var(--pumice, #c9c9c9);
+  border-color: var(--royal-blue);
   border-radius: 2vw;
-  height: 3.47vw;
   padding: 0.93vw 1.73vw;
 }
+/* === Karuzela .frame-50-3 – płynny ticker, jeden kontener (z prawej do lewej) === */
+.pedrollou95polskau95mainu953 .frame-50-3 {
+  display: block;
+  overflow: hidden;
+  left: 0;
+  width: 100%;
+}
+.frame-50-3-ticker {
+  display: flex;
+  align-items: center;
+  gap: 2.6vw;
+  width: max-content;
+  height: 7rem;
+  animation: frame-50-3-scroll 32s linear infinite;
+}
+.frame-50-3-ticker .logo_0 {
+  flex: 0 0 auto;
+}
+@keyframes frame-50-3-scroll {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+/* === .frame-56-6 sticky wzdłuż grafiki (sekcja .frame-51-11) === */
+.pedrollou95polskau95mainu953 .frame-51-11-sticky-wrap {
+  height: 100%;
+  min-height: 85.21vw;
+  position: relative;
+}
+.pedrollou95polskau95mainu953 .frame-51-11 .frame-56-6 {
+  position: sticky;
+  top: 0vh;
+  left: 0;
+  transform: none;
+}
+/* Wrapper prawej strony – na desktopie display: contents, żeby absolute dzieci były względem .frame-51-11 */
+.pedrollou95polskau95mainu953 .frame-51-11-right,
+.pedrollou95polskau95mainu953 .frame-51-11-tiles {
+  display: contents;
+}
+
+/* Poniżej 1024px: sekcja „Raz kupujesz…” – lewa i prawa kolumna po pełnej szerokości, jedna pod drugą */
+@media (max-width: 1023px) {
+  .pedrollou95polskau95mainu953 .frame-51-11 {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    min-height: 0;
+    width: 100%;
+  }
+  .pedrollou95polskau95mainu953 .frame-51-11-sticky-wrap {
+    width: 100%;
+    min-height: 0;
+    order: 1;
+  }
+  .pedrollou95polskau95mainu953 .frame-51-11 .frame-56-6 {
+    position: static;
+    width: 100%;
+    max-width: 100%;
+  }
+  .pedrollou95polskau95mainu953 .frame-51-11-right {
+    display: block;
+    width: 100%;
+    order: 2;
+    position: relative;
+    /* wysokość z zawartości (obrazek w flow), bez sztywnych wartości */
+  }
+  /* Sekcja w gridzie: pierwszy rząd = dekoracje, drugi = treść + rectangle za obrazkiem */
+  .pedrollou95polskau95mainu953 .frame-63-3 {
+    display: grid;
+    grid-template-rows: auto auto;
+    grid-template-columns: 1fr;
+    position: relative;
+    gap: 0;
+    margin-bottom: 0;
+  }
+  .pedrollou95polskau95mainu953 .frame-63-3 .frame-20-6 {
+    grid-row: 2;
+    grid-column: 1;
+    position: absolute;
+    /* tylko dolna połowa sekcji = obszar obrazka */
+    top: 50%;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 0;
+    width: auto;
+  }
+  /* elipsy za obrazkiem: mniejsze, mniej intensywne, wyśrodkowane w obszarze obrazka */
+  .pedrollou95polskau95mainu953 .frame-63-3 .frame-20-6 .ellipse-2-79 {
+    left: 60%;
+    top: 20%;
+    width: 28vw;
+    height: 55vw;
+    max-width: 140px;
+    max-height: 220px;
+    filter: blur(5vw);
+    background-color: rgba(117, 117, 117, 0.35);
+  }
+  .pedrollou95polskau95mainu953 .frame-63-3 .frame-20-6 .ellipse-3-15 {
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    width: 32vw;
+    height: 32vw;
+    max-width: 160px;
+    max-height: 160px;
+    filter: blur(5vw);
+    background-color: rgba(117, 117, 117, 0.35);
+  }
+  .pedrollou95polskau95mainu953 .frame-63-3 .frame-20-6 .ellipse-2-80 {
+    left: 45%;
+    top: 55%;
+    transform: translate(-50%, -50%);
+    width: 28vw;
+    height: 55vw;
+    max-width: 140px;
+    max-height: 220px;
+    filter: blur(5vw);
+    opacity: 0.6;
+  }
+  .pedrollou95polskau95mainu953 .frame-63-3 .frame-51-11 {
+    grid-row: 2;
+    grid-column: 1;
+    z-index: 1;
+  }
+  /* rectangle za obrazkiem – tylko w dolnej części sekcji (obrazek), mniejsze i delikatniejsze */
+  .pedrollou95polskau95mainu953 .frame-63-3 .rectangle-19-3 {
+    grid-row: 2;
+    grid-column: 1;
+    position: absolute;
+    left: 50%;
+    top: 75%;
+    transform: translate(-50%, -50%);
+    width: 48vw;
+    height: 48vw;
+    max-width: 220px;
+    max-height: 220px;
+    border-radius: 50%;
+    z-index: 0;
+    visibility: visible;
+    pointer-events: none;
+    filter: blur(4vw);
+    opacity: 0.85;
+  }
+  .pedrollou95polskau95mainu953 .frame-51-11-right .group-23-3,
+  .pedrollou95polskau95mainu953 .frame-51-11-right .frame-51-11-tiles {
+    z-index: 1;
+  }
+  .pedrollou95polskau95mainu953 .frame-51-11-right .group-23-3 {
+    position: relative;
+    width: 100%;
+    left: 0;
+    top: auto;
+    height: auto;
+    max-width: none;
+    min-height: 0;
+    display: block;
+  }
+  .pedrollou95polskau95mainu953 .frame-51-11-right .group-23-3 .ground {
+    display: block;
+    width: 75%;
+    max-width: 55vw;
+    height: auto;
+    margin: 0 auto;
+    position: relative;
+    left: auto;
+    transform: none;
+    top: auto;
+    aspect-ratio: 0.52;
+    object-fit: contain;
+    object-position: bottom center;
+  }
+  .pedrollou95polskau95mainu953 .frame-51-11-right .group-23-3 .rectangle-16,
+  .pedrollou95polskau95mainu953 .frame-51-11-right .group-23-3 .rectangle-17,
+  .pedrollou95polskau95mainu953 .frame-51-11-right .group-23-3 .rectangle-18 {
+    position: absolute;
+    display: block;
+    bottom: 0;
+    top: auto;
+    width: 55%;
+    height: auto;
+    max-height: 22%;
+    object-fit: contain;
+    object-position: bottom center;
+  }
+  .pedrollou95polskau95mainu953 .frame-51-11-right .group-23-3 .rectangle-16 {
+    left: 22%;
+    transform: translateX(-50%);
+  }
+  .pedrollou95polskau95mainu953 .frame-51-11-right .group-23-3 .rectangle-17 {
+    left: 50%;
+    transform: translateX(-50%);
+  }
+  .pedrollou95polskau95mainu953 .frame-51-11-right .group-23-3 .rectangle-18 {
+    left: 78%;
+    transform: translateX(-50%);
+  }
+  .pedrollou95polskau95mainu953 .frame-51-11-tiles {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    display: block;
+    pointer-events: none;
+    padding: 0;
+    max-width: none;
+  }
+  .pedrollou95polskau95mainu953 .frame-51-11-tiles .frame-67-6,
+  .pedrollou95polskau95mainu953 .frame-51-11-tiles .frame-66-7,
+  .pedrollou95polskau95mainu953 .frame-51-11-tiles .frame-68-7 {
+    pointer-events: auto;
+  }
+  .pedrollou95polskau95mainu953 .frame-51-11-right .frame-67-6 {
+    position: absolute;
+    left: 55.5%;
+    top: 65%;
+    transform: translate(-50%, -50%);
+    width: 11rem;
+    min-width: 0;
+    height: 11rem;
+    min-height: 6rem;
+  }
+  .pedrollou95polskau95mainu953 .frame-51-11-right .frame-66-7 {
+    position: absolute;
+    left: 10.5%;
+    top: 35%;
+    transform: translate(-50%, -50%);
+    width: 11rem;
+    min-width: 0;
+    height: auto;
+    min-height: 6rem;
+  }
+  .pedrollou95polskau95mainu953 .frame-51-11-right .frame-68-7 {
+    position: absolute;
+    left: 57%;
+    top: 1%;
+    transform: translate(-50%, 0);
+    width: 11rem;
+    min-width: 0;
+    height: auto;
+    min-height: 6rem;
+  }
+}
+
+/* === Sekcja opinii – slider Flickity === */
+.pedrollou95polskau95mainu953 .testimonials-3 {
+  width: 100%;
+  box-sizing: border-box;
+}
+.pedrollou95polskau95mainu953 .testimonials-flickity {
+  width: 100%;
+  overflow: hidden;
+  min-width: 0;
+  box-sizing: border-box;
+}
+.pedrollou95polskau95mainu953 .testimonials-flickity.flickity-enabled {
+  height: auto;
+  padding-bottom: 9.5vw;
+}
+.pedrollou95polskau95mainu953 .testimonials-flickity.flickity-enabled .flickity-viewport {
+  width: 100% !important;
+  min-width: 1px;
+}
+.pedrollou95polskau95mainu953 .testimonials-flickity.flickity-enabled .flickity-slider {
+  left: 0;
+}
+
+.pedrollou95polskau95mainu953 .testimonials-flickity .testimonials-cell {
+  position: relative;
+  left: auto !important;
+  width: 47vw;
+  margin-right: 0;
+  box-sizing: border-box;
+  opacity: 0.4;
+  transition: opacity 0.25s ease;
+}
+.pedrollou95polskau95mainu953 .testimonials-flickity .testimonials-cell.is-selected {
+  opacity: 1;
+}
+/* Komórka Flickity = testimonials-cell (zachowaj wymiary) */
+.pedrollou95polskau95mainu953 .testimonials-flickity .carousel-cell {
+  position: relative;
+  left: auto !important;
+  width: 47vw;
+  margin-right: 0;
+  box-sizing: border-box;
+}
+/* Wrapper slajdu: nieaktywne scale(0.9), aktywny scale(1) – tylko tutaj scale */
+.pedrollou95polskau95mainu953 .testimonials-flickity .testimonials-slide-inner {
+  display: flex;
+  align-items: stretch;
+  width: 43vw;
+  margin-right: 4vw;
+  box-sizing: border-box;
+  transform: scale(0.9);
+  transition: transform 0.25s ease;
+  overflow: visible;
+}
+.pedrollou95polskau95mainu953 .testimonials-flickity .testimonials-cell.is-selected .testimonials-slide-inner {
+  transform: scale(1) !important;
+}
+/* Blok autora (avatar + imię + podpis) – jedna uniwersalna klasa */
+.pedrollou95polskau95mainu953 .testimonials-flickity .testimonials-author-block {
+  min-width: 12vw;
+  flex: 0 0 auto;
+  visibility: visible;
+  background-color: var(--eerie-black);
+  border: 0.05vw solid var(--lynch-2);
+  border-radius: 1.56vw 0 0 1.56vw;
+  gap: 0.52vw;
+  padding: 2.08vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+}
+.pedrollou95polskau95mainu953 .testimonials-flickity .testimonials-author {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 0.52vw;
+  justify-content: center;
+}
+.pedrollou95polskau95mainu953 .testimonials-flickity .testimonials-author-info {
+  gap: 0.31vw;
+  width: 7.5vw;
+}
+.pedrollou95polskau95mainu953 .testimonials-flickity .testimonials-author-name {
+  align-self: stretch;
+  letter-spacing: -0.02vw;
+  line-height: 1.04;
+}
+.pedrollou95polskau95mainu953 .testimonials-flickity .testimonials-author-role {
+  align-self: stretch;
+  position: relative;
+  letter-spacing: -0.01vw;
+  line-height: 1.4;
+}
+.pedrollou95polskau95mainu953 .testimonials-flickity .testimonials-author-avatar {
+  aspect-ratio: 1;
+  height: 3.57vw;
+  width: 3.57vw;
+  position: relative;
+}
+/* Blok cytatu – jedna uniwersalna klasa */
+.pedrollou95polskau95mainu953 .testimonials-flickity .testimonials-slide-inner .testimonials-quote {
+  min-width: 0;
+  flex: 1 1 auto;
+  padding: 2.08vw 2.6vw;
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--shark);
+  border: 0.05vw solid var(--lynch-2);
+  border-left: 0;
+  box-sizing: border-box;
+  display: flex;
+  border-radius: 0 1.56vw 1.56vw 0;
+}
+.pedrollou95polskau95mainu953 .testimonials-flickity .testimonials-quote-text {
+  letter-spacing: -0.04vw;
+  line-height: 1.6;
+  position: relative;
+  width: 100%;
+  max-width: 23.96vw;
+  margin: 0;
+}
+.pedrollou95polskau95mainu953 .testimonials-flickity .testimonials-quote-text .span-19 {
+  letter-spacing: -0.01vw;
+}
+/* Przyciski prev/next – ikona arrow-testim.svg, kółko opacity 0.4 → 1 przy hover */
+.pedrollou95polskau95mainu953 .testimonials-flickity .flickity-prev-next-button {
+  position: absolute;
+  top: unset !important;
+  bottom: 2.5vw;
+  width: 3.12vw;
+  height: 3.12vw;
+  border-radius: 50%;
+  background: var(--shark, #1a1a1a) url(../img/arrow-testim.svg) no-repeat center;
+  background-size: 0.9em auto;
+  border: 0.05vw solid var(--lynch-2);
+  color: #fff;
+  padding: 0;
+  transform: none;
+  opacity: 0.4;
+  transition: opacity 0.2s ease;
+}
+.pedrollou95polskau95mainu953 .testimonials-flickity .flickity-prev-next-button:hover {
+  opacity: 1;
+}
+.pedrollou95polskau95mainu953 .testimonials-flickity .flickity-prev-next-button.previous {
+  left: 50%;
+  margin-left: -3.64vw;
+  transform: scaleX(-1);
+}
+.pedrollou95polskau95mainu953 .testimonials-flickity .flickity-prev-next-button.next {
+  left: 50%;
+  margin-left: 0.52vw;
+}
+.pedrollou95polskau95mainu953 .testimonials-flickity .flickity-prev-next-button svg {
+  display: none;
+}
+
+/* Testimonials poniżej 1024px: boczne slajdy 16% widoczności, centralny ten sam rozmiar (88vw) – tylko opacity 1 i scale(1) */
+@media (max-width: 1024px) {
+  .pedrollou95polskau95mainu953 .testimonials-flickity .testimonials-cell {
+    width: 88vw;
+    opacity: 0.16;
+  }
+  .pedrollou95polskau95mainu953 .testimonials-flickity .testimonials-cell.is-selected {
+    opacity: 1;
+  }
+  .pedrollou95polskau95mainu953 .testimonials-flickity .carousel-cell {
+    width: 88vw;
+  }
+  /* Centralny slajd: pełna szerokość (88vw), scale(1) – nie pomniejszamy */
+  .pedrollou95polskau95mainu953 .testimonials-flickity .testimonials-slide-inner {
+    width: 100%;
+    margin-right: 0;
+    flex-direction: column;
+    transform: scale(0.95);
+  }
+  .pedrollou95polskau95mainu953 .testimonials-flickity .testimonials-cell.is-selected .testimonials-slide-inner {
+    transform: scale(1) !important;
+  }
+  /* Kolejność: najpierw cytat, potem autor na całą szerokość */
+  .pedrollou95polskau95mainu953 .testimonials-flickity .testimonials-slide-inner .testimonials-quote {
+    order: 1;
+    border-radius: 1rem 1rem 0 0;
+    border-left: 0.05vw solid var(--lynch-2);
+    padding: 1.25rem 1.5rem;
+  }
+  .pedrollou95polskau95mainu953 .testimonials-flickity .testimonials-author-block {
+    order: 2;
+    flex: 0 0 auto;
+    min-width: 0;
+    width: 100%;
+    border-radius: 0 0 1rem 1rem;
+    border-left: 0.05vw solid var(--lynch-2);
+    padding: 1rem 1.5rem;
+    flex-direction: row;
+    align-items: center;
+    gap: 1rem;
+  }
+  .pedrollou95polskau95mainu953 .testimonials-flickity .testimonials-author {
+    flex-direction: row;
+    align-items: center;
+    flex: 1 1 auto;
+    min-width: 0;
+    gap: 1rem;
+  }
+  .pedrollou95polskau95mainu953 .testimonials-flickity .testimonials-author-info {
+    width: auto;
+    flex: 1 1 auto;
+    min-width: 0;
+  }
+  .pedrollou95polskau95mainu953 .testimonials-flickity .testimonials-quote-text {
+    max-width: none;
+  }
+  .pedrollou95polskau95mainu953 .testimonials-flickity .testimonials-author-avatar {
+    width: 3rem;
+    height: 3rem;
+    flex-shrink: 0;
+  }
+  .pedrollou95polskau95mainu953 .testimonials-flickity.flickity-enabled {
+    padding-bottom: 4rem;
+  }
+  .pedrollou95polskau95mainu953 .testimonials-flickity .flickity-prev-next-button {
+    bottom: 1rem;
+    width: 2.5rem;
+    height: 2.5rem;
+  }
+  .pedrollou95polskau95mainu953 .testimonials-flickity .flickity-prev-next-button.previous {
+    margin-left: -2.75rem;
+  }
+  .pedrollou95polskau95mainu953 .testimonials-flickity .flickity-prev-next-button.next {
+    margin-left: 0.5rem;
+  }
+  .pedrollou95polskau95mainu953 .frame-6482-5 {flex-wrap:wrap;}
+  .pedrollou95polskau95mainu953 .frame-6600-3 {height:auto !important;}
+  .pedrollou95polskau95mainu953 .frame-6599-3 {height:auto !important;}
+  .pedrollou95polskau95mainu953 .image-13-3,.pedrollou95polskau95mainu953 .image-14-3 {left:unset !important;top:unset !important;bottom:0 !important;right:0 !important;}
+  .pedrollou95polskau95mainu953 .frame-6612 {flex-wrap:wrap;}
+  .pedrollou95polskau95mainu953 .frame-6609-3,.pedrollou95polskau95mainu953 .frame-6612 {width:100% !important;}
+  .pedrollou95polskau95mainu953 .frame-6610-3,.pedrollou95polskau95mainu953 .frame-6611-3 {flex-wrap:wrap;}
+  .pedrollou95polskau95mainu953 .frame-6581-3 .frame-6-16 {display:grid !important;grid-template-columns:1fr !important;}
+  .pedrollou95polskau95mainu953 .ellipse-2-107 {height:30rem;}
+}
+
+/* Menu główne – przyklejone na górze, po 100px scroll tło z blur 10px */
+.pedrollou95polskau95mainu953 .menu_2-3 {
+  position: fixed !important;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1000;
+}
+.pedrollou95polskau95mainu953 .menu_2-3.is-scrolled {
+  -webkit-backdrop-filter: blur(10px) brightness(100%);
+  backdrop-filter: blur(10px) brightness(100%);
+}
+
+/* Kontener submenu – na desktopie nie używany (panele są w menu); zostawiony pod ewentualny przycisk Wstecz */
+.pedrollou95polskau95mainu953 .header-submenus {
+  position: fixed;
+  top: 5.21vw;
+  left: 0;
+  right: 0;
+  z-index: 999;
+  pointer-events: none;
+}
+.pedrollou95polskau95mainu953 .submenu-back-wrap {
+  display: none;
+}
+/* Panele submenu są w menu – na desktopie pozycjonowane jak dropdown, na mobile w flow */
+.pedrollou95polskau95mainu953 .submenu-panel {
+  display: none;
+  pointer-events: auto;
+}
+.pedrollou95polskau95mainu953 .submenu-panel.is-visible {
+  display: block;
+  animation: submenu-enter 0.25s ease-out forwards;
+}
+@media (min-width: 768px) {
+  .pedrollou95polskau95mainu953 .submenu-panel.is-visible {
+    position: fixed;
+    top: 5.21vw;
+    left: 0;
+    right: 0;
+    z-index: 999;
+  }
+}
+@keyframes submenu-enter {
+  from {
+    opacity: 0;
+    transform: translateY(-8px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Navbar: usunięcie podkreślenia gradientem; przy hover – niebieska ramka w linii z dolną krawędzią navbaru */
+.pedrollou95polskau95mainu953 .menu_2-3 .frame-33-5,
+.pedrollou95polskau95mainu953 .menu_2-3 .frame-33 {
+  border: none !important;
+  border-image: none !important;
+}
+.pedrollou95polskau95mainu953 .menu_2-3 .menu-hover-1 {
+  box-sizing: border-box;
+}
+.pedrollou95polskau95mainu953 .menu_2-3 .menu-hover-1:hover {
+  /* Ramka niebieska dokładnie na dolnej krawędzi navbaru (ta sama grubość co border-bottom frame-27-3) */
+  border-bottom: 0.05vw solid var(--royal-blue, #4064df);
+}
+
+/* Style submenu – tło + blur (wymuszenie warstwy pomaga w działaniu backdrop-filter) */
+.pedrollou95polskau95mainu953 .submenu-panel .elektryczna_pompa_rollover {
+  position: relative;
+  align-items: center;
+  background: rgba(10, 10, 10, 0.85);
+  -webkit-backdrop-filter: blur(12px);
+  backdrop-filter: blur(12px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 100%;
+  box-sizing: border-box;
+  padding: 1.5vw 3vw 2vw;
+  isolation: isolate;
+  transform: translateZ(0);
+  -webkit-transform: translateZ(0);
+}
+
+/* Grid kafelków submenu: jednakowy rozmiar, ramki między sobą, bez zaokrągleń i gap */
+.pedrollou95polskau95mainu953 .submenu-panel .submenu-grid {
+  display: grid;
+  gap: 0;
+  width: 100%;
+  box-sizing: border-box;
+  padding: 0;
+  border: 0.05vw solid rgba(255,255,255,0.08);
+}
+.pedrollou95polskau95mainu953 .submenu-panel .submenu-grid--cols-3 {
+  grid-template-columns: repeat(3, 1fr);
+}
+.pedrollou95polskau95mainu953 .submenu-panel .submenu-grid--cols-2 {
+  grid-template-columns: repeat(2, 1fr);
+}
+.pedrollou95polskau95mainu953 .submenu-panel .submenu-grid a {
+  text-decoration: none;
+  color: inherit;
+  display: flex;
+  height: 5vw;
+  min-height: 5vw;
+  border-right: 0.05vw solid rgba(255,255,255,0.08);
+  border-bottom: 0.05vw solid rgba(255,255,255,0.08);
+  box-sizing: border-box;
+  position: relative;
+  overflow: hidden;
+}
+.pedrollou95polskau95mainu953 .submenu-panel .submenu-grid--cols-3 a:nth-child(3n) {
+  border-right: none;
+}
+.pedrollou95polskau95mainu953 .submenu-panel .submenu-grid--cols-3 a:nth-last-child(-n+3) {
+  border-bottom: none;
+}
+.pedrollou95polskau95mainu953 .submenu-panel .submenu-grid--cols-2 a:nth-child(2n) {
+  border-right: none;
+}
+.pedrollou95polskau95mainu953 .submenu-panel .submenu-grid--cols-2 a:nth-last-child(-n+2) {
+  border-bottom: none;
+}
+.pedrollou95polskau95mainu953 .submenu-panel .menu_list_2-3 {
+  align-items: center;
+  background: none;
+  border: none;
+  border-radius: 0;
+  display: flex;
+  gap: 1vw;
+  flex: 1;
+  height: 100%;
+  min-height: 5vw;
+  padding: 0.8vw 1.2vw;
+  position: relative;
+  width: 100%;
+  text-decoration: none;
+  color: inherit;
+  box-sizing: border-box;
+}
+/* Podkreślenie 1px niebieskie wjeżdżające od lewej do prawej przy hover */
+.pedrollou95polskau95mainu953 .submenu-panel .submenu-grid a::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 0;
+  height: 1px;
+  background: var(--royal-blue, #4064df);
+  transition: width 0.25s ease-out;
+}
+.pedrollou95polskau95mainu953 .submenu-panel .submenu-grid a:hover::after {
+  width: 100%;
+}
+.pedrollou95polskau95mainu953 .submenu-panel .menu_list_2-1,
+.pedrollou95polskau95mainu953 .submenu-panel .menu_list_2-2 {
+  margin: 0;
+}
+.pedrollou95polskau95mainu953 .submenu-panel .frame-28 {
+  border: none;
+  height: auto;
+  padding: 0;
+}
+.pedrollou95polskau95mainu953 .submenu-panel .frame-32 {
+  align-items: center;
+  display: flex;
+  gap: 0.8vw;
+  padding: 0;
+  height: auto;
+  border: none;
+}
+.pedrollou95polskau95mainu953 .submenu-panel .frame-32 img,
+.pedrollou95polskau95mainu953 .submenu-panel .frame-32-1 img,
+.pedrollou95polskau95mainu953 .submenu-panel .view,
+.pedrollou95polskau95mainu953 .submenu-panel .futures img,
+.pedrollou95polskau95mainu953 .submenu-panel .models img,
+.pedrollou95polskau95mainu953 .submenu-panel .selection img,
+.pedrollou95polskau95mainu953 .submenu-panel .gears,
+.pedrollou95polskau95mainu953 .submenu-panel .guarantee,
+.pedrollou95polskau95mainu953 .submenu-panel .use-cases_2,
+.pedrollou95polskau95mainu953 .submenu-panel .service,
+.pedrollou95polskau95mainu953 .submenu-panel .store,
+.pedrollou95polskau95mainu953 .submenu-panel .instalator,
+.pedrollou95polskau95mainu953 .submenu-panel .o_nas,
+.pedrollou95polskau95mainu953 .submenu-panel .lab,
+.pedrollou95polskau95mainu953 .submenu-panel .installation img {
+  height: 1.8vw;
+  width: auto;
+  max-width: 2.2vw;
+}
+.pedrollou95polskau95mainu953 .submenu-panel .frame-32-1 {
+  align-items: center;
+  display: flex;
+  gap: 0.8vw;
+  padding: 0;
+  height: auto;
+}
+.pedrollou95polskau95mainu953 .submenu-panel .label-6 {
+  font-family: var(--font-family-geist, "Geist", sans-serif);
+  font-size: 0.9rem;
+  font-weight: 500;
+  color: var(--concrete, #f2f2f2);
+}
+.pedrollou95polskau95mainu953 .submenu-panel .installation .group-9-3 {
+  background-image: url(../img/mask-group-1@2x.png);
+  background-size: 100% 100%;
+  height: 1.8vw;
+  width: 1.8vw;
+  min-width: 1.8vw;
+}
+
+/* === Menu – wyłącznie klasy menu_* w pliku globalnym; brak kolizji z .label, .frame-* itd. z plików podstron === */
+.global-menu {
+  -webkit-backdrop-filter: blur(0.13vw) brightness(100%);
+  backdrop-filter: blur(0.13vw) brightness(100%);
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+  box-sizing: border-box;
+}
+.global-menu .menu_bar {
+  align-items: center;
+  align-self: stretch;
+  border-bottom: 0.05vw solid var(--white-3, rgba(255,255,255,0.15));
+  display: flex;
+  gap: 1rem;
+  padding: 0 2rem;
+  position: relative;
+  width: 100%;
+}
+.global-menu .menu_logo {
+  cursor: pointer;
+  height: auto;
+  width: 10rem;
+  max-width: 12rem;
+}
+.global-menu .menu_nav_wrap {
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  justify-content: flex-end;
+}
+.global-menu .menu_items_row {
+  align-items: center;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 2rem;
+  position: relative;
+}
+.global-menu .menu_item_inner,
+.global-menu .menu_2-3 .menu_item_inner {
+  border: none !important;
+  border-image: none !important;
+  height: 5.1vw;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.52vw;
+}
+.global-menu .menu-hover-1 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.52vw;
+  height: 5.21vw;
+  position: relative;
+  box-sizing: border-box;
+}
+.global-menu .menu-hover-1:hover {
+  border-bottom: 0.05vw solid var(--royal-blue, #4064df);
+}
+.global-menu .menu_label {
+  letter-spacing: 0.01vw;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+  color: var(--white, #fff);
+  font-family: var(--font-family-geist, "Geist", Helvetica);
+  font-size: var(--font-size-m, 1.11rem);
+  font-weight: 500;
+}
+.global-menu .menu_arrow_wrap {
+  height: 0.33vw;
+  position: relative;
+  width: 0.78vw;
+}
+.global-menu .menu_arrow {
+  height: 132.38%;
+  left: -4.33%;
+  position: absolute;
+  top: -11.86%;
+  width: 108.66%;
+}
+.global-menu .menu_btn_phone_inner {
+  align-items: center;
+  display: inline-flex;
+  gap: 0.52vw;
+  justify-content: center;
+  margin-bottom: -0.16vw;
+  margin-top: -0.16vw;
+  position: relative;
+}
+.global-menu .menu_btn_phone {
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  position: relative;
+  border-radius: 3.91vw;
+  padding: 0.73vw 1.35vw;
+  text-decoration: none;
+  color: inherit;
+  display: inline-flex;
+  align-items: center;
+}
+.global-menu .menu_btn_phone::after {
+  border: 1px solid #3d5fd3;
+  border-radius: inherit;
+  clip-path: inset(0 100% 0 0);
+  content: "";
+  inset: 0;
+  pointer-events: none;
+  position: absolute;
+  transition: clip-path 0.35s ease-out;
+}
+.global-menu .menu_btn_phone:hover::after {
+  clip-path: inset(0 0 0 0);
+}
+.global-menu .menu_btn_phone .menu_phone_icon {
+  aspect-ratio: 0.61;
+  height: 1.56vw;
+  width: 0.95vw;
+}
+.global-menu .menu_btn_phone:hover .menu_phone_icon {
+  filter: brightness(0) saturate(100%) invert(31%) sepia(79%) saturate(2476%) hue-rotate(221deg);
+}
+.global-menu .menu_phone {
+  letter-spacing: 0.01vw;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+  color: var(--white, #fff);
+  font-family: var(--font-family-geist, "Geist", Helvetica);
+  font-size: 1.11rem;
+  font-weight: 500;
+}
+.global-menu .menu_btn_cta {
+  align-items: center;
+  background-color: var(--royal-blue, #4064df);
+  border-radius: 1.56vw;
+  display: flex;
+  gap: 1.04vw;
+  height: 2.72rem;
+  padding: 0.73rem 3.65rem 0.73rem 1.35rem;
+  position: relative;
+  width: auto;
+  text-decoration: none;
+  color: inherit;
+  border: 1px solid transparent;
+  overflow: hidden;
+}
+.global-menu .menu_btn_cta_inner {
+  align-items: center;
+  background-color: var(--concrete, #f2f2f2);
+  border-radius: 999px;
+  display: flex;
+  flex-direction: column;
+  gap: 0.52vw;
+  height: 2.5rem;
+  justify-content: center;
+  right: 0;
+  padding: 0.52vw 0.68vw;
+  position: absolute;
+  top: 0;
+  width: 2.5rem;
+}
+.global-menu .menu_btn_cta_icons {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+.global-menu .menu_btn_cta_icons .menu_cta_icon {
+  position: absolute;
+}
+.global-menu .menu_btn_cta_icons .menu_cta_icon:first-of-type {
+  height: 110.82%;
+  left: 68.78%;
+  top: -5.41%;
+  width: 37.41%;
+}
+.global-menu .menu_btn_cta_icons .menu_cta_icon:last-of-type {
+  height: 16.67%;
+  left: -5.19%;
+  top: 41.67%;
+  width: 105.19%;
+}
+.global-menu .menu_cta_text {
+  color: var(--white, #fff);
+  font-family: var(--font-family-geist, "Geist", Helvetica);
+  font-size: 1.11rem;
+  font-weight: 500;
+}
+/* Submenu – tło i kafelki (klasy menu_* ) */
+.global-menu .menu_dropdown_bg {
+  position: relative;
+  align-items: center;
+  background: rgba(10, 10, 10, 0.85);
+  -webkit-backdrop-filter: blur(12px);
+  backdrop-filter: blur(12px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 100%;
+  box-sizing: border-box;
+  padding: 1.5vw 3vw 2vw;
+  isolation: isolate;
+  transform: translateZ(0);
+}
+.global-menu .menu_card {
+  border: none;
+  height: auto;
+  padding: 0;
+}
+.global-menu .menu_card_inner {
+  align-items: center;
+  display: flex;
+  gap: 0.8vw;
+  padding: 0;
+  height: auto;
+  border: none;
+}
+.global-menu .submenu-panel .menu_label {
+  font-family: var(--font-family-geist, "Geist", sans-serif);
+  font-size: 0.9rem;
+  font-weight: 500;
+  color: var(--concrete, #f2f2f2);
+}
+.global-menu .menu_icon {
+  height: 1.8vw;
+  width: auto;
+  max-width: 2.2vw;
+}
+.global-menu .menu_icon_wrapper {
+  display: flex;
+  align-items: center;
+  gap: 0.2vw;
+}
+.global-menu .menu_icon_install_bg {
+  background-image: url(../img/mask-group-1@2x.png);
+  background-size: 100% 100%;
+  height: 1.8vw;
+  width: 1.8vw;
+  min-width: 1.8vw;
+  flex-shrink: 0;
+}
+/* Submenu grid – zachowane nazwy .submenu-grid, .menu_list_2-* (już unikalne) – style w globals nadal pod .pedrollou95polskau95mainu953; dopisujemy nadpisania pod .global-menu dla menu_card/menu_card_inner/menu_label/menu_icon */
+.global-menu .submenu-panel .menu_list_2-3 {
+  align-items: center;
+  background: none;
+  border: none;
+  border-radius: 0;
+  display: flex;
+  gap: 1vw;
+  flex: 1;
+  height: 100%;
+  min-height: 5vw;
+  padding: 0.8vw 1.2vw;
+  position: relative;
+  width: 100%;
+  text-decoration: none;
+  color: inherit;
+  box-sizing: border-box;
+}
+.global-menu .submenu-panel .menu_list_2-1,
+.global-menu .submenu-panel .menu_list_2-2 {
+  margin: 0;
+}
+.global-menu .submenu-panel .submenu-grid a::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 0;
+  height: 1px;
+  background: var(--royal-blue, #4064df);
+  transition: width 0.25s ease-out;
+}
+.global-menu .submenu-panel .submenu-grid a:hover::after {
+  width: 100%;
+}
+.global-menu .menu-hover-1 .menu_arrow {
+  transition: transform 0.2s ease;
+}
+.global-menu .menu-hover-1.is-expanded .menu_arrow {
+  transform: rotate(180deg);
+}
+
+/* === Globalne footer – klasy .global-footer (menu ma własne menu_* w bloku powyżej) === */
+.global-footer .label,
+.global-footer .label-13 {
+  letter-spacing: 0.01vw;
+  line-height: normal;
+  margin-top: -0.05vw;
+  position: relative;
+  width: fit-content;
+  color: var(--white, #fff);
+  font-family: var(--font-family-geist, "Geist", Helvetica);
+  font-size: var(--font-size-m, 1.11rem);
+  font-weight: 500;
+}
+.global-footer .label_-menu_footer,
+.global-footer .label_-menu_footer-3 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.52vw;
+  padding: 0.1vw 0;
+  position: relative;
+  cursor: pointer;
+}
+.global-footer .frame-33-6 {
+  padding: 0.21vw 0;
+}
+
+/* === Sekcja FAQ "Jak działa elektryczna pompa głębinowa?" (.faq-6) === */
+/* Nagłówek i strzałka – cursor pointer (cała góra interaktywna) */
+.pedrollou95polskau95mainu953 .faq-6 .faq-accordion-header,
+.pedrollou95polskau95mainu953 .faq-6 .frame-102,
+.pedrollou95polskau95mainu953 .faq-6 .arrow-22 {
+  cursor: pointer;
+}
+/* Strzałki: bez wypełnienia, ramka szara; hover – tło niebieskie wjeżdżające L→P, ramka niebieska; otwarte – niebieska ramka */
+.pedrollou95polskau95mainu953 .faq-6 .arrow-22::before {
+  display: none;
+}
+.pedrollou95polskau95mainu953 .faq-6 .arrow-22 {
+  background: transparent !important;
+  border: 0.1vw solid rgba(201, 201, 201, 1) !important;
+  overflow: hidden;
+}
+/* Efekt tła strzałki z lewej do prawej (height w lokalnych osiach = L→P na obróconej strzałce) */
+.pedrollou95polskau95mainu953 .faq-6 .arrow-22::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 0;
+  background: var(--royal-blue, #4064df);
+  z-index: 0;
+  transition: height 0.25s ease-out;
+}
+.pedrollou95polskau95mainu953 .faq-6 .arrow-22:hover {
+  border-color: var(--royal-blue, #4064df) !important;
+}
+.pedrollou95polskau95mainu953 .faq-6 .arrow-22:hover::after {
+  height: 100%;
+}
+.pedrollou95polskau95mainu953 .faq-6 .arrow-22 .frame-76-7 {
+  position: relative;
+  z-index: 1;
+}
+/* Po rozwinięciu (jQuery UI): strzałka obrócona o 180°, niebieska ramka */
+.pedrollou95polskau95mainu953 .faq-6 .ui-accordion-header-active .arrow-22 {
+  border-color: var(--royal-blue, #4064df) !important;
+  background: transparent !important;
+  transform: rotate(270deg);
+}
+.pedrollou95polskau95mainu953 .faq-6 .ui-accordion-header-active .arrow-22::after {
+  height: 0;
+}
+/* Ramki pod pytaniami: szare; hover – niebieska wjeżdżająca L→P; otwarte – niebieska zostaje */
+.pedrollou95polskau95mainu953 .faq-6 .faq_pytanie-6 {
+  border: none !important;
+  border-bottom: 0.05vw solid rgba(201, 201, 201, 1) !important;
+  border-image: none !important;
+  position: relative;
+  overflow: hidden;
+}
+.pedrollou95polskau95mainu953 .faq-6 .faq_pytanie-6::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  height: 0.05vw;
+  width: 0;
+  background: var(--royal-blue, #4064df);
+  transition: width 0.25s ease-out;
+}
+.pedrollou95polskau95mainu953 .faq-6 .faq_pytanie-6:hover::after {
+  width: 100%;
+}
+.pedrollou95polskau95mainu953 .faq-6 .faq_pytanie-6:has(.ui-accordion-header-active) {
+  border-bottom-color: var(--royal-blue, #4064df) !important;
+}
+.pedrollou95polskau95mainu953 .faq-6 .faq_pytanie-6:has(.ui-accordion-header-active)::after {
+  width: 100%;
+}
+/* Odpowiedź w FAQ – widoczna gdy panel otwarty (jQuery UI pokazuje .ui-accordion-content) */
+.pedrollou95polskau95mainu953 .faq-6 .faq_pytanie-6 .faq-odpowiedz {
+  font-family: var(--font-family-manrope, "Manrope", sans-serif);
+  font-weight: 500;
+  color: var(--cod-gray);
+  font-size: 0.95rem;
+  line-height: 1.5;
+  margin: 0;
+  padding-top: 0.5vw;
+  padding-bottom: 0.3vw;
+}
+
+/* Przycisk FAQ w sekcji .faq-6 – nadpisanie .krok, żeby stosować btn--secondary */
+.pedrollou95polskau95mainu953 .faq-6 .krok.btn--secondary {
+  background: var(--royal-blue, #4064df);
+}
+
+/* FAQ mobile (.faq): cursor pointer na nagłówku i strzałce; strzałka obrócona przy otwarciu */
+.faq .faq-accordion-header,
+.faq .frame-6510,
+.faq .frame-6496,
+.faq .arrow,
+.faq .arrow-3 {
+  cursor: pointer;
+}
+.faq .ui-accordion-header-active .arrow,
+.faq .ui-accordion-header-active .arrow-3 {
+  transform: rotate(270deg);
+}
+.faq .faq-accordion-content .faq-odpowiedz-mobile {
+  padding: 0 0 1rem;
+}
+/* Nadpisanie domyślnych stylów jQuery UI Accordion – bez ramek/tła */
+#accordion-faq-6 .ui-accordion-header,
+#accordion-faq-6 .ui-accordion-content,
+#accordion-faq-dystrybutor .ui-accordion-header,
+#accordion-faq-dystrybutor .ui-accordion-content,
+#accordion-faq-mobile .ui-accordion-header,
+#accordion-faq-mobile .ui-accordion-content {
+  border: none;
+  background: transparent;
+  margin: 0;
+}
+#accordion-faq-6 .ui-accordion-content,
+#accordion-faq-dystrybutor .ui-accordion-content,
+#accordion-faq-mobile .ui-accordion-content {
+  padding: 0;
+  overflow: visible;
+}
+
+/* === Sekcja „Gdzie inni producenci szukają oszczędności?” (porównanie) === */
+/* Tekst „Tabela porównawcza” zamiast obrazka – ta sama czcionka co „Na jakie kompromisy...” */
+.pedrollou95polskau95mainu953 .tabela-porownawcza-tekst {
+  margin: 0 0 0.52vw;
+  padding: 0;
+}
+.pedrollou95polskau95mainu953 .frame-6506-7 .tabela-porownawcza-tekst--small {
+  margin: 0.26vw 0 0;
+}
+/* Naprawa rozsypanego układu: błąd padding 160vw */
+.pedrollou95polskau95mainu953 .frame-6518-3 {
+  padding-left: 0;
+  padding-right: 0;
+}
+/* Lewa kolumna (woda, VS, Inni producenci) – stała szerokość i pozycjonowanie dla elementów absolute */
+.pedrollou95polskau95mainu953 .porownanie-3 .u7761719182_httpss-13 {
+  width: 38vw;
+  min-width: 28vw;
+  min-height: 32vw;
+  flex-shrink: 0;
+  position: relative;
+}
+.pedrollou95polskau95mainu953 .porownanie-3 .frame-6-17 {
+  min-width: 0;
+  flex: 1 1 auto;
+}
+/* Kontener porównania – kolumny w jednym rzędzie */
+.pedrollou95polskau95mainu953 .porownanie-3 .frame-6-15 {
+  flex-wrap: nowrap;
+  align-items: center;
+}
+/* Tekst "inni producenci" zamiast obrazka – czarny na białym, padding 1rem, border-radius 1rem */
+.pedrollou95polskau95mainu953 .frame-6562-3:has(.inni-producenci-tekst) {
+  padding: 0;
+  background: transparent;
+}
+.pedrollou95polskau95mainu953 .inni-producenci-tekst {
+  display: inline-block;
+  color: #000;
+  background: #fff;
+  padding: 0.5rem 1rem;
+  border-radius: 1rem;
+  font-family: var(--font-family-manrope, "Manrope", sans-serif);
+  font-weight: 500;
+  font-size: 0.9rem;
+  white-space: nowrap;
+}
+
+/* === Sekcja porównania (tabela) – teksty zamiast grafik === */
+/* Pedrollo bezpieczeństwo: "Głęboko wierzymy, że..." + mniejsza linia szara */
+.pedrollou95polskau95mainu953 .frame-6525-1--tekst {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+}
+.pedrollou95polskau95mainu953 .frame-6525-1--tekst .pedrollo-bezpieczenstwo-linia-1 {
+  margin: 0;
+  font-family: var(--font-family-manrope, "Manrope", sans-serif);
+  font-weight: 600;
+  font-size: 1.05rem;
+  line-height: 1.4;
+}
+.pedrollou95polskau95mainu953 .frame-6554-3 .szary {
+  color: var(--silver-chalice, #a0a0a0);
+}
+.pedrollou95polskau95mainu953 .frame-6554-3 .bialy {
+  color: var(--white, #fff);
+}
+.pedrollou95polskau95mainu953 .frame-6525-1--tekst .pedrollo-bezpieczenstwo-linia-2 {
+  margin: 0;
+  font-family: var(--font-family-manrope, "Manrope", sans-serif);
+  font-weight: 500;
+  font-size: 0.9rem;
+  color: var(--silver-chalice, #a0a0a0);
+  line-height: 1.4;
+}
+/* "Inni producenci" – biały na czerwonym, border-radius 1rem, padding 0.5rem 1rem */
+.pedrollou95polskau95mainu953 .frame-6561-3 .inni-producenci-tekst-czerwony {
+  display: inline-block;
+  color: #fff;
+  background: var(--alizarin-crimson);
+  border-radius: 1rem;
+  padding: 0.5rem 1rem;
+  font-family: var(--font-family-manrope, "Manrope", sans-serif);
+  font-weight: 500;
+  font-size: 0.9rem;
+  white-space: nowrap;
+}
+.pedrollou95polskau95mainu953 .frame-6561-3:has(.inni-producenci-tekst-czerwony) {
+  padding: 0;
+  background: transparent;
+}
+/* "Gdzie inni producenci szukają oszczędności?" + opis zaniżonej ceny */
+.pedrollou95polskau95mainu953 .frame-6560-1--tekst {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+}
+.pedrollou95polskau95mainu953 .frame-6560-1--tekst .gdzie-oszczednosci-linia-1 {
+  margin: 0;
+  font-family: var(--font-family-manrope, "Manrope", sans-serif);
+  font-weight: 600;
+  font-size: 1.05rem;
+  line-height: 1.4;
+}
+.pedrollou95polskau95mainu953 .frame-6560-1--tekst .zanzona-cena-opis {
+  margin: 0;
+  font-family: var(--font-family-manrope, "Manrope", sans-serif);
+  font-weight: 500;
+  font-size: 0.9rem;
+  color: var(--silver-chalice, #a0a0a0);
+  line-height: 1.4;
+}
+
+/* === Slider karty porównawcze (Flickity) – jedna karta na slajd, strzałki, kropeczki === */
+/* Kontener i viewport muszą mieć jawną szerokość (inaczej Flickity ma 0px) */
+/* Kontener slidera w kolumnie (frame-97): niech zajmuje dostępną przestrzeń i ma szerokość */
+.pedrollou95polskau95mainu953 .porownanie-3 .frame-97 .porownanie-flickity {
+  flex: 1 1 0%;
+  min-width: 0;
+  width: 100%;
+  box-sizing: border-box;
+  overflow: hidden;
+  /* Zapas: minimalna szerokość, żeby viewport/slider nie miały 0px */
+  min-width: 50vw;
+}
+.pedrollou95polskau95mainu953 .porownanie-flickity.flickity-enabled {
+  width: 100%;
+}
+.pedrollou95polskau95mainu953 .porownanie-flickity.flickity-enabled .flickity-viewport {
+  width: 100% !important;
+  min-width: 1px;
+  overflow: hidden;
+}
+/* Jeden slajd = wrapper z 4 kafelkami (jak pierwotnie) */
+.pedrollou95polskau95mainu953 .porownanie-slide {
+  display: flex;
+  flex-direction: column;
+  gap: 1.56vw;
+  width: 100%;
+  min-width: 100%;
+  flex-shrink: 0;
+}
+.pedrollou95polskau95mainu953 .porownanie-flickity .frame-86-item {
+  width: 100%;
+  min-width: 100%;
+  flex-shrink: 0;
+}
+.pedrollou95polskau95mainu953 .porownanie-arrows {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 2.08vw;
+}
+.pedrollou95polskau95mainu953 .porownanie-arrows button.arrow-21 {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+  border: none;
+  background: none;
+  cursor: pointer;
+}
+.pedrollou95polskau95mainu953 .porownanie-arrows button.arrow-21:disabled,
+.pedrollou95polskau95mainu953 .porownanie-arrows button.arrow-21.at-edge {
+  opacity: 0.4;
+  cursor: default;
+  pointer-events: none;
+}
+.pedrollou95polskau95mainu953 .porownanie-arrows button.arrow-21 img {
+  display: block;
+  width: auto;
+  height: clamp(28px, 4vw, 48px);
+  transition: transform 0.2s ease;
+}
+
+/* Aktywna strzałka w lewo = ikona z prawej obrócona 180°; nieaktywna w prawo = ikona nieaktywna obrócona 180° */
+.pedrollou95polskau95mainu953 .porownanie-arrows .porownanie-arrow-prev img.porownanie-arrow-rotated,
+.pedrollou95polskau95mainu953 .porownanie-arrows .porownanie-arrow-next img.porownanie-arrow-rotated {
+  transform: rotate(180deg);
+}
+/* Kropeczki: okrągłe, aktywny rozciągnięty i niebieski – większe */
+.pedrollou95polskau95mainu953 .porownanie-dots {
+  display: flex;
+  align-items: center;
+  gap: 0.65rem;
+  flex: 0 0 auto;
+}
+.pedrollou95polskau95mainu953 .porownanie-dot {
+  width: 0.65rem;
+  height: 0.65rem;
+  border-radius: 50%;
+  border: none;
+  padding: 0;
+  background: var(--silver-chalice, #a0a0a0);
+  cursor: pointer;
+  transition: width 0.2s ease, background 0.2s ease, border-radius 0.2s ease;
+}
+.pedrollou95polskau95mainu953 .porownanie-dot:hover:not(.is-active) {
+  background: rgba(255, 255, 255, 0.6);
+}
+.pedrollou95polskau95mainu953 .porownanie-dot.is-active {
+  width: 2.25rem;
+  height: 0.65rem;
+  border-radius: 0.325rem;
+  background: var(--royal-blue, #4064df);
+}
+.logo {width:10rem;}
+/* Czerwone kafelki: druga linia (było line-11) = line-10 obrócony o 90° */
+.pedrollou95polskau95mainu953 .line-10-rotated {
+  transform: rotate(-135deg) !important;
+}
+
+/* Tekst zamiast obrazka "Nie wiesz, którą pompę wybrać?" – ta sama czcionka co w sekcji */
+.pedrollou95polskau95mainu953 .nie-wiesz-tekst {
+  height: auto;
+  margin: 0;
+  color: var(--concrete, #f2f2f2);
+  font-family: var(--font-family-manrope, "Manrope", sans-serif);
+  font-size: 1.05rem;
+  font-weight: 600;
+  line-height: 1.3;
+}
+
+/* Podpisy pod kafelkami „Montaż w 3 krokach” – poza ramką kafelka (pod nią) */
+.pedrollou95polskau95mainu953 .montaz-krok-podpis {
+  margin: 0.8vw 0 0;
+  padding: 0;
+  font-family: var(--font-family-manrope, "Manrope", sans-serif);
+  font-weight: 500;
+  font-size: 0.9rem;
+  line-height: 1.45;
+  color: var(--silver-chalice, #a0a0a0);
+  max-width: 18em;
+}
+.pedrollou95polskau95mainu953 .montaz-podpis-bialy {
+  color: var(--white, #fff);
+}
+.montaz-krok-podpis--mobile {
+  margin-top: 0.5rem;
+  font-size: 0.85rem;
+}
+.montaz-krok-podpis--mobile .montaz-podpis-bialy {
+  color: var(--white, #fff);
+}
+
+/* === Sekcja „Znajdź instalatora z Twojej okolicy” – naprawa układu === */
+.pedrollou95polskau95mainu953 .frame-6579-2 {
+  width: 100%;
+  max-width: 100%;
+  box-sizing: border-box;
+}
+.pedrollou95polskau95mainu953 .frame-6566-3 {
+  width: 100%;
+  max-width: 100%;
+  min-width: 0;
+  box-sizing: border-box;
+  padding-left: 5vw;
+  padding-right: 5vw;
+}
+.pedrollou95polskau95mainu953 .frame-6566-3 .ellipse-2-96 {
+  max-width: 100vw;
+  pointer-events: none;
+}
+.pedrollou95polskau95mainu953 .frame-6566-3 .frame-6587-3,
+.pedrollou95polskau95mainu953 .frame-6566-3 .frame-6576-3,
+.pedrollou95polskau95mainu953 .frame-6566-3 .frame-6596-3 {
+  min-width: 0;
+  max-width: 100%;
+}
+.pedrollou95polskau95mainu953 .instalator-opis {
+  margin: 0.4vw 0 0;
+  font-size: 0.9rem;
+  color: var(--silver-chalice, #a0a0a0);
+  line-height: 1.4;
+}
+.pedrollou95polskau95mainu953 .instalator-label {
+  display: block;
+  margin: 0 0 0.4rem;
+  font-size: 0.9rem;
+}
+.pedrollou95polskau95mainu953 .frame-6586-3 .frame-6574-3 {
+  padding: 0.4rem 0.6rem;
+  width: 100%;
+  max-width: 22rem;
+  height: auto;
+  min-height: 2.76vw;
+  gap: 0.5rem;
+}
+.pedrollou95polskau95mainu953 .instalator-input {
+  flex: 1;
+  min-width: 0;
+  padding: 0.5rem 0;
+  border: none;
+  border-radius: 0;
+  font-family: var(--font-family-manrope, "Manrope", sans-serif);
+  font-size: 1rem;
+  box-sizing: border-box;
+  background: transparent;
+  box-shadow: none;
+  outline: none;
+}
+.pedrollou95polskau95mainu953 .instalator-input::placeholder {
+  color: var(--silver-chalice, #a0a0a0);
+}
+.pedrollou95polskau95mainu953 .frame-6586-3 .frame-6574-3 .btn {
+  flex-shrink: 0;
+}
+.pedrollou95polskau95mainu953 .instalator-wyniki {
+  margin-top: 1.5vw;
+  width: 100%;
+}
+.pedrollou95polskau95mainu953 .instalator-wyniki-tytul {
+  margin: 0 0 0.5rem;
+  font-size: 0.9rem;
+  color: var(--cod-gray);
+}
+.pedrollou95polskau95mainu953 .instalator-okolicy {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+}
+.pedrollou95polskau95mainu953 .instalator-check {
+  color: #22c55e;
+  font-size: 1.1em;
+  font-weight: bold;
+}
+.pedrollou95polskau95mainu953 .instalator-pomp-tekst {
+  font-size: 0.9rem;
+}
+
+/* === Sekcja blog – karty tej samej wysokości, przycisk „Więcej” na dole === */
+.pedrollou95polskau95mainu953 .frame-6581-3 .frame-6-16 {
+  align-items: stretch;
+}
+.pedrollou95polskau95mainu953 .frame-6581-3 .frame-660-1 {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  min-height: 0;
+}
+.pedrollou95polskau95mainu953 .frame-6581-3 .frame-6598-7 {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  min-height: 0;
+}
+.pedrollou95polskau95mainu953 .frame-6581-3 .frame-6598-7 .frame-97.frame {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  min-height: 0;
+}
+.pedrollou95polskau95mainu953 .frame-6581-3 .frame-6598-7 .frame-97.frame .frame-90.frame {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  min-height: 0;
+}
+.pedrollou95polskau95mainu953 .frame-6581-3 .frame-6598-7 .bottomButton {
+  margin-top: auto;
+  position: static !important;
+  left: auto !important;
+  bottom: auto !important;
+}
+
+/* === Formularz „Zapytaj o pompę” – prawdziwe pola, wygląd identyczny === */
+.zapytaj-o-pompe-form .zapytaj-field {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  gap: 0.26vw;
+}
+.zapytaj-o-pompe-form .zapytaj-input,
+.zapytaj-o-pompe-form .zapytaj-textarea {
+  border: none;
+  background: transparent;
+  font-family: var(--font-family-manrope, "Manrope", sans-serif);
+  font-size: inherit;
+  color: var(--cod-gray, #1a1a1a);
+  width: 100%;
+  min-width: 0;
+  padding: 0;
+  margin: 0;
+  outline: none;
+  box-sizing: border-box;
+}
+.zapytaj-o-pompe-form .zapytaj-textarea {
+  resize: vertical;
+  min-height: 4em;
+}
+.zapytaj-o-pompe-form .zapytaj-input::placeholder,
+.zapytaj-o-pompe-form .zapytaj-textarea::placeholder {
+  color: var(--silver-chalice, #a0a0a0);
+}
+
+/* Select „Jestem” – wewnątrz .frame-6589 ramka z kontenera, strzałka zostaje */
+.zapytaj-o-pompe-form .frame-6589 .zapytaj-select,
+.zapytaj-o-pompe-form .frame-6589-3 .zapytaj-select {
+  border: none;
+  background-color: transparent;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath fill='%23333' d='M6 8L1 3h10z'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 1vw center;
+  border-radius: 0;
+  padding: 0 2.5vw 0 0;
+  height: 100%;
+  min-height: 2.76vw;
+}
+.zapytaj-o-pompe-form .zapytaj-select {
+  width: 100%;
+  min-width: 0;
+  border: 0.05vw solid var(--cod-gray-3, #333);
+  border-radius: 0.52vw;
+  background-color: var(--white, #fff);
+  font-family: var(--font-family-manrope, "Manrope", sans-serif);
+  font-size: inherit;
+  color: var(--cod-gray, #1a1a1a);
+  padding: 0.83vw 1.04vw;
+  cursor: pointer;
+  appearance: none;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath fill='%23333' d='M6 8L1 3h10z'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 1vw center;
+  padding-right: 2.5vw;
+  box-sizing: border-box;
+}
+
+/* Checkbox – ukryty natywny, wizualnie .group-62 / .group-62-3 */
+.zapytaj-o-pompe-form .zapytaj-checkbox-label {
+  display: inline-flex;
+  align-items: center;
+  gap: inherit;
+  cursor: pointer;
+  position: relative;
+}
+.zapytaj-o-pompe-form .zapytaj-checkbox-input {
+  position: absolute;
+  opacity: 0;
+  margin: 0;
+  cursor: pointer;
+  width: 1.25vw;
+  height: 1.25vw;
+  left: 0;
+  top: 50%;
+  transform: translateY(-50%);
+}
+.zapytaj-o-pompe-form .radio_select_2 .zapytaj-checkbox-input {
+  width: 6.67vw;
+  height: 6.67vw;
+}
+.zapytaj-o-pompe-form .radio_select_2-3 .zapytaj-checkbox-input {
+  width: 1.25vw;
+  height: 1.25vw;
+}
+.zapytaj-o-pompe-form .group-62,
+.zapytaj-o-pompe-form .group-62-3 {
+  position: relative;
+}
+.zapytaj-o-pompe-form .zapytaj-checkbox-label:has(.zapytaj-checkbox-input:checked) .group-62,
+.zapytaj-o-pompe-form .zapytaj-checkbox-label:has(.zapytaj-checkbox-input:checked) .group-62-3 {
+  background-color: var(--royal-blue, #4064df);
+  border-color: var(--royal-blue, #4064df);
+}
+.zapytaj-o-pompe-form .zapytaj-checkbox-label:has(.zapytaj-checkbox-input:checked) .group-62::after,
+.zapytaj-o-pompe-form .zapytaj-checkbox-label:has(.zapytaj-checkbox-input:checked) .group-62-3::after {
+  content: "";
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 0.35em;
+  height: 0.6em;
+  border: solid #fff;
+  border-width: 0 0.15em 0.15em 0;
+  transform: translate(-50%, -60%) rotate(45deg);
+}
+
+/* === Sekcja „Niezawodność płynie z jakości” – intro vs plansze, 3 kroki, animacje plusów === */
+
+.niezawodnosc-slider .niezawodnosc-plansze {
+  display: none;
+}
+.niezawodnosc-slider.niezawodnosc-slider--active .niezawodnosc-intro {
+  display: none;
+}
+.niezawodnosc-slider.niezawodnosc-slider--active .niezawodnosc-plansze {
+  display: flex;
+  position: relative;
+}
+.niezawodnosc-slider .niezawodnosc-plansze[hidden] {
+  display: none !important;
+}
+.niezawodnosc-slider.niezawodnosc-slider--active .niezawodnosc-plansze[hidden] {
+  display: none !important;
+}
+
+/* Widoczne tylko plusy kroków (66–73 = 7 kroków); reszta ukryta */
+.niezawodnosc-plansze .plus:not(.niezawodnosc-plus) {
+  display: none !important;
+}
+
+/* Plusy: zawsze na białym kółku, sam plus (ikona) czarny */
+.niezawodnosc-plansze .niezawodnosc-plus {
+  background-color: #fff !important;
+  border-radius: 50% !important;
+  min-width: 1.15em;
+  min-height: 1.15em;
+  display: inline-flex !important;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  z-index: 2;
+}
+.niezawodnosc-plansze .niezawodnosc-plus .rectangle-26,
+.niezawodnosc-plansze .niezawodnosc-plus .rectangle-27,
+.niezawodnosc-plansze .niezawodnosc-plus [class*="rectangle-26"],
+.niezawodnosc-plansze .niezawodnosc-plus [class*="rectangle-27"] {
+  background-color: #000 !important;
+}
+/* Aktywny plus – białe kółko staje się niebieskie */
+.niezawodnosc-plansze .niezawodnosc-plus.niezawodnosc-plus--active {
+  background-color: rgba(64, 100, 223, 1) !important;
+}
+.niezawodnosc-plansze .niezawodnosc-plus.niezawodnosc-plus--active .rectangle-26,
+.niezawodnosc-plansze .niezawodnosc-plus.niezawodnosc-plus--active .rectangle-27,
+.niezawodnosc-plansze .niezawodnosc-plus.niezawodnosc-plus--active [class*="rectangle-26"],
+.niezawodnosc-plansze .niezawodnosc-plus.niezawodnosc-plus--active [class*="rectangle-27"] {
+  background-color: #fff !important;
+}
+
+/* Jedna wspólna obwódka – pozycjonowana w JS, jeździ między plusami (min. 1.5× większa) */
+.niezawodnosc-ring {
+  position: absolute;
+  width: 6.3em;
+  height: 6.3em;
+  left: 0;
+  top: 0;
+  z-index: 1;
+  pointer-events: none;
+  visibility: hidden;
+  transition: left 0.4s ease, top 0.4s ease;
+}
+.niezawodnosc-slider--active .niezawodnosc-ring.niezawodnosc-ring--visible {
+  visibility: visible;
+}
+/* Aktywne kółko – grafika active-line.png, stale obracana (bez zmian) */
+.niezawodnosc-ring::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background: url(../img/active-line.png) center/contain no-repeat;
+  animation: niezawodnosc-spin 3s linear infinite;
+}
+/* Pulsujące kółko – bez zmian */
+.niezawodnosc-ring::after {
+  content: "";
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 2.6em;
+  height: 2.6em;
+  margin-left: -1.3em;
+  margin-top: -1.3em;
+  border-radius: 50%;
+  border: 0.1em solid rgba(255, 255, 255, 0.6);
+  animation: niezawodnosc-pulse-out 2s ease-out infinite;
+}
+.align-right {text-align:right;}
+.align-center {text-align:center;}
+@keyframes niezawodnosc-spin {
+  to { transform: rotate(360deg); }
+}
+@keyframes niezawodnosc-pulse-out {
+  0% {
+    transform: scale(0.2);
+    opacity: 0.9;
+  }
+  50% {
+    transform: scale(1.5);
+    opacity: 0.15;
+  }
+  70% {
+    transform: scale(1.85);
+    opacity: 0;
+  }
+  100% {
+    transform: scale(0.2);
+    opacity: 0;
+  }
+}
+
+/* Treść kroków – tylko jedna karta widoczna na raz */
+.niezawodnosc-step-content[hidden] {
+  display: none !important;
+}
+
+/* .dot-3 w tej sekcji – ukryty (wyświetlał się jako czarny kwadrat przy błędzie tła) */
+.niezawodnosc-plansze .dot-3 {
+  display: none;
+}
+
+/* Obrazek pompy – proporcje zachowane, nie spłaszczony (nadpisanie 0.26vw width z Animy) */
+.niezawodnosc-plansze .pompa-17 {
+  width: 100%;
+  height: auto;
+  max-height: none;
+  object-fit: contain;
+  object-position: top center;
+  position: relative;
+  left: 0;
+  top: 0;
+}
+.niezawodnosc-plansze .pompa-16,
+.niezawodnosc-plansze #niezawodnosc-pompa-wrap {
+  height: auto;
+  min-height: 30vw;
+  width: 22vw;
+  max-width: 100%;
+}
+.niezawodnosc-plansze .group-61-3 {
+  height: auto;
+  min-height: 28vw;
+}
+
+/* Przesunięcie grafiki pompy – minimalne skoki między krokami (2–7) */
+.niezawodnosc-slider[data-step="2"] #niezawodnosc-pompa-wrap,
+.niezawodnosc-slider[data-step="2"] .pompa-16 {
+  transform: translateY(-4%);
+  transition: transform 0.4s ease;
+}
+.niezawodnosc-slider[data-step="3"] #niezawodnosc-pompa-wrap,
+.niezawodnosc-slider[data-step="3"] .pompa-16 {
+  transform: translateY(-8%);
+  transition: transform 0.4s ease;
+}
+.niezawodnosc-slider[data-step="4"] #niezawodnosc-pompa-wrap,
+.niezawodnosc-slider[data-step="4"] .pompa-16 {
+  transform: translateY(-11%);
+  transition: transform 0.4s ease;
+}
+.niezawodnosc-slider[data-step="5"] #niezawodnosc-pompa-wrap,
+.niezawodnosc-slider[data-step="5"] .pompa-16 {
+  transform: translateY(-14%);
+  transition: transform 0.4s ease;
+}
+.niezawodnosc-slider[data-step="6"] #niezawodnosc-pompa-wrap,
+.niezawodnosc-slider[data-step="6"] .pompa-16 {
+  transform: translateY(-17%);
+  transition: transform 0.4s ease;
+}
+.niezawodnosc-slider[data-step="7"] #niezawodnosc-pompa-wrap,
+.niezawodnosc-slider[data-step="7"] .pompa-16 {
+  transform: translateY(-20%);
+  transition: transform 0.4s ease;
+}
+
+/* Przycisk Pomiń */
+.niezawodnosc-skip {
+  position: absolute;
+  top: 1vw;
+  right: 1vw;
+  z-index: 10;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4em;
+  padding: 0.5vw 1vw;
+  background: rgba(64, 100, 223, 0.9);
+  border: none;
+  border-radius: 1vw;
+  color: #fff;
+  font-family: var(--font-family-manrope, "Manrope", sans-serif);
+  font-size: 0.9rem;
+  cursor: pointer;
+}
+.niezawodnosc-skip img {
+  width: 1em;
+  height: 1em;
+  transform: rotate(-90deg);
+}
+
+/* Strzałki nav (1/3) – wymiar równy licznikowi, jedna grafika: aktywna (w prawo), nieaktywna na skraju; w lewo = obrót 180deg */
+.niezawodnosc-plansze .nav-3 {
+  align-items: center;
+}
+.niezawodnosc-plansze .niezawodnosc-nav-arrow {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border: none;
+  background: transparent;
+  cursor: pointer;
+  padding: 0.3vw;
+}
+.niezawodnosc-plansze .niezawodnosc-nav-arrow img {
+  margin: 0 !important;
+  height: 2.5vw;
+  width: auto;
+}
+.niezawodnosc-plansze .niezawodnosc-nav-prev img {
+  transform: rotate(180deg);
+}
+.niezawodnosc-plansze .niezawodnosc-nav-prev:disabled img {
+  transform: rotate(0deg) !important;
+}
+.niezawodnosc-plansze .niezawodnosc-nav-next:disabled img {
+  transform: rotate(180deg) !important;
+}
+/* Strzałki pod sekcją – te same zasady, większe jak licznik */
+.niezawodnosc-arrows-bottom .arrow-21 {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border: none;
+  background: transparent;
+  cursor: pointer;
+  padding: 0.5vw;
+}
+.niezawodnosc-arrows-bottom .arrow-21 img {
+  height: 2.5vw;
+  width: auto;
+}
+.niezawodnosc-arrows-bottom .niezawodnosc-arrow-prev img {
+  transform: rotate(180deg);
+}
+.niezawodnosc-arrows-bottom .niezawodnosc-arrow-prev:disabled img {
+  transform: rotate(0deg) !important;
+}
+.niezawodnosc-arrows-bottom .niezawodnosc-arrow-next:disabled img {
+  transform: rotate(180deg) !important;
+}
+.niezawodnosc-arrows-bottom .arrow-21:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+}
+
+/* === Niezawodność – mobile: niski kontener pompy (overflow hidden) + treść i przyciski na pełną szerokość === */
+/* Używamy .pedrollou95polskau95mainu953 żeby nadpisać pedrollou95polskau95mainu953.css (ładuje się po globals) */
+@media (max-width: 1023px) {
+  /* Nagłówki – mniejsze na mobile */
+  .pedrollou95polskau95mainu953 #niezawodnosc-sekcja .niezawodno-pynie-z-jakoci-3 {
+    font-size: 1.25rem !important;
+    line-height: 1.3 !important;
+    white-space: normal !important;
+  }
+  .pedrollou95polskau95mainu953 .niezawodnosc-plansze .frame-195-3 .trwaa-konstrukcja-3 {
+    font-size: 0.95rem !important;
+    line-height: 1.35 !important;
+  }
+  .pedrollou95polskau95mainu953 .video_slider-1 {
+    height: auto !important;
+    min-height: 0 !important;
+  }
+  .pedrollou95polskau95mainu953 .frame-160-3 {
+    height: auto !important;
+    min-height: 0 !important;
+  }
+  .pedrollou95polskau95mainu953 .niezawodnosc-plansze.animacja_slider-3 {
+    flex-direction: column;
+    align-items: stretch;
+    width: 100% !important;
+    min-height: 0 !important;
+    height: auto !important;
+    overflow: visible !important;
+    aspect-ratio: auto !important;
+  }
+  .pedrollou95polskau95mainu953 .niezawodnosc-plansze .frame-195-3 {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    flex: 0 0 auto;
+    min-height: 0;
+    overflow: visible;
+  }
+  /* Kontener pompy: jeszcze mniejszy (32% / 140px), niski – plusy lepiej widoczne */
+  .pedrollou95polskau95mainu953 .niezawodnosc-plansze .frame-195-3 .pompa-16,
+  .pedrollou95polskau95mainu953 .niezawodnosc-plansze .frame-195-3 #niezawodnosc-pompa-wrap {
+    width: 32% !important;
+    max-width: 140px !important;
+    margin: 0 auto;
+    height: 24vh !important;
+    min-height: 120px !important;
+    max-height: 160px !important;
+    overflow: hidden !important;
+    position: relative !important;
+    left: auto !important;
+    top: auto !important;
+    flex-shrink: 0;
+    /* Na mobile przesuwamy .group-61-3, nie kontener – wyzeruj desktop translate */
+    transform: none !important;
+  }
+  /* group-61-3: proporcje desktop (22.03 : 187.4), plusy w % się zgadzają; przesuwanie wg kroku poniżej */
+  .pedrollou95polskau95mainu953 .niezawodnosc-plansze .frame-195-3 .group-61-3 {
+    width: 100% !important;
+    height: auto !important;
+    min-height: 0 !important;
+    aspect-ratio: 22.03 / 187.4 !important;
+    position: relative !important;
+    flex-shrink: 0;
+    transition: transform 0.4s ease;
+  }
+  /* Na mobile: przesuwamy grafikę (group-61-3) w górę, żeby aktywny plus był w widocznym oknie */
+  .pedrollou95polskau95mainu953 .niezawodnosc-slider[data-step="1"] .niezawodnosc-plansze .frame-195-3 .group-61-3 {
+    transform: translateY(0);
+  }
+  .pedrollou95polskau95mainu953 .niezawodnosc-slider[data-step="2"] .niezawodnosc-plansze .frame-195-3 .group-61-3 {
+    transform: translateY(-11.5%);
+  }
+  .pedrollou95polskau95mainu953 .niezawodnosc-slider[data-step="3"] .niezawodnosc-plansze .frame-195-3 .group-61-3 {
+    transform: translateY(-15.9%);
+  }
+  .pedrollou95polskau95mainu953 .niezawodnosc-slider[data-step="4"] .niezawodnosc-plansze .frame-195-3 .group-61-3 {
+    transform: translateY(-21.5%);
+  }
+  .pedrollou95polskau95mainu953 .niezawodnosc-slider[data-step="5"] .niezawodnosc-plansze .frame-195-3 .group-61-3 {
+    transform: translateY(-26.4%);
+  }
+  .pedrollou95polskau95mainu953 .niezawodnosc-slider[data-step="6"] .niezawodnosc-plansze .frame-195-3 .group-61-3 {
+    transform: translateY(-29.4%);
+  }
+  .pedrollou95polskau95mainu953 .niezawodnosc-slider[data-step="7"] .niezawodnosc-plansze .frame-195-3 .group-61-3 {
+    transform: translateY(-30.6%);
+  }
+  .pedrollou95polskau95mainu953 .niezawodnosc-plansze .frame-195-3 .pompa-17 {
+    position: absolute !important;
+    left: 0 !important;
+    top: 0 !important;
+    width: 100% !important;
+    height: 100% !important;
+    object-fit: contain !important;
+    object-position: top center;
+  }
+  /* Większe plusy z kółkami na mobile (1.1rem), ikona plusa wyśrodkowana w kółku */
+  .pedrollou95polskau95mainu953 .niezawodnosc-plansze .frame-195-3 .niezawodnosc-plus {
+    min-width: 1.5em !important;
+    min-height: 1.5em !important;
+    width: 1.5em !important;
+    height: 1.5em !important;
+  }
+  .pedrollou95polskau95mainu953 .niezawodnosc-plansze .frame-195-3 .niezawodnosc-plus .group-60-3 {
+    width: 1.1rem !important;
+    height: 1.1rem !important;
+    min-width: 1.1rem !important;
+    min-height: 1.1rem !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    position: relative !important;
+    overflow: visible !important;
+  }
+  /* Linie plusa wyśrodkowane w kółku (nadpisanie vw z main CSS) – pionowa i pozioma */
+  .pedrollou95polskau95mainu953 .niezawodnosc-plansze .frame-195-3 .niezawodnosc-plus .group-60-3 .rectangle-26,
+  .pedrollou95polskau95mainu953 .niezawodnosc-plansze .frame-195-3 .niezawodnosc-plus .group-60-3 [class*="rectangle-26"] {
+    position: absolute !important;
+    left: 50% !important;
+    top: 50% !important;
+    width: 2px !important;
+    height: 65% !important;
+    margin: 0 !important;
+    transform: translate(-50%, -50%) !important;
+    box-sizing: border-box !important;
+  }
+  /* Pozioma kreska plusa – bez rotate, od razu width > height */
+  .pedrollou95polskau95mainu953 .niezawodnosc-plansze .frame-195-3 .niezawodnosc-plus .group-60-3 .rectangle-27,
+  .pedrollou95polskau95mainu953 .niezawodnosc-plansze .frame-195-3 .niezawodnosc-plus .group-60-3 [class*="rectangle-27"] {
+    position: absolute !important;
+    left: 50% !important;
+    top: 50% !important;
+    width: 65% !important;
+    height: 2px !important;
+    margin: 0 !important;
+    transform: translate(-50%, -50%) !important;
+    box-sizing: border-box !important;
+  }
+  /* Plusy – pozycje w % (jak na desktop) */
+  .pedrollou95polskau95mainu953 .niezawodnosc-plansze .frame-195-3 .plus-66 {
+    left: 21.3% !important;
+    top: 2.67% !important;
+  }
+  .pedrollou95polskau95mainu953 .niezawodnosc-plansze .frame-195-3 .plus-67 {
+    left: 69.7% !important;
+    top: 11.5% !important;
+  }
+  .pedrollou95polskau95mainu953 .niezawodnosc-plansze .frame-195-3 .plus-68 {
+    left: 58.1% !important;
+    top: 15.9% !important;
+  }
+  .pedrollou95polskau95mainu953 .niezawodnosc-plansze .frame-195-3 .plus-69 {
+    left: 82.5% !important;
+    top: 16.5% !important;
+  }
+  .pedrollou95polskau95mainu953 .niezawodnosc-plansze .frame-195-3 .plus-70 {
+    left: 78.5% !important;
+    top: 21.5% !important;
+  }
+  .pedrollou95polskau95mainu953 .niezawodnosc-plansze .frame-195-3 .plus-71 {
+    left: 69% !important;
+    top: 26.4% !important;
+  }
+  .pedrollou95polskau95mainu953 .niezawodnosc-plansze .frame-195-3 .plus-72 {
+    left: 73% !important;
+    top: 29.4% !important;
+  }
+  .pedrollou95polskau95mainu953 .niezawodnosc-plansze .frame-195-3 .plus-73 {
+    left: 42.3% !important;
+    top: 30.6% !important;
+  }
+  /* Blok tekstów – nadpisanie .pedrollou95polskau95mainu953 .info-3 (position absolute), żeby był widoczny pod pompą */
+  .pedrollou95polskau95mainu953 .niezawodnosc-plansze .frame-195-3 .info-3 {
+    position: static !important;
+    left: auto !important;
+    top: auto !important;
+    width: 100% !important;
+    flex: 1 1 auto;
+    min-height: 0 !important;
+    height: auto !important;
+    overflow: visible !important;
+    padding: 1rem 1.25rem 1.5rem;
+    box-sizing: border-box;
+    z-index: 1;
+    display: flex !important;
+  }
+  .pedrollou95polskau95mainu953 .niezawodnosc-plansze .frame-195-3 .frame_txt_all-3 {
+    width: 100% !important;
+    max-width: none !important;
+    box-sizing: border-box;
+    min-height: 0 !important;
+    height: auto !important;
+    overflow: visible !important;
+    flex: 1 1 auto;
+    display: flex !important;
+  }
+  .pedrollou95polskau95mainu953 .niezawodnosc-plansze .frame-195-3 .frame_txt_all-3 .frame-90,
+  .pedrollou95polskau95mainu953 .niezawodnosc-plansze .frame-195-3 .niezawodnosc-step-content {
+    min-height: 0 !important;
+    height: auto !important;
+    overflow: visible !important;
+  }
+  .pedrollou95polskau95mainu953 .niezawodnosc-plansze .frame-195-3 .nav-3 {
+    margin-top: 0.75rem;
+    justify-content: center;
+  }
+  /* Większe strzałki do przewijania (nav) na mobile */
+  .pedrollou95polskau95mainu953 .niezawodnosc-plansze .niezawodnosc-nav-arrow img {
+    height: 2rem !important;
+    width: auto !important;
+  }
+  /* Ukrycie dolnych strzałek (frame-77-5) na mobile */
+  .pedrollou95polskau95mainu953 .frame-77-5.frame-77.niezawodnosc-arrows-bottom {
+    display: none !important;
+  }
+  .pedrollou95polskau95mainu953 .niezawodnosc-arrows-bottom.frame-77-5 {
+    padding: 0.75rem 0;
+    justify-content: center;
+    gap: 1rem;
+  }
+  .pedrollou95polskau95mainu953 .niezawodnosc-arrows-bottom .arrow-21 {
+    padding: 0.5rem;
+  }
+  .pedrollou95polskau95mainu953 .niezawodnosc-arrows-bottom .arrow-21 img {
+    height: 1.75rem;
+  }
+
+  /* === Sekcja .frame-141-1 (Charakterystyka pracy) – poniżej 1024px: najpierw zdjęcie (lewa kolumna), potem div z danymi === */
+  .pedrollou95polskau95mainu953 .frame-141-1 .dane-15 {
+    flex-direction: column !important;
+    align-items: stretch !important;
+  }
+  .pedrollou95polskau95mainu953 .frame-141-1 .dane-15 .group-55-3 {
+    width: 100% !important;
+    max-width: 400px !important;
+    aspect-ratio: 24.31 / 36.9 !important;
+    margin: 0 auto !important;
+  }
+  .pedrollou95polskau95mainu953 .frame-141-1 .dane-15 .frame-163-2 {
+    width: 100% !important;
+  }
+
+  /* === Sekcja Dane techniczne (.frame-140-5) – poniżej 1024px: mniejszy padding boczny, grid 2 kolumny, bez wymuszonej wysokości === */
+  .pedrollou95polskau95mainu953 .frame-140-5.frame-140 {
+    padding-left: 1rem !important;
+    padding-right: 1rem !important;
+    box-sizing: border-box;
+    width: 100% !important;
+    max-width: 100% !important;
+    min-height: 0 !important;
+    height: auto !important;
+  }
+  .pedrollou95polskau95mainu953 .frame-140-5 .frame-99 {
+    width: 100% !important;
+    max-width: 100% !important;
+    min-height: 0 !important;
+    height: auto !important;
+  }
+  .pedrollou95polskau95mainu953 .frame-140-5 .frame-126-6 {
+    display: grid !important;
+    grid-template-columns: repeat(2, 1fr) !important;
+    gap: 1rem !important;
+    width: 100% !important;
+    align-items: stretch !important;
+    min-height: 0 !important;
+  }
+  .pedrollou95polskau95mainu953 .frame-140-5 .dane-13,
+  .pedrollou95polskau95mainu953 .frame-140-5 .dane-14 {
+    height: auto !important;
+    min-height: 0 !important;
+    width: auto !important;
+    max-width: 100% !important;
+    padding: 1rem !important;
+    box-sizing: border-box;
+  }
+
+  /* === Sekcja .frame-6302 (Opatentowana technologia) – mobile: mniejszy nagłówek, 1 kolumna zamiast 3 === */
+  .pedrollou95polskau95mainu953 .frame-6302.frame {
+    padding-left: 1rem !important;
+    padding-right: 1rem !important;
+  }
+  .pedrollou95polskau95mainu953 .frame-6302 .opatentowana-technologia-3 {
+    font-size: 1.5rem !important;
+    line-height: 1.25 !important;
+    white-space: normal !important;
+  }
+  .pedrollou95polskau95mainu953 .frame-6302 .frame-92 {
+    flex-direction: column !important;
+    align-items: stretch !important;
+    gap: 1rem !important;
+  }
+  .pedrollou95polskau95mainu953 .frame-6302 .frame-92 .patent {
+    width: 100% !important;
+    max-width: 100% !important;
+  }
+}
+
+/* Mobile header – bez tła na starcie, tło + blur dopiero po przescrollowaniu 100px */
+.mobile-header {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1000;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1rem 1.25rem;
+  background: transparent;
+  backdrop-filter: none;
+  -webkit-backdrop-filter: none;
+  transition: background 0.25s ease, backdrop-filter 0.25s ease;
+}
+.mobile-header.is-scrolled {
+  background: rgba(10, 10, 10, 0.85);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+}
+.mobile-header-logo {
+  display: block;
+}
+
+.mobile-header-hamburger {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 5px;
+  width: 2rem;
+  height: 2rem;
+  padding: 0;
+  border: none;
+  background: transparent;
+  cursor: pointer;
+  color: #fff;
+}
+.mobile-header-hamburger span {
+  display: block;
+  width: 100%;
+  height: 2px;
+  background: currentColor;
+}
+
+/* Przycisk zamknięcia menu – widoczny tylko na mobile */
+.mobile-menu-close-btn {
+  display: none;
+  align-items: center;
+  justify-content: center;
+  width: 2.5rem;
+  height: 2.5rem;
+  margin-left: auto;
+  padding: 0;
+  border: none;
+  background: transparent;
+  color: #fff;
+  font-size: 1.75rem;
+  line-height: 1;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+@media (max-width: 1366px) {
+  .pedrollou95polskau95mainu953 .frame-2-3 {   max-width: calc(100% - 10rem);  }
+  .pedrollou95polskau95mainu953 .frame-6-20 {gap:0 1rem !important;width:100%;flex-wrap:wrap;justify-content:flex-end;}
+  #slider_zestawy .manrope-semi-bold-cod-gray-36px {font-size:1.5rem;white-space:wrap;line-height:1;}
+  .pedrollou95polskau95mainu953 .frame {flex-wrap:wrap !important;}
+  .pedrollou95polskau95mainu953 .frame-648-3 { width: 100% !important; }
+  .pedrollou95polskau95mainu953 .frame-141-1 {
+    width: 100% !important;
+    max-width: 100% !important;
+    box-sizing: border-box;
+  }
+  .pedrollou95polskau95mainu953 .frame-141-1 .frame-158-1 {
+    width: 100% !important;
+    max-width: 100% !important;
+  }
+  .pedrollou95polskau95mainu953 .frame-141-1 .dane-15 {
+    width: 100% !important;
+    max-width: 100% !important;
+    padding: 3% !important;
+    gap: 3% !important;
+    box-sizing: border-box;
+  }
+  .pedrollou95polskau95mainu953 .frame-141-1 .group-55-3 {
+    width: 35% !important;
+    max-width: 100% !important;
+    height: auto !important;
+    aspect-ratio: 24.31 / 36.9 !important;
+    object-fit: contain !important;
+    flex-shrink: 0 !important;
+  }
+  .pedrollou95polskau95mainu953 .frame-141-1 .frame-163-2 {
+    flex: 1 1 auto !important;
+    min-width: 0 !important;
+  }
+  .pedrollou95polskau95mainu953 .frame-141-1 .krzywe-i-dane-wydajnociowe-3 {
+    height: auto !important;
+    min-height: 0 !important;
+  }
+  .pedrollou95polskau95mainu953 .frame-141-1 .frame-163-2 img.frame {
+    max-width: 100% !important;
+    height: auto !important;
+    width: auto !important;
+  }
+
+  /* Sekcja Zastosowania (.frame-140-6) – poniżej 1366px: układ 2 kolumn kafelków */
+  .pedrollou95polskau95mainu953 .frame-140-6 .frame-99 .frame-126-6,
+  .pedrollou95polskau95mainu953 .frame-140-6 .frame-126-6 {
+    display: grid !important;
+    grid-template-columns: repeat(2, 1fr) !important;
+    gap: 1rem !important;
+    width: 100% !important;
+  }
+  .pedrollou95polskau95mainu953 .frame-140-6 .dane-13,
+  .pedrollou95polskau95mainu953 .frame-140-6 .dane-14 {
+    width: 100% !important;
+    max-width: 100% !important;
+    min-width: 0 !important;
+    height: auto !important;
+    min-height: 0 !important;
+    padding: 1rem !important;
+    box-sizing: border-box !important;
+  }
+  .pedrollou95polskau95mainu953 .wynik_konfiguracji-3 {
+    height: auto !important;
+    min-height: 0 !important;
+    overflow: visible !important;
+  }
+  .pedrollou95polskau95mainu953 .wynik_konfiguracji-3 .frame-6502 {
+    flex-direction: column !important;
+    flex-wrap: nowrap !important;
+    height: auto !important;
+    min-height: 0 !important;
+  }
+  .pedrollou95polskau95mainu953 .wynik_konfiguracji-3 .frame-6500-1 {
+    height: auto !important;
+    min-height: 0 !important;
+  }
+  .pedrollou95polskau95mainu953 .wynik_konfiguracji-3 .frame-6480-7,
+  .pedrollou95polskau95mainu953 .wynik_konfiguracji-3 .frame-6499-1 {
+    height: auto !important;
+    min-height: 0 !important;
+    flex: 0 0 auto !important;
+  }
+  .pedrollou95polskau95mainu953 .wynik_konfiguracji-3 .frame-6-16 {
+    height: auto !important;
+    min-height: 0 !important;
+    flex: 0 0 auto !important;
+  }
+  .pedrollou95polskau95mainu953 .wynik_konfiguracji-3 .pompa-15 {
+    height: auto !important;
+    min-height: 0 !important;
+    aspect-ratio: 0.98 !important;
+  }
+  .pedrollou95polskau95mainu953 .wynik_konfiguracji-3 .frame-6-17 {
+    height: auto !important;
+    min-height: 0 !important;
+    flex: 1 1 auto !important;
+  }
+  .pedrollou95polskau95mainu953 .wynik_konfiguracji-3 .ellipse-2-86,
+  .pedrollou95polskau95mainu953 .wynik_konfiguracji-3 .ellipse-2-87,
+  .pedrollou95polskau95mainu953 .wynik_konfiguracji-3 .ellipse-2-88 {
+    height: auto !important;
+    min-height: 0 !important;
+  }
+  .pedrollou95polskau95mainu953 .wynik_konfiguracji-3 .image-34,
+  .pedrollou95polskau95mainu953 .wynik_konfiguracji-3 .image-35 {
+    height: auto !important;
+    max-height: 100% !important;
+  }
+}
+@media (max-width: 1024px) {
+  .manrope-semi-bold-concrete-60px,.manrope-semi-bold-cod-gray-60px {font-size:2rem !important;}
+  /* .frame-6-15 – globalnie: układ kolumnowy, zdjęcie (lewa część) na górze max 400px, tekst poniżej na całą szerokość */
+  .frame-6-15 {
+    flex-direction: column !important;
+    align-items: stretch !important;
+    flex-wrap: wrap !important;
+  }
+  .pedrollou95polskau95mainu953 .frame-6-15 .frame-36759-3,
+  .pedrollou95polskau95mainu953 .frame-6-15 [class*="u7761719182_httpss"],
+  .pedrollou95polskau95mainu953 .frame-6-15 .logo_anim-7,
+  .pedrollou95polskau95mainu953 .frame-6-15 .wykres-3 {
+    width: 100% !important;
+    max-width: 400px !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+  }
+  /* Kontenery z tłem (u7761719182_httpss) – proporcje 1/1, żeby zdjęcie w tle się wyświetlało */
+  .pedrollou95polskau95mainu953 .frame-6-15 [class*="u7761719182_httpss"] {
+    aspect-ratio: 1 / 1 !important;
+    height: auto !important;
+    min-height: 0 !important;
+    background-size: cover !important;
+    background-position: 50% 50% !important;
+  }
+  .pedrollou95polskau95mainu953 .frame-6-15 .frame-6-17,
+  .pedrollou95polskau95mainu953 .frame-6-15 .frame-6419-1 {
+    width: 100% !important;
+  }
+  /* Gdy w DOM obraz jest po tekście – wyświetl go nad tekstem */
+  .pedrollou95polskau95mainu953 .frame-6-15 .wykres-3,
+  .pedrollou95polskau95mainu953 .frame-6-15 .u7761719182_httpss-15 {
+    order: -1 !important;
+  }
+  .pedrollou95polskau95mainu953 .frame-6419-1 {width:100% !important;}
+  /* Sekcja Zastosowania – nagłówek i przycisk jeden pod drugim */
+  .pedrollou95polskau95mainu953 .frame-140-6 .frame-102.frame {
+    flex-wrap: wrap !important;
+    gap: 1rem !important;
+    justify-content:center !important;
+  }
+  .pedrollou95polskau95mainu953 .frame-140-6 .frame-102.frame .zastosowania-3 {
+    width: 100% !important;
+    white-space: normal !important;
+  }
+  .pedrollou95polskau95mainu953 .konfigurator-lewy {
+    flex: 0 0 auto;
+    max-width: 60%;
+    min-width: 60%;
+    min-height: 42vw;
+  }
+  .pedrollou95polskau95mainu953 .konfigurator-slider-row {
+    gap: 1rem;
+  }
+  /* Sekcja porównania .frame-6518-3 – wszystko w jednej kolumnie (nagłówek i slider) */
+  .pedrollou95polskau95mainu953 .frame-6518-3 .frame-6-16 {
+    flex-direction: column !important;
+    gap: 1rem !important;
+  }
+  .pedrollou95polskau95mainu953 .frame-6518-3 .frame-6516-2,
+  .pedrollou95polskau95mainu953 .frame-6518-3 .frame-6515-2 {
+    width: 100% !important;
+    max-width: 100% !important;
+  }
+  .pedrollou95polskau95mainu953 .frame-6518-3 .frame-86-item {
+    flex-direction: column !important;
+    gap: 1rem !important;
+  }
+  .pedrollou95polskau95mainu953 .frame-6518-3 .p1-3,
+  .pedrollou95polskau95mainu953 .frame-6518-3 .p2-3,
+  .pedrollou95polskau95mainu953 .frame-6518-3 .i1-3,
+  .pedrollou95polskau95mainu953 .frame-6518-3 .i2-3 {
+    width: 100% !important;
+    max-width: 100% !important;
+    flex: none !important;
+  }
+  .pedrollou95polskau95mainu953 .arrow-23 {left:unset !important;right:0 !important;}
+  .pedrollou95polskau95mainu953 .arrow-23,.pedrollou95polskau95mainu953 .arrow-24 {
+    height: 2rem !important;
+    width: 2rem !important;
+  }
+  .pedrollou95polskau95mainu953 .line-8-17,.pedrollou95polskau95mainu953 .line-1-3 {
+    height: 1rem !important;
+    width: 1rem !important;
+  }
+  .pedrollou95polskau95mainu953 .group-65-3 {
+    height: 1rem !important;
+    width: 1rem !important;
+  }
+}
+/* Poniżej 1020px: sekcja Charakterystyka – obrazek wyżej, max 400px, wyśrodkowany, teksty niżej 100% */
+@media (max-width: 1020px) {
+  .pedrollou95polskau95mainu953 .frame-141-1 .dane-15 {
+    flex-direction: column !important;
+    align-items: stretch !important;
+  }
+  .pedrollou95polskau95mainu953 .frame-141-1 .dane-15 .group-55-3 {
+    width: 100% !important;
+    max-width: 400px !important;
+    aspect-ratio: 24.31 / 36.9 !important;
+    margin: 0 auto !important;
+  }
+  .pedrollou95polskau95mainu953 .frame-141-1 .dane-15 .frame-163-2 {
+    width: 100% !important;
+  }
+  .pedrollou95polskau95mainu953 .frame-6566-3 {padding:2rem 2rem !important;}
+  .pedrollou95polskau95mainu953 .frame-78-3 {
+    gap: 2rem !important;
+    padding: 2rem 1rem !important;
+    display: grid !important;
+  }
+  .pedrollou95polskau95mainu953 .frame-6613-4 {padding:2rem 2rem !important;}
+}
 @media (max-width: 767px) {
+  .mobile-header {
+    display: flex;
+  }
+  /* Menu desktopowe ukryte domyślnie; pokazane po kliknięciu hamburgera */
+  .pedrollou95polskau95mainu953 .menu_2-3,
+  .pedrollou95polskau95mainu953 .header-submenus {
+    display: none !important;
+  }
+  body.mobile-menu-open .pedrollou95polskau95mainu953 .menu_2-3,
+  body.mobile-menu-open .pedrollou95polskau95mainu953 .header-submenus {
+    display: flex !important;
+  }
+  body.mobile-menu-open .pedrollou95polskau95mainu953 .menu_2-3,
+  body.mobile-menu-open .global-menu {
+    position: fixed;
+    inset: 0;
+    z-index: 1001;
+    background: #0a0a0a;
+    overflow-y: auto;
+    flex-direction: column;
+    align-items: stretch;
+    justify-content: flex-start;
+  }
+  /* Menu mobilne – klasy menu_* (identyczny wygląd na wszystkich podstronach) */
+  body.mobile-menu-open .global-menu .menu_bar,
+  body.mobile-menu-open .pedrollou95polskau95mainu953 .frame-27-3 {
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-items: stretch;
+    align-self: flex-start;
+    width: 100%;
+    height: auto;
+    min-height: auto;
+    padding: 1.25rem 1.25rem 1.5rem;
+    gap: 0;
+    border-bottom-width: 1px;
+  }
+  body.mobile-menu-open .global-menu .menu_logo,
+  body.mobile-menu-open .pedrollou95polskau95mainu953 .frame-27-3 .group-1-4 {
+    width: 120px;
+    height: 2.5rem;
+    margin-bottom: 0.5rem;
+  }
+  body.mobile-menu-open .global-menu .menu_nav_wrap,
+  body.mobile-menu-open .pedrollou95polskau95mainu953 .frame-2-3 {
+    flex-direction: column;
+    align-items: stretch;
+    flex: none;
+    gap: 0;
+  }
+  body.mobile-menu-open .global-menu .menu_items_row,
+  body.mobile-menu-open .pedrollou95polskau95mainu953 .frame-6-20 {
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-items: stretch;
+    gap: 0;
+  }
+  body.mobile-menu-open .global-menu .menu-hover-1,
+  body.mobile-menu-open .pedrollou95polskau95mainu953 .menu-hover-1 {
+    width: 100%;
+    height: auto;
+    min-height: 3rem;
+    padding: 0.75rem 0;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    justify-content: space-between;
+  }
+  body.mobile-menu-open .global-menu .menu_items_row > a.menu_btn_phone,
+  body.mobile-menu-open .global-menu .menu_items_row > a.menu_btn_cta,
+  body.mobile-menu-open .pedrollou95polskau95mainu953 .frame-5-5 a {
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+    min-height: 2.75rem;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  body.mobile-menu-open .global-menu .menu_btn_phone,
+  body.mobile-menu-open .pedrollou95polskau95mainu953 .frame-5-5 .btn--menu-2 {
+    border-radius: 999px;
+  }
+  body.mobile-menu-open .global-menu .menu_btn_phone .menu_phone_icon,
+  body.mobile-menu-open .pedrollou95polskau95mainu953 .frame-5-5 .btn--menu-2 .vector-99 {
+    width: 1.35rem;
+    height: 1.35rem;
+    min-width: 1.35rem;
+    min-height: 1.35rem;
+  }
+  body.mobile-menu-open .global-menu .menu_btn_cta,
+  body.mobile-menu-open .pedrollou95polskau95mainu953 .frame-5-5 .dobierz_pompe-4 {
+    width: 100%;
+    border-radius: 999px;
+    padding-left: 1.25rem;
+    padding-right: 0;
+    justify-content: space-between;
+  }
+  body.mobile-menu-open .global-menu .menu_btn_cta .menu_cta_text {
+    order: 1;
+  }
+  body.mobile-menu-open .global-menu .menu_btn_cta .menu_btn_cta_inner,
+  body.mobile-menu-open .pedrollou95polskau95mainu953 .frame-5-5 .dobierz_pompe-4 .frame-4-19 {
+    order: 2;
+    position: relative;
+    left: auto;
+    top: auto;
+    width: 2.75rem;
+    height: 2.75rem;
+    min-width: 2.75rem;
+    min-height: 2.75rem;
+    border-radius: 50%;
+    flex-shrink: 0;
+  }
+  body.mobile-menu-open .global-menu .mobile-menu-close-btn,
+  body.mobile-menu-open .pedrollou95polskau95mainu953 .mobile-menu-close-btn {
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+    margin-top: 0;
+  }
+  body.mobile-menu-open .pedrollou95polskau95mainu953 .header-submenus {
+    display: none !important;
+  }
+  /* Panele submenu w menu – rozwijane w miejscu (między pozycjami), tylko po kliknięciu */
+  .pedrollou95polskau95mainu953 .submenu-panel.is-visible {
+    position: static;
+  }
+  .pedrollou95polskau95mainu953 .submenu-panel .submenu-grid--cols-3,
+  .pedrollou95polskau95mainu953 .submenu-panel .submenu-grid--cols-2 {
+    grid-template-columns: 1fr;
+  }
+  .pedrollou95polskau95mainu953 .submenu-panel .submenu-grid--cols-3 a:nth-child(n),
+  .pedrollou95polskau95mainu953 .submenu-panel .submenu-grid--cols-2 a:nth-child(n) {
+    border-right: none;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+  }
+  .pedrollou95polskau95mainu953 .submenu-panel .submenu-grid--cols-3 a:last-child,
+  .pedrollou95polskau95mainu953 .submenu-panel .submenu-grid--cols-2 a:last-child {
+    border-bottom: none;
+  }
+  .global-menu .submenu-panel .menu_label,
+  .pedrollou95polskau95mainu953 .submenu-panel .label-6 {
+    font-size: 1.05rem;
+  }
+  .pedrollou95polskau95mainu953 .submenu-panel .submenu-grid a,
+  .global-menu .submenu-panel .submenu-grid a {
+    min-height: 2.75rem;
+  }
+  .global-menu .menu-hover-1 .menu_arrow,
+  .pedrollou95polskau95mainu953 .menu-hover-1 .arrow_down-23 {
+    transition: transform 0.2s ease;
+  }
+  .global-menu .menu-hover-1.is-expanded .menu_arrow,
+  .pedrollou95polskau95mainu953 .menu-hover-1.is-expanded .arrow_down-23 {
+    transform: rotate(180deg);
+  }
+  .global-menu .submenu-panel .menu_dropdown_bg,
+  .pedrollou95polskau95mainu953 .submenu-panel .elektryczna_pompa_rollover {
+    padding: 1.5rem 0 2rem;
+  }
+  .global-menu .submenu-panel .menu_icon,
+  .pedrollou95polskau95mainu953 .submenu-panel .frame-32 img,
+  .pedrollou95polskau95mainu953 .submenu-panel .view,
+  .pedrollou95polskau95mainu953 .submenu-panel .futures img,
+  .pedrollou95polskau95mainu953 .submenu-panel .gears,
+  .pedrollou95polskau95mainu953 .submenu-panel .installation img {
+    height: 2rem;
+    max-width: 2rem;
+  }
+  .global-menu .submenu-panel .menu_card_inner,
+  .pedrollou95polskau95mainu953 .submenu-panel .frame-32 {
+    gap: 1.5rem;
+  }
+  .mobile-menu-close-btn {
+    display: flex;
+  }
+  /* Hero na mobile – wyższa sekcja jak na desktopie, jedna kolumna */
+  .pedrollou95polskau95mainu953 .frame-34-3 {
+    min-height: 85vh;
+    height: auto;
+  }
+  .hero-content.frame-34-3 {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 4vw;
+    min-height: 70vh;
+  }
+  .hero-left,
+  .hero-right {
+    max-width: 100%;
+    align-items: flex-start;
+  }
+  .hero-left {gap:1rem;}
+  .hero-features-list {
+    align-items: flex-start;
+  }
   .btn {
     border-radius: 3.91vw;
     gap: 1.3vw;
     padding: 1.82vw 3.39vw;
+  }
+  .frame-6-20 .dobierz_pompe-4.btn--cta-dark {width:100%;margin-top:1rem;}
+  .frame-6-20 .dobierz_pompe-4.btn--cta-dark .dobierz-pomp {width:100%;text-align:center;}
+  .pedrollou95polskau95mainu953 .submenu-panel .elektryczna_pompa_rollover {padding:1.5rem 0 2rem 0;}
+  .pedrollou95polskau95mainu953 .submenu-panel .frame-32 img, .pedrollou95polskau95mainu953 .submenu-panel .frame-32-1 img, .pedrollou95polskau95mainu953 .submenu-panel .view, .pedrollou95polskau95mainu953 .submenu-panel .futures img, .pedrollou95polskau95mainu953 .submenu-panel .models img, .pedrollou95polskau95mainu953 .submenu-panel .selection img, .pedrollou95polskau95mainu953 .submenu-panel .gears, .pedrollou95polskau95mainu953 .submenu-panel .guarantee, .pedrollou95polskau95mainu953 .submenu-panel .use-cases_2, .pedrollou95polskau95mainu953 .submenu-panel .service, .pedrollou95polskau95mainu953 .submenu-panel .store, .pedrollou95polskau95mainu953 .submenu-panel .instalator, .pedrollou95polskau95mainu953 .submenu-panel .o_nas, .pedrollou95polskau95mainu953 .submenu-panel .lab, .pedrollou95polskau95mainu953 .submenu-panel .installation img {
+    height: 2rem;max-width:2rem;
+  }
+  .pedrollou95polskau95mainu953 .submenu-panel .frame-32 {
+    gap: 1.5rem;
+  }
+  .pedrollou95polskau95mainu953 .frame-55-3 {display:grid !important;grid-template-columns:1fr !important;}
+
+  /* Sekcja .frame-89-2 (Raz kupujesz / gwarancje + tekst + przycisk) – poniżej 768px: układ w kolumnie, mniejszy padding boczny */
+  .pedrollou95polskau95mainu953 .frame-89-2 {
+    flex-direction: column !important;
+    align-items: center !important;
+    gap: 1.5rem !important;
+    padding-left: 1rem !important;
+    padding-right: 1rem !important;
+  }
+
+  /* Sekcja .frame-143-2 (tabela porównawcza) – przewijanie w bok na wąskich ekranach */
+  .pedrollou95polskau95mainu953 .frame-143-2 {
+    width: 100% !important;
+    max-width: 100% !important;
+    overflow-x: auto !important;
+    -webkit-overflow-scrolling: touch;
+    padding-left: 1rem !important;
+    padding-right: 1rem !important;
+    box-sizing: border-box;
+    /* Zawartość do lewej, bez centrowania – usuwa puste miejsce po lewej */
+    align-items: flex-start !important;
+    justify-content: flex-start !important;
+  }
+  .pedrollou95polskau95mainu953 .frame-143-2 .frame-91-3 {
+    min-width: min-content !important;
+    width: max-content !important;
+    box-sizing: border-box;
+  }
+  /* Usunięcie narzuconego height na mobile – tabela z wysokością z zawartości (flex + order dla nagłówka nad ciałem) */
+  .pedrollou95polskau95mainu953 .frame-143-2 .frame-93-3 {
+    height: auto !important;
+    min-height: 0 !important;
+    display: flex !important;
+    flex-direction: column !important;
+  }
+  .pedrollou95polskau95mainu953 .frame-143-2 .frame-93-3 .frame-124-3 {
+    position: relative !important;
+    top: auto !important;
+    order: 2;
+  }
+  .pedrollou95polskau95mainu953 .frame-143-2 .frame-93-3 .frame-136-3 {
+    height: auto !important;
+    min-height: 0 !important;
+    position: relative !important;
+    top: auto !important;
+    left: auto !important;
+    width: 100% !important;
+    order: 1;
+  }
+
+  /* Kolumny tabeli – stałe, wyższe szerokości (jednakowe we wszystkich wierszach) + przewijanie w prawo */
+  .pedrollou95polskau95mainu953 .frame-143-2 .frame-124-3 {
+    width: 100% !important;
+  }
+  .pedrollou95polskau95mainu953 .frame-143-2 .frame-124-3 article.wiersz {
+    display: flex !important;
+    flex-wrap: nowrap !important;
+    width: 100% !important;
+    box-sizing: border-box;
+  }
+  .pedrollou95polskau95mainu953 .frame-143-2 .frame-124-3 .frame-112-3 {
+    flex: 0 0 auto !important;
+    min-width: 220px !important;
+    width: 220px !important;
+    justify-content: flex-start !important;
+    text-align: left !important;
+  }
+  .pedrollou95polskau95mainu953 .frame-143-2 .frame-124-3 .frame-95-5 {
+    flex: 0 0 auto !important;
+    min-width: 300px !important;
+    width: 300px !important;
+    justify-content: flex-start !important;
+    text-align: left !important;
+  }
+  .pedrollou95polskau95mainu953 .frame-143-2 .frame-124-3 .frame-114-1 {
+    flex: 0 0 auto !important;
+    min-width: 300px !important;
+    width: 300px !important;
+    justify-content: flex-start !important;
+    text-align: left !important;
+  }
+  /* Nagłówek tabeli – te same szerokości co wiersze danych */
+  .pedrollou95polskau95mainu953 .frame-143-2 .frame-136-3 {
+    display: flex !important;
+    flex-wrap: nowrap !important;
+    width: 100% !important;
+    box-sizing: border-box;
+  }
+  .pedrollou95polskau95mainu953 .frame-143-2 .frame-136-3 .frame-94-3 {
+    flex: 0 0 auto !important;
+    min-width: 220px !important;
+    width: 220px !important;
+  }
+  .pedrollou95polskau95mainu953 .frame-143-2 .frame-136-3 .frame-95-6 {
+    flex: 0 0 auto !important;
+    min-width: 300px !important;
+    width: 300px !important;
+    justify-content: flex-start !important;
+    text-align: left !important;
+  }
+  .pedrollou95polskau95mainu953 .frame-143-2 .frame-136-3 .frame-113-3 {
+    flex: 0 0 auto !important;
+    min-width: 300px !important;
+    width: 300px !important;
+    justify-content: flex-start !important;
+    text-align: left !important;
+  }
+  /* Zawijanie tekstu w komórkach – nadpisanie white-space: nowrap z main CSS; wyrównanie do lewej */
+  .pedrollou95polskau95mainu953 .frame-143-2 .x-lat,
+  .pedrollou95polskau95mainu953 .frame-143-2 .ywotno-3 {
+    white-space: normal !important;
+    overflow-wrap: break-word !important;
+    word-wrap: break-word !important;
+    max-width: 100% !important;
+    min-width: 0 !important;
+    text-align: left !important;
+  }
+  .pedrollou95polskau95mainu953 .frame-143-2 .frame-95-5,
+  .pedrollou95polskau95mainu953 .frame-143-2 .frame-114-1 {
+    overflow-wrap: break-word !important;
+    word-wrap: break-word !important;
+  }
+  .pedrollou95polskau95mainu953 .frame-143-2 .frame-98 {
+    justify-content: flex-start !important;
+  }
+
+  /* Rodzic sekcji – pełna szerokość, żeby frame-143-2 nie był wyśrodkowany z pustym miejscem */
+  .pedrollou95polskau95mainu953 .frame-139-1 {
+    width: 100% !important;
+    max-width: 100% !important;
+    box-sizing: border-box;
+  }
+  .pedrollou95polskau95mainu953 .frame-146 {width:100% !important;}
+  .frame-101.frame {flex-wrap:wrap;}
+  .pedrollou95polskau95mainu953 .frame-656-2 {
+    width: 100% !important;
+  }
+  .pedrollou95polskau95mainu953 .frame-126 {
+    flex-wrap: wrap;
+  }
+  .pedrollou95polskau95mainu953 .montaz-krok-podpis {
+    max-width: 100%;
+  }
+  .pedrollou95polskau95mainu953 .frame-101.frame {display:grid !important;gap:1rem !important;}
+  .pedrollou95polskau95mainu953 .group-1 {width:13rem !important;height:unset !important;}
+  .pedrollou95polskau95mainu953 .frame-6506 {
+    flex-wrap: wrap;
+    gap: 1rem;
   }
 }

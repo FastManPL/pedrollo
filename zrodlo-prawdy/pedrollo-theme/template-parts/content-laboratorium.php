@@ -1,0 +1,232 @@
+<?php
+/**
+ * Treść strony Laboratorium (z laboratorium.html).
+ */
+$t = get_template_directory_uri();
+?>
+      <div class="frame-20 frame">
+        <img class="rectangle-1113" src="<?php echo esc_url( $t ); ?>/img/pompa-4.png" alt="Rectangle 1113" />
+        <div class="rectangle-6-1"></div>
+        <div class="konsultacja-12">
+          <img class="ellipse-2-25" src="<?php echo esc_url( $t ); ?>/img/ellipse-2-43.svg" alt="Ellipse 2" />
+          <div class="frame-6483-11 frame-6483">
+            <div class="frame-6482-13 frame-6482">
+              <div class="frame-8 frame">
+                <div class="frame-6501-4 frame-6501">
+                  <h1 class="title-3 manrope-semi-bold-concrete-60px">Laboratorium Pedrollo</h1>
+                </div>
+                <div class="frame-9 frame">
+                  <p class="produkty-o-wyjtkowe-3">Produkty o wyjątkowej trwałości muszą sprostać wyjątkowym próbom</p>
+                  <p class="przechodz-je-w-spec-3 manrope-semi-bold-silver-chalice-23px">
+                    Przechodzą je w specjalistycznym laboratorium hydraulicznym i elektrycznym Pedrollo.
+                  </p>
+                </div>
+              </div>
+              <a href="#">
+              <div class="btn btn--secondary">
+                <div class="poznaj-nasz-zestaw geist-medium-white-19px">Więcej o laboratorium</div>
+                <img class="arrow_down-10" src="<?php echo esc_url( $t ); ?>/img/arrow-down-72.svg" alt="Arrow_down" />
+              </div></a>
+            </div>
+          </div>
+          <img
+            class="u7761719182_httpss-15 u7761719182_httpss"
+            src="<?php echo esc_url( $t ); ?>/img/u7761719182-httpss-15.png"
+            alt="u7761719182_httpss"
+          />
+        </div>
+      </div>
+      <div class="frame-36783 frame">
+        <div class="ellipse-3-8"></div>
+        <div class="frame-84-3">
+          <div class="pena-zgodno-z-normami-3 manrope-semi-bold-concrete-60px">Pełna zgodność z normami</div>
+          <div class="frame-126-1">
+            <article class="niezawodnosc-3">
+              <img class="nizp-atest-scwa-1-3" src="<?php echo esc_url( $t ); ?>/img/nizp-atest-scwa-1.svg" alt="NIZP-ATEST-SCWA 1" />
+              <div class="atest-higieniczny-pzh-4 atest-higieniczny-pzh manrope-medium-white-24px">
+                Atest higieniczny PZH
+              </div>
+            </article>
+            <article class="niezawodnosc-3">
+              <img class="iso-3" src="<?php echo esc_url( $t ); ?>/img/iso.svg" alt="iso" />
+              <div class="atest-higieniczny-pzh manrope-medium-white-24px">ISO 9001:2015</div>
+            </article>
+            <article class="niezawodnosc-3">
+              <img class="reach-3" src="<?php echo esc_url( $t ); ?>/img/reach.svg" alt="reach" />
+              <div class="atest-higieniczny-pzh manrope-medium-white-24px">REACH Compliant</div>
+            </article>
+          </div>
+        </div>
+        <div class="ellipse-2-26"></div>
+      </div>
+      <div class="konsultacja-13">
+        <img class="ellipse-2-27" src="<?php echo esc_url( $t ); ?>/img/ellipse-2-44.svg" alt="Ellipse 2" />
+        <div class="frame-6483-10 frame-6483">
+          <div class="frame-6482-14 frame-6482">
+            <p class="manrope-semi-bold-silver-chalice-23px">Wieloetapowa kontrola laboratoryjna.</p>
+            <div class="frame-65-7 frame-65">
+              <p class="testujemy-to-co-dec-3">Testujemy to, co decyduje <br />o bezawaryjności</p>
+              <p class="nasze-laboratorium-t-3">
+                <span class="span-3 manrope-semi-bold-silver-chalice-23px"
+                  >Nasze laboratorium to więcej niż miejsce testów. Łączymy w nim rygorystyczną kontrolę jakości z
+                  nieustannym rozwojem technologicznym. Efekt? </span
+                ><span class="span-4"
+                  >Pompy, które przewyższają branżowe standardy i sprawdzają się nawet w najbardziej wymagających
+                  warunkach pracy.</span
+                >
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="frame-6482-15 frame-6482">
+        <img class="ellipse-2-28" src="<?php echo esc_url( $t ); ?>/img/ellipse-2-45.svg" alt="Ellipse 2" />
+        <div class="frame-6600-1">
+          <img class="shield-1-3" src="<?php echo esc_url( $t ); ?>/img/shield-1.gif" alt="shield 1" />
+          <div class="frame-9 frame">
+            <div class="lab-rd-tile-title manrope-semi-bold-white-40px">Projektujemy niezawodność</div>
+            <p class="lab-rd-tile-desc manrope-medium-white-20px-2">
+              <span class="span-5 manrope-medium-silver-chalice-20px"
+                >Dział badań i rozwoju projektuje pompy wykorzystując </span
+              ><span class="span-5 manrope-medium-white-20px"
+                >zaawansowane instrumenty badawcze i nowoczesne technologie obliczeniowe.</span
+              >
+            </p>
+          </div>
+        </div>
+        <div class="frame-6-4 frame-6">
+          <img class="search-1-3" src="<?php echo esc_url( $t ); ?>/img/search-1.gif" alt="search 1" />
+          <div class="frame-9 frame">
+            <div class="frame-6501-3 frame-6501">
+              <div class="lab-rd-tile-title manrope-semi-bold-white-40px">Badamy<br />komponenty</div>
+            </div>
+            <p class="lab-rd-tile-desc manrope-medium-white-20px-2">
+              <span class="span-5 manrope-medium-white-20px"
+                >Przeprowadzamy kompleksowe testy hydrauliczne i obliczenia dynamiki płynów</span
+              ><span class="span-5 manrope-medium-silver-chalice-20px"
+                >. Każdy komponent przechodzi szczegółową analizę&nbsp;&nbsp;przed dopuszczeniem do produkcji.</span
+              >
+            </p>
+          </div>
+        </div>
+        <div class="frame-6-4 frame-6">
+          <img class="water-meter-1-3" src="<?php echo esc_url( $t ); ?>/img/water-meter-1.gif" alt="water-meter 1" />
+          <div class="frame-9 frame">
+            <div class="lab-rd-tile-title manrope-semi-bold-white-40px">Testujemy <br />gotowe pompy</div>
+            <p class="lab-rd-tile-desc manrope-medium-white-20px-2">
+              <span class="span-5 manrope-medium-white-20px"
+                >Przeprowadzamy testy hydrauliczne i elektryczne, symulujemy ekstremalne warunki pracy.</span
+              ><span class="span-5 manrope-medium-silver-chalice-20px">
+                Każdy model przechodzi wieloetapową kontrolę przed i po wdrożeniu do produkcji.</span
+              >
+            </p>
+          </div>
+        </div>
+      </div>
+      <div class="konsultacja-11">
+        <img class="ellipse-2-23" src="<?php echo esc_url( $t ); ?>/img/ellipse-2-46.svg" alt="Ellipse 2" />
+        <div class="frame-6483-10 frame-6483">
+          <div class="frame-6482-12 frame-6482">
+            <div class="frame-65-6 frame-65">
+              <div class="frame-6501-3 frame-6501">
+                <div class="nieustannie-doskonalimy-produkty-3 manrope-semi-bold-concrete-60px">
+                  Nieustannie doskonalimy <br />produkty
+                </div>
+              </div>
+              <p class="aktywnie-poszukujemy-3">
+                <span class="span-4"
+                  >Aktywnie poszukujemy innowacji, które mogą uczynić nasze pompy jeszcze lepszymi.</span
+                ><span class="span-3 manrope-semi-bold-silver-chalice-23px">
+                  Wdrażamy nowe rozwiązania techniczne zwiększające energooszczędność i niezawodność.</span
+                >
+              </p>
+            </div>
+          </div>
+          <div class="u7761719182_httpss-16 u7761719182_httpss">
+            <img class="ellipse-2-29" src="<?php echo esc_url( $t ); ?>/img/ellipse-2-47.svg" alt="Ellipse 2" />
+            <img class="ellipse-3-6" src="<?php echo esc_url( $t ); ?>/img/ellipse-3-12.svg" alt="Ellipse 3" />
+          </div>
+        </div>
+      </div>
+      <div class="konsultacja-11">
+        <img class="ellipse-2-23" src="<?php echo esc_url( $t ); ?>/img/ellipse-2-48.svg" alt="Ellipse 2" />
+        <div class="frame-6483-10 frame-6483">
+          <div class="u7761719182_httpss-17 u7761719182_httpss">
+            <img class="ellipse-2-24" src="<?php echo esc_url( $t ); ?>/img/ellipse-2-49.svg" alt="Ellipse 2" />
+            <img class="ellipse-3-6" src="<?php echo esc_url( $t ); ?>/img/ellipse-3-13.svg" alt="Ellipse 3" />
+          </div>
+          <div class="frame-6482-12 frame-6482">
+            <div class="frame-65-6 frame-65">
+              <div class="frame-6501-3 frame-6501">
+                <div class="testujemy-w-ekstremalnych-warunkach-3 manrope-semi-bold-concrete-60px">
+                  Testujemy <br />w ekstremalnych warunkach
+                </div>
+              </div>
+              <p class="nasze-laboratorium-w-3 manrope-semi-bold-silver-chalice-23px">
+                Nasze laboratorium wyposażyliśmy w zaawansowaną platformę testową, która odtwarza nawet najbardziej
+                wymagające warunki pracy. <br />
+                <br />Dzięki temu każda pompa Pedrollo, zanim trafi do Ciebie, przechodzi próby w warunkach
+                trudniejszych niż te, które czekają ją w rzeczywistości. To nasza gwarancja niezawodności.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="konsultacja-11">
+        <img class="ellipse-2-23" src="<?php echo esc_url( $t ); ?>/img/ellipse-2-50.svg" alt="Ellipse 2" />
+        <div class="frame-6483-10 frame-6483">
+          <div class="frame-6482-12 frame-6482">
+            <div class="frame-65-6 frame-65">
+              <div class="frame-6501-3 frame-6501">
+                <div class="analizujemy-kady-przepyw-3 manrope-semi-bold-concrete-60px">
+                  Analizujemy <br />każdy przepływ
+                </div>
+              </div>
+              <p class="czymy-zaawansowane-3 manrope-semi-bold-silver-chalice-23px">
+                Łączymy zaawansowane obliczenia dynamiki płynów z dokładną analizą komponentów. Każdy element pompy jest
+                badany pod kątem wydajności i trwałości. Nie pozostawiamy miejsca na przypadek.
+              </p>
+            </div>
+          </div>
+          <div class="u7761719182_httpss-18 u7761719182_httpss">
+            <img class="ellipse-2-24" src="<?php echo esc_url( $t ); ?>/img/ellipse-2-51.svg" alt="Ellipse 2" />
+            <img class="ellipse-3-7" src="<?php echo esc_url( $t ); ?>/img/ellipse-3-14.svg" alt="Ellipse 3" />
+            <div class="rectangle-1116"></div>
+          </div>
+        </div>
+      </div>
+      <div class="konsultacja-11">
+        <img class="ellipse-2-23" src="<?php echo esc_url( $t ); ?>/img/ellipse-2-52.svg" alt="Ellipse 2" />
+        <div class="frame-6483-10 frame-6483">
+          <div class="u7761719182_httpss-19 u7761719182_httpss">
+            <img class="ellipse-2-30" src="<?php echo esc_url( $t ); ?>/img/ellipse-2-53.svg" alt="Ellipse 2" />
+            <img class="ellipse-4-1" src="<?php echo esc_url( $t ); ?>/img/ellipse-4.svg" alt="Ellipse 4" />
+            <img class="ellipse-3-7" src="<?php echo esc_url( $t ); ?>/img/ellipse-3-15.svg" alt="Ellipse 3" />
+          </div>
+          <div class="frame-6482-12 frame-6482">
+            <div class="frame-65-6 frame-65">
+              <div class="frame-6501-3 frame-6501">
+                <div class="sprawdzamy-kady-etap-produkcji-3 manrope-semi-bold-concrete-60px">
+                  Sprawdzamy każdy <br />etap produkcji
+                </div>
+              </div>
+              <p class="kady-element-pompy-3 manrope-semi-bold-silver-chalice-23px">
+                Każdy element pompy przechodzi szczegółową kontrolę międzyoperacyjną. Weryfikujemy dokładność wymiarów,
+                jakość obróbki, wyważenie, spasowanie, poprawność skręcenia elementów, wszelkie parametry elektryczne,
+                mechaniczne i hydrauliczne.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="konsultacja-14">
+        <div class="group-6296-3">
+          <div class="group-6297-3">
+            <img class="ellipse-2-31" src="<?php echo esc_url( $t ); ?>/img/ellipse-2-54.svg" alt="Ellipse 2" />
+            <div class="ellipse-3-9"></div>
+          </div>
+          <img class="vector-18" src="<?php echo esc_url( $t ); ?>/img/vector-28.svg" alt="Vector" />
+        </div>
+        <img class="logo_test-1-3" src="<?php echo esc_url( $t ); ?>/img/logo-test-1.gif" alt="logo_test 1" />
+        <p class="pompy-ktre-nie-zaw-3">Pompy, które nie zawodzą wtedy,<br />gdy najbardziej ich potrzebujesz</p>
+      </div>

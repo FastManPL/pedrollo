@@ -16521,10 +16521,10 @@
 .pedrollou95polskau95mainu953 .nagradzani-zajako-iinnowacje-3 {
   color: var(--concrete);
   font-family: var(--font-family-geist-bold);
-  font-size: 1.46vw;
+  font-size: 1.2rem;
   font-weight: 400;
   letter-spacing: -0.03vw;
-  line-height: 1.46vw;
+  line-height: 1.4;
   position: relative;
   width: fit-content;
 }

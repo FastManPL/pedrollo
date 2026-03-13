@@ -1,0 +1,874 @@
+<?php
+/**
+ * Treść strony Use case pojedynczy (z usecase.html).
+ */
+$t = get_template_directory_uri();
+?>
+      <div class="frame-20">
+        <img class="ellipse-2" src="<?php echo esc_url( $t ); ?>/img/ellipse-2-84.svg" alt="Ellipse 2" />
+        <div class="konsultacja">
+          <h1 class="jak-pompa-pedrollo-o jak-pompa-pedrollo">Jak pompa Pedrollo obniża koszty eksploatacji?</h1>
+          <p class="nisze-zuycie-prdu">
+            <span class="span0">Niższe zużycie prądu, mocniejsza konstrukcja i ponad dekada bezproblemowej pracy </span
+            ><span class="span1">to realne korzyści, które szybko się zwracają.</span>
+          </p>
+          <div class="arrow-2 arrow-3">
+            <div class="frame-76"><img class="line-8-2" src="<?php echo esc_url( $t ); ?>/img/line-8-12.svg" alt="Line 8" /></div>
+          </div>
+        </div>
+      </div>
+      <div class="usecase-table-scroll">
+      <div class="frame-3673321">
+        <div class="frame-3673352 frame-3673352--sticky">
+          <div class="frame-367332-1">
+            <img class="ellipse-2-1" src="<?php echo esc_url( $t ); ?>/img/ellipse-2-85.svg" alt="Ellipse 2" />
+            <div class="tani-zamiennik usecase-table-header">Tani Zamiennik</div>
+            <div class="frame-3673322"><div class="problem manrope-semi-bold-white-20px">Problem</div></div>
+          </div>
+          <div class="frame-367332-1">
+            <img class="ellipse-2-2" src="<?php echo esc_url( $t ); ?>/img/ellipse-2-86.svg" alt="Ellipse 2" />
+            <div class="pompa-pedrollo usecase-table-header">Pompa Pedrollo</div>
+            <div class="frame-3673322-1"><div class="rozwizanie manrope-semi-bold-white-20px">Rozwiązanie</div></div>
+          </div>
+        </div>
+        <div class="group-6318">
+          <div class="czasu manrope-semi-bold-white-16px">Oś czasu</div>
+          <img class="line-23" src="<?php echo esc_url( $t ); ?>/img/line-23.svg" alt="Line 23" />
+        </div>
+        <div class="usecase-mobile-header">
+          <div class="frame-367332-1">
+            <img class="ellipse-2-1" src="<?php echo esc_url( $t ); ?>/img/ellipse-2-85.svg" alt="Ellipse 2" />
+            <div class="tani-zamiennik usecase-table-header">Tani Zamiennik</div>
+            <div class="frame-3673322"><div class="problem manrope-semi-bold-white-20px">Problem</div></div>
+          </div>
+          <div class="frame-367332-1">
+            <img class="ellipse-2-2" src="<?php echo esc_url( $t ); ?>/img/ellipse-2-86.svg" alt="Ellipse 2" />
+            <div class="pompa-pedrollo usecase-table-header">Pompa Pedrollo</div>
+            <div class="frame-3673322-1"><div class="rozwizanie manrope-semi-bold-white-20px">Rozwiązanie</div></div>
+          </div>
+        </div>
+        <div class="frame-3673344">
+          <div class="group-6328">
+            <div class="group-6319">
+              <img
+                class="freepik__assistant__55995-1"
+                src="<?php echo esc_url( $t ); ?>/img/freepik--assistant--55995-1.png"
+                alt="freepik__assistant__55995 1"
+              />
+              <div class="rectangle-1119-1 rectangle-1119-4"></div>
+            </div>
+            <div class="zakup-i-monta usecase-table-header">Zakup i Montaż</div>
+            <div class="frame-68-2 frame-68-11">
+              <div class="frame-3673327">
+                <div class="frame-36733">
+                  <div class="frame-36733-1 frame-36733-4">
+                    <img class="frame-3673331" src="<?php echo esc_url( $t ); ?>/img/frame-3673331-1.svg" alt="Frame 3673331" />
+                    <div class="pompa-900-z manrope-semi-bold-white-18px">Pompa: 900 zł</div>
+                  </div>
+                  <div class="frame-36733-1 frame-36733-4">
+                    <div class="frame-3673331-1">
+                      <div class="group-6314">
+                        <img class="vector-2" src="<?php echo esc_url( $t ); ?>/img/vector-60.svg" alt="Vector" />
+                        <img class="vector-3" src="<?php echo esc_url( $t ); ?>/img/vector-61.svg" alt="Vector" />
+                        <img class="vector-4" src="<?php echo esc_url( $t ); ?>/img/vector-62.svg" alt="Vector" />
+                      </div>
+                    </div>
+                    <div class="monta-500-z manrope-semi-bold-white-18px">Montaż: 500 zł</div>
+                  </div>
+                </div>
+                <div class="frame-3673336-3">
+                  <p class="czny-koszt-od-zakupu manrope-semi-bold-white-18px">Łączny koszt od zakupu: 1400 zł</p>
+                </div>
+              </div>
+            </div>
+            <div class="frame-3673335">
+              <p class="zakup-taniej-pompy manrope-semi-bold-white-16px">
+                Zakup taniej pompy (Nr 1). Pierwszy montaż. Klient jest euforycznie zadowolony z niskiej ceny
+                (&#34;Zaoszczędziłem 1900 zł!&#34;).
+              </p>
+            </div>
+          </div>
+          <div class="frame-36733-2 frame-36733-4">
+            <div class="frame-36733-3 frame-36733-4">
+              <div class="frame-3673326"><div class="number-3 manrope-bold-white-30px">1</div></div>
+              <div class="rok-8 manrope-semi-bold-white-30px">Rok</div>
+            </div>
+          </div>
+          <div class="group-6329">
+            <div class="group-6317">
+              <div class="rectangle-1120-1"></div>
+            </div>
+            <div class="zakup-i-monta-1 usecase-table-header">Zakup i Montaż</div>
+            <div class="frame-68-3 frame-68-11">
+              <div class="frame-3673327">
+                <div class="frame-36733">
+                  <div class="frame-36733-1 frame-36733-4">
+                    <img class="frame-3673331" src="<?php echo esc_url( $t ); ?>/img/frame-3673331-1.svg" alt="Frame 3673331" />
+                    <div class="pompa-2800-z manrope-semi-bold-white-18px">Pompa: 2800 zł</div>
+                  </div>
+                  <div class="frame-36733-1 frame-36733-4">
+                    <div class="frame-3673331-1">
+                      <div class="group-6314">
+                        <img class="vector-2" src="<?php echo esc_url( $t ); ?>/img/vector-60.svg" alt="Vector" />
+                        <img class="vector-3" src="<?php echo esc_url( $t ); ?>/img/vector-61.svg" alt="Vector" />
+                        <img class="vector-4" src="<?php echo esc_url( $t ); ?>/img/vector-62.svg" alt="Vector" />
+                      </div>
+                    </div>
+                    <div class="monta-500-z-1 manrope-semi-bold-white-18px">Montaż: 500 zł</div>
+                  </div>
+                </div>
+                <div class="frame-3673336">
+                  <p class="czny-koszt-od-zakupu manrope-semi-bold-white-18px">Łączny koszt od zakupu: 3300 zł</p>
+                </div>
+              </div>
+            </div>
+            <div class="frame-3673335-1 frame-3673335-9">
+              <p class="zakup-pompy-pedrollo manrope-semi-bold-white-16px">
+                Zakup pompy Pedrollo (Nr 1). Pierwszy montaż. Klient odczuwa ciężar wydatku, jest umiarkowanie
+                zadowolony, ale ufa w jakość <br />i rekomendacje.
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="usecase-mobile-header">
+          <div class="frame-367332-1">
+            <img class="ellipse-2-1" src="<?php echo esc_url( $t ); ?>/img/ellipse-2-85.svg" alt="Ellipse 2" />
+            <div class="tani-zamiennik usecase-table-header">Tani Zamiennik</div>
+            <div class="frame-3673322"><div class="problem manrope-semi-bold-white-20px">Problem</div></div>
+          </div>
+          <div class="frame-367332-1">
+            <img class="ellipse-2-2" src="<?php echo esc_url( $t ); ?>/img/ellipse-2-86.svg" alt="Ellipse 2" />
+            <div class="pompa-pedrollo usecase-table-header">Pompa Pedrollo</div>
+            <div class="frame-3673322-1"><div class="rozwizanie manrope-semi-bold-white-20px">Rozwiązanie</div></div>
+          </div>
+        </div>
+        <div class="frame-3673345">
+          <div class="group-6322">
+            <div class="group-6321">
+              <img
+                class="freepik__assistant__55995-1-1 freepik__assistant__55995-1-3"
+                src="<?php echo esc_url( $t ); ?>/img/freepik--assistant--55995-1-2.png"
+                alt="freepik__assistant__55995 1"
+              />
+              <div class="rectangle-1119-2 rectangle-1119-4"></div>
+            </div>
+            <div class="frame-3673355">
+              <div class="pierwsza-awaria usecase-table-header">Pierwsza Awaria</div>
+              <div class="frame-367335">
+                <div class="objta-gwarancj manrope-semi-bold-white-18px">Objęta gwarancją</div>
+              </div>
+            </div>
+            <div class="frame-68-4 frame-68-11">
+              <div class="frame-3673327-1">
+                <div class="frame-36733">
+                  <div class="frame-36733-1 frame-36733-4">
+                    <div class="frame-3673331-1">
+                      <div class="group-6314">
+                        <img class="vector-2" src="<?php echo esc_url( $t ); ?>/img/vector-60.svg" alt="Vector" />
+                        <img class="vector-3" src="<?php echo esc_url( $t ); ?>/img/vector-61.svg" alt="Vector" />
+                        <img class="vector-4" src="<?php echo esc_url( $t ); ?>/img/vector-62.svg" alt="Vector" />
+                      </div>
+                    </div>
+                    <div class="wymiana-500-z manrope-semi-bold-white-18px">Wymiana: 500 zł</div>
+                  </div>
+                  <div class="frame-367332">
+                    <img class="frame-3673331" src="<?php echo esc_url( $t ); ?>/img/frame-3673331-1.svg" alt="Frame 3673331" />
+                    <p class="nadwyka-za-prd-2-lata-300-z manrope-semi-bold-white-18px">
+                      Nadwyżka za prąd (2 lata) : 300 zł
+                    </p>
+                  </div>
+                </div>
+                <div class="frame-3673336-1">
+                  <p class="czny-koszt-od-zakupu manrope-semi-bold-white-18px">Łączny koszt od zakupu: 2200 zł</p>
+                </div>
+              </div>
+            </div>
+            <div class="frame-3673335-2 frame-3673335-9">
+              <div class="frame-367333">
+                <img class="usecase-icon-awaria" src="<?php echo esc_url( $t ); ?>/img/Arrow-n.png" alt="Awaria" />
+                <div class="awaria manrope-semi-bold-white-18px">Awaria</div>
+              </div>
+              <p class="nagy-brak-wody-i-ty manrope-semi-bold-white-16px">
+                Nagły brak wody i tygodniowe oczekiwanie na serwis. Pompa wymieniona w ramach gwarancji, lecz klient
+                płaci za demontaż i montaż — źródło frustracji.
+              </p>
+            </div>
+          </div>
+          <div class="frame-3673350">
+            <div class="frame-36733-3 frame-36733-4">
+              <div class="frame-3673326-2 frame-3673326-3"><div class="number-3 manrope-bold-white-30px">2</div></div>
+              <div class="rok-8 manrope-semi-bold-white-30px">Rok</div>
+            </div>
+          </div>
+          <div class="group-6323">
+            <div class="group-6320">
+              <div class="rectangle-1120-2"></div>
+            </div>
+            <div class="brak-wydarze usecase-table-header">(Brak Wydarzeń)</div>
+            <div class="frame-68-5 frame-68-11">
+              <div class="frame-367">
+                <div class="frame-3673327">
+                  <div class="frame-36733-1 frame-36733-4">
+                    <img class="frame-3673331" src="<?php echo esc_url( $t ); ?>/img/frame-3673331-4.svg" alt="Frame 3673331" />
+                    <div class="koszty-0-z manrope-semi-bold-white-18px">Koszty: 0 zł</div>
+                  </div>
+                </div>
+              </div>
+              <div class="frame-3673336-4">
+                <p class="czny-koszt-od-zakupu manrope-semi-bold-white-18px">Łączny koszt od zakupu: 3300 zł</p>
+              </div>
+            </div>
+            <div class="frame-3673336-5">
+              <img class="usecase-icon-check" src="<?php echo esc_url( $t ); ?>/img/Arrow-y.png" alt="" />
+              <p class="system-dziaa-bez-za manrope-semi-bold-white-16px">
+                System działa bez zarzutu. Klient docenia stabilne ciśnienie i cichą pracę.
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="usecase-mobile-header">
+          <div class="frame-367332-1">
+            <img class="ellipse-2-1" src="<?php echo esc_url( $t ); ?>/img/ellipse-2-85.svg" alt="Ellipse 2" />
+            <div class="tani-zamiennik usecase-table-header">Tani Zamiennik</div>
+            <div class="frame-3673322"><div class="problem manrope-semi-bold-white-20px">Problem</div></div>
+          </div>
+          <div class="frame-367332-1">
+            <img class="ellipse-2-2" src="<?php echo esc_url( $t ); ?>/img/ellipse-2-86.svg" alt="Ellipse 2" />
+            <div class="pompa-pedrollo usecase-table-header">Pompa Pedrollo</div>
+            <div class="frame-3673322-1"><div class="rozwizanie manrope-semi-bold-white-20px">Rozwiązanie</div></div>
+          </div>
+        </div>
+        <div class="frame-3673359">
+          <div class="frame-3673342">
+            <div class="frame-3673336-9">
+              <div class="frame-3673343"><div class="text-1">!</div></div>
+            </div>
+            <p class="od-tego-momentu-tani manrope-semi-bold-white-15px">
+              Od tego momentu tanie rozwiązanie <br />staje się droższe niż Pedrollo
+            </p>
+          </div>
+        </div>
+        <div class="frame-3673346">
+          <div class="group-6324">
+            <div class="group-6330">
+              <div class="group-6321-1 group-6321-7">
+                <div class="rectangle-1119 rectangle"></div>
+              </div>
+              <div class="frame-3673354">
+                <div class="koniec-ywotnoci usecase-table-header">Koniec Żywotności</div>
+                <div class="frame-367335">
+                  <div class="po-gwarancji manrope-semi-bold-white-18px">Po gwarancji</div>
+                </div>
+              </div>
+              <div class="frame-68-6 frame-68-11">
+                <div class="frame-3673327">
+                  <div class="frame-36733">
+                    <div class="frame-367332">
+                      <img class="frame-367333-1" src="<?php echo esc_url( $t ); ?>/img/frame-3673332-1.svg" alt="Frame 3673332" />
+                      <p class="kupno-nowej-pompy-1000-z-inflacja manrope-semi-bold-white-18px">
+                        Kupno nowej pompy: 1000 zł (inflacja)
+                      </p>
+                    </div>
+                    <div class="frame-36733-1 frame-36733-4">
+                      <div class="frame-3673331-1">
+                        <div class="group-6314">
+                          <img class="vector-2" src="<?php echo esc_url( $t ); ?>/img/vector-60.svg" alt="Vector" />
+                          <img class="vector-3" src="<?php echo esc_url( $t ); ?>/img/vector-61.svg" alt="Vector" />
+                          <img class="vector-4" src="<?php echo esc_url( $t ); ?>/img/vector-62.svg" alt="Vector" />
+                        </div>
+                      </div>
+                      <div class="wymiana-550-z-inflacja manrope-semi-bold-white-18px">Wymiana: 550 zł (inflacja)</div>
+                    </div>
+                    <div class="frame-367332">
+                      <img class="frame-367333-1" src="<?php echo esc_url( $t ); ?>/img/frame-3673332-4.svg" alt="Frame 3673332" />
+                      <p class="nadwyka-za-prd-2-lata-300-z-4 manrope-semi-bold-white-18px">
+                        Nadwyżka za prąd (2 lata) : 300 zł
+                      </p>
+                    </div>
+                  </div>
+                  <div class="frame-3673336-1">
+                    <p class="czny-koszt-od-zakupu manrope-semi-bold-white-18px">Łączny koszt od zakupu: 4050 zł</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="frame-3673335-3 frame-3673335-9">
+              <div class="frame-367333">
+                <img class="usecase-icon-awaria" src="<?php echo esc_url( $t ); ?>/img/Arrow-n.png" alt="Awaria" />
+                <div class="awaria manrope-semi-bold-white-18px">Awaria</div>
+              </div>
+              <p class="pompa-cakowicie-prz manrope-semi-bold-white-16px">
+                Pompa całkowicie przestaje działać. Brak wody w domu (3 dni). Frustracja i złość. Konieczność zakupu
+                nowej pompy na własny koszt. Zakup Pompy Nr 2. Opłacenie hydraulika.
+              </p>
+            </div>
+          </div>
+          <div class="frame-36733-2 frame-36733-4">
+            <div class="frame-36733-3 frame-36733-4">
+              <div class="frame-3673326"><div class="number-3 manrope-bold-white-30px">4</div></div>
+              <div class="rok-8 manrope-semi-bold-white-30px">Rok</div>
+            </div>
+          </div>
+          <div class="group-6325">
+            <div class="group-6320-1 group-6320-7">
+              <div class="rectangle-1120 rectangle"></div>
+            </div>
+            <div class="brak-wydarze-1 brak-wydarze-6 usecase-table-header">(Brak Wydarzeń)</div>
+            <div class="frame-68">
+              <div class="frame-367">
+                <div class="frame-3673327">
+                  <div class="frame-36733-1 frame-36733-4">
+                    <img class="frame-367333-1" src="<?php echo esc_url( $t ); ?>/img/frame-3673332-4.svg" alt="Frame 3673331" />
+                    <div class="koszty-0-z-7 manrope-semi-bold-white-18px">Koszty: 0 zł</div>
+                  </div>
+                </div>
+              </div>
+              <div class="frame-3673336">
+                <p class="czny-koszt-od-zakupu manrope-semi-bold-white-18px">Łączny koszt od zakupu: 3300 zł</p>
+              </div>
+            </div>
+            <div class="frame-3673336-6">
+              <img class="usecase-icon-check" src="<?php echo esc_url( $t ); ?>/img/Arrow-y.png" alt="" />
+              <div class="system-nadal-dziaa-idealnie manrope-semi-bold-white-16px">System nadal działa idealnie.</div>
+            </div>
+          </div>
+        </div>
+        <div class="usecase-mobile-header">
+          <div class="frame-367332-1">
+            <img class="ellipse-2-1" src="<?php echo esc_url( $t ); ?>/img/ellipse-2-85.svg" alt="Ellipse 2" />
+            <div class="tani-zamiennik usecase-table-header">Tani Zamiennik</div>
+            <div class="frame-3673322"><div class="problem manrope-semi-bold-white-20px">Problem</div></div>
+          </div>
+          <div class="frame-367332-1">
+            <img class="ellipse-2-2" src="<?php echo esc_url( $t ); ?>/img/ellipse-2-86.svg" alt="Ellipse 2" />
+            <div class="pompa-pedrollo usecase-table-header">Pompa Pedrollo</div>
+            <div class="frame-3673322-1"><div class="rozwizanie manrope-semi-bold-white-20px">Rozwiązanie</div></div>
+          </div>
+        </div>
+        <div class="frame-3673348">
+          <div class="group-6326">
+            <div class="group-6321-2 group-6321-7">
+              <div class="rectangle-1119 rectangle"></div>
+            </div>
+            <div class="frame-3673353">
+              <div class="kolejna-awaria usecase-table-header">Kolejna Awaria</div>
+              <div class="frame manrope-semi-bold-white-18px">
+                <div class="gwarancja">Gwarancja</div>
+                <div class="frame-367335"><div class="zakup-pompy-nr">Zakup Pompy Nr 2</div></div>
+              </div>
+            </div>
+            <div class="frame-68-7 frame-68-11">
+              <div class="frame-3673327">
+                <div class="frame-36733">
+                  <div class="frame-36733-1 frame-36733-4">
+                    <div class="frame-3673331-1">
+                      <div class="group-6314">
+                        <img class="vector-2" src="<?php echo esc_url( $t ); ?>/img/vector-60.svg" alt="Vector" />
+                        <img class="vector-3" src="<?php echo esc_url( $t ); ?>/img/vector-61.svg" alt="Vector" />
+                        <img class="vector-4" src="<?php echo esc_url( $t ); ?>/img/vector-62.svg" alt="Vector" />
+                      </div>
+                    </div>
+                    <div class="wymiana-600-z-inflacja manrope-semi-bold-white-18px">Wymiana: 600 zł (inflacja)</div>
+                  </div>
+                  <div class="frame-367332">
+                    <img class="frame-367333-1" src="<?php echo esc_url( $t ); ?>/img/frame-3673332-4.svg" alt="Frame 3673332" />
+                    <p class="nadwyka-za-prd-2-lata-300-z-4 manrope-semi-bold-white-18px">
+                      Nadwyżka za prąd (2 lata) : 300 zł
+                    </p>
+                  </div>
+                </div>
+                <div class="frame-3673336-1">
+                  <p class="czny-koszt-od-zakupu manrope-semi-bold-white-18px">Łączny koszt od zakupu: 4950 zł</p>
+                </div>
+              </div>
+            </div>
+            <div class="frame-3673335-4 frame-3673335-9">
+              <div class="frame-367333">
+                <img class="usecase-icon-awaria" src="<?php echo esc_url( $t ); ?>/img/Arrow-n.png" alt="Awaria" />
+                <div class="awaria manrope-semi-bold-white-18px">Awaria</div>
+              </div>
+              <p class="znowu-brak-wody-zm manrope-semi-bold-white-16px">
+                Znowu brak wody. Zmęczenie ciągłymi problemami, kłótnie w domu. Stres związany z reklamacją (5 dni bez
+                wody). Gwarancja uznana, ale koszt hydraulika ponownie po stronie klienta. Poczucie bezsilności i
+                zszargane nerwy.
+              </p>
+            </div>
+          </div>
+          <div class="frame-3673349">
+            <div class="frame-36733-3 frame-36733-4">
+              <div class="frame-3673326-1 frame-3673326-3"><div class="number-3 manrope-bold-white-30px">6</div></div>
+              <div class="rok-8 manrope-semi-bold-white-30px">Rok</div>
+            </div>
+          </div>
+          <div class="group-6327">
+            <div class="group-6320-2 group-6320-7">
+              <div class="rectangle-1120 rectangle"></div>
+            </div>
+            <div class="brak-wydarze-2 brak-wydarze-6 usecase-table-header">(Brak Wydarzeń)</div>
+            <div class="frame-68">
+              <div class="frame-367">
+                <div class="frame-3673327">
+                  <div class="frame-36733-1 frame-36733-4">
+                    <img class="frame-367333-1" src="<?php echo esc_url( $t ); ?>/img/frame-3673332-4.svg" alt="Frame 3673331" />
+                    <div class="koszty-0-z-7 manrope-semi-bold-white-18px">Koszty: 0 zł</div>
+                  </div>
+                </div>
+              </div>
+              <div class="frame-3673336">
+                <p class="czny-koszt-od-zakupu manrope-semi-bold-white-18px">Łączny koszt od zakupu: 3300 zł</p>
+              </div>
+            </div>
+            <div class="frame-3673336-2">
+              <img class="usecase-icon-check" src="<?php echo esc_url( $t ); ?>/img/Arrow-y.png" alt="" />
+              <p class="klient-zapomnia-e manrope-semi-bold-white-16px">
+                Klient zapomniał, że ma pompę w studni. Pełen komfort i spokój.
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="usecase-mobile-header">
+          <div class="frame-367332-1">
+            <img class="ellipse-2-1" src="<?php echo esc_url( $t ); ?>/img/ellipse-2-85.svg" alt="Ellipse 2" />
+            <div class="tani-zamiennik usecase-table-header">Tani Zamiennik</div>
+            <div class="frame-3673322"><div class="problem manrope-semi-bold-white-20px">Problem</div></div>
+          </div>
+          <div class="frame-367332-1">
+            <img class="ellipse-2-2" src="<?php echo esc_url( $t ); ?>/img/ellipse-2-86.svg" alt="Ellipse 2" />
+            <div class="pompa-pedrollo usecase-table-header">Pompa Pedrollo</div>
+            <div class="frame-3673322-1"><div class="rozwizanie manrope-semi-bold-white-20px">Rozwiązanie</div></div>
+          </div>
+        </div>
+        <div class="frame-3673353-1">
+          <div class="group-6326-1">
+            <div class="group-6321-3 group-6321-7">
+              <div class="rectangle-1119 rectangle"></div>
+            </div>
+            <div class="frame-3673354-1 frame-3673354-6">
+              <div class="koniec-ywotnoci-1 usecase-table-header">Koniec Żywotności</div>
+              <div class="frame-367335">
+                <div class="zakup-pompy-nr manrope-semi-bold-white-18px">Zakup Pompy Nr 3</div>
+              </div>
+            </div>
+            <div class="frame-68-1 frame-68-11">
+              <div class="frame-3673327">
+                <div class="frame-36733">
+                  <div class="frame-367332">
+                    <img class="frame-367333-1" src="<?php echo esc_url( $t ); ?>/img/frame-3673332-1.svg" alt="Frame 3673332" />
+                    <p class="kupno-nowej-pompy-1200-z-inflacja manrope-semi-bold-white-18px">
+                      Kupno nowej pompy: 1200 zł (inflacja)
+                    </p>
+                  </div>
+                  <div class="frame-36733-1 frame-36733-4">
+                    <div class="frame-3673331-1">
+                      <div class="group-6314">
+                        <img class="vector-5" src="<?php echo esc_url( $t ); ?>/img/vector-60.svg" alt="Vector" />
+                        <img class="vector-3" src="<?php echo esc_url( $t ); ?>/img/vector-61.svg" alt="Vector" />
+                        <img class="vector-4" src="<?php echo esc_url( $t ); ?>/img/vector-62.svg" alt="Vector" />
+                      </div>
+                    </div>
+                    <div class="wymiana-700-z-inflacja manrope-semi-bold-white-18px">Wymiana: 700 zł (inflacja)</div>
+                  </div>
+                  <div class="frame-367332">
+                    <img class="frame-367333-1" src="<?php echo esc_url( $t ); ?>/img/frame-3673331.svg" alt="Frame 3673332" />
+                    <p class="nadwyka-za-prd-2-lata-300-z-4 manrope-semi-bold-white-18px">
+                      Nadwyżka za prąd (2 lata) : 300 zł
+                    </p>
+                  </div>
+                </div>
+                <div class="frame-3673336-1">
+                  <p class="czny-koszt-od-zakupu manrope-semi-bold-white-18px">Łączny koszt od zakupu: 7150 zł</p>
+                </div>
+              </div>
+            </div>
+            <div class="frame-3673335-5 frame-3673335-9">
+              <div class="frame-367333">
+                <img class="usecase-icon-awaria" src="<?php echo esc_url( $t ); ?>/img/Arrow-n.png" alt="Awaria" />
+                <div class="awaria manrope-semi-bold-white-18px">Awaria</div>
+              </div>
+              <p class="koniec-ywotnoci-po manrope-semi-bold-white-16px">
+                Koniec żywotności Pompy Nr 2. Zakup Pompy Nr 3. Chroniczny stres i zmęczenie sytuacją. Wydatki zaczynają
+                mocno ciążyć na budżecie domowym. Klient wygląda na starszego i zmęczonego.
+              </p>
+            </div>
+          </div>
+          <div class="frame-3673349">
+            <div class="frame-36733-3 frame-36733-4">
+              <div class="frame-3673326-1 frame-3673326-3"><div class="number-3 manrope-bold-white-30px">8</div></div>
+              <div class="rok-8 manrope-semi-bold-white-30px">Rok</div>
+            </div>
+          </div>
+          <div class="group-6327">
+            <div class="group-6320-3 group-6320-7">
+              <div class="rectangle-1120 rectangle"></div>
+            </div>
+            <div class="brak-wydarze-3 brak-wydarze-6 usecase-table-header">(Brak Wydarzeń)</div>
+            <div class="frame-68">
+              <div class="frame-367">
+                <div class="frame-3673327">
+                  <div class="frame-36733-1 frame-36733-4">
+                    <img class="frame-367333-1" src="<?php echo esc_url( $t ); ?>/img/frame-3673331.svg" alt="Frame 3673331" />
+                    <div class="koszty-0-z-7 manrope-semi-bold-white-18px">Koszty: 0 zł</div>
+                  </div>
+                </div>
+              </div>
+              <div class="frame-3673336">
+                <p class="czny-koszt-od-zakupu manrope-semi-bold-white-18px">Łączny koszt od zakupu: 3300 zł</p>
+              </div>
+            </div>
+            <div class="frame-3673336-2">
+              <img class="usecase-icon-check" src="<?php echo esc_url( $t ); ?>/img/Arrow-y.png" alt="" />
+              <p class="niezawodno-przez-8 manrope-semi-bold-white-16px">
+                Niezawodność przez 8 lat. Pełna satysfakcja z wyboru.
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="usecase-mobile-header">
+          <div class="frame-367332-1">
+            <img class="ellipse-2-1" src="<?php echo esc_url( $t ); ?>/img/ellipse-2-85.svg" alt="Ellipse 2" />
+            <div class="tani-zamiennik usecase-table-header">Tani Zamiennik</div>
+            <div class="frame-3673322"><div class="problem manrope-semi-bold-white-20px">Problem</div></div>
+          </div>
+          <div class="frame-367332-1">
+            <img class="ellipse-2-2" src="<?php echo esc_url( $t ); ?>/img/ellipse-2-86.svg" alt="Ellipse 2" />
+            <div class="pompa-pedrollo usecase-table-header">Pompa Pedrollo</div>
+            <div class="frame-3673322-1"><div class="rozwizanie manrope-semi-bold-white-20px">Rozwiązanie</div></div>
+          </div>
+        </div>
+        <div class="frame-3673354-2 frame-3673354-6">
+          <div class="group-6326-2">
+            <div class="group-6321-4 group-6321-7">
+              <div class="rectangle-1119 rectangle"></div>
+            </div>
+            <div class="frame-3673354-3 frame-3673354-6">
+              <div class="koniec-ywotnoci-2 usecase-table-header">Koniec Żywotności</div>
+              <div class="frame-367335">
+                <div class="zakup-pompy-nr manrope-semi-bold-white-18px">Zakup Pompy Nr 4</div>
+              </div>
+            </div>
+            <div class="frame-68-8 frame-68-11">
+              <div class="frame-3673327">
+                <div class="frame-36733">
+                  <div class="frame-367332">
+                    <img class="frame-367333-1" src="<?php echo esc_url( $t ); ?>/img/frame-3673332-1.svg" alt="Frame 3673332" />
+                    <p class="kupno-nowej-pompy-1300-z-inflacja manrope-semi-bold-white-18px">
+                      Kupno nowej pompy: 1300 zł (inflacja)
+                    </p>
+                  </div>
+                  <div class="frame-36733-1 frame-36733-4">
+                    <div class="frame-3673331-1">
+                      <div class="group-6314">
+                        <img class="vector-5" src="<?php echo esc_url( $t ); ?>/img/vector-60.svg" alt="Vector" />
+                        <img class="vector-3" src="<?php echo esc_url( $t ); ?>/img/vector-61.svg" alt="Vector" />
+                        <img class="vector-4" src="<?php echo esc_url( $t ); ?>/img/vector-62.svg" alt="Vector" />
+                      </div>
+                    </div>
+                    <div class="wymiana-750-z-inflacja manrope-semi-bold-white-18px">Wymiana: 750 zł (inflacja)</div>
+                  </div>
+                  <div class="frame-367332">
+                    <img class="frame-367333-1" src="<?php echo esc_url( $t ); ?>/img/frame-3673331.svg" alt="Frame 3673332" />
+                    <p class="nadwyka-za-prd-3-lata-450-z manrope-semi-bold-white-18px">
+                      Nadwyżka za prąd (3 lata) : 450 zł
+                    </p>
+                  </div>
+                </div>
+                <div class="frame-3673336-1">
+                  <p class="czny-koszt-od-zakupu manrope-semi-bold-white-18px">Łączny koszt od zakupu: 9650 zł</p>
+                </div>
+              </div>
+            </div>
+            <div class="frame-3673335-6 frame-3673335-9">
+              <div class="frame-367333">
+                <img class="usecase-icon-awaria" src="<?php echo esc_url( $t ); ?>/img/Arrow-n.png" alt="Awaria" />
+                <div class="awaria manrope-semi-bold-white-18px">Awaria</div>
+              </div>
+              <p class="koniec-ywotnoci-po-3 manrope-semi-bold-white-16px">
+                Koniec żywotności Pompy Nr 3. Zakup Pompy Nr 4. Klient jest załamany psychicznie. Strach przed wyjazdem
+                na urlop z powodu ryzyka awarii pod jego nieobecność.
+              </p>
+            </div>
+          </div>
+          <div class="frame-3673349">
+            <div class="frame-36733-3 frame-36733-4">
+              <div class="frame-3673326-1 frame-3673326-3">
+                <div class="number-2 number-3 manrope-bold-white-30px">11</div>
+              </div>
+              <div class="rok-8 manrope-semi-bold-white-30px">Rok</div>
+            </div>
+          </div>
+          <div class="group-6327">
+            <div class="group-6320-4 group-6320-7">
+              <div class="rectangle-1120 rectangle"></div>
+            </div>
+            <div class="brak-wydarze-4 brak-wydarze-6 usecase-table-header">(Brak Wydarzeń)</div>
+            <div class="frame-68">
+              <div class="frame-367">
+                <div class="frame-3673327">
+                  <div class="frame-36733-1 frame-36733-4">
+                    <img class="frame-367333-1" src="<?php echo esc_url( $t ); ?>/img/frame-3673331.svg" alt="Frame 3673331" />
+                    <div class="koszty-0-z-7 manrope-semi-bold-white-18px">Koszty: 0 zł</div>
+                  </div>
+                </div>
+              </div>
+              <div class="frame-3673336">
+                <p class="czny-koszt-od-zakupu manrope-semi-bold-white-18px">Łączny koszt od zakupu: 3300 zł</p>
+              </div>
+            </div>
+            <div class="frame-3673336-2">
+              <img class="usecase-icon-check" src="<?php echo esc_url( $t ); ?>/img/Arrow-y.png" alt="" />
+              <p class="peen-relaks-i-zaufa manrope-semi-bold-white-16px">
+                Pełen relaks i zaufanie do sprzętu. Klient planuje wakacje bez stresu.
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="usecase-mobile-header">
+          <div class="frame-367332-1">
+            <img class="ellipse-2-1" src="<?php echo esc_url( $t ); ?>/img/ellipse-2-85.svg" alt="Ellipse 2" />
+            <div class="tani-zamiennik usecase-table-header">Tani Zamiennik</div>
+            <div class="frame-3673322"><div class="problem manrope-semi-bold-white-20px">Problem</div></div>
+          </div>
+          <div class="frame-367332-1">
+            <img class="ellipse-2-2" src="<?php echo esc_url( $t ); ?>/img/ellipse-2-86.svg" alt="Ellipse 2" />
+            <div class="pompa-pedrollo usecase-table-header">Pompa Pedrollo</div>
+            <div class="frame-3673322-1"><div class="rozwizanie manrope-semi-bold-white-20px">Rozwiązanie</div></div>
+          </div>
+        </div>
+        <div class="frame-3673355-1">
+          <div class="group-6326-3">
+            <div class="group-6321-5 group-6321-7">
+              <div class="rectangle-1119 rectangle"></div>
+            </div>
+            <div class="frame-3673354-4 frame-3673354-6">
+              <div class="koniec-ywotnoci-3 usecase-table-header">Koniec Żywotności</div>
+              <div class="frame-367335">
+                <div class="zakup-pompy-nr manrope-semi-bold-white-18px">Zakup Pompy Nr 5</div>
+              </div>
+            </div>
+            <div class="frame-68-1 frame-68-11">
+              <div class="frame-3673327">
+                <div class="frame-36733">
+                  <div class="frame-367332">
+                    <img class="frame-367333-1" src="<?php echo esc_url( $t ); ?>/img/frame-3673332-1.svg" alt="Frame 3673332" />
+                    <p class="kupno-nowej-pompy-1500-z-inflacja manrope-semi-bold-white-18px">
+                      Kupno nowej pompy: 1500 zł (inflacja)
+                    </p>
+                  </div>
+                  <div class="frame-36733-1 frame-36733-4">
+                    <div class="frame-3673331-1">
+                      <div class="group-6314">
+                        <img class="vector-5" src="<?php echo esc_url( $t ); ?>/img/vector-60.svg" alt="Vector" />
+                        <img class="vector-3" src="<?php echo esc_url( $t ); ?>/img/vector-61.svg" alt="Vector" />
+                        <img class="vector-4" src="<?php echo esc_url( $t ); ?>/img/vector-62.svg" alt="Vector" />
+                      </div>
+                    </div>
+                    <div class="wymiana-800-z-inflacja manrope-semi-bold-white-18px">Wymiana: 800 zł (inflacja)</div>
+                  </div>
+                  <div class="frame-367332">
+                    <img class="frame-367333-1" src="<?php echo esc_url( $t ); ?>/img/frame-3673331.svg" alt="Frame 3673332" />
+                    <p class="nadwyka-za-prd-3-lata-450-z-1 manrope-semi-bold-white-18px">
+                      Nadwyżka za prąd (3 lata) : 450 zł
+                    </p>
+                  </div>
+                </div>
+                <div class="frame-3673336-1">
+                  <p class="czny-koszt-od-zakupu manrope-semi-bold-white-18px">Łączny koszt od zakupu: 12400 zł</p>
+                </div>
+              </div>
+            </div>
+            <div class="frame-3673335-7 frame-3673335-9">
+              <div class="frame-367333">
+                <img class="usecase-icon-awaria" src="<?php echo esc_url( $t ); ?>/img/Arrow-n.png" alt="Awaria" />
+                <div class="awaria manrope-semi-bold-white-18px">Awaria</div>
+              </div>
+              <p class="koniec-ywotnoci-po-3 manrope-semi-bold-white-16px">
+                Koniec żywotności Pompy Nr 4. Zakup Pompy Nr 5. Rezygnacja, poczucie porażki i wyczerpanie nerwowe.
+                &#34;Oszczędność&#34; okazała się koszmarem finansowym i zdrowotnym. Klient jest postarzały.
+              </p>
+            </div>
+          </div>
+          <div class="frame-3673349">
+            <div class="frame-36733-3 frame-36733-4">
+              <div class="frame-3673326-1 frame-3673326-3">
+                <div class="number-1 number-3 manrope-bold-white-30px">14</div>
+              </div>
+              <div class="rok-8 manrope-semi-bold-white-30px">Rok</div>
+            </div>
+          </div>
+          <div class="group-6327">
+            <div class="group-6320-5 group-6320-7">
+              <div class="rectangle-1120 rectangle"></div>
+            </div>
+            <div class="brak-wydarze-5 brak-wydarze-6 usecase-table-header">(Brak Wydarzeń)</div>
+            <div class="frame-68">
+              <div class="frame-367">
+                <div class="frame-3673327">
+                  <div class="frame-36733-1 frame-36733-4">
+                    <img class="frame-367333-1" src="<?php echo esc_url( $t ); ?>/img/frame-3673331.svg" alt="Frame 3673331" />
+                    <div class="koszty-0-z-7 manrope-semi-bold-white-18px">Koszty: 0 zł</div>
+                  </div>
+                </div>
+              </div>
+              <div class="frame-3673336">
+                <p class="czny-koszt-od-zakupu manrope-semi-bold-white-18px">Łączny koszt od zakupu: 3300 zł</p>
+              </div>
+            </div>
+            <div class="frame-3673336-2">
+              <img class="usecase-icon-check" src="<?php echo esc_url( $t ); ?>/img/Arrow-y.png" alt="" />
+              <p class="address-2 manrope-semi-bold-white-16px">
+                14 lat bez dotykania systemu. Duma z mądrej decyzji podjętej lata temu.
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="usecase-mobile-header">
+          <div class="frame-367332-1">
+            <img class="ellipse-2-1" src="<?php echo esc_url( $t ); ?>/img/ellipse-2-85.svg" alt="Ellipse 2" />
+            <div class="tani-zamiennik usecase-table-header">Tani Zamiennik</div>
+            <div class="frame-3673322"><div class="problem manrope-semi-bold-white-20px">Problem</div></div>
+          </div>
+          <div class="frame-367332-1">
+            <img class="ellipse-2-2" src="<?php echo esc_url( $t ); ?>/img/ellipse-2-86.svg" alt="Ellipse 2" />
+            <div class="pompa-pedrollo usecase-table-header">Pompa Pedrollo</div>
+            <div class="frame-3673322-1"><div class="rozwizanie manrope-semi-bold-white-20px">Rozwiązanie</div></div>
+          </div>
+        </div>
+        <div class="frame-3673356">
+          <div class="group-6326-4">
+            <div class="group-6321-6 group-6321-7">
+              <img
+                class="freepik__assistant__55995-1-2 freepik__assistant__55995-1-3"
+                src="<?php echo esc_url( $t ); ?>/img/freepik--assistant--55995-1-8.png"
+                alt="freepik__assistant__55995 1"
+              />
+              <div class="rectangle-1119-3 rectangle-1119-4"></div>
+              <div class="rectangle-1120-3"></div>
+            </div>
+            <div class="frame-3673354-5 frame-3673354-6">
+              <div class="podsumowanie-koszmaru podsumowanie-1 usecase-table-header">
+                Podsumowanie<br />koszmaru
+              </div>
+            </div>
+            <div class="frame-68-9 frame-68-11">
+              <div class="frame-3673327">
+                <div class="frame-36733">
+                  <div class="frame-367332">
+                    <img class="frame-367333-1" src="<?php echo esc_url( $t ); ?>/img/frame-3673331.svg" alt="Frame 3673332" />
+                    <p class="nadwyka-za-prd-1-rok-150-z manrope-semi-bold-white-18px">
+                      Nadwyżka za prąd (1 rok) : 150 zł
+                    </p>
+                  </div>
+                </div>
+                <div class="frame-3673336-7">
+                  <div class="czny-koszt-od-zakupu manrope-semi-bold-white-18px">Łączny koszt od zakupu:</div>
+                  <div class="price">12550 zł</div>
+                </div>
+              </div>
+            </div>
+            <div class="frame-3673335-8 frame-3673335-9">
+              <p class="klient-jest-zestreso manrope-semi-bold-white-16px">
+                Klient jest zestresowany, postarzały i znacznie biedniejszy. Wydał fortunę na 5 pomp, 8 interwencji
+                hydraulika (1 montaż + 7 awarii/wymian) i wysokie rachunki za prąd. Zmarnował tygodnie bez wody.
+              </p>
+            </div>
+          </div>
+          <div class="frame-3673349">
+            <div class="frame-36733-3 frame-36733-4">
+              <div class="frame-3673326-1 frame-3673326-3">
+                <div class="number-1 number-3 manrope-bold-white-30px">14</div>
+              </div>
+              <div class="rok-8 manrope-semi-bold-white-30px">Rok</div>
+            </div>
+          </div>
+          <div class="group-6327">
+            <div class="group-6320-6 group-6320-7">
+              <div class="rectangle-1120 rectangle"></div>
+            </div>
+            <div class="podsumowanie podsumowanie-1 usecase-table-header">Podsumowanie</div>
+            <div class="frame-68-10 frame-68-11">
+              <div class="frame-36733">
+                <div class="frame-3673327">
+                  <div class="frame-36733-1 frame-36733-4">
+                    <img class="frame-367333-1" src="<?php echo esc_url( $t ); ?>/img/frame-3673331.svg" alt="Frame 3673331" />
+                    <div class="koszty-0-z-7 manrope-semi-bold-white-18px">Koszty: 0 zł</div>
+                  </div>
+                </div>
+              </div>
+              <div class="frame-3673336-8">
+                <div class="czny-koszt-od-zakupu-1 manrope-semi-bold-white-18px">Łączny koszt od zakupu:</div>
+                <div class="price">3300 zł</div>
+              </div>
+            </div>
+            <div class="frame-3673336-2">
+              <img class="usecase-icon-check" src="<?php echo esc_url( $t ); ?>/img/Arrow-y.png" alt="" />
+              <p class="address-2 manrope-semi-bold-white-16px">
+                14 lat bez dotykania systemu. Duma z mądrej decyzji podjętej lata temu.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      </div>
+      <div class="frame-36860">
+        <div class="frame-6604">
+          <div class="_case">
+            <img
+              class="arrow_stroke_on_white_blue"
+              src="<?php echo esc_url( $t ); ?>/img/arrow-stroke-on-white-blue.svg"
+              alt="Arrow_stroke_on_white_blue"
+            />
+            <div class="frame-6608">
+              <div class="frame-65">
+                <div class="e-use-case">
+                  <span class="span0-1">Poprzednie</span><span class="span1-1"> Use Case</span>
+                </div>
+                <div class="jak-pompa-pedrollo-obnia jak-pompa-pedrollo">Jak pompa Pedrollo obniża...</div>
+              </div>
+            </div>
+          </div>
+          <div class="_case">
+            <div class="frame-6608">
+              <div class="frame-65">
+                <div class="e-use-case">
+                  <span class="span0-1">Następne </span><span class="span1-1">Use Case</span>
+                </div>
+                <div class="dobry-tytu-wietnej-treci">Dobry tytuł świetnej treści...</div>
+              </div>
+            </div>
+            <img
+              class="arrow_stroke_on_white_blue"
+              src="<?php echo esc_url( $t ); ?>/img/arrow-stroke-on-white-blue-1.svg"
+              alt="Arrow_stroke_on_white_blue"
+            />
+          </div>
+        </div>
+      </div>
+      <div class="porownanie">
+        <img class="ellipse-2-3" src="<?php echo esc_url( $t ); ?>/img/ellipse-2-87.svg" alt="Ellipse 2" />
+        <div class="frame-6483">
+          <div class="frame-6567">
+            <div class="ellipse-3"></div>
+            <img class="vector-7" src="<?php echo esc_url( $t ); ?>/img/vector-84.svg" alt="Vector" />
+            <img class="pompa_5_po_upcale-1" src="<?php echo esc_url( $t ); ?>/img/pompa-5-po-upcale-1.png" alt="pompa_5_po_upcale 1" />
+          </div>
+          <div class="frame-6482">
+            <div class="frame-1">
+              <div class="frame-1">
+                <div class="szukasz-efektywnej">Szukasz efektywnej,<br />elektrycznej pompy<br />głębinowej?</div>
+              </div>
+              <p class="nie-ryzykuj-z-wybore">
+                <span class="span0">Nie ryzykuj z wyborem pompy. </span
+                ><span class="span1"
+                  >Skorzystaj z bezpłatnej konsultacji i dobierz rozwiązanie idealne do Twoich wymagań.</span
+                >
+              </p>
+            </div>
+            <div class="button_to_dark_navi">
+              <p class="poznaj-nasz-zestaw geist-medium-white-19px">Bezpłatna konsultacja z doradcą technicznym</p>
+              <img class="arrow_right" src="<?php echo esc_url( $t ); ?>/img/arrow-right-4.svg" alt="Arrow_right" />
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </div>

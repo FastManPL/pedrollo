@@ -1,0 +1,287 @@
+/* screen - modalu95rata */
+
+.modalu95rata {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 0.84vw;
+  position: relative;
+}
+
+.modalu95rata .konsultacja::before {
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  background: linear-gradient(270deg, rgba(64, 100, 223, 0.3) 0%, rgba(64, 100, 223, 1) 50%, rgba(64, 100, 223, 0.4) 100%);
+  border-radius: 2.52vw;
+  content: '';
+  inset: 0;
+  mask-composite: exclude;
+  padding: 0.08vw;
+  pointer-events: none;
+  position: absolute;
+  z-index: 1;
+}
+
+.modalu95rata .konsultacja {
+  -webkit-backdrop-filter: blur(2.1vw) brightness(100%);
+  align-items: center;
+  align-self: stretch;
+  backdrop-filter: blur(2.1vw) brightness(100%);
+  background: linear-gradient(0deg, rgba(64, 100, 223, 0.05) 0%, rgba(64, 100, 223, 0.05) 100%), linear-gradient(0deg, rgba(10, 10, 10, 0.5) 0%, rgba(10, 10, 10, 0.5) 100%);
+  border: none;
+  border-radius: 2.52vw;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.84vw;
+  padding: 6.72vw;
+  position: relative;
+  width: 100%;
+}
+
+.modalu95rata .frame-6482 {
+  align-items: center;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 2.52vw;
+  width: 80.67vw;
+}
+
+.modalu95rata .frame-6594 {
+  align-items: flex-start;
+  align-self: stretch;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 1.68vw;
+  width: 100%;
+}
+
+.modalu95rata .frame-65 {
+  align-items: center;
+  align-self: stretch;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 2.52vw;
+  width: 100%;
+}
+
+.modalu95rata .frame-6595 {
+  align-items: center;
+  align-self: stretch;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 1.68vw;
+  width: 100%;
+}
+
+.modalu95rata .sprawd-wysoko-rat {
+  height: 3.28vw;
+  position: relative;
+  width: 32.33vw;
+}
+
+.modalu95rata .frame-6590 {
+  align-items: flex-start;
+  align-self: stretch;
+  flex: 0 0 auto;
+  gap: 5.04vw;
+  padding: 0.0vw 60.0vw;
+  width: 100%;
+}
+
+.modalu95rata .frame-658 {
+  align-items: flex-start;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 0.84vw;
+}
+
+.modalu95rata .frame-6574 {
+  align-items: center;
+  align-self: stretch;
+  border: 0.08vw solid;
+  border-color: var(--royal-blue);
+  border-radius: 2.52vw;
+  gap: 0.42vw;
+  height: 4.45vw;
+  padding: 0.67vw 0.0vw 0.67vw 30.0vw;
+  width: 100%;
+}
+
+.modalu95rata .frame-6574-1 {
+  height: 4.29vw;
+}
+
+.modalu95rata .rat {
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+}
+
+.modalu95rata .frame-6592::before {
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  background: linear-gradient(270deg, rgba(42, 44, 55, 1) 0%, rgba(64, 100, 223, 1) 50%, rgba(42, 44, 55, 1) 100%);
+  border-radius: 2.52vw;
+  content: '';
+  inset: 0;
+  mask-composite: exclude;
+  padding: 0.08vw;
+  pointer-events: none;
+  position: absolute;
+  z-index: 1;
+}
+
+.modalu95rata .frame-6592 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--royal-blue-6);
+  border: none;
+  border-radius: 2.52vw;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.84vw;
+  padding: 3.36vw 5.04vw;
+  width: 100%;
+}
+
+.modalu95rata .frame-6591 {
+  align-items: flex-start;
+  align-self: stretch;
+  flex: 0 0 auto;
+  gap: 5.04vw;
+  width: 100%;
+}
+
+.modalu95rata .frame-6588 {
+  align-items: flex-start;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 0.84vw;
+  height: 8.32vw;
+}
+
+.modalu95rata .wysoko-miesicznej-raty {
+  align-self: stretch;
+  height: 1.91vw;
+  position: relative;
+  width: 100%;
+}
+
+.modalu95rata .frame-6574-2 {
+  background-color: #0c0e14;
+  height: 4.45vw;
+  margin-bottom: -0.08vw;
+}
+
+.modalu95rata .text-6 {
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+}
+
+.modalu95rata .cakowity-koszt {
+  align-self: stretch;
+  height: 1.8vw;
+  position: relative;
+  width: 100%;
+}
+
+.modalu95rata .frame-6574-3 {
+  background-color: #0c0e14;
+  height: 4.45vw;
+}
+
+.modalu95rata .phone {
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+}
+
+.modalu95rata .oprocentowanie-stae {
+  align-self: stretch;
+  height: 1.5vw;
+  position: relative;
+  width: 100%;
+}
+
+.modalu95rata .symulacja-ma-charakt {
+  align-self: stretch;
+  height: 4.24vw;
+  position: relative;
+  width: 100%;
+}
+
+.modalu95rata .button_to_dark_navi {
+  align-items: center;
+  background: linear-gradient(270deg, rgba(64, 100, 223, 1) 0%, rgba(24, 30, 51, 1) 100%);
+  border: 0.17vw solid;
+  border-color: var(--royal-blue);
+  border-radius: 2.52vw;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.84vw;
+  justify-content: center;
+  padding: 1.18vw 2.18vw;
+  position: relative;
+}
+
+.modalu95rata .poznaj-nasz-zestaw {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.17vw;
+  position: relative;
+  width: fit-content;
+}
+
+.modalu95rata .arrow_right {
+  height: 1.6vw;
+  margin-right: -0.1vw;
+  position: relative;
+  width: 1.78vw;
+}
+
+.modalu95rata .close {
+  height: 5.04vw;
+  left: 91.6vw;
+  position: absolute;
+  top: 3.36vw;
+  width: 5.04vw;
+}
+
+.modalu95rata .frame {
+  display: flex;
+  position: relative;
+}
+
+.modalu95rata .frame-6574-4 {
+  align-items: center;
+  align-self: stretch;
+  border: 0.08vw solid;
+  border-color: var(--royal-blue);
+  border-radius: 2.52vw;
+  display: flex;
+  gap: 0.42vw;
+  padding: 0.67vw 0.0vw 0.67vw 30.0vw;
+  position: relative;
+  width: 100%;
+}
+
+.modalu95rata .number-2 {
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+}
+
+.modalu95rata .price-3 {
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+}

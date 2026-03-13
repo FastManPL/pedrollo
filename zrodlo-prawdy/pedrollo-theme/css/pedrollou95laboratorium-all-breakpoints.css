@@ -1,0 +1,1728 @@
+/* Laboratorium – ekran INDEX z AnimaPackage-Flex-4ZvV6 (u7761719182-httpss-15.png itd.), scope .page--laboratorium */
+
+.page--laboratorium {
+  align-items: flex-start;
+  background-color: var(--cod-gray);
+  display: flex;
+  flex-direction: column;
+  min-width: 100%;
+  position: relative;
+}
+
+/* Ellipsy i tła dekoracyjne pod treścią – nie blokują zaznaczania tekstu ani hover */
+.page--laboratorium .rectangle-6-1,
+.page--laboratorium .rectangle-1113,
+.page--laboratorium .ellipse-2-25,
+.page--laboratorium .ellipse-3-8,
+.page--laboratorium .ellipse-2-26,
+.page--laboratorium .ellipse-2-27,
+.page--laboratorium .ellipse-2-28,
+.page--laboratorium .ellipse-2-23,
+.page--laboratorium .ellipse-2-29,
+.page--laboratorium .ellipse-3-6,
+.page--laboratorium .ellipse-2-24,
+.page--laboratorium .ellipse-3-7,
+.page--laboratorium .ellipse-2-30,
+.page--laboratorium .ellipse-4-1,
+.page--laboratorium .ellipse-2-31,
+.page--laboratorium .ellipse-3-9,
+.page--laboratorium .ellipse-2-32 {
+  z-index: 0;
+}
+
+/* Treść i interaktywne elementy nad ellipsami */
+.page--laboratorium .konsultacja-12 .frame-6483-11,
+.page--laboratorium .konsultacja-12 .u7761719182_httpss-15,
+.page--laboratorium .frame-84-3,
+.page--laboratorium .frame-126-1,
+.page--laboratorium .konsultacja-13 .frame-6483-10,
+.page--laboratorium .frame-6482-15 .frame-6600-1,
+.page--laboratorium .frame-6482-15 .frame-6-4,
+.page--laboratorium .konsultacja-11 .frame-6483-10,
+.page--laboratorium .konsultacja-14 .group-6296-3 {
+  position: relative;
+  z-index: 1;
+}
+
+.page--laboratorium .frame-20 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 28rem;
+  position: relative;
+  width: 100%;
+  margin-top:7rem;
+}
+
+.page--laboratorium .rectangle-1113 {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.page--laboratorium .rectangle-6-1 {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(180deg, rgba(27, 27, 27, 0.5) 0%, rgba(27, 27, 27, 0) 100%);
+}
+
+.page--laboratorium .konsultacja-12 {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 3.56rem;
+  width: 100%;
+  max-width: 71rem;
+  padding: 0 1.5rem;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+
+.page--laboratorium .konsultacja-12 .frame-6483-11,
+.page--laboratorium .konsultacja-12 .u7761719182_httpss-15 {
+  min-width: 0;
+}
+
+.page--laboratorium .konsultacja-12 .frame-6482-13 {
+  flex-shrink: 0;
+}
+
+.page--laboratorium .ellipse-2-25 {
+  height: 67.15rem;
+  left: calc(50.00% - 33.57rem);
+  position: absolute;
+  top: calc(50.00% - 33.53rem);
+  width: 67.15rem;
+}
+
+.page--laboratorium .frame-6483-11 {
+  display: inline-flex;
+}
+
+.page--laboratorium .frame-6482-13 {
+  align-items: flex-start;
+  flex-direction: column;
+  gap: 1.78rem;
+  width: 24.01rem;
+}
+
+.page--laboratorium .frame-8 {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.89rem;
+}
+
+.page--laboratorium .frame-6501-4 {
+  align-items: center;
+}
+
+.page--laboratorium .title-3 {
+  align-self: stretch;
+  letter-spacing: -0.05rem;
+  line-height: 1.3;
+  margin-top: -0.04rem;
+  position: relative;
+}
+
+.page--laboratorium .frame-9 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.89rem;
+}
+
+.page--laboratorium .produkty-o-wyjtkowe-3 {
+  align-self: stretch;
+  color: var(--concrete);
+  font-family: var(--font-family-manrope);
+  font-size: 1.37rem;
+  font-weight: 600;
+  letter-spacing: -0.03rem;
+  line-height: 1.4;
+  margin-top: -0.04rem;
+  position: relative;
+}
+
+.page--laboratorium .przechodz-je-w-spec-3 {
+  align-self: stretch;
+  letter-spacing: -0.02rem;
+  line-height: 1.4;
+  position: relative;
+}
+
+.page--laboratorium .button_to_dark_navi {
+  align-items: center;
+  background: linear-gradient(270deg, rgba(64, 100, 223, 1) 0%, rgba(24, 30, 51, 1) 100%);
+  border: 0.09rem solid;
+  border-color: var(--royal-blue-3);
+  border-radius: 1.33rem;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.44rem;
+  justify-content: center;
+  padding: 0.62rem 1.15rem;
+  position: relative;
+}
+
+.page--laboratorium .poznaj-nasz-zestaw {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.09rem;
+  position: relative;
+  width: fit-content;
+}
+
+.page--laboratorium .arrow_down-10 {
+  height: 0.94rem;
+  position: relative;
+  width: 0.85rem;
+}
+
+.page--laboratorium .u7761719182_httpss-15 {
+  aspect-ratio: 1.33;
+  object-fit: cover;
+}
+
+
+
+.page--laboratorium .frame-27-2 {
+  align-items: center;
+  align-self: stretch;
+  border-bottom-style: solid;
+  border-bottom-width: 0.04rem;
+  border-color: var(--white-3);
+  display: flex;
+  gap: 4.89rem;
+  height: 4.45rem;
+  padding: 0rem 34.15rem;
+  position: relative;
+  width: 100%;
+}
+
+.page--laboratorium .group-1-4 {
+  background-image: url(../img/group-1-24@2x.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+}
+
+.page--laboratorium .frame-2-2 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  justify-content: space-between;
+  position: relative;
+}
+
+.page--laboratorium .frame-6-5 {
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 2.66rem;
+}
+
+.page--laboratorium .menu-hover-1 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.44rem;
+  height: 4.45rem;
+  position: relative;
+}
+
+.page--laboratorium .frame-33-5 {
+  height: 4.35rem;
+}
+
+.page--laboratorium .label-12 {
+  letter-spacing: 0.01rem;
+  line-height: normal;
+}
+
+.page--laboratorium .arrow_down-8 {
+  height: 0.28rem;
+  position: relative;
+  width: 0.67rem;
+}
+
+.page--laboratorium .arrow_down-9 {
+  height: 132.38%;
+  left: -4.34%;
+  position: absolute;
+  top: -11.86%;
+  width: 108.67%;
+}
+
+.page--laboratorium .frame-25-1 {
+  height: 4.45rem;
+  position: relative;
+  width: 2.58rem;
+}
+
+.page--laboratorium .frame-5-2 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 3.12rem;
+  position: relative;
+}
+
+.page--laboratorium .call_button-1::before {
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  background: linear-gradient(90deg, rgba(64, 100, 223, 1) 0%, rgba(55, 55, 55, 1) 100%);
+  border-radius: 1.33rem;
+  content: '';
+  inset: 0;
+  mask-composite: exclude;
+  padding: 0.09rem;
+  pointer-events: none;
+  position: absolute;
+  z-index: 1;
+}
+
+.page--laboratorium .call_button-1 {
+  align-items: center;
+  background: linear-gradient(90deg, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 255, 0) 100%);
+  border: none;
+  border-radius: 1.33rem;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.44rem;
+  height: 2.31rem;
+  justify-content: center;
+  padding: 0.62rem 1.15rem;
+  position: relative;
+}
+
+.page--laboratorium .frame-1-3 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.44rem;
+  justify-content: center;
+  margin-bottom: -0.14rem;
+  margin-top: -0.14rem;
+  position: relative;
+}
+
+.page--laboratorium .vector-16 {
+  aspect-ratio: 0.61;
+  height: 1.33rem;
+  position: relative;
+  width: 0.81rem;
+}
+
+.page--laboratorium .phone-1 {
+  letter-spacing: 0.01rem;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+}
+
+.page--laboratorium .dobierz_pompe-1 {
+  align-items: center;
+  background-color: var(--royal-blue-3);
+  border-radius: 1.33rem;
+  display: flex;
+  gap: 0.89rem;
+  height: 2.31rem;
+  padding: 0.62rem 3.12rem 0.62rem 1.15rem;
+  position: relative;
+  width: 10.41rem;
+}
+
+.page--laboratorium .frame-4-2 {
+  align-items: center;
+  background-color: var(--concrete);
+  border-radius: 1.33rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.44rem;
+  height: 2.13rem;
+  justify-content: center;
+  left: 8.18rem;
+  padding: 0.44rem 0.58rem;
+  position: absolute;
+  top: 0.09rem;
+  width: 2.13rem;
+}
+
+.page--laboratorium .group-3-1 {
+  height: 0.53rem;
+  position: relative;
+  width: 0.85rem;
+}
+
+.page--laboratorium .vector-17 {
+  height: 110.82%;
+  left: 68.77%;
+  position: absolute;
+  top: -5.41%;
+  width: 37.42%;
+}
+
+.page--laboratorium .vector-15 {
+  height: 16.67%;
+  left: -5.19%;
+  position: absolute;
+  top: 41.67%;
+  width: 105.19%;
+}
+
+.page--laboratorium .dobierz-pomp-1 {
+  letter-spacing: -0.02rem;
+  line-height: normal;
+  margin-top: -0.07rem;
+  position: relative;
+  width: fit-content;
+}
+
+.page--laboratorium .frame-36783 {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.44rem;
+  justify-content: center;
+  padding: 3.56rem 18.23rem;
+}
+
+.page--laboratorium .ellipse-3-8 {
+  background-color: var(--white-2);
+  border-radius: 17.23rem;
+  filter: blur(8.09rem);;
+  height: 34.46rem;
+  left: 25.43rem;
+  position: absolute;
+  top: -2.98rem;
+  width: 34.46rem;
+  opacity:0.1;
+}
+
+.page--laboratorium .frame-84-3 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 3.12rem;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.page--laboratorium .pena-zgodno-z-normami-3 {
+  letter-spacing: -0.08rem;
+  line-height: 1.3;
+  margin-top: -0.04rem;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--laboratorium .frame-126-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 1.78rem;
+  position: relative;
+  width: 100%;
+}
+
+.page--laboratorium .niezawodnosc-3::before {
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  background: conic-gradient(from 90deg at 48% 50%, rgba(53, 71, 131, 0.6) 0%, rgba(53, 71, 131, 0.6) 15%, rgba(53, 71, 131, 0.6) 31%);
+  border-radius: 0.89rem;
+  content: '';
+  inset: 0;
+  mask-composite: exclude;
+  padding: 0.09rem;
+  pointer-events: none;
+  position: absolute;
+  z-index: 0;
+}
+
+.page--laboratorium .niezawodnosc-3 {
+  align-items: center;
+  border: none;
+  border-radius: 0.89rem;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 0.89rem;
+  height: 14.72rem;
+  justify-content: center;
+  padding: 2.66rem;
+  position: relative;
+}
+
+.page--laboratorium .nizp-atest-scwa-1-3 {
+  height: 5.87rem;
+  position: relative;
+  width: 5.87rem;
+}
+
+.page--laboratorium .atest-higieniczny-pzh-4 {
+  margin-left: -0.26rem;
+  margin-right: -0.26rem;
+}
+
+.page--laboratorium .iso-3 {
+  height: 5.87rem;
+  position: relative;
+  width: 5.87rem;
+}
+
+.page--laboratorium .reach-3 {
+  height: 5.87rem;
+  position: relative;
+  width: 5.87rem;
+}
+
+.page--laboratorium .ellipse-2-26 {
+  background-color: var(--royal-blue-4);
+  border-radius: 17.23rem;
+  filter: blur(8.09rem);;
+  height: 34.46rem;
+  left: calc(50.00% - 17.21rem);
+  position: absolute;
+  top: calc(50.00% - 16.19rem);
+  width: 34.46rem;
+}
+
+.page--laboratorium .konsultacja-13 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.44rem;
+  padding: 3.56rem 18.23rem;
+  position: relative;
+  width: 100%;
+}
+
+.page--laboratorium .ellipse-2-27 {
+  height: 61.01rem;
+  left: calc(50.00% - 28.9rem);
+  position: absolute;
+  top: calc(50.00% - 31.21rem);
+  width: 61.01rem;
+}
+
+.page--laboratorium .frame-6483-10 {
+  align-self: stretch;
+  display: flex;
+  width: 100%;
+}
+
+.page--laboratorium .frame-6482-14 {
+  align-items: center;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 0.89rem;
+}
+
+.page--laboratorium .wieloetapowa-kontrola-laboratoryjna-3 {
+  align-self: stretch;
+  height: 0.96rem;
+  position: relative;
+  width: 100%;
+}
+
+.page--laboratorium .frame-65-7 {
+  align-items: center;
+}
+
+.page--laboratorium .testujemy-to-co-dec-3 {
+  align-self: stretch;
+  color: var(--white);
+  font-family: var(--font-family-manrope);
+  font-size: 2.66rem;
+  font-weight: 600;
+  letter-spacing: -0.05rem;
+  line-height: 1.3;
+  margin-top: -0.04rem;
+  position: relative;
+  text-align: center;
+}
+
+.page--laboratorium .nasze-laboratorium-t-3 {
+  align-self: stretch;
+  color: transparent;
+  font-family: var(--font-family-manrope);
+  font-size: var(--font-size-xxxxxl);
+  font-weight: 600;
+  letter-spacing: -0.02rem;
+  line-height: 1.88;
+  position: relative;
+  text-align: center;
+}
+
+.page--laboratorium .span-3 {
+  letter-spacing: -0.01rem;
+}
+
+.page--laboratorium .span-4 {
+  color: var(--white);
+  letter-spacing: -0.01rem;
+}
+
+.page--laboratorium .frame-6482-15 {
+  align-items: flex-start;
+  align-self: stretch;
+  flex: 0 0 auto;
+  gap: 1.78rem;
+  padding: 3.56rem 7.11rem;
+  width: 100%;
+}
+
+.page--laboratorium .ellipse-2-28 {
+  height: 67.15rem;
+  left: calc(50.00% - 34.68rem);
+  position: absolute;
+  top: calc(50.00% - 31.71rem);
+  width: 67.15rem;
+}
+
+.page--laboratorium .frame-6600-1::before {
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  background: linear-gradient(310deg, rgba(139, 165, 255, 0.4) 0%, rgba(64, 100, 223, 0.4) 100%);
+  border-radius: 1.33rem;
+  content: '';
+  inset: 0;
+  mask-composite: exclude;
+  padding: 0.04rem;
+  pointer-events: none;
+  position: absolute;
+  z-index: 1;
+}
+
+.page--laboratorium .frame-6600-1 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--royal-blue-2);
+  border: none;
+  border-radius: 1.33rem;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  padding: 3.56rem 3.12rem;
+  position: relative;
+}
+
+.page--laboratorium .shield-1-3 {
+  aspect-ratio: 1;
+  height: 4rem;
+  object-fit: cover;
+  position: relative;
+  width: 4rem;
+}
+
+.page--laboratorium .frame-6482-15 .lab-rd-tile-title {
+  align-self: stretch;
+  letter-spacing: -0.03rem;
+  line-height: 1.6;
+  margin-top: -0.04rem;
+  position: relative;
+  text-align: center;
+}
+
+.page--laboratorium .frame-6482-15 .lab-rd-tile-desc {
+  align-self: stretch;
+  letter-spacing: -0.02rem;
+  line-height: 1.56;
+  position: relative;
+  text-align: center;
+}
+
+.page--laboratorium .span-5 {
+  letter-spacing: -0rem;
+}
+
+.page--laboratorium .frame-6-4::before {
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  background: linear-gradient(310deg, rgba(139, 165, 255, 0.4) 0%, rgba(64, 100, 223, 0.4) 100%);
+  border-radius: 1.33rem;
+  content: '';
+  inset: 0;
+  mask-composite: exclude;
+  padding: 0.04rem;
+  pointer-events: none;
+  position: absolute;
+  z-index: 1;
+}
+
+.page--laboratorium .frame-6-4 {
+  background-color: var(--royal-blue-2);
+  border: none;
+  border-radius: 1.33rem;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  padding: 3.56rem 3.12rem;
+}
+
+.page--laboratorium .search-1-3 {
+  aspect-ratio: 1;
+  height: 4rem;
+  object-fit: cover;
+  position: relative;
+  width: 4rem;
+}
+
+.page--laboratorium .frame-6501-3 {
+  align-items: flex-start;
+}
+
+.page--laboratorium .water-meter-1-3 {
+  aspect-ratio: 1;
+  height: 4rem;
+  object-fit: cover;
+  position: relative;
+  width: 4rem;
+}
+
+.page--laboratorium .konsultacja-11 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.44rem;
+  padding: 4.45rem 7.11rem;
+  position: relative;
+  width: 100%;
+}
+
+.page--laboratorium .ellipse-2-23 {
+  height: 67.15rem;
+  left: calc(50.00% - 33.57rem);
+  position: absolute;
+  top: calc(50.00% - 33.57rem);
+  width: 67.15rem;
+}
+
+.page--laboratorium .frame-6482-12 {
+  align-items: flex-start;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 1.78rem;
+}
+
+.page--laboratorium .frame-65-6 {
+  align-items: flex-start;
+}
+
+.page--laboratorium .nieustannie-doskonalimy-produkty-3 {
+  letter-spacing: -0.05rem;
+  line-height: 1.3;
+  margin-top: -0.04rem;
+  position: relative;
+  width: 33rem;
+}
+
+.page--laboratorium .aktywnie-poszukujemy-3 {
+  align-self: stretch;
+  color: transparent;
+  font-family: var(--font-family-manrope);
+  font-size: var(--font-size-xxxxxl);
+  font-weight: 600;
+  letter-spacing: -0.02rem;
+  line-height: 1.88;
+  position: relative;
+}
+
+.page--laboratorium .u7761719182_httpss-16 {
+  align-items: center;
+  background-image: url(../img/u7761719182-httpss-11.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 0.89rem;
+  display: flex;
+  height: 29.97rem;
+  justify-content: center;
+  overflow: hidden;
+}
+
+
+
+.page--laboratorium .ellipse-2-29 {
+  height: 28.81rem;
+  left: calc(50.00% - 16.67rem);
+  position: absolute;
+  top: calc(50.00% - 13.83rem);
+  width: 27.93rem;
+}
+
+.page--laboratorium .ellipse-3-6 {
+  height: 29.97rem;
+  left: calc(50.00% - 16.67rem);
+  position: absolute;
+  top: calc(50.00% - 14.98rem);
+  width: 27.93rem;
+}
+
+.page--laboratorium .u7761719182_httpss-17 {
+  align-items: center;
+  background-image: url(../img/u7761719182-httpss-12.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 0.89rem;
+  display: flex;
+  height: 29.97rem;
+  justify-content: center;
+  overflow: hidden;
+}
+
+
+.page--laboratorium .ellipse-2-24 {
+  height: 29.97rem;
+  left: calc(50.00% - 16.67rem);
+  position: absolute;
+  top: calc(50.00% - 14.98rem);
+  width: 33.35rem;
+}
+
+.page--laboratorium .testujemy-w-ekstremalnych-warunkach-3 {
+  letter-spacing: -0.05rem;
+  line-height: 1.3;
+  margin-top: -0.04rem;
+  position: relative;
+  width: 33rem;
+}
+
+.page--laboratorium .nasze-laboratorium-w-3 {
+  align-self: stretch;
+  letter-spacing: -0.02rem;
+  line-height: 1.88;
+  position: relative;
+}
+
+.page--laboratorium .analizujemy-kady-przepyw-3 {
+  letter-spacing: -0.05rem;
+  line-height: 1.3;
+  margin-top: -0.04rem;
+  position: relative;
+  width: 33rem;
+}
+
+.page--laboratorium .czymy-zaawansowane-3 {
+  align-self: stretch;
+  letter-spacing: -0.02rem;
+  line-height: 1.88;
+  position: relative;
+}
+
+.page--laboratorium .u7761719182_httpss-18 {
+  align-items: center;
+  background-image: url(../img/przeplyw.jpg);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 0.89rem;
+  display: flex;
+  height: 29.97rem;
+  justify-content: center;
+  overflow: hidden;
+}
+
+
+
+.page--laboratorium .ellipse-3-7 {
+  height: 26.01rem;
+  left: calc(50.00% - 16.67rem);
+  position: absolute;
+  top: calc(50.00% - 11.03rem);
+  width: 28.63rem;
+}
+
+.page--laboratorium .rectangle-1116 {
+  background: linear-gradient(157deg, rgba(22, 28, 50, 1) 0%, rgba(34, 44, 77, 1) 45%, rgba(19, 24, 37, 1) 100%);
+  height: 30.28rem;
+  left: 0;
+  position: absolute;
+  top: -0.31rem;
+  width: 7.91rem;
+}
+
+.page--laboratorium .u7761719182_httpss-19 {
+  align-items: center;
+  background-image: url(../img/u7761719182-httpss-14.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 0.89rem;
+  display: flex;
+  height: 29.97rem;
+  justify-content: center;
+  overflow: hidden;
+}
+
+
+
+.page--laboratorium .ellipse-2-30 {
+  height: 29.97rem;
+  left: calc(50.00% - 12.23rem);
+  position: absolute;
+  top: calc(50.00% - 14.98rem);
+  width: 28.9rem;
+}
+
+.page--laboratorium .ellipse-4-1 {
+  height: 29.97rem;
+  left: calc(50.00% - 16.67rem);
+  position: absolute;
+  top: calc(50.00% - 14.98rem);
+  width: 28.23rem;
+}
+
+.page--laboratorium .sprawdzamy-kady-etap-produkcji-3 {
+  letter-spacing: -0.05rem;
+  line-height: 1.3;
+  margin-top: -0.04rem;
+  position: relative;
+  width: 33rem;
+}
+
+.page--laboratorium .kady-element-pompy-3 {
+  align-self: stretch;
+  letter-spacing: -0.02rem;
+  line-height: 1.88;
+  position: relative;
+}
+
+.page--laboratorium .konsultacja-14 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.44rem;
+  padding: 4rem 12rem 12rem;
+  position: relative;
+  width: 100%;
+}
+
+.page--laboratorium .group-6296-3 {
+  height: 17.43rem;
+  left: 0;
+  position: absolute;
+  top: 17.5rem;
+  width: 17.56rem;
+  z-index:0 !important;
+}
+
+.page--laboratorium .group-6297-3 {
+  height: 16.23rem;
+  left: calc(50.00% - 8.09rem);
+  position: absolute;
+  top: calc(50.00% - 8.09rem);
+  width: 16.23rem;
+}
+
+.page--laboratorium .ellipse-2-31 {
+  height: 46.07rem;
+  left: calc(50.00% - 23.03rem);
+  position: absolute;
+  top: calc(50.00% - 23.03rem);
+  width: 46.07rem;
+}
+
+.page--laboratorium .ellipse-3-9 {
+  background-color: var(--royal-blue-5);
+  border-radius: 8.12rem;
+  filter: blur(8.09rem);;
+  height: 16.23rem;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 16.23rem;
+}
+
+.page--laboratorium .vector-18 {
+  height: 17.43rem;
+  left: calc(50.00% - 8.8rem);
+  position: absolute;
+  top: 0;
+  width: 17.56rem;
+}
+
+.page--laboratorium .logo_test-1-3 {
+  aspect-ratio: 1;
+  height: 6.85rem;
+  object-fit: cover;
+  position: relative;
+  width: 6.85rem;
+}
+
+.page--laboratorium .pompy-ktre-nie-zaw-3 {
+  align-self: stretch;
+  color: var(--white);
+  font-family: var(--font-family-manrope);
+  font-size: 2.66rem;
+  font-weight: 600;
+  letter-spacing: -0.05rem;
+  line-height: 1.3;
+  position: relative;
+  text-align: center;
+}
+
+.page--laboratorium .footer_desktop-3 {
+  height: 62.03rem;
+  position: relative;
+  width: 85.38rem;
+}
+
+.page--laboratorium .frame-6613-3 {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  gap: 2.22rem;
+  height: 55.70%;
+  left: 0;
+  padding: 3.56rem 20.46rem;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+
+.page--laboratorium .frame-36731-2 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.89rem;
+  margin-left: -5.85rem;
+  margin-right: -5.85rem;
+  position: relative;
+}
+
+.page--laboratorium .zapytaj-o-pomp-3 {
+  color: var(--cod-gray);
+  font-family: var(--font-family-manrope);
+  font-size: 2.66rem;
+  font-weight: 600;
+  letter-spacing: -0.08rem;
+  line-height: 1.3;
+  margin-top: -0.04rem;
+  position: relative;
+  text-align: center;
+  width: 56.16rem;
+}
+
+.page--laboratorium .opowiedz-nam-o-swoic-3 {
+  color: var(--cod-gray);
+  font-family: var(--font-family-manrope);
+  font-size: 0.98rem;
+  font-weight: 500;
+  letter-spacing: -0.02rem;
+  line-height: 1.67;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.page--laboratorium .input-7 {
+  align-self: stretch;
+  height: 8.9rem;
+  width: 100%;
+}
+
+.page--laboratorium .frame-36727-3 {
+  align-items: center;
+  background-color: var(--white);
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.09rem;
+  position: relative;
+}
+
+.page--laboratorium .label-14 {
+  letter-spacing: 0;
+  line-height: 1.04;
+  margin-top: -0.04rem;
+  white-space: nowrap;
+}
+
+.page--laboratorium .frame-367-8 {
+  display: flex;
+  gap: 0.89rem;
+  width: 100%;
+}
+
+.page--laboratorium .input-6 {
+  flex: 1;
+  flex-grow: 1;
+  height: 2.36rem;
+}
+
+.page--laboratorium .label-15 {
+  letter-spacing: 0;
+  line-height: 1.04;
+  margin-top: -0.04rem;
+  white-space: nowrap;
+}
+
+.page--laboratorium .frame-6589-3 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 0.04rem solid;
+  border-color: var(--cod-gray-2);
+  border-radius: 0.44rem;
+  cursor: pointer;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 0.44rem;
+  height: 2.36rem;
+  justify-content: center;
+  padding: 0.76rem 0.89rem;
+  position: relative;
+}
+
+.page--laboratorium .frame-6397-3 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: space-between;
+  margin-bottom: -0.03rem;
+  margin-top: -0.03rem;
+  position: relative;
+  width: 100%;
+}
+
+.page--laboratorium .jestem-3 {
+  color: var(--cod-gray);
+  font-family: var(--font-family-manrope);
+  font-size: var(--font-size-xxxl);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 1.04;
+  margin-top: -0.04rem;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--laboratorium .arrow_down-11 {
+  height: 132.38%;
+  left: -4.32%;
+  position: absolute;
+  top: -11.86%;
+  width: 108.65%;
+}
+
+.page--laboratorium .label-16 {
+  letter-spacing: 0;
+  line-height: 1.04;
+  margin-top: -0.04rem;
+  white-space: nowrap;
+}
+
+.page--laboratorium .label-17 {
+  letter-spacing: 0;
+  line-height: 1.04;
+  margin-top: -0.04rem;
+  white-space: nowrap;
+}
+
+.page--laboratorium .frame-367-9 {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.page--laboratorium .radio_select_2-3 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.44rem;
+  height: 2.22rem;
+  position: relative;
+}
+
+.page--laboratorium .group-62-3 {
+  aspect-ratio: 1;
+  border: 0.09rem solid;
+  border-color: var(--celeste);
+  border-radius: 0.53rem;
+  height: 1.07rem;
+  position: relative;
+  width: 1.07rem;
+}
+
+.page--laboratorium .x1-fazowe-230-v-50-hz-3 {
+  color: var(--cod-gray);
+  font-family: var(--font-family-manrope);
+  font-size: var(--font-size-xxl);
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 1.04;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--laboratorium .krok {
+  align-items: center;
+  background: linear-gradient(90deg, rgba(10, 10, 10, 1) 0%, rgba(64, 100, 223, 1) 100%);
+  border-radius: 1.33rem;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.44rem;
+  padding: 0.67rem 1.15rem;
+  position: relative;
+}
+
+.page--laboratorium .dalej {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.09rem;
+  position: relative;
+  width: fit-content;
+}
+
+.page--laboratorium .arrow_right-7 {
+  height: 0.85rem;
+  margin-right: -0.05rem;
+  position: relative;
+  width: 0.94rem;
+}
+
+.page--laboratorium .frame-78-3 {
+  align-items: flex-start;
+  display: flex;
+  gap: 4.45rem;
+  height: 44.30%;
+  left: 0;
+  padding: 3.12rem 7.11rem;
+  position: absolute;
+  top: 55.70%;
+  width: 100%;
+}
+
+.page--laboratorium .ellipse-2-32 {
+  height: 27.48rem;
+  left: calc(50.00% - 42.69rem);
+  position: absolute;
+  top: calc(50.00% - 13.74rem);
+  width: 35.13rem;
+}
+
+.page--laboratorium .frame-367-10 {
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.page--laboratorium .frame-36750-1 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 2.22rem;
+  position: relative;
+}
+
+.page--laboratorium .frame-36738-3 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.44rem;
+  position: relative;
+}
+
+.page--laboratorium .polska-3 {
+  letter-spacing: -0.02rem;
+  line-height: 2.6;
+  margin-top: -0.04rem;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--laboratorium .tworzymy-przyszo-3 {
+  letter-spacing: -0.02rem;
+  line-height: 1.41;
+  position: relative;
+  width: fit-content;
+}
+
+.page--laboratorium .frame-36749-1 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 1.33rem;
+  position: relative;
+}
+
+.page--laboratorium .frame-36737-3 {
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.page--laboratorium .strefa_partnera {
+  align-items: center;
+  background: linear-gradient(90deg, rgba(64, 100, 223, 1) 0%, rgba(64, 100, 223, 0.15) 100%);
+  border: 0.04rem solid;
+  border-color: var(--royal-blue-3);
+  border-radius: 1.78rem;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.89rem;
+  justify-content: center;
+  padding: 0.76rem 1.33rem;
+  position: relative;
+}
+
+.page--laboratorium .pomi {
+  color: var(--concrete);
+  font-family: var(--font-family-manrope);
+  font-size: 0.85rem;
+  font-weight: 600;
+  letter-spacing: -0.02rem;
+  line-height: 1.35;
+  margin-top: -0.04rem;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--laboratorium .vector-19 {
+  height: 110.82%;
+  left: 68.78%;
+  position: absolute;
+  top: -5.41%;
+  width: 37.40%;
+}
+
+.page--laboratorium .frame-36742-2 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 2.66rem;
+  position: relative;
+}
+
+.page--laboratorium .raz-kupujesz-bez-koca-pompujesz-3 {
+  letter-spacing: -0.03rem;
+  line-height: 2.6;
+  margin-top: -0.04rem;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--laboratorium .frame-3674-6 {
+  gap: 0.44rem;
+  justify-content: center;
+}
+
+.page--laboratorium .elektryczna-pompa-gbinowa-3 {
+  letter-spacing: -0.02rem;
+  line-height: 1.25;
+  margin-top: -0.04rem;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--laboratorium .frame-3674-7 {
+  gap: 0.22rem;
+}
+
+.page--laboratorium .frame-33-6 {
+  padding: 0.18rem 0rem;
+}
+
+.page--laboratorium .label-13 {
+  letter-spacing: 0.01rem;
+  line-height: normal;
+  margin-top: -0.04rem;
+}
+
+.page--laboratorium .na-skrty-3 {
+  letter-spacing: -0.02rem;
+  line-height: 1.25;
+  margin-top: -0.04rem;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--laboratorium .label_-menu_footer-4 {
+  cursor: pointer;
+}
+
+.page--laboratorium .kontakt-z-nami-3 {
+  letter-spacing: -0.02rem;
+  line-height: 1.25;
+  margin-top: -0.04rem;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--laboratorium .frame-36746-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.page--laboratorium .frame-36748-3 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 0.44rem;
+  justify-content: center;
+  padding: 0.26rem 0rem;
+  position: relative;
+  width: 100%;
+}
+
+.page--laboratorium .dachowa-43-a-96-500-sochaczew-3 {
+  flex: 1;
+  letter-spacing: 0.01rem;
+  line-height: normal;
+  margin-top: -0.04rem;
+  position: relative;
+}
+
+.page--laboratorium .dobr-pomp-3 {
+  letter-spacing: -0.02rem;
+  line-height: 1.25;
+  margin-top: -0.04rem;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--laboratorium .social_media-3 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.44rem;
+  padding: 0.22rem 0rem;
+  position: relative;
+}
+
+.page--laboratorium .social_media-item-3 {
+  height: 1.25rem;
+  position: relative;
+  width: 1.25rem;
+}
+
+.page--laboratorium .linkedin-3 {
+  align-items: center;
+  display: flex;
+  gap: 0.44rem;
+  height: 1.25rem;
+  justify-content: center;
+  padding: 0.18rem;
+  position: relative;
+  width: 1.25rem;
+}
+
+.page--laboratorium .subtract-3 {
+  aspect-ratio: 1;
+  height: 0.8rem;
+  position: relative;
+  width: 0.8rem;
+}
+
+.page--laboratorium .copyright {
+  cursor: pointer;
+  letter-spacing: -0.01rem;
+  line-height: 1.25;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--laboratorium .span0-3 {
+  letter-spacing: -0rem;
+}
+
+.page--laboratorium .atest-higieniczny-pzh {
+  letter-spacing: -0.03rem;
+  line-height: 1.77;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--laboratorium .frame {
+  align-self: stretch;
+  position: relative;
+  width: 100%;
+}
+
+.page--laboratorium .frame-33 {
+  align-items: center;
+  border-bottom-style: solid;
+  border-bottom-width: 0.04rem;
+  border-color: transparent;
+  border-image: linear-gradient(90deg, rgba(64, 100, 223, 1) 0%, rgba(64, 100, 223, 0) 100%) 1;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.44rem;
+  position: relative;
+}
+
+.page--laboratorium .frame-367 {
+  align-items: flex-start;
+  align-self: stretch;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.page--laboratorium .frame-3674 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.page--laboratorium .frame-6 {
+  align-items: center;
+  position: relative;
+}
+
+.page--laboratorium .frame-6482 {
+  display: flex;
+  position: relative;
+}
+
+.page--laboratorium .frame-6483 {
+  align-items: center;
+  flex: 0 0 auto;
+  gap: 4.45rem;
+  position: relative;
+}
+
+.page--laboratorium .frame-65 {
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 1.33rem;
+  position: relative;
+  width: 100%;
+}
+
+.page--laboratorium .frame-6501 {
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.44rem;
+  position: relative;
+  width: 100%;
+}
+
+.page--laboratorium .group-1 {
+  height: 1.73rem;
+  position: relative;
+  width: 7.56rem;
+}
+
+.page--laboratorium .image {
+  height: 48.83rem;
+  position: relative;
+  width: 55.49rem;
+}
+
+.page--laboratorium .input {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 0.04rem solid;
+  border-color: var(--cod-gray-2);
+  border-radius: 0.44rem;
+  display: flex;
+  padding: 0.71rem 0.89rem;
+  position: relative;
+}
+
+.page--laboratorium .label {
+  position: relative;
+  width: fit-content;
+}
+
+.page--laboratorium .label_-menu_footer {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.44rem;
+  padding: 0.09rem 0rem;
+  position: relative;
+}
+
+.page--laboratorium .star {
+  letter-spacing: 0;
+  line-height: 1.04;
+  margin-top: -0.04rem;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page--laboratorium .u7761719182_httpss {
+  flex: 1;
+  flex-grow: 1;
+  position: relative;
+}
+
+/* Responsywność: jedna struktura widoczna na wszystkich szerokościach, layout przez media queries */
+@media (max-width: 1024px) {
+  .page--laboratorium .frame-20 {
+    height: auto;
+    min-height: 18rem;
+    position: relative;
+  }
+  .page--laboratorium .rectangle-1113 {
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    object-fit: cover;
+  }
+  .page--laboratorium .rectangle-6-1 {
+    width: 100%;
+  }
+  .page--laboratorium .konsultacja-12 {
+    flex-direction: column;
+    gap: 1.5rem;
+    padding: 2rem 1.5rem;
+  }
+  .page--laboratorium .konsultacja-12 .ellipse-2-25 {
+    display: none;
+  }
+  .page--laboratorium .konsultacja-12 .frame-6482-13 {
+    width: 100%;
+    max-width: 36rem;
+  }
+  .page--laboratorium .konsultacja-12 .u7761719182_httpss-15 {
+    width: 100%;
+    max-width: 36rem;
+    height: auto;
+  }
+  .page--laboratorium .frame-126-1 {
+    flex-direction: column;
+    align-items: stretch;
+  }
+  .page--laboratorium .frame-126-1 .niezawodnosc-3 {
+    flex: 1 1 auto;
+  }
+  .page--laboratorium .konsultacja-13 .frame-6483-10 {
+    flex-direction: column;
+  }
+  .page--laboratorium .konsultacja-13 .frame-6482-14 {
+    order: 2;
+  }
+  .page--laboratorium .konsultacja-13 .wieloetapowa-kontrola-laboratoryjna-3 {
+    order: 1;
+    width: 100%;
+    height: auto;
+    min-height: 12rem;
+    object-fit: cover;
+  }
+  .page--laboratorium .frame-6482-15 {
+    flex-direction: column;
+    align-items: stretch;
+  }
+  .page--laboratorium .frame-6482-15 .frame-6600-1,
+  .page--laboratorium .frame-6482-15 .frame-6-4 {
+    flex-direction: column;
+    align-items: stretch;
+  }
+  .page--laboratorium .konsultacja-11 .frame-6483-10 {
+    flex-direction: column;
+    gap: 1.5rem;
+  }
+  .page--laboratorium .konsultacja-11 .frame-6482-12 {
+    order: 2;
+  }
+  .page--laboratorium .konsultacja-11 .u7761719182_httpss-16,
+  .page--laboratorium .konsultacja-11 .u7761719182_httpss-17,
+  .page--laboratorium .konsultacja-11 .u7761719182_httpss-18,
+  .page--laboratorium .konsultacja-11 .u7761719182_httpss-19 {
+    order: 1;
+    width: 100%;
+    min-width: 0;
+    min-height: 20rem;
+    height: auto;
+    aspect-ratio: 16 / 10;
+  }
+  .page--laboratorium .konsultacja-11 .u7761719182_httpss img.image {
+    width: 100%;
+    height: auto;
+    max-height: 22rem;
+    object-fit: cover;
+  }
+  .page--laboratorium .konsultacja-11 .u7761719182_httpss .image-12,
+  .page--laboratorium .konsultacja-11 .u7761719182_httpss .image-13,
+  .page--laboratorium .konsultacja-11 .u7761719182_httpss .image-14,
+  .page--laboratorium .konsultacja-11 .u7761719182_httpss .image-15 {
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    position: absolute;
+    inset: 0;
+  }
+  .page--laboratorium .konsultacja-11 .u7761719182_httpss-16,
+  .page--laboratorium .konsultacja-11 .u7761719182_httpss-17,
+  .page--laboratorium .konsultacja-11 .u7761719182_httpss-18,
+  .page--laboratorium .konsultacja-11 .u7761719182_httpss-19 {
+    position: relative;
+  }
+  .page--laboratorium .konsultacja-11 .ellipse-2-23,
+  .page--laboratorium .konsultacja-11 .ellipse-2-24,
+  .page--laboratorium .konsultacja-11 .ellipse-2-28,
+  .page--laboratorium .konsultacja-11 .ellipse-2-30 {
+    display: none;
+  }
+  .page--laboratorium .frame-36783,
+  .page--laboratorium .konsultacja-13,
+  .page--laboratorium .konsultacja-11 {
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+  }
+  .page--laboratorium .pena-zgodno-z-normami-3 {
+    white-space: normal;
+    text-align: center;
+  }
+  .page--laboratorium .konsultacja-14 {padding:4rem 2rem 2rem;}
+}

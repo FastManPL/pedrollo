@@ -1,0 +1,62 @@
+/* Blog – tylko ewentualne nadpisania względem usecase-lista (te same klasy, ten sam layout). */
+
+.page--blog.pedrollou95useu95caseu95lista .frame-20 {
+  background-image: url(../img/Frame-6582.jpg);
+}
+
+.page--blog.pedrollou95useu95caseu95lista .title {
+  font-size: 3rem;
+}
+
+.page--blog.pedrollou95useu95caseu95lista .sprawd-na-konkretny {
+  color: var(--white, #fff);
+}
+
+/* Paginacja wpisów (zamiast przycisku „Pokaż więcej”) */
+.page--blog .blog-pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem 0;
+}
+.page--blog .blog-pagination .nav-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  align-items: center;
+  justify-content: center;
+}
+.page--blog .blog-pagination .page-numbers {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 2.5rem;
+  padding: 0.5rem 0.75rem;
+  font-family: inherit;
+  font-size: 1rem;
+  color: var(--cod-gray, #111);
+  background: #fff;
+  border: 0.1rem solid rgba(201, 201, 201, 1);
+  border-radius: 0.25rem;
+  text-decoration: none;
+  transition: border-color 0.2s, background 0.2s;
+}
+.page--blog .blog-pagination .page-numbers:hover,
+.page--blog .blog-pagination .page-numbers:focus {
+  border-color: var(--royal-blue, #4064df);
+  background: rgba(64, 100, 223, 0.06);
+}
+.page--blog .blog-pagination .page-numbers.current {
+  border-color: var(--royal-blue, #4064df);
+  background: var(--royal-blue, #4064df);
+  color: #fff;
+}
+.page--blog .blog-pagination .page-numbers.dots {
+  border: none;
+  background: transparent;
+  min-width: auto;
+}
+.page--blog .blog-pagination .prev,
+.page--blog .blog-pagination .next {
+  font-weight: 500;
+}

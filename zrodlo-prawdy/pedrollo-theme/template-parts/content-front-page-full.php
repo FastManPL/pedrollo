@@ -1,0 +1,2101 @@
+<?php
+$t = get_template_directory_uri();
+?>
+      <div class="frame-61-1">
+        <img class="pedrollo_house_3-3" src="<?php echo esc_url( $t ); ?>/img/pedrollo-house-3-3.jpg" alt="Pedrollo" />
+        <div class="frame-61-1-sticky-wrap">
+        <div class="frame-51-10-outer">
+        <div class="frame-51-10">
+          <div class="frame-85 frame">
+            <div class="co-wyrniapompygbinowe-pedrollo-3 manrope-semi-bold-concrete-25px">
+              Co wyróżnia pompy głębinowe Pedrollo?
+            </div>
+            <div class="codzienna-niezawodno-3">Codzienna niezawodność<br />na pierwszym miejscu.</div>
+          </div>
+          <div class="frame-55-3">
+            <div class="frame-5-4">
+              <img class="vector-100" src="<?php echo esc_url( $t ); ?>/img/vector-129.svg" alt="Vector" />
+              <div class="niezawodnosc-tile-content">
+                <div class="niezawodnosc-tile-title manrope-semi-bold-concrete-26px">Bezkompromisowa trwałość</div>
+                <p class="niezawodnosc-tile-text geist-regular-normal-concrete-17px">
+                  Komponenty najwyższej klasy i rygorystyczne testy to gwarancja długotrwałej, niezawodnej pracy.
+                </p>
+              </div>
+            </div>
+            <div class="frame-5-4">
+              <div class="group-22-3">
+                <img class="vector-101" src="<?php echo esc_url( $t ); ?>/img/vector-130.svg" alt="Vector" />
+                <img class="vector-102" src="<?php echo esc_url( $t ); ?>/img/vector-131.svg" alt="Vector" />
+                <img class="vector-103" src="<?php echo esc_url( $t ); ?>/img/vector-132.svg" alt="Vector" />
+                <img class="vector-104" src="<?php echo esc_url( $t ); ?>/img/vector-133.svg" alt="Vector" />
+                <img class="vector-105" src="<?php echo esc_url( $t ); ?>/img/vector-134.svg" alt="Vector" />
+              </div>
+              <div class="niezawodnosc-tile-content">
+                <div class="niezawodnosc-tile-title manrope-semi-bold-concrete-26px">
+                  Gwarancja parametrów wydajności i ciśnienia
+                </div>
+                <p class="niezawodnosc-tile-text geist-regular-normal-concrete-17px">
+                  Pompy posiadają certyfikaty deklarujemy parametry w oparciu o normy.
+                </p>
+              </div>
+            </div>
+            <div class="frame-5-4">
+              <div class="group-21-3"><img class="vector-106" src="<?php echo esc_url( $t ); ?>/img/vector-136.svg" alt="Vector" /></div>
+              <div class="niezawodnosc-tile-content">
+                <div class="niezawodnosc-tile-title manrope-semi-bold-concrete-26px">Technologia plug &amp; play</div>
+                <p class="niezawodnosc-tile-text geist-regular-normal-concrete-17px">
+                  Zintegrowany system sterowania utrzymuje ciśnienie i chroni pompę. Wszystko w jednym.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        </div>
+        </div>
+      </div>
+      <div class="frame-81-1">
+        <div class="frame-35-3">
+          <?php get_template_part( 'template-parts/global', 'logotypy' ); ?>
+        </div>
+        <div class="frame-80-3">
+          <div class="frame-63-3">
+            <div class="frame-20-6">
+              <div class="ellipse-2-79"></div>
+              <div class="ellipse-3-15"></div>
+              <div class="ellipse-2-80"></div>
+            </div>
+            <div class="rectangle-19-3 rectangle-19"></div>
+            <div class="frame-51-11">
+              <div class="frame-51-11-sticky-wrap">
+              <div class="frame-56-6">
+                <div class="frame-13-3">
+                  <div class="pedrollo-14 manrope-semi-bold-white-32px">PEDROLLO</div>
+                  <div class="group-24-5">
+                    <div class="x4-sr-s-11 x4-sr-s manrope-semi-bold-silver-chalice-19px">4SR-S</div>
+                    <div class="text-19 manrope-light-silver-chalice-21px">®</div>
+                  </div>
+                </div>
+                <div class="frame-86 frame">
+                  <p
+                    class="raz-kupujesz-bez-koca-pompujesz-6 raz-kupujesz-bez-koca-pompujesz manrope-semi-bold-concrete-60px"
+                  >
+                    Raz  kupujesz, <br />bez końca pompujesz
+                  </p>
+                  <p class="szukasz-niezawodnej-3 manrope-semi-bold-white-23px-2">
+                    <span class="span-17 manrope-semi-bold-white-23px"
+                      >Szukasz niezawodnej pompy głębinowej do wody z piaskiem?</span
+                    ><span class="span1-15">  </span
+                    ><span class="span-17 manrope-semi-bold-silver-chalice-23px"
+                      >Model Pedrollo 4SR-S® eliminuje główne przyczyny awarii: piasek, suchobieg i gazy w wodzie.
+                      Dzięki zastosowaniu materiałów odpornych na ścieranie i induktorowi, doskonale radzącemu sobie
+                      z napowietrzoną wodą.</span
+                    >
+                  </p>
+                </div>
+              </div>
+              </div>
+              <div class="frame-51-11-right">
+                <div class="group-23-3">
+                  <img class="rectangle-16" src="<?php echo esc_url( $t ); ?>/img/rectangle-16.svg" alt="Rectangle 16" />
+                  <img class="rectangle-17" src="<?php echo esc_url( $t ); ?>/img/rectangle-17.svg" alt="Rectangle 17" />
+                  <img class="rectangle-18" src="<?php echo esc_url( $t ); ?>/img/rectangle-18.svg" alt="Rectangle 18" />
+                  <img class="ground" src="<?php echo esc_url( $t ); ?>/img/ground.png" alt="ground" />
+                </div>
+                <div class="frame-51-11-tiles">
+                  <div class="frame-67-6 frame-67">
+                    <div class="frame-69-4"><img class="vector-123" src="<?php echo esc_url( $t ); ?>/img/vector-44.svg" alt="Vector" /></div>
+                    <p class="address-15 address manrope-semi-bold-white-09rem">
+                      10 razy większa <br />odporność na <br />piasek i zużycie
+                    </p>
+                  </div>
+                  <div class="frame-66-7 frame-66">
+                    <div class="guarantee-9">
+                      <div class="group-25-6 group-25">
+                        <div class="group-26-6 group-26">
+                          <img class="vector-124" src="<?php echo esc_url( $t ); ?>/img/Group-25.svg" alt="Vector" />
+                        </div>
+                      </div>
+                    </div>
+                    <p class="sza manrope-semi-bold-white-09rem">Najdłuższa <br />gwarancja na <br />rynku do 12 lat</p>
+                  </div>
+                  <div class="frame-68-7">
+                    <div class="layer_1-14 layer_1"></div>
+                    <div class="sza manrope-semi-bold-white-09rem">30% mniejsza <br />zużycie prądu</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <?php get_template_part( 'template-parts/global', 'referencje' ); ?>
+        <?php get_template_part( 'template-parts/global', 'niezawodnosc-plynie' ); ?>
+      </div>
+
+        <?php get_template_part( 'template-parts/global', 'opatentowana-technologia' ); ?>
+        <div class="frame-139-1">
+          <div class="frame-89-2">
+            <div class="ellipse-2-82"></div>
+            <div class="rectangle-19-4 rectangle-19"></div>
+            <div class="logo_anim-6 logo_anim"></div>
+            <img class="man-10-3" src="<?php echo esc_url( $t ); ?>/img/man-10.png" alt="man 10" />
+            <div class="frame-151-3">
+              <div class="group-27-3">
+                <div class="frame-150-3">
+                  <div class="frame-96 frame">
+                    <div class="guarantee-10">
+                      <div class="group-25-7 group-25">
+                        <div class="group-26-7 group-26">
+                          <img class="group-26-7-img" src="<?php echo esc_url( $t ); ?>/img/Group-25.svg" alt="Vector" />
+                        </div>
+                      </div>
+                    </div>
+                    <div class="address-16 address manrope-semi-bold-white-14px">10 lat pełnej <br />gwarancji</div>
+                  </div>
+                  <div class="frame-96 frame">
+                    <img class="vector-128" src="<?php echo esc_url( $t ); ?>/img/vector-53.svg" alt="Vector" />
+                    <div class="ywotno-ponad-15-lat-3 manrope-semi-bold-white-14px">Żywotność<br />Ponad 15 lat</div>
+                  </div>
+                  <div class="frame-96 frame">
+                    <div class="layer_1-15 layer_1"></div>
+                    <div class="x30-mniejsza-zuycie-prdu-6 manrope-semi-bold-white-14px">
+                      30% mniejsza <br />zużycie prądu
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="frame-146 frame">
+                <div class="frame-97 frame">
+                  <p class="mdre-decyzj-buduj-oszczdne-systemy-3">Mądre decyzję budują <br />oszczędne systemy</p>
+                  <p class="span-17 manrope-semi-bold-silver-chalice-23px">Nie każda oszczędność się opłaca - liczy się całkowity koszt posiadania, nie tylko cena zakupu. Inwestuj mądrze. Oszczędzaj latami.</p>
+                </div>
+                <a href="#" class="porownanie-btn">
+                <div class="madre_decyzje-3">
+                  <div class="frame-4-22">
+                    <div class="group-3-14 group-3">
+                      <img class="vector-97" src="<?php echo esc_url( $t ); ?>/img/vector-260.svg" alt="Vector" />
+                      <img class="vector-98" src="<?php echo esc_url( $t ); ?>/img/vector-56.svg" alt="Vector" />
+                    </div>
+                  </div>
+                  <p class="porwnanie-ktre-mwi-samo-za-siebie-2 manrope-semi-bold-concrete-18px">
+                    Porównanie, które mówi samo za siebie
+                  </p>
+                </div>
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="frame-143-2">
+            <div class="frame-91-3">
+              <div class="frame-93-3">
+                <div class="frame-124-3">
+                  <article class="wiersz">
+                    <div class="frame-112-3">
+                      <div class="frame-98 frame">
+                        <img class="pupmp_live-3" src="<?php echo esc_url( $t ); ?>/img/pupmp-live.svg" alt="pupmp_live" />
+                        <div class="ywotno-3 manrope-semi-bold-white-18px">Żywotność</div>
+                      </div>
+                    </div>
+                    <div class="frame-95-5 frame-95">
+                      <div class="x-lat manrope-semi-bold-white-19px">Ponad 15 lat</div>
+                    </div>
+                    <div class="frame-114-1"><div class="x-lat manrope-semi-bold-white-19px">Średnio 5-7 lat</div></div>
+                  </article>
+                  <article class="wiersz-6 wiersz">
+                    <div class="frame-112-3">
+                      <div class="frame-98 frame">
+                        <img class="guarantee-11" src="<?php echo esc_url( $t ); ?>/img/guarantee.svg" alt="guarantee" />
+                        <div class="ywotno-3 manrope-semi-bold-white-18px">Gwarancja</div>
+                      </div>
+                    </div>
+                    <div class="frame-95-5 frame-95">
+                      <div class="x-lat manrope-semi-bold-white-19px">10 lat pełnej gwarancji</div>
+                    </div>
+                    <div class="frame-114-1">
+                      <div class="x-lat manrope-semi-bold-white-19px">2 lata ograniczonej gwarancji</div>
+                    </div>
+                  </article>
+                  <article class="wiersz-6 wiersz">
+                    <div class="frame-112-3">
+                      <div class="frame-98 frame">
+                        <img class="materials-3" src="<?php echo esc_url( $t ); ?>/img/materials.svg" alt="materials" />
+                        <div class="ywotno-3 manrope-semi-bold-white-18px">Materiały</div>
+                      </div>
+                    </div>
+                    <div class="frame-95-5 frame-95">
+                      <div class="x-lat manrope-semi-bold-white-19px">Wysokiej jakości stal nierdzewna</div>
+                    </div>
+                    <div class="frame-114-1">
+                      <p class="x-lat manrope-semi-bold-white-19px">Tańsze materiały, podatne na korozje</p>
+                    </div>
+                  </article>
+                  <article class="wiersz-6 wiersz">
+                    <div class="frame-112-3">
+                      <div class="frame-98 frame">
+                        <img class="energy-3" src="<?php echo esc_url( $t ); ?>/img/energy-3.svg" alt="energy" />
+                        <div class="ywotno-3 manrope-semi-bold-white-18px">Efektywność energetyczna</div>
+                      </div>
+                    </div>
+                    <div class="frame-95-5 frame-95">
+                      <p class="x-lat manrope-semi-bold-white-19px">Wysoka (o 30% niższe zużycie energii)</p>
+                    </div>
+                    <div class="frame-114-1"><div class="x-lat manrope-semi-bold-white-19px">Niska</div></div>
+                  </article>
+                  <article class="wiersz-6 wiersz">
+                    <div class="frame-112-3">
+                      <div class="frame-98 frame">
+                        <img class="noise-3" src="<?php echo esc_url( $t ); ?>/img/noise-3.svg" alt="noise" />
+                        <div class="ywotno-3 manrope-semi-bold-white-18px">Poziom hałasu</div>
+                      </div>
+                    </div>
+                    <div class="frame-95-5 frame-95"><div class="x-lat manrope-semi-bold-white-19px">Niski</div></div>
+                    <div class="frame-114-1"><div class="x-lat manrope-semi-bold-white-19px">Wysoki</div></div>
+                  </article>
+                  <article class="wiersz-6 wiersz">
+                    <div class="frame-112-3">
+                      <div class="frame-98 frame">
+                        <img class="safety-3" src="<?php echo esc_url( $t ); ?>/img/safety.svg" alt="safety" />
+                        <div class="ywotno-3 manrope-semi-bold-white-18px">Bezpieczeństwo</div>
+                      </div>
+                    </div>
+                    <div class="frame-95-5 frame-95">
+                      <div class="x-lat manrope-semi-bold-white-19px">Zaawansowane zabezpieczenia</div>
+                    </div>
+                    <div class="frame-114-1">
+                      <div class="x-lat manrope-semi-bold-white-19px">Brak lub ograniczone zabezpieczenia</div>
+                    </div>
+                  </article>
+                  <article class="wiersz-6 wiersz">
+                    <div class="frame-112-3">
+                      <div class="frame-98 frame">
+                        <img class="instalation-3" src="<?php echo esc_url( $t ); ?>/img/instalation-3.svg" alt="instalation" />
+                        <div class="ywotno-3 manrope-semi-bold-white-18px">Montaż</div>
+                      </div>
+                    </div>
+                    <div class="frame-95-5 frame-95">
+                      <p class="x-lat manrope-semi-bold-white-19px">
+                        Prosty system plug &amp; play i kolorowe złączki ułatwiają montaż
+                      </p>
+                    </div>
+                    <div class="frame-114-1">
+                      <p class="x-lat manrope-semi-bold-white-19px">
+                        Skomplikowany montaż wymagający wsparcia fachowca
+                      </p>
+                    </div>
+                  </article>
+                  <article class="wiersz-6 wiersz">
+                    <div class="frame-112-3">
+                      <div class="frame-98 frame">
+                        <img class="services-3" src="<?php echo esc_url( $t ); ?>/img/services-3.svg" alt="services" />
+                        <div class="ywotno-3 manrope-semi-bold-white-18px">Serwis</div>
+                      </div>
+                    </div>
+                    <div class="frame-95-5 frame-95">
+                      <p class="x-lat manrope-semi-bold-white-19px">
+                        Rozbudowana sieć serwisowa Pedroll i łatwa dostępność części zamiennych
+                      </p>
+                    </div>
+                    <div class="frame-114-1"><div class="x-lat manrope-semi-bold-white-19px">Ograniczony</div></div>
+                  </article>
+                  <article class="wiersz-6 wiersz">
+                    <div class="frame-112-3">
+                      <div class="frame-98 frame">
+                        <img class="cost-3" src="<?php echo esc_url( $t ); ?>/img/cost-3.svg" alt="cost" />
+                        <div class="ywotno-3 manrope-semi-bold-white-18px">Całkowity koszt posiadania</div>
+                      </div>
+                    </div>
+                    <div class="frame-95-5 frame-95"><div class="x-lat manrope-semi-bold-white-19px">Niski</div></div>
+                    <div class="frame-114-1">
+                      <p class="x-lat manrope-semi-bold-white-19px">Wysokie koszty napraw i wymiany</p>
+                    </div>
+                  </article>
+                </div>
+                <div class="frame-136-3">
+                  <div class="frame-94-3"></div>
+                  <div class="frame-95-6 frame-95">
+                    <div class="frame-137-3">
+                      <div class="pompa-18">Pompa -</div>
+                      <div class="frame-13-3">
+                        <div class="pedrollo-16">PEDROLLO</div>
+                        <div class="group-24-5">
+                          <div class="x4-sr-s-12 x4-sr-s">4SR-S</div>
+                          <div class="text-21">®</div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="frame-113-3">
+                    <div class="frame-138-3">
+                      <div class="pompa-19">Pompa -</div>
+                      <div class="standardowa-3">Standardowa</div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="btn btn--secondary">
+              <div class="poznaj-nasz-zestaw geist-medium-white-19px">Skonsultuj się z doradcą</div>
+              <img class="arrow_right-16 arrow_right" src="<?php echo esc_url( $t ); ?>/img/arrow-right-8.svg" alt="Arrow_right" />
+            </div>
+            <div class="ellipse-2-83"></div>
+          </div>
+        </div>
+        <div class="frame-140-5 frame-140">
+          <div class="ellipse-2-76"></div>
+          <div class="name-13 name manrope-semi-bold-concrete-60px">Dane techniczne</div>
+          <div class="frame-99 frame">
+            <div class="frame-99 frame">
+              <div class="frame-126-6 frame-126">
+                <article class="dane-13 dane">
+                  <div class="przeplyw-11">
+                    <img class="x02-24" src="<?php echo esc_url( $t ); ?>/img/02.svg" alt="02" />
+                    <img class="x01-33" src="<?php echo esc_url( $t ); ?>/img/01.svg" alt="01" />
+                  </div>
+                  <div class="frame-153-16 frame-153">
+                    <div class="przepywwydajno-2 manrope-semi-bold-concrete-21px">Przepływ<br />(wydajność)</div>
+                    <p class="od-000-lmin-do-200-lmin-2 od-000-lmin-do-200-lmin manrope-semi-bold-cornflower-blue-26px">
+                      Od 000 l/min <br />Do 200 l/min
+                    </p>
+                  </div>
+                  <img class="group-37-11" src="<?php echo esc_url( $t ); ?>/img/group-37-24@2x.png" alt="Group 37" />
+                </article>
+                <article class="dane-14 dane">
+                  <div class="podnoszenie-8">
+                    <img class="x02-25" src="<?php echo esc_url( $t ); ?>/img/02-1.svg" alt="02" />
+                    <img class="x01-34" src="<?php echo esc_url( $t ); ?>/img/01-1.svg" alt="01" />
+                  </div>
+                  <div class="frame-153-16 frame-153">
+                    <div class="przepywwydajno-2 manrope-semi-bold-concrete-21px">
+                      Maksymalna<br />wysokość podnoszenia
+                    </div>
+                    <p class="od-000-lmin-do-200-lmin-2 od-000-lmin-do-200-lmin manrope-semi-bold-cornflower-blue-26px">
+                      Od 000 m<br />Do 576 m
+                    </p>
+                  </div>
+                  <img class="group-37-11" src="<?php echo esc_url( $t ); ?>/img/group-37-24@2x.png" alt="Group 37" />
+                </article>
+                <article class="dane-15 dane">
+                  <div class="piasek-8">
+                    <img class="x01-35" src="<?php echo esc_url( $t ); ?>/img/01-2.svg" alt="01" />
+                  </div>
+                  <div class="frame-153-16 frame-153">
+                    <div class="zawarto-piasku-2 manrope-semi-bold-concrete-21px">Zawartość piasku</div>
+                    <p class="od-000-lmin-do-200-lmin-2 od-000-lmin-do-200-lmin manrope-semi-bold-cornflower-blue-26px">
+                      Od 000 g/m³ <br />Do 200 g/m³
+                    </p>
+                  </div>
+                  <img class="group-37-11" src="<?php echo esc_url( $t ); ?>/img/group-37-24@2x.png" alt="Group 37" />
+                </article>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="frame-141-1">
+          <div class="ellipse-2-84"></div>
+          <p class="charakterystyka-prac-3 manrope-semi-bold-concrete-60px">
+            Charakterystyka pracy pompy <br />głębinowej 4 cale Pedrollo 4SR-S®
+          </p>
+          <div class="frame-158-1">
+            <div class="frame-88 frame" role="tablist">
+              <a href="#" class="btn btn--secondary btn--secondary-active" role="tab" aria-selected="true" data-charakterystyka-tab="0">
+                <div class="x4-sr-2-s-9 x4-sr-2-s manrope-semi-bold-concrete-19px">4SR 2-S</div>
+                <div class="group-3-13 group-3">
+                  <img class="vector-97" src="<?php echo esc_url( $t ); ?>/img/vector-260.svg" alt="Vector" />
+                  <img class="vector-98" src="<?php echo esc_url( $t ); ?>/img/vector-56.svg" alt="Vector" />
+                </div>
+              </a>
+              <a href="#" class="btn btn--secondary" role="tab" aria-selected="false" data-charakterystyka-tab="1">
+                <div class="x4-sr-2-s-9 x4-sr-2-s manrope-semi-bold-concrete-19px">4SR 4-S</div>
+                <div class="group-3-13 group-3">
+                  <img class="vector-97" src="<?php echo esc_url( $t ); ?>/img/vector-260.svg" alt="Vector" />
+                  <img class="vector-98" src="<?php echo esc_url( $t ); ?>/img/vector-56.svg" alt="Vector" />
+                </div>
+              </a>
+            </div>
+            <div class="charakterystyka-cards">
+              <div class="charakterystyka-card" data-charakterystyka-card="0" role="tabpanel">
+            <div class="dane-15 dane">
+              <img class="group-55-3" src="<?php echo esc_url( $t ); ?>/img/group-55-3.png" alt="Group 55" />
+              <div class="frame-163-2">
+                <div class="frame-90 frame">
+                  <div class="frame-191-2">
+                    <div class="x4-sr-2-s-10 x4-sr-2-s">4SR 2-S</div>
+                    <div class="address-17 address">50 Hz</div>
+                  </div>
+                  <div class="krzywe-i-dane-wydajnociowe-3 krzywe-i-dane-tekst">Krzywe i dane wydajnościowe</div>
+                </div>
+                <img class="frame" src="<?php echo esc_url( $t ); ?>/img/frame-169.svg" alt="Frame 169" />
+                <div class="frame-192-2 frame-192-2--left">
+                  <div class="body0-6 body0 manrope-semi-bold-white-23px">Jak czytać oznaczenie pompy?</div>
+                  <p class="body0-7 body0">
+                    Nie musisz znać się na parametrach technicznych, <br />nasi eksperci zadbają, aby pompa była
+                    prawidłowo dobrana.
+                  </p>
+                </div>
+                <a href="#"><div class="zapytaj-6 btn btn--cta-dark">
+                                
+                                <div class="zapytaj-o-produkt geist-medium-white-19px">Dobierz pompę</div>
+                                <div class="frame-4-21">
+                                  <img class="arrow_right-17 arrow_right" src="https://pedrollo.stronyowocni.pl/wp-content/themes/pedrollo-theme/img/arrow-right-11.svg" alt="Arrow_right">
+                                </div>
+                              </div>
+                </a>
+              </div>
+            </div>
+              </div>
+              <div class="charakterystyka-card charakterystyka-card--hidden" data-charakterystyka-card="1" role="tabpanel" aria-hidden="true">
+                Charakterystyka 4SR 4-S
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="frame-6514-3">
+          <div class="frame-6512-3">
+            <div class="po_zastosowaniu-3">
+              <div class="frame-6388-3">
+                <div class="frame-6377-3">
+                  <div class="frame-6369-2">
+                    <div class="frame-101 frame">
+                      <div class="frame-6382-5">
+                        <div class="dopasuj-zestaw-po-zastosowaniu-3 manrope-semi-bold-cod-gray-60px">
+                          Dopasuj zestaw po zastosowaniu
+                        </div>
+                      </div>
+                      <div class="frame-6389-3">
+                        <p class="manrope-medium-cod-gray-20px align-right">
+                        Niezależnie od Twoich potrzeb, mamy odpowiedni zestaw.<br> Porównaj możliwości i wybierz rozwiązanie dla siebie.</p>
+                        
+                      </div>
+                    </div>
+                    <div class="zestawy-slider-wrap">
+                    <div class="slider_zestawy-3 zestawy-flickity" id="slider_zestawy">
+                        <div class="dom-letniskowy-rod-4">
+                          <div class="frame-6367-8">
+                            <div class="dom-letniskowy-rod-5 zestawy-slide-img">
+                              <img class="image-29" src="<?php echo esc_url( $t ); ?>/img/image-1.jpg" alt="image" />
+                              <div class="zestawy-slide-mask"></div>
+                            </div>
+                            <a href="#" class="zestawy-slide-btn zestawy-slide-cta">
+                              <span class="zestawy-slide-cta-text">Dowiedz się więcej</span>
+                              <span class="zestawy-slide-cta-circle">
+                                <img src="<?php echo esc_url( $t ); ?>/img/arrow-down.svg" alt="" aria-hidden="true" />
+                              </span>
+                            </a>
+                            <div class="rectangle-31-3"></div>
+                          </div>
+                          <div class="frame-6379-12 frame-6379">
+                            <div class="frame-6381-3">
+                              <div class="ellipse-22-6 ellipse-22"></div>
+                              <div class="zestaw-4 manrope-medium-gravel-16px">ZESTAW</div>
+                            </div>
+                            <div class="dom-letniskowy-rod-6 manrope-semi-bold-cod-gray-36px">Dom Letniskowy / ROD</div>
+                          </div>
+                        </div>
+                        <div class="x-mieszkalny">
+                          <div class="frame-6367-8">
+                            <div class="jednorodzinny_z_ogrodem-3 zestawy-slide-img">
+                              <img class="image-33" src="<?php echo esc_url( $t ); ?>/img/image-30.png" alt="image" />
+                              <div class="zestawy-slide-mask"></div>
+                            </div>
+                            <a href="#" class="zestawy-slide-btn zestawy-slide-cta">
+                              <span class="zestawy-slide-cta-text">Dowiedz się więcej</span>
+                              <span class="zestawy-slide-cta-circle">
+                                <img src="<?php echo esc_url( $t ); ?>/img/arrow-down.svg" alt="" aria-hidden="true" />
+                              </span>
+                            </a>
+                            <div class="rectangle-31-3"></div>
+                          </div>
+                          <div class="frame-6379-12 frame-6379">
+                            <div class="frame-6381-3">
+                              <div class="ellipse-22-6 ellipse-22"></div>
+                              <div class="zestaw-4 manrope-medium-gravel-16px">ZESTAW</div>
+                            </div>
+                            <div class="dom-mieszkalny-z-ogrodem-4 manrope-semi-bold-cod-gray-36px">
+                              Dom mieszkalny z ogrodem
+                            </div>
+                          </div>
+                        </div>
+                        <div class="x-mieszkalny">
+                          <div class="frame-6367-8">
+                            <div class="jednorodzinny-2 zestawy-slide-img">
+                              <img class="image-29" src="<?php echo esc_url( $t ); ?>/img/image-22.png" alt="image" />
+                              <div class="zestawy-slide-mask"></div>
+                            </div>
+                            <a href="#" class="zestawy-slide-btn zestawy-slide-cta">
+                              <span class="zestawy-slide-cta-text">Dowiedz się więcej</span>
+                              <span class="zestawy-slide-cta-circle">
+                                <img src="<?php echo esc_url( $t ); ?>/img/arrow-down.svg" alt="" aria-hidden="true" />
+                              </span>
+                            </a>
+                            <div class="rectangle-31-3"></div>
+                          </div>
+                          <div class="frame-6379-12 frame-6379">
+                            <div class="frame-6381-3">
+                              <div class="ellipse-22-6 ellipse-22"></div>
+                              <div class="zestaw-4 manrope-medium-gravel-16px">ZESTAW</div>
+                            </div>
+                            <div class="budynek-mieszkalny-wilorodzinny-2 manrope-semi-bold-cod-gray-36px">
+                              Budynek mieszkalny wilorodzinny
+                            </div>
+                          </div>
+                        </div>
+                        <div class="frame-6378-item-2">
+                          <div class="frame-6367-8">
+                            <div class="ogrd-3 zestawy-slide-img"><img class="image-29" src="<?php echo esc_url( $t ); ?>/img/image-23.jpg" alt="image" /><div class="zestawy-slide-mask"></div></div>
+                            <a href="#" class="zestawy-slide-btn zestawy-slide-cta">
+                              <span class="zestawy-slide-cta-text">Dowiedz się więcej</span>
+                              <span class="zestawy-slide-cta-circle">
+                                <img src="<?php echo esc_url( $t ); ?>/img/arrow-down.svg" alt="" aria-hidden="true" />
+                              </span>
+                            </a>
+                            <div class="rectangle-31-3"></div>
+                          </div>
+                          <div class="frame-6379-12 frame-6379">
+                            <div class="frame-6381-3">
+                              <div class="ellipse-22-6 ellipse-22"></div>
+                              <div class="zestaw-4 manrope-medium-gravel-16px">ZESTAW</div>
+                            </div>
+                            <div class="ogrd-4 manrope-semi-bold-cod-gray-36px">Ogród</div>
+                          </div>
+                        </div>
+                        <div class="frame-6378-item-2">
+                          <div class="frame-6367-8">
+                            <div class="sad zestawy-slide-img"><img class="image-29" src="<?php echo esc_url( $t ); ?>/img/image-24.png" alt="image" /><div class="zestawy-slide-mask"></div></div>
+                            <a href="#" class="zestawy-slide-btn zestawy-slide-cta">
+                              <span class="zestawy-slide-cta-text">Dowiedz się więcej</span>
+                              <span class="zestawy-slide-cta-circle">
+                                <img src="<?php echo esc_url( $t ); ?>/img/arrow-down.svg" alt="" aria-hidden="true" />
+                              </span>
+                            </a>
+                            <div class="rectangle-31-3"></div>
+                          </div>
+                          <div class="frame-6379-12 frame-6379">
+                            <div class="frame-6381-3">
+                              <div class="ellipse-22-6 ellipse-22"></div>
+                              <div class="zestaw-4 manrope-medium-gravel-16px">ZESTAW</div>
+                            </div>
+                            <div class="sad-1 manrope-semi-bold-cod-gray-36px">Sad</div>
+                          </div>
+                        </div>
+                        <div class="plantacja plantacja-2">
+                          <div class="frame-6367-8">
+                            <div class="plantacja-1 plantacja-2 zestawy-slide-img">
+                              <img class="image-29" src="<?php echo esc_url( $t ); ?>/img/image-25.png" alt="image" />
+                              <div class="zestawy-slide-mask"></div>
+                            </div>
+                            <a href="#" class="zestawy-slide-btn zestawy-slide-cta">
+                              <span class="zestawy-slide-cta-text">Dowiedz się więcej</span>
+                              <span class="zestawy-slide-cta-circle">
+                                <img src="<?php echo esc_url( $t ); ?>/img/arrow-down.svg" alt="" aria-hidden="true" />
+                              </span>
+                            </a>
+                            <div class="rectangle-31-3"></div>
+                          </div>
+                          <div class="frame-6379-12 frame-6379">
+                            <div class="frame-6381-3">
+                              <div class="ellipse-22-6 ellipse-22"></div>
+                              <div class="zestaw-4 manrope-medium-gravel-16px">ZESTAW</div>
+                            </div>
+                            <div class="plantacja-uprawa-rolin manrope-semi-bold-cod-gray-36px">
+                              Plantacja / uprawa roślin
+                            </div>
+                          </div>
+                        </div>
+                    </div>
+                    <div class="frame-6379-13 frame-6379 zestawy-arrows">
+                      <button type="button" class="arrow-21 zestawy-arrow-btn zestawy-arrow-prev" aria-label="Poprzedni slajd">
+                        <img src="<?php echo esc_url( $t ); ?>/img/arrow-blue-on-white-4.svg" alt="" data-src-edge="img/arrow-blue-on-white-4.svg" data-src-active="img/arrow-blue-on-white-7.svg" />
+                      </button>
+                      <button type="button" class="arrow-21 zestawy-arrow-btn zestawy-arrow-next" aria-label="Następny slajd">
+                        <img src="<?php echo esc_url( $t ); ?>/img/arrow-blue-on-white-7.svg" alt="" data-src-edge="img/arrow-blue-on-white-4.svg" data-src-active="img/arrow-blue-on-white-7.svg" />
+                      </button>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="frame-6378-7">
+                  <div class="frame-6-15">
+                    <div class="frame-36759-3">
+                      <div class="rectangle-1107-3"></div>
+                      <img class="ellipse-2-85" src="<?php echo esc_url( $t ); ?>/img/ellipse-2-91.svg" alt="Ellipse 2" />
+                      <div class="frame-6391-3"></div>
+                    </div>
+                    <div class="frame-6419-1">
+                      <div class="frame-36757-3">
+                        <div class="frame-64-5 frame-64">
+                          <div class="frame-6379-14 frame-6379">
+                            <div class="frame-6395-3">
+                              <div class="dom-mieszkalny-z-ogrodem-5 manrope-semi-bold-cod-gray-50px">
+                                Dom mieszkalny z ogrodem
+                              </div>
+                            </div>
+                          </div>
+                          <a href="#slider_zestawy" class="btn btn--white-blue">
+                              <div class="lista-zestaww-4 geist-medium-cod-gray-19px">Lista zestawów</div>
+                              <div class="frame-6407">
+                                <div class="arrow_down-24">
+                                  <img class="arrow_down-31" src="<?php echo esc_url( $t ); ?>/img/arrow-down-68.svg" alt="Arrow_down" />
+                                </div>
+                              </div>
+                          </a>
+                        </div>
+                      </div>
+                      <div class="frame-86 frame">
+                        <div class="frame-36754-2">
+                          Wybierz zestaw
+                          <div class="frame-98 frame wybierz-zestaw-tabs" role="tablist">
+                            <button type="button" class="wybierz-zestaw-tab-kafelek frame-36752-3 wybierz-zestaw-tab wybierz-zestaw-tab--active" role="tab" aria-selected="true" data-wybierz-tab="0">
+                              Dom 100m²<br>+<br>Ogród 1000m²
+                            </button>
+                            <button type="button" class="wybierz-zestaw-tab-kafelek frame-3675-3 wybierz-zestaw-tab" role="tab" aria-selected="false" data-wybierz-tab="1">
+                              Dom 150m²<br>+<br>Ogród
+                            </button>
+                            <button type="button" class="wybierz-zestaw-tab-kafelek frame-3675-3 wybierz-zestaw-tab" role="tab" aria-selected="false" data-wybierz-tab="2">
+                              Dom 250m²<br>+<br>Trawnik 2000m²
+                            </button>
+                            <button type="button" class="wybierz-zestaw-tab-kafelek frame-3675-3 wybierz-zestaw-tab" role="tab" aria-selected="false" data-wybierz-tab="3">
+                              Dom 300m²<br>+<br>Trawnik 3000m²
+                            </button>
+                          </div>
+                        </div>
+                        <div class="wybierz-zestaw-cards">
+                          <div class="frame-97 frame wybierz-zestaw-card" data-wybierz-card="0" role="tabpanel">
+                          <div class="frame-36761-3">
+                            <div class="wszystko-czego-potrz-3 wszystko-czego-potrz-tekst">Wszystko, czego potrzebujesz w jednym zestawie:</div>
+                            <div class="frame-6399-3">
+                              <div class="frame-638-3">
+                                <div class="ellipse-22-7 ellipse-22"></div>
+                                <div class="zbiornik-hydroforowy-3 manrope-semi-bold-gravel-18px">
+                                  Zbiornik hydroforowy
+                                </div>
+                              </div>
+                              <div class="frame-638-3">
+                                <div class="ellipse-22-7 ellipse-22"></div>
+                                <div class="pompa-gbinowa-z-falownikiem-3 manrope-semi-bold-gravel-18px">
+                                  Pompa głębinowa z falownikiem
+                                </div>
+                              </div>
+                              <div class="frame-638-3">
+                                <div class="ellipse-22-7 ellipse-22"></div>
+                                <div class="czujnik-cinienia-3 manrope-semi-bold-gravel-18px">Czujnik ciśnienia</div>
+                              </div>
+                              <div class="frame-638-3">
+                                <div class="ellipse-22-7 ellipse-22"></div>
+                                <div class="zcza-i-przycza-3 manrope-semi-bold-gravel-18px">Złącza i przyłącza</div>
+                              </div>
+                              <div class="frame-638-3">
+                                <div class="ellipse-22-7 ellipse-22"></div>
+                                <div class="akcesoria-montaowe-3 manrope-semi-bold-gravel-18px">
+                                  Akcesoria montażowe
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="frame-6403-3">
+                            <div class="frame-6400-3">
+                              <div class="mei-3 manrope-extra-extra-bold-cod-gray-30px">MEI</div>
+                              <div class="minimum-efficiency-index-3 manrope-medium-cod-gray-11px">
+                                Minimum <br />Efficiency <br />Index
+                              </div>
+                            </div>
+                            <p class="zestaw-spenia-euro-3 manrope-medium-cod-gray-15px">
+                              ZESTAW SPEŁNIA <br />EUROPEJSKIE <br />NORMY SPRAWNOŚCI
+                            </p>
+                          </div>
+                          <a href="#" class="zapytaj-o-zestaw_2-3 btn--cta-dark">
+                            <div class="zapytaj-o-zestaw-3">Zapytaj o zestaw</div>
+                            <div class="frame-6405-7 frame-6405">
+                              <div class="frame-6407-10 frame-6407">
+                                <img
+                                  class="arrow_right-18 arrow_right"
+                                  src="<?php echo esc_url( $t ); ?>/img/arrow-right-11.svg"
+                                  alt="Arrow_right"
+                                />
+                              </div>
+                            </div>
+                          </a>
+                          </div>
+                          <div class="frame-97 frame wybierz-zestaw-card wybierz-zestaw-card--hidden" data-wybierz-card="1" role="tabpanel" aria-hidden="true">
+                            <div class="frame-36761-3">
+                              <div class="wszystko-czego-potrz-3 wszystko-czego-potrz-tekst">Wszystko, czego potrzebujesz w jednym zestawie:</div>
+                              <div class="frame-6399-3">
+                                <div class="frame-638-3">
+                                  <div class="ellipse-22-7 ellipse-22"></div>
+                                  <div class="manrope-semi-bold-gravel-18px">Zbiornik hydroforowy</div>
+                                </div>
+                                <div class="frame-638-3">
+                                  <div class="ellipse-22-7 ellipse-22"></div>
+                                  <div class="pompa-gbinowa-z-falownikiem-3 manrope-semi-bold-gravel-18px">Pompa głębinowa z falownikiem</div>
+                                </div>
+                                <div class="frame-638-3">
+                                  <div class="ellipse-22-7 ellipse-22"></div>
+                                  <div class="manrope-semi-bold-gravel-18px">Czujnik ciśnienia</div>
+                                </div>
+                                <div class="frame-638-3">
+                                  <div class="ellipse-22-7 ellipse-22"></div>
+                                  <div class="zcza-i-przycza-3 manrope-semi-bold-gravel-18px">Złącza i przyłącza</div>
+                                </div>
+                                <div class="frame-638-3">
+                                  <div class="ellipse-22-7 ellipse-22"></div>
+                                  <div class="akcesoria-montaowe-3 manrope-semi-bold-gravel-18px">Akcesoria montażowe</div>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="frame-6403-3">
+                              <div class="frame-6400-3">
+                                <div class="mei-3 manrope-extra-extra-bold-cod-gray-30px">MEI</div>
+                                <div class="minimum-efficiency-index-3 manrope-medium-cod-gray-11px">Minimum <br />Efficiency <br />Index</div>
+                              </div>
+                              <p class="zestaw-spenia-euro-3 manrope-medium-cod-gray-15px">ZESTAW SPEŁNIA <br />EUROPEJSKIE <br />NORMY SPRAWNOŚCI</p>
+                            </div>
+                            <a href="#" class="zapytaj-o-zestaw_2-3 btn--cta-dark">
+                              <div class="zapytaj-o-zestaw-3">Zapytaj o zestaw</div>
+                              <div class="frame-6405-7 frame-6405">
+                                <div class="frame-6407-10 frame-6407">
+                                  <img class="arrow_right-18 arrow_right" src="<?php echo esc_url( $t ); ?>/img/arrow-right-11.svg" alt="Arrow_right" />
+                                </div>
+                              </div>
+                              
+                            </a>
+                          </div>
+                          <div class="frame-97 frame wybierz-zestaw-card wybierz-zestaw-card--hidden" data-wybierz-card="2" role="tabpanel" aria-hidden="true">
+                            <div class="frame-36761-3">
+                              <div class="wszystko-czego-potrz-3 wszystko-czego-potrz-tekst">Wszystko, czego potrzebujesz w jednym zestawie:</div>
+                              <div class="frame-6399-3">
+                                <div class="frame-638-3">
+                                  <div class="ellipse-22-7 ellipse-22"></div>
+                                  <div class="manrope-semi-bold-gravel-18px">Zbiornik hydroforowy</div>
+                                </div>
+                                <div class="frame-638-3">
+                                  <div class="ellipse-22-7 ellipse-22"></div>
+                                  <div class="pompa-gbinowa-z-falownikiem-3 manrope-semi-bold-gravel-18px">Pompa głębinowa z falownikiem</div>
+                                </div>
+                                <div class="frame-638-3">
+                                  <div class="ellipse-22-7 ellipse-22"></div>
+                                  <div class="manrope-semi-bold-gravel-18px">Czujnik ciśnienia</div>
+                                </div>
+                                <div class="frame-638-3">
+                                  <div class="ellipse-22-7 ellipse-22"></div>
+                                  <div class="zcza-i-przycza-3 manrope-semi-bold-gravel-18px">Złącza i przyłącza</div>
+                                </div>
+                                <div class="frame-638-3">
+                                  <div class="ellipse-22-7 ellipse-22"></div>
+                                  <div class="akcesoria-montaowe-3 manrope-semi-bold-gravel-18px">Akcesoria montażowe</div>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="frame-6403-3">
+                              <div class="frame-6400-3">
+                                <div class="mei-3 manrope-extra-extra-bold-cod-gray-30px">MEI</div>
+                                <div class="minimum-efficiency-index-3 manrope-medium-cod-gray-11px">Minimum <br />Efficiency <br />Index</div>
+                              </div>
+                              <p class="zestaw-spenia-euro-3 manrope-medium-cod-gray-15px">ZESTAW SPEŁNIA <br />EUROPEJSKIE <br />NORMY SPRAWNOŚCI</p>
+                            </div>
+                            <a href="#" class="zapytaj-o-zestaw_2-3 btn--cta-dark">
+                              <div class="zapytaj-o-zestaw-3">Zapytaj o zestaw</div>
+                              <div class="frame-6405-7 frame-6405">
+                                <div class="frame-6407-10 frame-6407">
+                                  <img class="arrow_right-18 arrow_right" src="<?php echo esc_url( $t ); ?>/img/arrow-right-11.svg" alt="Arrow_right" />
+                                </div>
+                              </div>
+                              
+                            </a>
+                          </div>
+                          <div class="frame-97 frame wybierz-zestaw-card wybierz-zestaw-card--hidden" data-wybierz-card="3" role="tabpanel" aria-hidden="true">
+                            <div class="frame-36761-3">
+                              <div class="wszystko-czego-potrz-3 wszystko-czego-potrz-tekst">Wszystko, czego potrzebujesz w jednym zestawie:</div>
+                              <div class="frame-6399-3">
+                                <div class="frame-638-3">
+                                  <div class="ellipse-22-7 ellipse-22"></div>
+                                  <div class="manrope-semi-bold-gravel-18px">Zbiornik hydroforowy</div>
+                                </div>
+                                <div class="frame-638-3">
+                                  <div class="ellipse-22-7 ellipse-22"></div>
+                                  <div class="pompa-gbinowa-z-falownikiem-3 manrope-semi-bold-gravel-18px">Pompa głębinowa z falownikiem</div>
+                                </div>
+                                <div class="frame-638-3">
+                                  <div class="ellipse-22-7 ellipse-22"></div>
+                                  <div class="manrope-semi-bold-gravel-18px">Czujnik ciśnienia</div>
+                                </div>
+                                <div class="frame-638-3">
+                                  <div class="ellipse-22-7 ellipse-22"></div>
+                                  <div class="zcza-i-przycza-3 manrope-semi-bold-gravel-18px">Złącza i przyłącza</div>
+                                </div>
+                                <div class="frame-638-3">
+                                  <div class="ellipse-22-7 ellipse-22"></div>
+                                  <div class="akcesoria-montaowe-3 manrope-semi-bold-gravel-18px">Akcesoria montażowe</div>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="frame-6403-3">
+                              <div class="frame-6400-3">
+                                <div class="mei-3 manrope-extra-extra-bold-cod-gray-30px">MEI</div>
+                                <div class="minimum-efficiency-index-3 manrope-medium-cod-gray-11px">Minimum <br />Efficiency <br />Index</div>
+                              </div>
+                              <p class="zestaw-spenia-euro-3 manrope-medium-cod-gray-15px">ZESTAW SPEŁNIA <br />EUROPEJSKIE <br />NORMY SPRAWNOŚCI</p>
+                            </div>
+                            <a href="#" class="zapytaj-o-zestaw_2-3 btn--cta-dark">
+                              <div class="zapytaj-o-zestaw-3">Zapytaj o zestaw</div>
+                              <div class="frame-6405-7 frame-6405">
+                                <div class="frame-6407-10 frame-6407">
+                                  <img class="arrow_right-18 arrow_right" src="<?php echo esc_url( $t ); ?>/img/arrow-right-11.svg" alt="Arrow_right" />
+                                </div>
+                              </div>
+                              
+                            </a>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="frame-68-9">
+                  <div class="frame-6477-3">
+                    <img class="vector-129" src="<?php echo esc_url( $t ); ?>/img/vector-165.svg" alt="Vector" />
+                    <p class="nie-znalaze-zestaw-3">Nie znalazłeś zestawu dla siebie lub masz pytania?</p>
+                  </div>
+                  <a href="#" class="btn btn--white-blue">
+                    <div class="kontakt-z-doradc geist-medium-cod-gray-19px">Kontakt z doradcą</div>
+                    <img class="arrow_right-16 arrow_right" src="<?php echo esc_url( $t ); ?>/img/arrow-right-11.svg" alt="Arrow_right" />
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div class="frame-140-6 frame-140" id="frame-140">
+              <div class="ellipse-2-76"></div>
+              <div class="frame-102 frame">
+                <div class="zastosowania-3 manrope-semi-bold-concrete-60px">Zastosowania</div>
+                <a href="#frame-140">
+                <div class="btn btn--secondary">
+                  <span class="dalej-4 geist-medium-white-19px">Poznaj konkretne przykłady zastosowań</span>
+                  <img class="arrow_right-16 arrow_right" src="<?php echo esc_url( $t ); ?>/img/arrow-right-8.svg" alt="Arrow_right" />
+                </div>
+                </a>
+              </div>
+              <div class="frame-99 frame">
+                <div class="frame-99 frame">
+                  <div class="frame-126-6 frame-126">
+                    <article class="dane-13 dane">
+                      <div class="przeplyw-12">
+                        <img class="x02-27" src="<?php echo esc_url( $t ); ?>/img/02.svg" alt="02" />
+                        <img class="x01-37" src="<?php echo esc_url( $t ); ?>/img/01.svg" alt="01" />
+                      </div>
+                      <div class="frame-153-17 frame-153">
+                        <p class="od-000-lmin-do-200-lmin-3 od-000-lmin-do-200-lmin manrope-semi-bold-white-23px">
+                          Zasilanie wodą domu&nbsp;&nbsp;<br />ze studni głębinowej
+                        </p>
+                      </div>
+                      <img class="group-37-11" src="<?php echo esc_url( $t ); ?>/img/group-37-24@2x.png" alt="Group 37" />
+                    </article>
+                    <article class="dane-14 dane">
+                      <div class="irrigation_systems-3">
+                        <img class="vector-130" src="<?php echo esc_url( $t ); ?>/img/vector-114.svg" alt="Vector" />
+                        <img class="vector-131" src="<?php echo esc_url( $t ); ?>/img/vector-115.svg" alt="Vector" />
+                      </div>
+                      <div class="frame-103 frame">
+                        <p class="od-000-lmin-do-200-lmin-3 od-000-lmin-do-200-lmin manrope-semi-bold-white-23px">
+                          Woda do systemów&nbsp;&nbsp;<br />podlewania ogrodu
+                        </p>
+                      </div>
+                      <img class="group-37-11" src="<?php echo esc_url( $t ); ?>/img/group-37-24@2x.png" alt="Group 37" />
+                    </article>
+                    <article class="dane-14 dane">
+                      <div class="crop_irrigation-3">
+                        <img class="vector-132" src="<?php echo esc_url( $t ); ?>/img/vector-116.svg" alt="Vector" />
+                        <img class="vector-133" src="<?php echo esc_url( $t ); ?>/img/vector-117.svg" alt="Vector" />
+                      </div>
+                      <div class="frame-103 frame">
+                        <div class="od-000-lmin-do-200-lmin-3 od-000-lmin-do-200-lmin manrope-semi-bold-white-23px">
+                          Nawadnianie&nbsp;&nbsp;<br />upraw
+                        </div>
+                      </div>
+                      <img class="group-37-11" src="<?php echo esc_url( $t ); ?>/img/group-37-24@2x.png" alt="Group 37" />
+                    </article>
+                    <article class="dane-14 dane">
+                      <div class="water_flow-3">
+                        <img class="vector-134" src="<?php echo esc_url( $t ); ?>/img/vector-118.svg" alt="Vector" />
+                        <img class="vector-135" src="<?php echo esc_url( $t ); ?>/img/vector-119.svg" alt="Vector" />
+                      </div>
+                      <div class="frame-103 frame">
+                        <p class="od-000-lmin-do-200-lmin-3 od-000-lmin-do-200-lmin manrope-semi-bold-white-23px">
+                          Przepływ wody <br />również w rolnictwie
+                        </p>
+                      </div>
+                      <img class="group-37-11" src="<?php echo esc_url( $t ); ?>/img/group-37-24@2x.png" alt="Group 37" />
+                    </article>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="konfugurator_i_wyniki-3">
+            <div class="konfigurator-form-sekcja" role="region" aria-label="Konfigurator pompy">
+              <div class="konfigurator-lewy">
+                <div class="konfigurator-form-panel">
+                  <form class="konfigurator-form" action="#" method="get" id="form-konfigurator">
+                    <div class="konfigurator-ramka">
+                      <div class="konfigurator-sekcja">
+                        <div class="konfigurator-krok-num">1</div>
+                        <div class="konfigurator-sekcja-tresc">
+                          <h3 class="konfigurator-sekcja-tytul manrope-semi-bold-concrete-19px">Skąd pompa będzie pobierała wodę?</h3>
+                          <select id="konfig-zrodlo" name="zrodlo_wody" class="konfigurator-form-select" aria-label="Wybierz źródło wody">
+                            <option value="">Wybierz</option>
+                            <option value="studnia">Studnia głębinowa</option>
+                            <option value="zbiornik">Zbiornik / cysterna</option>
+                            <option value="rzeka">Źródło powierzchniowe (rzeka, jezioro)</option>
+                          </select>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="konfigurator-ramka">
+                      <div class="konfigurator-sekcja">
+                        <div class="konfigurator-krok-num">2</div>
+                        <div class="konfigurator-sekcja-tresc">
+                          <h3 class="konfigurator-sekcja-tytul manrope-semi-bold-concrete-19px">Rodzaj zasilania elektrycznego</h3>
+                          <div class="konfigurator-radios">
+                            <label class="konfigurator-radio">
+                              <input type="radio" name="zasilanie" value="1-fazowe" />
+                              <span class="konfigurator-radio-tekst">1-fazowe 230 V, 50 Hz</span>
+                            </label>
+                            <label class="konfigurator-radio">
+                              <input type="radio" name="zasilanie" value="3-fazowe" />
+                              <span class="konfigurator-radio-tekst">3-fazowe 400V, 50 Hz</span>
+                            </label>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="konfigurator-ramka">
+                      <div class="konfigurator-sekcja">
+                        <div class="konfigurator-krok-num">3</div>
+                        <div class="konfigurator-sekcja-tresc">
+                          <h3 class="konfigurator-sekcja-tytul manrope-semi-bold-concrete-19px">Określ ilość punktów poboru wody</h3>
+                          <div class="konfigurator-slider-list">
+                            <div class="konfigurator-slider-row">
+                              <span class="konfigurator-slider-label">Zlewozmywak</span>
+                              <div class="konfigurator-slider-wrap">
+                                <input type="range" name="zlewozmywak" class="konfigurator-range" min="0" max="10" value="0" />
+                                <div class="konfigurator-slider-thumb" style="--range-percent: 0%;"><span class="konfigurator-slider-value">0</span></div>
+                              </div>
+                            </div>
+                            <div class="konfigurator-slider-row">
+                              <span class="konfigurator-slider-label">Zmywarka</span>
+                              <div class="konfigurator-slider-wrap">
+                                <input type="range" name="zmywarka" class="konfigurator-range" min="0" max="10" value="1" />
+                                <div class="konfigurator-slider-thumb" style="--range-percent: 10%;"><span class="konfigurator-slider-value">1</span></div>
+                              </div>
+                            </div>
+                            <div class="konfigurator-slider-row">
+                              <span class="konfigurator-slider-label">Bateria łazienkowa (w umywalce, wannie, prysznicu)</span>
+                              <div class="konfigurator-slider-wrap">
+                                <input type="range" name="bateria_lazienkowa" class="konfigurator-range" min="0" max="10" value="2" />
+                                <div class="konfigurator-slider-thumb" style="--range-percent: 20%;"><span class="konfigurator-slider-value">2</span></div>
+                              </div>
+                            </div>
+                            <div class="konfigurator-slider-row">
+                              <span class="konfigurator-slider-label">Deszczownica</span>
+                              <div class="konfigurator-slider-wrap">
+                                <input type="range" name="deszczownica" class="konfigurator-range" min="0" max="10" value="1" />
+                                <div class="konfigurator-slider-thumb" style="--range-percent: 10%;"><span class="konfigurator-slider-value">1</span></div>
+                              </div>
+                            </div>
+                            <div class="konfigurator-slider-row">
+                              <span class="konfigurator-slider-label">Sedes</span>
+                              <div class="konfigurator-slider-wrap">
+                                <input type="range" name="sedes" class="konfigurator-range" min="0" max="10" value="1" />
+                                <div class="konfigurator-slider-thumb" style="--range-percent: 10%;"><span class="konfigurator-slider-value">1</span></div>
+                              </div>
+                            </div>
+                            <div class="konfigurator-slider-row">
+                              <span class="konfigurator-slider-label">Pralka automatyczna</span>
+                              <div class="konfigurator-slider-wrap">
+                                <input type="range" name="pralka" class="konfigurator-range" min="0" max="10" value="1" />
+                                <div class="konfigurator-slider-thumb" style="--range-percent: 10%;"><span class="konfigurator-slider-value">1</span></div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="konfigurator-footer-ramka">
+                      <div class="konfigurator-form-footer">
+                        <div class="konfigurator-kroki">
+                          <span class="konfigurator-kroki-tekst">Krok</span>
+                          <span class="konfigurator-krok-aktual">1</span>
+                          <span class="konfigurator-krok-inny">2</span>
+                        </div>
+                        <button type="submit" class="btn btn--secondary konfigurator-dalej">
+                          <span class="geist-medium-white-19px">Dalej</span>
+                          <img class="arrow_right-16 arrow_right" src="<?php echo esc_url( $t ); ?>/img/arrow-right-8.svg" alt="" />
+                        </button>
+                      </div>
+                    </div>
+                  </form>
+                </div>
+              </div>
+              <div class="konfigurator-prawy">
+                <div class="konfigurator-gora">
+                  <div class="konfigurator-naglowek-rzad">
+                    <div class="konfigurator-kroki-kapsula">
+                      <span class="konfigurator-kroki-tekst">Krok</span>
+                      <span class="konfigurator-krok-aktual">1</span>
+                      <span class="konfigurator-krok-inny">2</span>
+                    </div>
+                    <h2 class="konfigurator-tytul-glowny manrope-semi-bold-concrete-60px">Konfigurator</h2>
+                  </div>
+                  <p class="konfigurator-podtytul manrope-semi-bold-concrete-19px">Dobierz pompę do swojej studni</p>
+                  <div class="konfigurator-logo">
+                    <img class="konfigurator-logo-img" src="<?php echo esc_url( $t ); ?>/img/Logo.png" alt="Pedrollo" />
+                  </div>
+                </div>
+                <div class="konfigurator-pomoc-box">
+                  <div class="konfigurator-pomoc-gora">
+                    <img class="konfigurator-pomoc-ikona" src="<?php echo esc_url( $t ); ?>/img/Layer_1.png" alt="" aria-hidden="true" />
+                    <p class="konfigurator-pomoc-tekst manrope-semi-bold-concrete-19px">Potrzebuję pomocy<br> przy wyborze?</p>
+                  </div>
+                  <a href="#kontakt-z-doradca" class="btn btn--white-blue konfigurator-kontakt-btn">
+                    <span class="geist-medium-cod-gray-19px">Kontakt z doradcą</span>
+                    <img class="arrow_right-16 arrow_right" src="<?php echo esc_url( $t ); ?>/img/arrow-right-8.svg" alt="" />
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div class="wynik_konfiguracji-3">
+              <img class="ellipse-2-86" src="<?php echo esc_url( $t ); ?>/img/ellipse-2-92.svg" alt="Ellipse 2" />
+              <div class="frame-6498-2">
+                <div class="pompy-speniajce-twoje-wymagania-3">Pompy spełniające Twoje wymagania</div>
+              </div>
+              <div class="frame-6500-1">
+                <div class="frame-6502">
+                  <div class="frame-6480-7 frame-6480">
+                    <div class="frame-97 frame">
+                      <div class="frame-6-16">
+                        <img class="ellipse-2-87" src="<?php echo esc_url( $t ); ?>/img/ellipse-2-93.svg" alt="Ellipse 2" />
+                        <div class="pompa-15"><img class="image-34" src="<?php echo esc_url( $t ); ?>/img/image-3.png" alt="image" /></div>
+                        <div class="frame-6-17">
+                          <div class="frame-101 frame">
+                            <p class="x4-srm-150-s-pd manrope-semi-bold-white-40px">4SRM 1/50 S - PD</p>
+                            <a href="#">
+                              <div class="btn btn--secondary">
+                                <div class="wicej geist-medium-white-19px">Więcej o tym produkcie</div>
+                                <img class="arrow_right-16 arrow_right" src="<?php echo esc_url( $t ); ?>/img/arrow-right-8.svg" alt="Arrow_right" />
+                              </div>
+                            </a>
+                          </div>
+                          <div class="frame-6397-1 frame-6397">
+                            <div class="frame-88 frame">
+                              <div class="frame-648-3">
+                                <div class="frame-6-18">
+                                  <div class="przeplyw-13">
+                                    <img class="x02-28" src="<?php echo esc_url( $t ); ?>/img/02-5.svg" alt="02" />
+                                    <img class="x01-38" src="<?php echo esc_url( $t ); ?>/img/01-5.svg" alt="01" />
+                                  </div>
+                                  <div class="przepyw-wydajno manrope-semi-bold-hawkes-blue-16px">
+                                    Przepływ <br />(wydajność)
+                                  </div>
+                                </div>
+                                <p class="od-00-3 manrope-semi-bold-white-19px-2">Od 00&nbsp;&nbsp;l/min Do 30 l/min</p>
+                              </div>
+                              <div class="frame-648-3">
+                                <div class="frame-6-18">
+                                  <div class="podnoszenie-9">
+                                    <img class="x02-29" src="<?php echo esc_url( $t ); ?>/img/02-6.svg" alt="02" />
+                                    <img class="x01-39" src="<?php echo esc_url( $t ); ?>/img/01-6.svg" alt="01" />
+                                  </div>
+                                  <div class="wysoko-podnoszenia manrope-semi-bold-hawkes-blue-16px">
+                                    Wysokość <br />podnoszenia
+                                  </div>
+                                </div>
+                                <p class="od-00-3 manrope-semi-bold-white-19px-2">Od 00 m Do 31 m</p>
+                              </div>
+                              <div class="frame-648-3">
+                                <div class="frame-6-18">
+                                  <div class="piasek-6 piasek"><img class="x01-40" src="<?php echo esc_url( $t ); ?>/img/01-7.svg" alt="01" /></div>
+                                  <div class="zawarto-piasku manrope-semi-bold-hawkes-blue-16px">
+                                    Zawartość <br />piasku
+                                  </div>
+                                </div>
+                                <p class="od-00-3 manrope-semi-bold-white-19px-2">OD 000 g/m³ Do 200 g/m³</p>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="frame-64-5 frame-64">
+                            <a href="#">
+                              <div class="zapytaj-6 btn btn--cta-dark">
+                                
+                                <div class="zapytaj-o-produkt geist-medium-white-19px">Zapytaj o produkt</div>
+                                <div class="frame-4-21">
+                                  <img
+                                    class="arrow_right-17 arrow_right"
+                                    src="<?php echo esc_url( $t ); ?>/img/arrow-right-11.svg"
+                                    alt="Arrow_right"
+                                  />
+                                </div>
+                              </div>
+                            </a>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="frame-6499-1">
+                    <div class="frame-97 frame">
+                      <div class="frame-6-16">
+                        <div class="pompa-15"><img class="image-35" src="<?php echo esc_url( $t ); ?>/img/image-3.png" alt="image" /></div>
+                        <div class="frame-6-17">
+                          <div class="frame-101 frame">
+                            <p class="x4-srm-150-s-pd manrope-semi-bold-white-40px">4SRM 1/50 S - PD</p>
+                            <a href="#">
+                              <div class="btn btn--secondary">
+                                <div class="wicej geist-medium-white-19px">Więcej o tym produkcie</div>
+                                <img class="arrow_right-16 arrow_right" src="<?php echo esc_url( $t ); ?>/img/arrow-right-8.svg" alt="Arrow_right" />
+                              </div>
+                            </a>
+                          </div>
+                          <div class="frame-6397-1 frame-6397">
+                            <div class="frame-88 frame">
+                              <div class="frame-648-3">
+                                <div class="frame-6-18">
+                                  <div class="przeplyw-14">
+                                    <img class="x02-30" src="<?php echo esc_url( $t ); ?>/img/02-5.svg" alt="02" />
+                                    <img class="x01-41" src="<?php echo esc_url( $t ); ?>/img/01-5.svg" alt="01" />
+                                  </div>
+                                  <div class="przepyw-wydajno manrope-semi-bold-hawkes-blue-16px">
+                                    Przepływ <br />(wydajność)
+                                  </div>
+                                </div>
+                                <p class="od-00-3 manrope-semi-bold-white-19px-2">Od 00&nbsp;&nbsp;l/min Do 30 l/min</p>
+                              </div>
+                              <div class="frame-648-3">
+                                <div class="frame-6-18">
+                                  <div class="podnoszenie-10">
+                                    <img class="x02-31" src="<?php echo esc_url( $t ); ?>/img/02-6.svg" alt="02" />
+                                    <img class="x01-42" src="<?php echo esc_url( $t ); ?>/img/01-6.svg" alt="01" />
+                                  </div>
+                                  <div class="wysoko-podnoszenia manrope-semi-bold-hawkes-blue-16px">
+                                    Wysokość <br />podnoszenia
+                                  </div>
+                                </div>
+                                <p class="od-00-3 manrope-semi-bold-white-19px-2">Od 00 m Do 31 m</p>
+                              </div>
+                              <div class="frame-648-3">
+                                <div class="frame-6-18">
+                                  <div class="piasek-6 piasek"><img class="x01-43" src="<?php echo esc_url( $t ); ?>/img/01-7.svg" alt="01" /></div>
+                                  <div class="zawarto-piasku manrope-semi-bold-hawkes-blue-16px">
+                                    Zawartość <br />piasku
+                                  </div>
+                                </div>
+                                <p class="od-00-3 manrope-semi-bold-white-19px-2">OD 000 g/m³ Do 200 g/m³</p>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="frame-64-5 frame-64">
+                            <a href="#">
+                              <div class="zapytaj-6 btn btn--cta-dark">
+                                
+                                <div class="zapytaj-o-produkt geist-medium-white-19px">Zapytaj o produkt</div>
+                                <div class="frame-4-21">
+                                  <img
+                                    class="arrow_right-17 arrow_right"
+                                    src="<?php echo esc_url( $t ); ?>/img/arrow-right-11.svg"
+                                    alt="Arrow_right"
+                                  />
+                                </div>
+                              </div>
+                            </a>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="konsultacja-13 konsultacja">
+          <img class="ellipse-2-77" src="<?php echo esc_url( $t ); ?>/img/ellipse-2-95.svg" alt="Ellipse 2" />
+          <div class="frame-6-15">
+            <div class="u7761719182_httpss-12 u7761719182_httpss">
+              <img class="ellipse-2-89" src="<?php echo esc_url( $t ); ?>/img/ellipse-2-96.svg" alt="Ellipse 2" />
+              <img class="ellipse-3-18" src="<?php echo esc_url( $t ); ?>/img/ellipse-3-18.svg" alt="Ellipse 3" />
+            </div>
+            <div class="logo_anim-7 logo_anim"></div>
+            <div class="frame-6-17">
+              <div class="frame-86 frame">
+                <div class="frame-6501">
+                  <p class="nie-wiesz-tekst nie-wiesz-ktr-pomp-wybra-3">Nie wiesz, którą pompę wybrać?</p>
+                  <p class="bezpatna-konsultacj-3 manrope-semi-bold-concrete-60px">
+                    Bezpłatna konsultacja <br />z doradcą technicznym
+                  </p>
+                </div>
+                <p class="nie-musisz-by-ekspe-3 manrope-semi-bold-white-23px-2">
+                  <span class="span-17 manrope-semi-bold-white-23px"
+                    >Nie musisz być ekspertem - od tego jesteśmy my!</span
+                  ><span class="span-17 manrope-semi-bold-silver-chalice-23px">
+                    Powiedz nam czego szukasz, a przygotujemy dla Ciebie idealnie dopasowaną propozycję. Bez dodatkowych
+                    kosztów. Bez zobowiązań.</span
+                  >
+                </p>
+              </div>
+              <div class="btn btn--secondary">
+                <div class="poznaj-nasz-zestaw geist-medium-white-19px">Kontakt z doradcą</div>
+                <img class="arrow_right-16 arrow_right" src="<?php echo esc_url( $t ); ?>/img/arrow-right-8.svg" alt="Arrow_right" />
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="faq-6">
+          <div class="frame-6498-2">
+            <div class="frame-6506-6 frame-6506">
+              <div class="frame-103 frame">
+                <p class="jak-dziaa-elektrycz-3">Jak działa elektryczna <br />pompa głębinowa?</p>
+              </div>
+              <div class="frame-104 frame">
+                <div class="frame-6508-3">
+                  <div class="frame-6507-3"><h1 class="pedr-ollo-3">PEDROLLO</h1></div>
+                </div>
+                <div class="frame-4-23">
+                  <div class="x4-sr-s-13 x4-sr-s">4SR-S</div>
+                  <div class="text-22">®</div>
+                </div>
+              </div>
+            </div>
+            <div class="frame-6511-2">
+              <div class="frame-6573-2">
+                <div class="frame-102 frame">
+                  <div class="frame-6-18">
+                    <p class="manrope-medium-cod-gray-20px">Najczęściej zadawane pytania</p>
+                  </div>
+                  <div class="frame-6569-2">
+                    <p class="manrope-medium-cod-gray-20px align-right">Masz inne pytanie?</p>
+                    <a href="#"><div class="btn btn--white-blue">
+                      <div class="kontakt-z-doradc geist-medium-cod-gray-19px">Napisz</div>
+                      <img class="mail-3" src="<?php echo esc_url( $t ); ?>/img/mail.svg" alt="mail" />
+                    </div></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="frame-65-29 frame-65">
+            <div id="accordion-faq-6" class="frame-6502-5 frame-6502">
+              <article class="faq_pytanie-6">
+                <div class="faq-accordion-header">
+                  <div class="frame-102 frame">
+                    <p class="co-oznacza-okreleni-3 manrope-medium-cod-gray-23px-2">
+                      Co oznacza określenie pompy &#34;plug &amp; play&#34;?
+                    </p>
+                    <div class="arrow-22">
+                      <div class="frame-76-7 frame-76">
+                        <img class="line-8-16" src="<?php echo esc_url( $t ); ?>/img/line-8-13.svg" alt="Line 8" />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="faq-accordion-content">
+                  <p class="faq-odpowiedz">Określenie &quot;plug &amp; play&quot; (z ang. &quot;podłącz i używaj&quot;) oznacza, że pompa jest gotowa do pracy od razu po wyjęciu z pudełka. Wystarczy ją podłączyć do prądu i umieścić w studni – nie wymaga dodatkowych urządzeń sterujących ani skomplikowanej konfiguracji. Wszystkie niezbędne elementy, w tym zabezpieczenia, są już fabrycznie zintegrowane z pompą.</p>
+                </div>
+              </article>
+              <article class="faq_pytanie-6">
+                <div class="faq-accordion-header">
+                  <div class="frame-102 frame">
+                    <p class="co-oznacza-okreleni-3 manrope-medium-cod-gray-23px-2">
+                      Jak działa pompa głębinowa Pedrollo 4SR-S®?
+                    </p>
+                    <div class="arrow-22">
+                      <div class="frame-76-7 frame-76">
+                        <img class="line-8-16" src="<?php echo esc_url( $t ); ?>/img/line-8-13.svg" alt="Line 8" />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="faq-accordion-content">
+                  <p class="faq-odpowiedz">Określenie &quot;plug &amp; play&quot; (z ang. &quot;podłącz i używaj&quot;) oznacza, że pompa jest gotowa do pracy od razu po wyjęciu z pudełka. Wystarczy ją podłączyć do prądu i umieścić w studni – nie wymaga dodatkowych urządzeń sterujących ani skomplikowanej konfiguracji. Wszystkie niezbędne elementy, w tym zabezpieczenia, są już fabrycznie zintegrowane z pompą.</p>
+                </div>
+              </article>
+              <article class="faq_pytanie-6">
+                <div class="faq-accordion-header">
+                  <div class="frame-102 frame">
+                    <p class="co-oznacza-okreleni-3 manrope-medium-cod-gray-23px-2">
+                      Czy jedna pompa do wody do studni głębinowej wystarczy w moim przypadku?
+                    </p>
+                    <div class="arrow-22">
+                      <div class="frame-76-7 frame-76">
+                        <img class="line-8-16" src="<?php echo esc_url( $t ); ?>/img/line-8-13.svg" alt="Line 8" />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="faq-accordion-content">
+                  <p class="faq-odpowiedz">Określenie &quot;plug &amp; play&quot; (z ang. &quot;podłącz i używaj&quot;) oznacza, że pompa jest gotowa do pracy od razu po wyjęciu z pudełka. Wystarczy ją podłączyć do prądu i umieścić w studni – nie wymaga dodatkowych urządzeń sterujących ani skomplikowanej konfiguracji. Wszystkie niezbędne elementy, w tym zabezpieczenia, są już fabrycznie zintegrowane z pompą.</p>
+                </div>
+              </article>
+              <article class="faq_pytanie-6">
+                <div class="faq-accordion-header">
+                  <div class="frame-102 frame">
+                    <p class="co-oznacza-okreleni-3 manrope-medium-cod-gray-23px-2">
+                      Ile punktów poboru wody obsłuży jedna pompa głębinowa do studni?
+                    </p>
+                    <div class="arrow-22">
+                      <div class="frame-76-7 frame-76">
+                        <img class="line-8-16" src="<?php echo esc_url( $t ); ?>/img/line-8-13.svg" alt="Line 8" />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="faq-accordion-content">
+                  <p class="faq-odpowiedz">Określenie &quot;plug &amp; play&quot; (z ang. &quot;podłącz i używaj&quot;) oznacza, że pompa jest gotowa do pracy od razu po wyjęciu z pudełka. Wystarczy ją podłączyć do prądu i umieścić w studni – nie wymaga dodatkowych urządzeń sterujących ani skomplikowanej konfiguracji. Wszystkie niezbędne elementy, w tym zabezpieczenia, są już fabrycznie zintegrowane z pompą.</p>
+                </div>
+              </article>
+              <article class="faq_pytanie-6">
+                <div class="faq-accordion-header">
+                  <div class="frame-102 frame">
+                    <p class="co-oznacza-okreleni-3 manrope-medium-cod-gray-23px-2">
+                      Jak dobrać odpowiednią wydajność pompy do studni głębinowej?
+                    </p>
+                    <div class="arrow-22">
+                      <div class="frame-76-7 frame-76">
+                        <img class="line-8-16" src="<?php echo esc_url( $t ); ?>/img/line-8-13.svg" alt="Line 8" />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="faq-accordion-content">
+                  <p class="faq-odpowiedz">Określenie &quot;plug &amp; play&quot; (z ang. &quot;podłącz i używaj&quot;) oznacza, że pompa jest gotowa do pracy od razu po wyjęciu z pudełka. Wystarczy ją podłączyć do prądu i umieścić w studni – nie wymaga dodatkowych urządzeń sterujących ani skomplikowanej konfiguracji. Wszystkie niezbędne elementy, w tym zabezpieczenia, są już fabrycznie zintegrowane z pompą.</p>
+                </div>
+              </article>
+            </div>
+            <a href="#"><div class="btn btn--secondary krok">
+              <div class="dalej-4 geist-medium-white-19px">FAQ</div>
+              <img class="arrow_right-16 arrow_right" src="<?php echo esc_url( $t ); ?>/img/arrow-right-8.svg" alt="Arrow_right" />
+            </div></a>
+          </div>
+        </div>
+        <div class="frame-6563-2">
+          <div class="porownanie-3">
+            <img class="ellipse-2-90" src="<?php echo esc_url( $t ); ?>/img/ellipse-2-97.svg" alt="Ellipse 2" />
+            <div class="frame-6-15">
+              <div class="u7761719182_httpss-13 u7761719182_httpss">
+                <img class="image-11-3" src="<?php echo esc_url( $t ); ?>/img/image-11-1@2x.png" alt="image 11" />
+                <div class="frame-66-8 frame-66">
+                  <img class="frame" src="<?php echo esc_url( $t ); ?>/img/frame-66-2@4x.png" alt="Frame 66" />
+                  <div class="vs-3">VS</div>
+                  <div class="frame-6562-3">
+                    <span class="inni-producenci-tekst">inni producenci</span>
+                  </div>
+                </div>
+              </div>
+              <div class="frame-6-17">
+                <div class="frame-86 frame">
+                  <div class="frame-6501">
+                    <p class="tabela-porownawcza-tekst manrope-semi-bold-silver-chalice-23px">Tabela porównawcza</p>
+                    <p class="gdzie-inni-producenc-3 manrope-semi-bold-concrete-60px">
+                      Gdzie inni producenci szukają oszczędności?
+                    </p>
+                  </div>
+                  <p class="dlaczego-inne-pompy-3 manrope-semi-bold-white-23px-2">
+                    <span class="span-17 manrope-semi-bold-white-23px">Dlaczego inne pompy są takie tanie?</span
+                    ><span class="span-17 manrope-semi-bold-silver-chalice-23px">
+                      Na jakie kompromisy w zapewnieniu bezpieczeństwa są gotowi ich producenci?</span
+                    >
+                  </p>
+                </div>
+                <a href="#"><div class="btn btn--secondary">
+                  <div class="poznaj-nasz-zestaw geist-medium-white-19px">Zobacz porównanie</div>
+                  <img class="arrow_right-16 arrow_right" src="<?php echo esc_url( $t ); ?>/img/arrow-right-8.svg" alt="Arrow_right" />
+                </div></a>
+              </div>
+            </div>
+          </div>
+          <div class="frame-6518-3">
+            <div class="frame-6379-15 frame-6379">
+              <div class="frame-6506-7 frame-6506">
+                <div class="frame-103 frame">
+                  <div class="pedrollo-vs-inni-producenci-3">
+                    <span class="span-21">Pedrollo </span><span class="span1-16">VS</span
+                    ><span class="span-21"> Inni producenci</span>
+                  </div>
+                </div>
+                <p class="tabela-porownawcza-tekst tabela-porownawcza-tekst--small manrope-semi-bold-silver-chalice-23px">Tabela porównawcza</p>
+              </div>
+              <div class="frame-6554-3">
+                <div class="frame-65-29 frame-65">
+                  <div class="frame-6-16">
+                    <div class="frame-6516-2">
+                      <img class="frame" src="<?php echo esc_url( $t ); ?>/img/frame-66-7.svg" alt="Frame 66" />
+                      <div class="frame-6525-1 frame-6525-1--tekst">
+                        <p class="pedrollo-bezpieczenstwo-linia-1">
+                          <span class="szary">Głęboko wierzymy, że </span><span class="bialy">na zdrowiu nie warto oszczędzać.</span>
+                        </p>
+                        <p class="pedrollo-bezpieczenstwo-linia-2">Pedrollo pełne bezpieczeństwo zapewnia w standardzie.</p>
+                      </div>
+                    </div>
+                    <div class="frame-6515-2">
+                      <div class="frame-6561-3">
+                        <span class="inni-producenci-tekst-czerwony">Inni producenci</span>
+                      </div>
+                      <div class="frame-6560-1 frame-6560-1--tekst">
+                        <p class="gdzie-oszczednosci-linia-1">
+                          <span class="szary">Gdzie</span><span class="bialy"> inni producenci szukają oszczędności?</span>
+                        </p>
+                        <p class="zanzona-cena-opis">Zaniżona cena pomp głębinowych zawsze wiąże się z pewnym ustępstwami w zakresie wytrzymałości, niezawodności i bezpieczeństwa.</p>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="porwnanie-3">
+                    <div class="frame-97 frame">
+                      <div class="frame-86 frame porownanie-flickity" id="porownanie-slider">
+                        <div class="porownanie-slide">
+                        <div class="frame-86-item">
+                          <div class="p1-3">
+                            <div class="frame-6555-5">
+                              <img class="ellipse-2-91" src="<?php echo esc_url( $t ); ?>/img/ellipse-2-98@2x.png" alt="Ellipse 2" />
+                              <div class="frame-6522-4">
+                                <div class="pena-kontrola-certyfikowana-jako manrope-medium-white-21px">
+                                  pełna kontrola, certyfikowana jakość
+                                </div>
+                                <p class="wirniki manrope-medium-silver-chalice-16px">
+                                  Wirniki wykonane z nowych, certyfikowanych tworzyw — wolnych od domieszek i
+                                  pochodzących z pewnych źródeł. Każdy element jest oznakowany, co umożliwia pełną
+                                  identyfikowalność i kontrolę jakości. To ważne, bo te komponenty mają bezpośredni
+                                  kontakt z wodą pitną.
+                                </p>
+                              </div>
+                              <img class="rectangle-1105" src="<?php echo esc_url( $t ); ?>/img/rectangle-1105-11.svg" alt="Rectangle 1105" />
+                              <div class="arrow-23">
+                                <div class="frame-76">
+                                  <img class="line-8-17" src="<?php echo esc_url( $t ); ?>/img/line-8-45.svg" alt="Line 8" />
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="i1-3">
+                            <img class="ellipse-2-92" src="<?php echo esc_url( $t ); ?>/img/ellipse-2-98@2x.png" alt="Ellipse 2" />
+                            <img
+                              class="rectangle-1105-7 rectangle-1105"
+                              src="<?php echo esc_url( $t ); ?>/img/rectangle-1105-10@2x.png"
+                              alt="Rectangle 1105"
+                            />
+                            <div class="frame-6522-4">
+                              <div class="frame-6529">
+                                <div class="brak-rda-brak-gwarancji manrope-medium-white-21px">
+                                  brak źródła, brak gwarancji
+                                </div>
+                              </div>
+                              <p class="wirniki manrope-medium-silver-chalice-16px">
+                                Wirniki często powstają z tworzyw wtórnych o nieznanym składzie i bez oznaczeń. Brak
+                                dokumentacji materiałowej oznacza brak pewności, z czym masz kontakt. To ryzyko, którego
+                                nie widać gołym okiem.
+                              </p>
+                            </div>
+                            <div class="arrow-24">
+                              <div class="group-65-3">
+                                <img class="line-1-3" src="<?php echo esc_url( $t ); ?>/img/line-10.svg" alt="Line 10" />
+                                <img class="line-1-3 line-10-rotated" src="<?php echo esc_url( $t ); ?>/img/line-10.svg" alt="" />
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="frame-86-item">
+                          <div class="p2-3">
+                            <div class="frame-6555-5">
+                              <img class="ellipse-2-93" src="<?php echo esc_url( $t ); ?>/img/ellipse-2-98@2x.png" alt="Ellipse 2" />
+                              <div class="frame-6522-4">
+                                <div class="pena-kontrola-certyfikowana-jako manrope-medium-white-21px">
+                                  precyzja, która się opłaca
+                                </div>
+                                <p class="wirniki manrope-medium-silver-chalice-16px">
+                                  Wirniki wykonane z nowych, certyfikowanych tworzyw — wolnych od domieszek i
+                                  pochodzących z pewnych źródeł. Każdy element jest oznakowany, co umożliwia pełną
+                                  identyfikowalność i kontrolę jakości. To ważne, bo te komponenty mają bezpośredni
+                                  kontakt z wodą pitną.
+                                </p>
+                              </div>
+                              <img class="rectangle-1105" src="<?php echo esc_url( $t ); ?>/img/rectangle-1105-12.svg" alt="Rectangle 1105" />
+                              <div class="arrow-23">
+                                <div class="frame-76">
+                                  <img class="line-8-17" src="<?php echo esc_url( $t ); ?>/img/line-8-45.svg" alt="Line 8" />
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="i2-3">
+                            <img class="ellipse-2-94" src="<?php echo esc_url( $t ); ?>/img/ellipse-2-98@2x.png" alt="Ellipse 2" />
+                            <img class="rectangle-1105" src="<?php echo esc_url( $t ); ?>/img/rectangle-1105-6@2x.png" alt="Rectangle 1105" />
+                            <div class="frame-6522-4">
+                              <div class="frame-6529">
+                                <div class="brak-rda-brak-gwarancji manrope-medium-white-21px">
+                                  hałas, straty i dyskomfort
+                                </div>
+                              </div>
+                              <p class="wirniki manrope-medium-silver-chalice-16px">
+                                Luźne tolerancje i niska jakość wykonania to większe opory pracy, drgania przenoszące
+                                się na instalację i wzrost zużycia energii. Hałas i szumy to tylko zewnętrzne objawy
+                                głębszych problemów.
+                              </p>
+                            </div>
+                            <div class="arrow-24">
+                              <div class="group-65-3">
+                                <img class="line-1-3" src="<?php echo esc_url( $t ); ?>/img/line-10.svg" alt="Line 10" />
+                                <img class="line-1-3 line-10-rotated" src="<?php echo esc_url( $t ); ?>/img/line-10.svg" alt="" />
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        </div>
+                        <div class="porownanie-slide">
+                        <div class="frame-86-item">
+                          <div class="p1-3">
+                            <div class="frame-6555-5">
+                              <img class="ellipse-2-91" src="<?php echo esc_url( $t ); ?>/img/ellipse-2-98@2x.png" alt="Ellipse 2" />
+                              <div class="frame-6522-4">
+                                <div class="pena-kontrola-certyfikowana-jako manrope-medium-white-21px">
+                                  pełna kontrola, certyfikowana jakość
+                                </div>
+                                <p class="wirniki manrope-medium-silver-chalice-16px">
+                                  Wirniki wykonane z nowych, certyfikowanych tworzyw — wolnych od domieszek i
+                                  pochodzących z pewnych źródeł. Każdy element jest oznakowany, co umożliwia pełną
+                                  identyfikowalność i kontrolę jakości. To ważne, bo te komponenty mają bezpośredni
+                                  kontakt z wodą pitną.
+                                </p>
+                              </div>
+                              <img class="rectangle-1105" src="<?php echo esc_url( $t ); ?>/img/rectangle-1105-11.svg" alt="Rectangle 1105" />
+                              <div class="arrow-23">
+                                <div class="frame-76">
+                                  <img class="line-8-17" src="<?php echo esc_url( $t ); ?>/img/line-8-45.svg" alt="Line 8" />
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="i1-3">
+                            <img class="ellipse-2-92" src="<?php echo esc_url( $t ); ?>/img/ellipse-2-98@2x.png" alt="Ellipse 2" />
+                            <img
+                              class="rectangle-1105-7 rectangle-1105"
+                              src="<?php echo esc_url( $t ); ?>/img/rectangle-1105-10@2x.png"
+                              alt="Rectangle 1105"
+                            />
+                            <div class="frame-6522-4">
+                              <div class="frame-6529">
+                                <div class="brak-rda-brak-gwarancji manrope-medium-white-21px">
+                                  brak źródła, brak gwarancji
+                                </div>
+                              </div>
+                              <p class="wirniki manrope-medium-silver-chalice-16px">
+                                Wirniki często powstają z tworzyw wtórnych o nieznanym składzie i bez oznaczeń. Brak
+                                dokumentacji materiałowej oznacza brak pewności, z czym masz kontakt. To ryzyko, którego
+                                nie widać gołym okiem.
+                              </p>
+                            </div>
+                            <div class="arrow-24">
+                              <div class="group-65-3">
+                                <img class="line-1-3" src="<?php echo esc_url( $t ); ?>/img/line-10.svg" alt="Line 10" />
+                                <img class="line-1-3 line-10-rotated" src="<?php echo esc_url( $t ); ?>/img/line-10.svg" alt="" />
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="frame-86-item">
+                          <div class="p2-3">
+                            <div class="frame-6555-5">
+                              <img class="ellipse-2-93" src="<?php echo esc_url( $t ); ?>/img/ellipse-2-98@2x.png" alt="Ellipse 2" />
+                              <div class="frame-6522-4">
+                                <div class="pena-kontrola-certyfikowana-jako manrope-medium-white-21px">
+                                  precyzja, która się opłaca
+                                </div>
+                                <p class="wirniki manrope-medium-silver-chalice-16px">
+                                  Wirniki wykonane z nowych, certyfikowanych tworzyw — wolnych od domieszek i
+                                  pochodzących z pewnych źródeł. Każdy element jest oznakowany, co umożliwia pełną
+                                  identyfikowalność i kontrolę jakości. To ważne, bo te komponenty mają bezpośredni
+                                  kontakt z wodą pitną.
+                                </p>
+                              </div>
+                              <img class="rectangle-1105" src="<?php echo esc_url( $t ); ?>/img/rectangle-1105-12.svg" alt="Rectangle 1105" />
+                              <div class="arrow-23">
+                                <div class="frame-76">
+                                  <img class="line-8-17" src="<?php echo esc_url( $t ); ?>/img/line-8-45.svg" alt="Line 8" />
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="i2-3">
+                            <img class="ellipse-2-94" src="<?php echo esc_url( $t ); ?>/img/ellipse-2-98@2x.png" alt="Ellipse 2" />
+                            <img class="rectangle-1105" src="<?php echo esc_url( $t ); ?>/img/rectangle-1105-6@2x.png" alt="Rectangle 1105" />
+                            <div class="frame-6522-4">
+                              <div class="frame-6529">
+                                <div class="brak-rda-brak-gwarancji manrope-medium-white-21px">
+                                  hałas, straty i dyskomfort
+                                </div>
+                              </div>
+                              <p class="wirniki manrope-medium-silver-chalice-16px">
+                                Luźne tolerancje i niska jakość wykonania to większe opory pracy, drgania przenoszące
+                                się na instalację i wzrost zużycia energii. Hałas i szumy to tylko zewnętrzne objawy
+                                głębszych problemów.
+                              </p>
+                            </div>
+                            <div class="arrow-24">
+                              <div class="group-65-3">
+                                <img class="line-1-3" src="<?php echo esc_url( $t ); ?>/img/line-10.svg" alt="Line 10" />
+                                <img class="line-1-3 line-10-rotated" src="<?php echo esc_url( $t ); ?>/img/line-10.svg" alt="" />
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        </div>
+                      </div>
+                      <div class="frame-77-6 frame-77 porownanie-arrows">
+                        <button type="button" class="arrow-21 porownanie-arrow-prev" aria-label="Poprzedni slajd">
+                          <img src="<?php echo esc_url( $t ); ?>/img/arrow-blue-5.svg" alt="" data-src-edge="img/arrow-blue-5.svg" data-src-active="img/arrow-blue-6.svg" />
+                        </button>
+                        <div class="porownanie-dots" role="tablist" aria-label="Slajdy porównawcze">
+                          <button type="button" class="porownanie-dot" data-index="0" aria-label="Slajd 1"></button>
+                          <button type="button" class="porownanie-dot" data-index="1" aria-label="Slajd 2"></button>
+                        </div>
+                        <button type="button" class="arrow-21 porownanie-arrow-next" aria-label="Następny slajd">
+                          <img src="<?php echo esc_url( $t ); ?>/img/arrow-blue-6.svg" alt="" data-src-edge="img/arrow-blue-5.svg" data-src-active="img/arrow-blue-6.svg" />
+                        </button>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="frame-6579-2">
+          <div class="frame-6564-3">
+            <img class="ellipse-2-95" src="<?php echo esc_url( $t ); ?>/img/ellipse-2-102.svg" alt="Ellipse 2" />
+            <div class="frame-6565-2">
+              <div class="monta-w-3-krokach-3 manrope-semi-bold-concrete-60px">Montaż w 3 krokach</div>
+              <p class="manrope-medium-white-20px align-center">Każdy element zestawu jest fabrycznie przygotowany do szybkiego, <br>bezproblemowego montażu.</p>
+              
+            </div>
+            <div class="frame-126-7 frame-126">
+              <div class="frame-656-2">
+                <div class="kroki-4">
+                  <img class="x1-10" src="<?php echo esc_url( $t ); ?>/img/1-9@4x.png" alt="1" />
+                  <div class="unboxing-2-3"></div>
+                  <div class="rozpakuj-zestaw-3 manrope-medium-white-24px">Rozpakuj zestaw</div>
+                </div>
+                <p class="montaz-krok-podpis">W zestawie masz <span class="montaz-podpis-bialy">wszystko, czego potrzebujesz</span>. Elementy są <span class="montaz-podpis-bialy">fabrycznie oznaczone</span>, co ułatwi Ci instalację.</p>
+              </div>
+              <div class="frame-656-2">
+                <div class="kroki-4">
+                  <div class="x1-11 manrope-bold-royal-blue-270px">2</div>
+                  <div class="unplugged-1-3"></div>
+                  <div class="rozpakuj-zestaw-3 manrope-medium-white-24px">Podłącz pompę</div>
+                </div>
+                <p class="montaz-krok-podpis">Podłącz elementy zgodnie z <span class="montaz-podpis-bialy">kolorowymi oznaczeniami</span>. Intuicyjny system <span class="montaz-podpis-bialy">plug &amp; play</span> eliminuje błędy.</p>
+              </div>
+              <div class="frame-656-2">
+                <div class="kroki-4">
+                  <div class="x1-12 manrope-bold-royal-blue-270px">3</div>
+                  <div class="power-button-1-3"></div>
+                  <div class="rozpakuj-zestaw-3 manrope-medium-white-24px">Uruchom pompę</div>
+                </div>
+                <p class="montaz-krok-podpis">Umieść pompę <span class="montaz-podpis-bialy">w studni i uruchom</span>. <span class="montaz-podpis-bialy">Automatyka zadba o prawidłowy rozruch.</span></p>
+              </div>
+            </div>
+          </div>
+          <?php get_template_part( 'template-parts/global', 'instalator' ); ?>
+          <div class="konsultacja-11 konsultacja">
+            <div class="frame-6-15">
+              <div class="frame-6-17">
+                <div class="frame-86 frame">
+                  <div class="frame-6501">
+                    <div class="tabela-porownawcza-tekst--small manrope-semi-bold-silver-chalice-23px">Zyski mnożą się w czasie</div>
+                    <div class="wybierz-inwestycj-nie-wydatek-3 manrope-semi-bold-concrete-60px">
+                      Wybierz inwestycję, <br />nie wydatek!
+                    </div>
+                  </div>
+                  <p class="rnica-w-jakoci-to-3 manrope-semi-bold-white-23px-2">
+                    <span class="span-17 manrope-semi-bold-silver-chalice-23px"
+                      >Różnica w jakości to różnica w kosztach. </span
+                    ><span class="span-17 manrope-semi-bold-white-23px">Cena zakupu to dopiero początek historii</span
+                    ><span class="span-17 manrope-semi-bold-silver-chalice-23px"
+                      >. Prawdziwą cenę niskiej jakości zapłacisz później.</span
+                    >
+                  </p>
+                  <div class="flex-container-12396465 flex-container manrope-medium-white-20px-2">
+                    <div class="text0-12396465 text0">
+                      <span class="span-16 manrope-medium-white-20px">Przy każdej awarii</span
+                      ><span class="span-16 manrope-medium-silver-chalice-20px"
+                        >. Z każdym przestojem w dostępie do wody. Za każdym razem, gdy będziesz musiał szukać i opłacać
+                        serwisanta. Gdy przyjdzie </span
+                      ><span class="span-16 manrope-medium-white-20px"
+                        >czas na wymianę całego urządzenia - szybciej niż się spodziewałeś.</span
+                      >
+                    </div>
+                    <div class="text1-12396465 text1">
+                      <span class="span-16 manrope-medium-white-20px"
+                        >Nie warto dokładać sobie stresu, gdy można wybrać niezawodność.</span
+                      >
+                    </div>
+                  </div>
+                </div>
+                <div class="btn btn--secondary">
+                  <div class="poznaj-nasz-zestaw geist-medium-white-19px">Zobacz, jak obniżysz koszty</div>
+                  <img class="arrow_right-16 arrow_right" src="<?php echo esc_url( $t ); ?>/img/arrow-right-8.svg" alt="Arrow_right" />
+                </div>
+              </div>
+              <div class="wykres-3">
+                <img class="image-36" src="<?php echo esc_url( $t ); ?>/img/image-28.png" alt="image" />
+                <img class="ellipse-2-97" src="<?php echo esc_url( $t ); ?>/img/ellipse-2-104.svg" alt="Ellipse 2" />
+                <img class="ellipse-4-3" src="<?php echo esc_url( $t ); ?>/img/ellipse-4-1.svg" alt="Ellipse 4" />
+                <img class="ellipse-3-19" src="<?php echo esc_url( $t ); ?>/img/ellipse-3-19.svg" alt="Ellipse 3" />
+                <div class="group-75-2 group-75">
+                  <img class="group-72-1" src="<?php echo esc_url( $t ); ?>/img/group-72-1.png" alt="Group 72" />
+                  <div class="group-67-1">
+                    <img class="line-12-1" src="<?php echo esc_url( $t ); ?>/img/line-12-1.svg" alt="Line 12" />
+                    <img class="line-13-1" src="<?php echo esc_url( $t ); ?>/img/line-13-1.svg" alt="Line 13" />
+                    <img class="line-14-1" src="<?php echo esc_url( $t ); ?>/img/line-14-1.svg" alt="Line 14" />
+                    <img class="line-15-1" src="<?php echo esc_url( $t ); ?>/img/line-15-1.svg" alt="Line 15" />
+                  </div>
+                  <div class="group-75-3 group-75">
+                    <img class="koszty-1" src="<?php echo esc_url( $t ); ?>/img/koszty-1.png" alt="Koszty" />
+                    <div class="group-73-1">
+                      <div class="frame-6582-2 frame-6582">
+                        <img class="frame-6582-item-4" src="<?php echo esc_url( $t ); ?>/img/10.png" alt="10" />
+                        <img class="frame-6582-item-5" src="<?php echo esc_url( $t ); ?>/img/9.png" alt="9" />
+                        <img class="frame-6582-item-4" src="<?php echo esc_url( $t ); ?>/img/8.png" alt="8" />
+                        <img class="frame-6582-item-6" src="<?php echo esc_url( $t ); ?>/img/7.png" alt="7" />
+                        <img class="frame-6582-item-5" src="<?php echo esc_url( $t ); ?>/img/6.png" alt="6" />
+                        <img class="x5-2 x5" src="<?php echo esc_url( $t ); ?>/img/5.png" alt="5" />
+                        <img class="frame-6582-item-6" src="<?php echo esc_url( $t ); ?>/img/4.png" alt="4" />
+                        <img class="x3-8" src="<?php echo esc_url( $t ); ?>/img/3-2.png" alt="3" />
+                        <img class="x2-8" src="<?php echo esc_url( $t ); ?>/img/2-5.png" alt="2" />
+                        <img class="frame-6582-item-6" src="<?php echo esc_url( $t ); ?>/img/1-10.png" alt="1" />
+                        <img class="frame-6582-item-4" src="<?php echo esc_url( $t ); ?>/img/0.png" alt="0" />
+                      </div>
+                    </div>
+                    <div class="group-74-1">
+                      <div class="frame-6582-3 frame-6582">
+                        <img class="x0-1" src="<?php echo esc_url( $t ); ?>/img/0-1.png" alt="0" />
+                        <img class="x1-13" src="<?php echo esc_url( $t ); ?>/img/1-10.png" alt="1" />
+                        <img class="x2-9" src="<?php echo esc_url( $t ); ?>/img/2-5.png" alt="2" />
+                        <img class="x3-9" src="<?php echo esc_url( $t ); ?>/img/3-2.png" alt="3" />
+                        <img class="x4-1" src="<?php echo esc_url( $t ); ?>/img/4.png" alt="4" />
+                        <img class="x5-3 x5" src="<?php echo esc_url( $t ); ?>/img/5.png" alt="5" />
+                        <img class="frame-6582-item-7" src="<?php echo esc_url( $t ); ?>/img/6.png" alt="6" />
+                        <img class="x7-1" src="<?php echo esc_url( $t ); ?>/img/7.png" alt="7" />
+                        <img class="x8-1" src="<?php echo esc_url( $t ); ?>/img/8.png" alt="8" />
+                        <img class="frame-6582-item-7" src="<?php echo esc_url( $t ); ?>/img/9.png" alt="9" />
+                        <img class="x10-1" src="<?php echo esc_url( $t ); ?>/img/10.png" alt="10" />
+                      </div>
+                    </div>
+                    <img class="lata-uytkowania-1" src="<?php echo esc_url( $t ); ?>/img/lata-u-ytkowania-1.png" alt="Lata uytkowania" />
+                  </div>
+                  <div class="frame-6584-1">
+                    <img class="inni-producenci-9" src="<?php echo esc_url( $t ); ?>/img/inni-producenci-6.png" alt="Inni producenci" />
+                  </div>
+                  <div class="frame-6585-1"><img class="pedrollo-17" src="<?php echo esc_url( $t ); ?>/img/pedrollo-2.png" alt="Pedrollo" /></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="konsultacja-12 konsultacja">
+          <div class="frame-6-15">
+            <img class="ellipse-3-20" src="<?php echo esc_url( $t ); ?>/img/ellipse-3-20.svg" alt="Ellipse 3" />
+            <img class="ellipse-2-98" src="<?php echo esc_url( $t ); ?>/img/ellipse-2-106.svg" alt="Ellipse 2" />
+            <img
+              class="blue-shield-with-white-cross-it-1-6"
+              src="<?php echo esc_url( $t ); ?>/img/blue-shield-with-white-cross-it-1.png"
+              alt="blue-shield-with-white-cross-it 1"
+            />
+            <div class="frame-6-17">
+              <div class="frame-86 frame">
+                <div class="frame-6501">
+                  <div class="tabela-porownawcza-tekst--small manrope-semi-bold-silver-chalice-23px">Gwarancja</div>
+                  <div class="najdusza-gwarancja-na-rynku-3 manrope-semi-bold-concrete-60px">
+                    Najdłuższa <br />gwarancja na rynku!
+                  </div>
+                </div>
+                <p class="jestemy-tak-pewni-n-3 manrope-semi-bold-white-23px-2">
+                  <span class="span-17 manrope-semi-bold-silver-chalice-23px"
+                    >Jesteśmy tak pewni niezawodności naszych pomp <br>i sprawdzamy ich jakość tak dokładnie, że zapewniamy<br>
+                    coś wyjątkowego - </span
+                  ><span class="span-17 manrope-semi-bold-white-23px">nawet 12 lat gwarancji.</span>
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="konsultacja-12 konsultacja">
+          <img class="ellipse-2-99" src="<?php echo esc_url( $t ); ?>/img/ellipse-2-107.svg" alt="Ellipse 2" />
+          <div class="frame-6483-9">
+            <div class="frame-6-17">
+              <div class="frame-86 frame">
+                <div class="frame-6501">
+                  <div class="tabela-porownawcza-tekst--small manrope-semi-bold-silver-chalice-23px">Płatność</div>
+                  <p class="zapa-od-razu-lub-w-wygodnych-ratach-3 manrope-semi-bold-concrete-60px">
+                    Zapłać od razu <br />lub w wygodnych <br>ratach
+                  </p>
+                </div>
+                <div class="flex-container-11774866 flex-container manrope-semi-bold-white-23px-2">
+                  <div class="text0-11774866 text0">
+                    <span class="span-17 manrope-semi-bold-white-23px">Na raty czy od razu </span
+                    ><span class="span-17 manrope-semi-bold-silver-chalice-23px"
+                      >- zawsze dostajesz naszą <br>gwarancję producenta. Spłacając raty, nie musisz się <br>martwić o swoją pompę - jest chroniona przed <br>spaleniem i uszkodzeniem już od pierwszej wpłaty <br>- przez cały okres spłaty.</span
+                    >
+                  </div>
+                  <div class="text1-11774866 text1">
+                    <span class="span-17 manrope-semi-bold-white-23px">Wyceń swoją pompę i poznaj wysokość rat.</span>
+                  </div>
+                </div>
+              </div>
+              <div class="btn btn--secondary">
+                <div class="poznaj-nasz-zestaw geist-medium-white-19px">Wyceń swoją pompę</div>
+                <img class="arrow_right-16 arrow_right" src="<?php echo esc_url( $t ); ?>/img/arrow-right-8.svg" alt="Arrow_right" />
+              </div>
+            </div>
+            <div class="group-76-3">
+              <img class="ellipse-3-21" src="<?php echo esc_url( $t ); ?>/img/ellipse-3-21.svg" alt="Ellipse 3" />
+              <img class="ellipse-2-100" src="<?php echo esc_url( $t ); ?>/img/ellipse-2-108.svg" alt="Ellipse 2" />
+              <img
+                class="blue-shield-with-white-cross-it-1-7"
+                src="<?php echo esc_url( $t ); ?>/img/blue-shield-with-white-cross-it-1-3.png"
+                alt="blue-shield-with-white-cross-it 1"
+              />
+            </div>
+          </div>
+        </div>
+        <div class="frame-6482-5">
+          <img class="ellipse-2-101" src="<?php echo esc_url( $t ); ?>/img/ellipse-2-109.svg" alt="Ellipse 2" />
+          <div class="frame-6600-3">
+            <div class="frame-6-19">
+              <div class="frame-86 frame">
+                <p class="oferta-dla-dystrybutorw-i-sklepw manrope-semi-bold-white-40px">
+                  Oferta dla dystrybutorów <br />i sklepów
+                </p>
+                <p class="rozwijaj-swj-biznes-3 manrope-semi-bold-white-23px-2">
+                  <span class="span-17 manrope-semi-bold-white-23px">Rozwijaj swój biznes z liderem branży. </span
+                  ><span class="span-17 manrope-semi-bold-silver-chalice-23px"
+                    >Gwarantowana wyłączność terytorialna i atrakcyjne prowizje od sprzedaży.</span
+                  >
+                </p>
+              </div>
+              <a href="#" class="btn btn--secondary">
+                <div class="poznaj-nasz-zestaw geist-medium-white-19px">Sprawdź korzyści</div>
+                <img class="arrow_right-16 arrow_right" src="<?php echo esc_url( $t ); ?>/img/arrow-right-8.svg" alt="Arrow_right" />
+              </a>
+            </div>
+            <img class="image-13-3" src="<?php echo esc_url( $t ); ?>/img/image-13-3@2x.png" alt="image 13" />
+          </div>
+          <?php get_template_part( 'template-parts/global', 'dolacz-do-programu' ); ?>
+        </div>
+        <div class="konsultacja-11 konsultacja">
+          <img class="ellipse-2-102" src="<?php echo esc_url( $t ); ?>/img/ellipse-2-110.svg" alt="Ellipse 2" />
+          <div class="frame-6-15">
+            <div class="frame-6-17">
+              <div class="frame-86 frame">
+                <div class="frame-6501">
+                  <div class="tabela-porownawcza-tekst--small manrope-semi-bold-silver-chalice-23px">Pedrollo</div>
+                  <p class="lider-niezawodnoci-3 manrope-semi-bold-concrete-60px">
+                    Lider niezawodności <br />wśród światowych <br>producentów pomp
+                  </p>
+                </div>
+                <img
+                  class="wyznaczamy-wiatowe-s-3"
+                  src="<?php echo esc_url( $t ); ?>/img/wyznaczamy--wiatowe-standardy-w-pompach-od-ponad-50-lat--3.png"
+                  alt="Wyznaczamy wiatowe standardy w pompach od ponad 50 lat."
+                />
+                <p class="woskie-zakady-pedr-3 manrope-medium-white-20px-2">
+                  <span class="span-16 manrope-medium-white-20px">Włoskie zakłady Pedrollo</span
+                  ><span class="span-16 manrope-medium-silver-chalice-20px">
+                    (120 000 m²) produkują rozwiązania cenione w 160 krajach, także w Polsce. O bezkompromisową jakość
+                    dba </span
+                  ><span class="span-16 manrope-medium-white-20px">nasze centrum badawcze</span
+                  ><span class="span-16 manrope-medium-silver-chalice-20px"
+                    >, zautomatyzowane linie produkcyjne i szczegółowe testy każdego urządzenia.</span
+                  >
+                </p>
+              </div>
+              <div class="btn btn--secondary">
+                <div class="poznaj-nasz-zestaw geist-medium-white-19px">Poznaj nas lepiej</div>
+                <img class="arrow_right-16 arrow_right" src="<?php echo esc_url( $t ); ?>/img/arrow-right-8.svg" alt="Arrow_right" />
+              </div>
+            </div>
+            <div class="u7761719182_httpss-15 u7761719182_httpss">
+              <img class="image-37" src="<?php echo esc_url( $t ); ?>/img/image-29.png" alt="image" />
+              <img class="ellipse-2-103" src="<?php echo esc_url( $t ); ?>/img/ellipse-2-111.svg" alt="Ellipse 2" />
+              <img class="ellipse-3-22" src="<?php echo esc_url( $t ); ?>/img/ellipse-3-22.svg" alt="Ellipse 3" />
+            </div>
+          </div>
+        </div>
+        <div class="frame-6612-6 frame-6612">
+          <div class="frame-6609-3">
+            <img class="ellipse-2-104" src="<?php echo esc_url( $t ); ?>/img/ellipse-2-112.svg" alt="Ellipse 2" />
+            <div class="frame-6616-1">
+              <div class="frame-103 frame">
+                <div class="dowiadczenie-3 manrope-semi-bold-concrete-40px">Doświadczenie</div>
+                <p class="ponad-5-dekad-doskonalenia-technologii-3 manrope-normal-silver-chalice-21px">
+                  Ponad 5 dekad doskonalenia technologii.
+                </p>
+              </div>
+              <div class="frame-104 frame">
+                <img class="x50-3" src="<?php echo esc_url( $t ); ?>/img/50-3@4x.png" alt="50" />
+                <div class="lat-3">lat</div>
+              </div>
+            </div>
+          </div>
+          <div class="frame-6612-7 frame-6612">
+            <div class="frame-6610-3">
+              <img class="ellipse-2-105" src="<?php echo esc_url( $t ); ?>/img/ellipse-2-113.svg" alt="Ellipse 2" />
+              <div class="frame-6618-3">
+                <img class="x48-3" src="<?php echo esc_url( $t ); ?>/img/48-3@4x.png" alt="48" />
+                <div class="h-3">h</div>
+              </div>
+              <div class="frame-103 frame">
+                <div class="szybka-realizacja-zamwie-3 manrope-semi-bold-concrete-40px">Szybka realizacja zamówień</div>
+                <p class="pompy-dostpne-zawsz-3 manrope-normal-silver-chalice-21px">
+                  Pompy dostępne zawsze, kiedy ich potrzebujesz. <br>To efekt nowoczesnych procesów produkcyjnych.
+                </p>
+              </div>
+            </div>
+            <div class="frame-6611-3">
+              <img class="ellipse-2-106" src="<?php echo esc_url( $t ); ?>/img/ellipse-2-114.svg" alt="Ellipse 2" />
+              <div class="frame-103 frame">
+                <div class="powierzchnia-produkcyjna-3 manrope-semi-bold-concrete-40px">Powierzchnia produkcyjna</div>
+                <p class="nowoczesny-park-masz-3 manrope-normal-silver-chalice-21px">
+                  Nowoczesny park maszynowy i duże moce produkcyjne.
+                </p>
+              </div>
+              <div class="frame-104 frame">
+                <img class="x12-3" src="<?php echo esc_url( $t ); ?>/img/12-3@4x.png" alt="12" />
+                <div class="ha-3">ha</div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="frame-36734-3">
+          <div class="frame-6581-3">
+            <div class="frame-92 frame">
+              <div class="frame-6605-3">
+                <p class="eksperci-od-pomp-i-oszczdzania-wody-3 manrope-semi-bold-cod-gray-60px">
+                  Eksperci od pomp i oszczędzania wody
+                </p>
+              </div>
+              <p class="manrope-medium-cod-gray-20px align-right">
+                Dzielimy się wiedzą
+              </p>
+              <a href="#" class="btn btn--secondary">
+                <div class="dalej-4 geist-medium-white-19px">Blog</div>
+                <img class="arrow_right-16 arrow_right" src="<?php echo esc_url( $t ); ?>/img/arrow-right-8.svg" alt="Arrow_right" />
+              </a>
+            </div>
+            <div class="frame-6-16">
+              <div class="frame-660-1">
+                <div class="frame-6598-7">
+                  <div class="frame-97 frame">
+                    <a href="#"><img class="rectangle-1106-6 rectangle-1106" src="<?php echo esc_url( $t ); ?>/img/rectangle-1106.png" alt="Rectangle 1106" /></a>
+                    <div class="frame-90 frame">
+                      <a href="#"><p class="jak-dobra-pomp-g-3 manrope-semi-bold-cod-gray-40px">
+                        Jak dobrać pompę głębinową do swojej studni?
+                      </p></a>
+                      <p class="dowiedz-si-jakie-p-3 manrope-medium-cod-gray-23px-2">
+                        Dowiedz się, jakie parametry są kluczowe przy doborze pompy — uniknij błędów i zapewnij sobie
+                        bezproblemowe działanie systemu przez lata.
+                      </p>
+                    </div>
+                  </div>
+                  <a href="#" class="bottomButton"><div class="btn btn--white-blue">
+                    <div class="kontakt-z-doradc geist-medium-cod-gray-19px">Więcej</div>
+                    <img class="arrow_right-16 arrow_right" src="<?php echo esc_url( $t ); ?>/img/arrow-right-11.svg" alt="Arrow_right" />
+                  </div></a>
+                </div>
+              </div>
+              <div class="frame-660-1">
+                <div class="frame-6598-7">
+                  <div class="frame-97 frame">
+                    <a href="#"><img class="rectangle-1106-6 rectangle-1106" src="<?php echo esc_url( $t ); ?>/img/rectangle-1106-3.png" alt="Rectangle 1106" /></a>
+                    <div class="frame-90 frame">
+                      <a href="#"><p class="jak-dobra-pomp-g-3 manrope-semi-bold-cod-gray-40px">
+                        prostych sposobów <br />na oszczędzanie wody <br />w ogrodzie
+                      </p></a>
+                      <p class="dowiedz-si-jakie-p-3 manrope-medium-cod-gray-23px-2">
+                        Praktyczne porady, dzięki którym ograniczysz zużycie wody bez rezygnowania z zielonego
+                        otoczenia. Efektywność i ekologia mogą iść w parze!
+                      </p>
+                    </div>
+                  </div>
+                  <a href="#" class="bottomButton"><div class="btn btn--white-blue">
+                    <div class="kontakt-z-doradc geist-medium-cod-gray-19px">Więcej</div>
+                    <img class="arrow_right-16 arrow_right" src="<?php echo esc_url( $t ); ?>/img/arrow-right-11.svg" alt="Arrow_right" />
+                  </div></a>
+                </div>
+              </div>
+              <div class="frame-660-1">
+                <div class="frame-6598-7">
+                  <div class="frame-97 frame">
+                    <a href="#"><img class="rectangle-1106-6 rectangle-1106" src="<?php echo esc_url( $t ); ?>/img/rectangle-1106-2.png" alt="Rectangle 1106" /></a>
+                    <div class="frame-90 frame">
+                      <a href="#"><p class="jak-dobra-pomp-g-3 manrope-semi-bold-cod-gray-40px">
+                        Czy tania pompa naprawdę się opłaca?
+                      </p></a>
+                      <p class="dowiedz-si-jakie-p-3 manrope-medium-cod-gray-23px-2">
+                        Porównujemy całkowity koszt posiadania tanich i markowych pomp. Zobacz, dlaczego cena zakupu to
+                        tylko część historii.
+                      </p>
+                    </div>
+                  </div>
+                  <a href="#" class="bottomButton"><div class="btn btn--white-blue">
+                    <div class="kontakt-z-doradc geist-medium-cod-gray-19px">Więcej</div>
+                    <img class="arrow_right-16 arrow_right" src="<?php echo esc_url( $t ); ?>/img/arrow-right-11.svg" alt="Arrow_right" />
+                  </div></a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="footer_desktop-3">
+            <div class="frame-6613-4">
+              <div class="frame-36731-1">
+                <div class="zapytaj-o-pomp-3 manrope-semi-bold-cod-gray-60px">Zapytaj o pompę</div>
+                <p class="opowiedz-nam-o-swoic-3 manrope-medium-cod-gray-22px">
+                  Opowiedz nam o swoich potrzebach związanych z systemem wodnym.<br />
+                  Odpowiemy na wszystkie pytania i przygotujemy niezobowiązującą ofertę.
+                </p>
+              </div>
+              <form class="frame-90 frame zapytaj-o-pompe-form" action="#" method="post">
+                <div class="input-7 input zapytaj-field">
+                  <textarea id="zapytaj-wiadomosc-2" name="wiadomosc" class="zapytaj-input zapytaj-textarea" rows="4" placeholder="Wiadomość *" required></textarea>
+                </div>
+                <div class="frame-90 frame">
+                  <div class="frame-367-4 frame-367">
+                    <div class="input-6 input zapytaj-field">
+                      <input type="text" id="zapytaj-imie-2" name="imie" class="zapytaj-input" placeholder="Imię *" required />
+                    </div>
+                    <div class="frame-6589-3 zapytaj-field">
+                      <select id="zapytaj-jestem-2" name="jestem" class="zapytaj-select">
+                        <option value="">Jestem</option>
+                        <option value="osoba">Osoba prywatna</option>
+                        <option value="firma">Firma</option>
+                        <option value="instalator">Instalator</option>
+                      </select>
+                    </div>
+                  </div>
+                  <div class="frame-367-4 frame-367">
+                    <article class="input-6 input zapytaj-field">
+                      <input type="email" id="zapytaj-email-2" name="email" class="zapytaj-input" placeholder="e-mail *" required />
+                    </article>
+                    <article class="input-6 input zapytaj-field">
+                      <input type="tel" id="zapytaj-tel-2" name="telefon" class="zapytaj-input" placeholder="Numer kontaktowy" />
+                    </article>
+                  </div>
+                </div>
+                <div class="frame-101 frame">
+                  <div class="radio_select_2-3">
+                    <label for="zapytaj-policy-2" class="zapytaj-checkbox-label">
+                      <input type="checkbox" id="zapytaj-policy-2" name="policy" class="zapytaj-checkbox-input" required />
+                      <span class="group-62-3"></span>
+                      <span class="x1-fazowe-230-v-50-hz-3 manrope-medium-cod-gray-17px">Akceptuję politykę prywatności</span>
+                    </label>
+                  </div>
+                  <button type="submit" class="btn btn--secondary">
+                    <span class="dalej-4 geist-medium-white-19px">Wyślij</span>
+                    <img class="arrow_right-16 arrow_right" src="<?php echo esc_url( $t ); ?>/img/arrow-right-8.svg" alt="Arrow_right" />
+                  </button>
+                </div>
+              </form>
+            </div>
+        </div>
+      </div>
